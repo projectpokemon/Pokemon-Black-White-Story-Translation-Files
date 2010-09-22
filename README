@@ -1,0 +1,14 @@
+This is a project for translating the story text of Pokémon Black/White.
+
+We are not currently working on this part of the text, but if some files get translated they can be included in the patch.
+
+Credits:
+	Translation contributions:
+		Kazo:
+		Kaarosu:
+	Non-Translation contributions:
+		Codr: insight as to the structure of the characters
+		Eevee: first decrypting text
+		Kazo: idea for encryption
+		SCV: program for inserting text to the narc files
+
