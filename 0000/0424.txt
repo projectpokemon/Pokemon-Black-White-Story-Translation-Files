@@ -1,10 +1,10 @@
-ようこそ！\xfffeおかいもの　ですね？
-わざマシン　うりばへ　ようこそ！\xfffeおかいもの　ですね？
+Welcome!\xfffeHow may I help you?
+Welcome to the TM Shop!\xfffeHow may I help you?
 その　ほかに　わたしどもで\xfffeなにか　おちからに　なれることは？
-また　どうぞ！
-いらっしゃいませ！\xf000븁\x0000
-かいに　きた
-うりに　きた
-なんでもないです
+Please come again!
+Welcome!\xf000븁\x0000
+Buy
+Sell
+Nevermind
 ようこそ！\xfffeポイント　ひきかえ　コーナーへ！\xf000븁\x0000\xfffeＢＰと　けいひんを\xfffeこうかん　しますか？
 ＢＰを　ためて\xfffeまた　おこしくださいね！
