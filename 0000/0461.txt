@@ -28,24 +28,24 @@
 げんざい　ひょうじする　\xfffeけんていけっかが　ありません
 どちらの　けんていけっかを\xfffeみますか？
 つうしんちゅうです　でんげんをきらずに\xfffeおまちください…　Ｂボタンでキャンセル
-チャレンジする
-せつめいをきく
-やめる
-シングル
-ダブル
-ダウンロード
-つうじょう
-とくべつ
-シングルバトル
-ダブルバトル
-けんてい　けっか
-ポイント
+Challenge
+Explanation
+Quit
+Single
+Double
+Download
+Common
+Special
+Single Battle
+Double Battle
+Results
+Points
 \xf000ȃ\x0001\x0000
-ビギナーランク
-ノービスランク
-ノーマルランク
-スーパーランク
-ハイパーランク
-エリートランク
-マスターランク
+Beginner Rank
+Novice Rank
+Normal Rank
+Super Rank
+Hyper Rank
+Elite Rank
+Master Rank
 ダウンロードを　キャンセルしました！
