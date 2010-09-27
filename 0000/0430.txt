@@ -1,5 +1,5 @@
 Chelon: \xf000Ā\x0001\x0000\xf000븁\x0000Did you know that that box is\xfffebrought here by Araragi?\xf000븁\x0000
-……　……　……\xfffe……　……　……\xf000븁\x0000Belle is late again……?\xf000븁\x0000
+...　...　...\xfffe...　...　...\xf000븁\x0000Belle is late again...?\xf000븁\x0000
 Belle: Here I am!\xfffeSorry for being late...\xf000븁\x0000
 Chelon: We were waiting, Belle.\xf000븁\x0000You're acting like a 10 year old\xfffewith your latecoming...\xf000븁\x0000Professor Araragi brought us a box.\xfffeI think it has Pokémon in it...?\xf000븁\x0000
 Belle: Well... sorry to keep you waiting\xfffe\xf000Ā\x0001\x0000!　Chelon is right...\xf000븁\x0000
@@ -28,34 +28,33 @@ Chelon: Hmmmm...\xfffeWhat Pokémon should I choose...?\xf000븁\x0000I think I'
 Belle: Well... It's time to do a\xfffePokémon Battle, I think...\xf000븀\x0000... Yeah that's a good idea!\xf000븁\x0000Come on!\xfffeLet's do a Pokémon Battle!\xf000븁\x0000
 Chelon: Belle, have you ever played\xfffea Pokémon Battle before?\xf000븁\x0000You should get used to your\xfffePokémon before you Battle!\xf000븁\x0000
 Belle: But you're the one who says:\xfffeThe best way of learning is doing!\xf000븀\x0000So... This is the best way!\xf000븁\x0000Come one　\xf000Ā\x0001\x0000！\xfffeLet's battle right now!\xf000븁\x0000
-ねえねえ！　あたしと\xfffeポケモンしょうぶ　しよう！\xf000븁\x0000\xf000Ā\x0001\x0000が　そのきに　なったら\xfffeアタシに　はなしかけて
-……はこは　からっぱ
-Chelon: ウーン……　そうだな\xfffeあいて　してあげれば？\xf000븁\x0000ポケモンを　てにいれて\xfffeはしゃぎたくなる　きもち\xf000븀\x0000わからないでも　ないし\xf000븁\x0000
-Belle: どこ　いくのよお？\xfffeあたしと　しょうぶ　してよう！\xf000븁\x0000
-Belle: ねえねえ！\xfffeポケモンしょうぶ　する？\xf000븁\x0000
-Whee！\xfffeThen I go first!!\xf000븁\x0000
-Eeeh！\xfffeそんなこと　いわないで\xf000븀\x0000かんがえなおしてよお！\xf000븁\x0000だって　じぶんの\xfffeポケモンが　いるんだよ！\xf000븀\x0000しょうぶ　しよーよ！！
+not used
+not used
+not used
+not used
+not used
+not used
 Belle: Oops...!\xf000븁\x0000\xf000Ā\x0001\x0000...\xfffeI'm sorry for making this mess!\xf000븀\x0000You don't care about it?\xf000븁\x0000Well okay, but sorry again...\xfffeI will clean this up later!\xf000븁\x0000
 Belle: Oops...!\xf000븁\x0000\xf000Ā\x0001\x0000...\xfffeI'm sorry for making this mess!\xf000븀\x0000You don't care about it?\xf000븁\x0000Well okay, but sorry again...\xfffeI will clean this up later!\xf000븁\x0000
 Chelon: ... ... ...\xfffe... ... ...\xf000븁\x0000Belle, look what you've done!\xfffeDon't you ever grow up?\xf000븁\x0000
 Belle: Whoa!\xfffeThis is much worse then I thought!\xf000븁\x0000
 Well, Battleing sure was cool!\xfffeI can get used to it!!!\xf000븁\x0000I'm going to be the best\xfffePokémon battler ever!\xf000븁\x0000... Sorry I was getting\xfffeall pumped up, \xf000Ā\x0001\x0000...\xf000븁\x0000
 Chelon: ... Well, your Pokémon got\xfffehearted after the battle!\xf000븁\x0000Well... I'll better heal them...\xfffeAlways heal your Pokémon after battle!\xf000븁\x0000
-Chelon cured　Belle's　Pokémon!
+Chelon cured　Belle's　Pokémon!\xfffeAll nice and healty!
 \xf000Ā\x0001\x0000, I will heal your\xfffePokémon too for sure...\xf000븁\x0000
-Chelon cured \xf000Ā\x0001\x0000's Pokémon!\xf000븀\x0000All nice and healthy!
-Chelon: ポケモンの　たいりょく……\xfffeＨＰを　へらすことなく\xf000븀\x0000しょうりするのは　すごいよ\xf000븁\x0000だけど　ポケモンの　わざポイント……\xfffeＰＰが　へっているからね\xf000븁\x0000
+Chelon cured \xf000Ā\x0001\x0000's Pokémon!\xfffeAll nice and healty!
+not used
 Belle: Hey! Chelon, why don't\xfffeyou battle too?\xf000븁\x0000It's mighty fun to do!\xfffeSo... Would you do it?\xf000븀\x0000Think of all the fun!\xf000븁\x0000
-Chelon: Okay...!\xf000븁\x0000It's good to test my reading!\xfffeOkay, I'll do it!\xf000븀\x0000I'll battle too!\xf000븁\x0000If you say Battling is fun,\xfffethen why don't I try it?\xf000븀\x0000I have nothing to loze!\xf000븁\x0000
-\xf000Ā\x0001\x0000……\xf000븁\x0000へやは　よごさないと　ちかうから\xfffeぼくとも　しょうぶ　してくれないか？\xf000븀\x0000よければ　はなしかけてよ
-Chelon: Hey!\xf000븁\x0000
-Belle: あたしね　\xf000Ā\x0001\x0000と\xfffeChelonの　ポケモンしょうぶ　って\xf000븀\x0000ぜったいに　みごたえ　あるとおもう！
-Chelon: I wonder?\xfffeWill you fight me aswell?
+Chelon: Okay...!\xf000븁\x0000It's good to test my readings!\xfffeOkay, I'll do it!\xf000븀\x0000I'll battle too!\xf000븁\x0000If you say Battling is fun,\xfffethen why don't I try it?\xf000븀\x0000I have nothing to loze!\xf000븁\x0000
+not used
+not used
+not used
+not used
 Well, let's start...\xfffeI have to tell you that I'm a bit nervous!\xf000븁\x0000So if I lose, that's it!\xfffeYeah, it's the nerves...!\xf000븁\x0000Well, here we go!\xfffeGood luck \xf000ā\x0001\x0001, I hope you win！\xf000븁\x0000
-Chelon: ……いがいと\xfffeしょうきょくてき　なんだね\xf000븁\x0000だけど　ぼくは　しょうぶしたい！\xfffeだから　おねがいするよ
+not used
 Chelon: See...?\xfffeBattling with Pokémon gives you a bond.\xf000븁\x0000That bond is important...\xfffeIt will help you win!\xf000븁\x0000But anyway...\xfffeBattling is fun indeed!\xf000븀\x0000You was right Belle...\xf000븁\x0000
 Chelon: See...?\xfffeBattling with Pokémon gives you a bond.\xf000븁\x0000That bond is important...\xfffeIt will help you win!\xf000븁\x0000But anyway...\xfffeBattling is fun indeed!\xf000븀\x0000You was right Belle...\xf000븁\x0000
-Belle: Well... Where are his manners...\xfffeLet's go downstairs!!!\xf000븁\x0000
+Belle: Well... Where are his manners...\xfffeLet's go downstairs!!!\xf000븁\x0000Ow wait, I know why he's all fed up!\xfffeHe can't take it that I was right!\xf000븁\x0000Well, let's go downstairs!\xfffeI'll be waiting there!\xf000븁\x0000
 A Wii! xfffeIt has a remote for a controller!
 A Wii!\xf000븁\x0000Is not broken at all!
 Dad bought\xfffea flat screen TV!
