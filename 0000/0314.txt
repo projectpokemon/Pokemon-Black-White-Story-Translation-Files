@@ -1,9 +1,9 @@
-\xf000Ā\x0001\x0000\xfffeturned on the computer!\xf000븁\x0000
-Connect to the PC\xfffeto communicate?
+\xf000Ā\x0001\x0000\xfffebooted up the PC!\xf000븁\x0000
+Which PC should \xfffebe accessed?
 Someone's PC
 Shouro's PC
 \xf000Ā\x0001\x0000's PC
-Doctor's PC
+Prof. Araragi's PC
 View Record
 View Help
 Turn Off
@@ -16,20 +16,20 @@ Deposit Pokémon
 Take Pokémon
 Move Pokémon
 Move Items
-Goodbye
+See Ya!
 Battle Box
-てもちの　ポケモンを\xfffeボックスに　あずけることが　できます
-ボックスに　あずけている　ポケモンを\xfffeてもちに　くわえることが　できます
-ボックスに　あずけている　ポケモンや\xfffeてもちのポケモンを　せいり　できます
-ポケモンが　もっている\xfffeどうぐを　せいり　できます
-ポケモンあずかりシステム　への\xfffeつうしんを　せつだん　します
+Pokémon in your party may be stored\xfffein the storage system’s Boxes.
+Pokémon stored in Boxes may be added\xfffeto your party.
+You may sort the Pokémon in Boxes\xfffeand in your party.
+You may sort the items held by your\xfffePokémon in Boxes and in your party.
+Log out of the Pokémon Storage\xfffeSystem.
 てもちとは　べつに　たいせんでつかう\xfffeポケモンを　とうろく　できます
 \xf000Ā\x0001\x0000\xfffe connected to your PC!\xf000븁\x0000
 Mailbox
-Disconnect
-You can save up\xfffeto 20 e-mails
-Disconnect the\xfffeCommunication
-Clear First
+Log Out
+Up to 20 pieces of Mail can be\xfffestored.
+Logs you out of\xfffeyour PC.
+First Clear
 Turn on
 Disconnect
 Connected to\xfffeRecord System!\xf000븁\x0000
