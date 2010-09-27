@@ -1,12 +1,12 @@
-この　きは　なんだか　きれそうだ！\xfffeいあいぎりで　きりますか？
-\xf000Ă\x0001\x0000は\xfffeいあいぎりを　つかった！\xf000븁\x0000
-この　きは\xfffeなんだか　きれそうだ！
+This tree looks like it can be cut down!\xfffeWould you like to use Cut?
+\xf000Ă\x0001\x0000\xfffeused Cut!\xf000븁\x0000
+This tree looks like it can be\xfffecut down!
 ポケモンの　わざで　こわせそうだ！\xfffeいわくだきを　つかいますか？
 かたそうな　いわ　だけど……\xfffeポケモンの　わざで　こわせるかも？
 \xf000Ă\x0001\x0000は\xfffeいわくだきを　つかった！\xf000븁\x0000
 おおきな　いわ　だけど……\xfffeポケモンの　わざで　おせるかも？\xf000븁\x0000かいりきを　つかいますか？
 \xf000Ă\x0001\x0000は\xfffeかいりきを　はっき　した！\xf000븁\x0000\xf000Ă\x0001\x0000の　かいりきの　おかげで\xfffeいわを　おせるように　なった！
-おおきな　いわ　だけど……\xfffeポケモンの　わざで　おせるかも？
+It's a big boulder, but a Pokémon\xfffemay be able to push it aside.
 かいりきの　おかげで\xfffeいわを　おして　うごかせる！
 \xf000Ă\x0001\x0000は\xfffeかいりきを　はっき　した！\xf000븁\x0000
 \xf000Ă\x0001\x0000の　かいりきの　おかげで\xfffeいわを　おせるように　なった！
