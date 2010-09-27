@@ -56,8 +56,8 @@ Chelon『……いがいと\xfffeしょうきょくてき　なんだね\xf000�
 Chelon『はじめての　しょうぶで\xfffeおもわぬ　ふかくを　とったけれど\xf000븁\x0000この　かんどう……\xfffeようやく　トレーナーに　なれたんだ\xf000븁\x0000……じゃなくて\xfffeへやのこと　きみの　ママに\xf000븀\x0000あやまらないと　いけないね\xf000븁\x0000
 Chelon『この　かんどう……\xfffeようやく　トレーナーに　なれたんだ\xf000븁\x0000……じゃなくて\xfffeへやのこと　きみの　ママに\xf000븀\x0000あやまらないと　いけないね\xf000븁\x0000
 Belle『あっ\xfffeあたしもー！\xf000븁\x0000
-A Wii! xfffeIt has a remote for a controller!
-A Wii!\xf000븁\x0000Is not broken at all!
+It's a Wii! \xfffeIt has a remote for a controller!
+It's a Wii!\xf000븁\x0000It wasn't broken at all!
 Dad bought\xfffea flat screen TV!
 My Bed!\xf000븁\x0000The clean sheets smell good!
 The bed is a mess...!
