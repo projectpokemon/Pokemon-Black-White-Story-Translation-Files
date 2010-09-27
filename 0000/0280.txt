@@ -1,33 +1,33 @@
-この　きは　なんだか　きれそうだ！\xfffeいあいぎりで　きりますか？
-\xf000Ă\x0001\x0000は\xfffeいあいぎりを　つかった！\xf000븁\x0000
-この　きは\xfffeなんだか　きれそうだ！
-ポケモンの　わざで　こわせそうだ！\xfffeいわくだきを　つかいますか？
+This tree looks like it can be cut down!\xfffeWould you like to use Cut?
+\xf000Ă\x0001\x0000\xfffeused Cut!\xf000븁\x0000
+This tree looks like it can be\xfffecut down!
+This rock appears to be breakable\xfffeWould you like to use Rock Smash?
 かたそうな　いわ　だけど……\xfffeポケモンの　わざで　こわせるかも？
-\xf000Ă\x0001\x0000は\xfffeいわくだきを　つかった！\xf000븁\x0000
+\xf000Ă\x0001\x0000 \xfffeused Rock Smash!\xf000븁\x0000
 おおきな　いわ　だけど……\xfffeポケモンの　わざで　おせるかも？\xf000븁\x0000かいりきを　つかいますか？
-\xf000Ă\x0001\x0000は\xfffeかいりきを　はっき　した！\xf000븁\x0000\xf000Ă\x0001\x0000の　かいりきの　おかげで\xfffeいわを　おせるように　なった！
-おおきな　いわ　だけど……\xfffeポケモンの　わざで　おせるかも？
-かいりきの　おかげで\xfffeいわを　おして　うごかせる！
-\xf000Ă\x0001\x0000は\xfffeかいりきを　はっき　した！\xf000븁\x0000
+\xf000Ă\x0001\x0000 \xfffeused Strength!\xf000븁\x0000\xf000Ă\x0001\x0000's Stregth made it\xfffepossible to move boulders around!
+It's a big boulder, but a Pokémon\xfffemay be able to push it aside.
+Strength made it possible to move\xfffeboulders around.
+\xf000Ă\x0001\x0000 \xfffeused Strength!\xf000븁\x0000
 \xf000Ă\x0001\x0000の　かいりきの　おかげで\xfffeいわを　おせるように　なった！
-おとした　いわの　うえを\xfffeとおれるように　なった！
-みずは　ふかい　あおに　そまっている\xfffeなみのりを　つかいますか？
-\xf000Ă\x0001\x0000は\xfffeなみのりを　つかった！\xf000븁\x0000
+The boulder fell down!
+The water is a deep blue...\xfffeWould you like to surf on it?
+\xf000Ă\x0001\x0000 \xfffeused Surf!\xf000븁\x0000
 つれあるいている　ときは\xfffeなみのりを　つかえません！
-ふかい　きりに　おおわれている……\xfffeきりばらいを　つかいますか？
-\xf000Ă\x0001\x0000は\xfffeきりばらいを　つかった！\xf000븁\x0000
-ふかい　きりに　おおわれている……\xfffeポケモンの　わざで　はらえるかも？
-いわはだが　ゴツゴツしている……\xfffeロッククライムを　つかいますか？
-\xf000Ă\x0001\x0000は\xfffeロッククライムを　つかった！\xf000븁\x0000
-いわはだが　ゴツゴツしている……\xfffeポケモンのわざで　いどうできるかも？
-つれあるいている　ときは\xfffeロッククライムを　つかえません！
-おおきな　たきだ！\xfffeたきのぼりを　つかいますか？
-\xf000Ă\x0001\x0000は\xfffeたきのぼりを　つかった！\xf000븁\x0000
-おおきな　おとを　たてて\xfffeみずが　ながれおちている！
-さいごに　やすんだ\xfffe\xf000ą\x0001\x0000に　テレポートする？
-\xf000Ă\x0001\x0000は\xfffeフラッシュを　つかった！\xf000븁\x0000
-\xf000Ă\x0001\x0000は\xfffeテレポートを　つかった！\xf000븁\x0000
-\xf000Ă\x0001\x0000は\xfffeあなをほるを　つかった！\xf000븁\x0000
+Surf can't be used if you have\xfffesomeone with you.
+\xf000Ă\x0001\x0000 \xfffeused Defog!\xf000븁\x0000
+A deep fog drapes the area...\xfffeWill a Pokémon’s move lift it?
+The wall is very rocky...\xfffeWould you like to use Rock Climb?
+\xf000Ă\x0001\x0000 \xfffeused Rock Climb!\xf000븁\x0000
+The wall is very rocky...\xfffeWill a Pokémon’s move scale it?
+Rock Climb can't be used if you have\xfffesomeone with you.
+It's a large waterfall.\xfffeWould you like to use Waterfall?
+\xf000Ă\x0001\x0000 \xfffeused Waterfall!\xf000븁\x0000
+A wall of water is crashing down with\xfffea mighty roar.
+Teleport to \xfffe\xf000ą\x0001\x0000, the last place you or your Pokémon rested?
+\xf000Ă\x0001\x0000 \xfffeused Flash!\xf000븁\x0000
+\xf000Ă\x0001\x0000 \xfffeused Teleport!\xf000븁\x0000
+\xf000Ă\x0001\x0000 \xfffeused Dig!\xf000븁\x0000
 ふかい　うみだ！\xfffeポケモンの　わざで　もぐれるかも？
 ふかい　うみだ！\xfffeダイビングを　つかいますか？
-\xf000Ă\x0001\x0000は\xfffeダイビングを　つかった！\xf000븁\x0000
+\xf000Ă\x0001\x0000 \xfffeused Dive!\xf000븁\x0000
