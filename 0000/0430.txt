@@ -1,13 +1,13 @@
 Chelon『\xf000Ā\x0001\x0000\xf000븁\x0000アララギはかせに　きいたけど\xfffeポケモンを　もらえるんだって？\xf000븁\x0000
 ……　……　……\xfffe……　……　……\xf000븁\x0000Belle is late again……?\xf000븁\x0000
-Belle『あのう　ごめんね\xfffeまた　おそくなっちゃった……\xf000븁\x0000
-Chelon『ねえ　Belle\xf000븁\x0000きみが　マイペースなのは\xfffe１０ねんも　まえから　しっているけど\xf000븁\x0000きょうは　アララギはかせ　から\xfffeポケモンが　もらえるんだよ？\xf000븁\x0000
-Belle『はーい　ごめんなさい\xfffe\xf000Ā\x0001\x0000　Chelon\xf000븁\x0000
-Belle『で　ポケモン　どこなの？\xf000븁\x0000\xf000Ā\x0001\x0000の　いえに　とどいたんだし\xfffeえらぶのは　\xf000Ā\x0001\x0000からだよね\xf000븁\x0000
-Chelon『もちろん\xf000븁\x0000
-その　プレゼントボックスの　なか\xfffeポケモンが　ぼくたちを　まっている\xf000븁\x0000さあ　\xf000Ā\x0001\x0000\xfffeいっぽ　ふみだして\xf000븀\x0000プレゼントボックスを　しらべてよ\xf000븀\x0000はやく　ポケモンと　あいたいんだ！
-Chelon『プレゼントボックスを\xfffeしらべずに　どこに　いくの？\xf000븁\x0000
-Chelon『プレゼントボックスを\xfffeしらべて　あけてくれないかな？\xf000븁\x0000ポケモンだって　はやく\xfffeぼくたちと　であいたいはずだよ
+Belle『Well, I'm Sorry.\xfffe... if I have become slow...\xf000븁\x0000
+Chelon『Hey,　Belle\xf000븁\x0000きみが　マイペースなのは\xfffe１０ねんも　まえから　しっているけど\xf000븁\x0000きょうは　アララギはかせ　から\xfffeポケモンが　もらえるんだよ？\xf000븁\x0000
+Belle『Um, I'm here  I'm sorry.\xfffe\xf000Ā\x0001\x0000　Chelon\xf000븁\x0000
+Belle『Where is the Pokemon?\xf000븁\x0000\xf000Ā\x0001\x0000の　いえに　とどいたんだし\xfffeえらぶのは　\xf000Ā\x0001\x0000からだよね\xf000븁\x0000
+Chelon『Of course.\xf000븁\x0000
+In the gift box,\xfffethe Pokemon are waiting for us.\xf000븁\x0000Well,　\xf000Ā\x0001\x0000\xfffePlease go ahead\xf000븀\x0000and check the gift box.\xf000븀\x0000I'd like to get my Pokemon now!
+Chelon『A gift box?\xfffeand without checking it, where did it come from?\xf000븁\x0000
+Chelon『A gift box.\xfffeand you haven't opened it?\xf000븁\x0000ポケモンだって　はやく\xfffeI want to meet them.
 Belle『Hey,\xfffewhat kind of Pokemon is it......?
 \xf000Ā\x0001\x0000\xfffeopened the gift box!\xf000븁\x0000
 There are 3 pokémon\xfffeincluded with this\xfffeletter, you may each\xfffechoose one!\xfffeSee ya!\xfffe\xfffe　　　　　　　　　　　　Araragi
@@ -32,7 +32,7 @@ Belle『だいじょーぶ だって\xfffeまだ　このコたち　よわい�
 ……はこは　からっぱ
 Chelon『ウーン……　そうだな\xfffeあいて　してあげれば？\xf000븁\x0000ポケモンを　てにいれて\xfffeはしゃぎたくなる　きもち\xf000븀\x0000わからないでも　ないし\xf000븁\x0000
 Belle『どこ　いくのよお？\xfffeあたしと　しょうぶ　してよう！\xf000븁\x0000
-Belle『ねえねえ！\xfffeポケモンしょうぶ　する？\xf000븁\x0000
+Belle『Hey!\xfffeポケモンしょうぶ　する？\xf000븁\x0000
 Whee！\xfffeThen I go first!!\xf000븁\x0000
 Eeeh！\xfffeそんなこと　いわないで\xf000븀\x0000かんがえなおしてよお！\xf000븁\x0000だって　じぶんの\xfffeポケモンが　いるんだよ！\xf000븀\x0000しょうぶ　しよーよ！！
 Belle『ふええ\xf000븁\x0000\xf000Ā\x0001\x0000……\xfffeあなた　すごい　トレーナーに\xf000븀\x0000なれるんじゃない？\xf000븁\x0000あたし　そんな　きがする\xf000븁\x0000
@@ -56,8 +56,8 @@ Chelon『……いがいと\xfffeしょうきょくてき　なんだね\xf000�
 Chelon『はじめての　しょうぶで\xfffeおもわぬ　ふかくを　とったけれど\xf000븁\x0000この　かんどう……\xfffeようやく　トレーナーに　なれたんだ\xf000븁\x0000……じゃなくて\xfffeへやのこと　きみの　ママに\xf000븀\x0000あやまらないと　いけないね\xf000븁\x0000
 Chelon『この　かんどう……\xfffeようやく　トレーナーに　なれたんだ\xf000븁\x0000……じゃなくて\xfffeへやのこと　きみの　ママに\xf000븀\x0000あやまらないと　いけないね\xf000븁\x0000
 Belle『あっ\xfffeあたしもー！\xf000븁\x0000
-A Wii! xfffeIt has a remote for a controller!
-A Wii!\xf000븁\x0000Is not broken at all!
+It's a Wii! \xfffeIt has a remote for a controller!
+It's a Wii!\xf000븁\x0000It wasn't broken at all!
 Dad bought\xfffea flat screen TV!
 My Bed!\xf000븁\x0000The clean sheets smell good!
 The bed is a mess...!

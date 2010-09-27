@@ -11,7 +11,7 @@ Dr. Araragi\xfffeconnected to your PC!\xf000븀\x0000
 Hall of Fame\xfffewas corrupted!\xf000븁\x0000\xfffeHall of Fame has\xfffebeen fixed!\xf000븁\x0000
 Congratulations!\xf000븁\x0000\xfffeWallpapers have been\xfffeadded for clearing\xfffefor the first time!\xf000븁\x0000
 Congratulations!\xf000븁\x0000\xfffeWallpapers have been\xfffeadded for winning\xfffethe championship!\xf000븁\x0000
-ポケモンの　あずかりシステムを\xfffeよびだした！\xf000븁\x0000
+A reception system for Pokemon\xfffeよびだした！\xf000븁\x0000
 Deposit Pokémon
 Take Pokémon
 Move Pokémon
@@ -27,7 +27,7 @@ Log out of the Pokémon Storage\xfffeSystem.
 \xf000Ā\x0001\x0000\xfffe connected to your PC!\xf000븁\x0000
 Mailbox
 Log Out
-Up to 20 pieces of Mail can be\xfffestored.
+You can save up\xfffeto 20 e-mails
 Logs you out of\xfffeyour PC.
 First Clear
 Turn on
@@ -38,4 +38,3 @@ View Members\xfffeof the Hall of Fame
 Disconnect\xfffethe Recording System
 Araragi\xfffeconnected to your PC!\xf000븁\x0000
 Connected to the\xfffeHelp System!\xf000븁\x0000
-　
