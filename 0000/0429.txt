@@ -9,7 +9,7 @@ Mom: \xf000Ā\x0001\x0000\xf000븁\x0000\xfffeWell, the Professor sure is kind..
 Hmmmm...\xfffeWhat was it... Ow yeah I know！\xf000븁\x0000
 First, I should heal you Pokémon.\xfffeThat's always handy!!\xf000븁\x0000
 Anyways!\xfffeHere is what I wanted to give!\xf000븁\x0000It's very expensive!\xfffeDon't you go losing it!\xf000븁\x0000
-Well? Do you like it?\xfffeIt's your favorite color!\xf000븀\x0000And it is very handy!\xf000븀\x0000Well, go to the Professor now!\xfffeOw and say hi to her from me!\xf000븀\x0000
+Well? Do you like it?\xfffeIt's a kind of telephone!\xf000븀\x0000So I can call you anytime!\xf000븀\x0000Well, go to the Professor now!\xfffeOw and say hi to her from me!
 ママ『ふう！　おかたづけは\xfffeちょっと　きゅうけい\xf000븁\x0000あなたも　あなたの　ポケモンも\xfffeちょっと　きゅうけい　しなさいな\xf000븁\x0000いい　トレーナーは\xfffeポケモンに　むりさせないのよ\xf000븁\x0000
 ママ『これで　あなたも\xfffeポケモンも　げんきいっぱい！\xf000븀\x0000\xfffeどこへだって　いけるわね！
 ママ『つぎは　どこに　いって\xfffeどんな　ポケモンと　であうのかしら？
