@@ -1,39 +1,39 @@
-チェレン『\xf000Ā\x0001\x0000！\xf000븁\x0000\xfffeポケモンと　いっしょに\xfffeどこかに　いってみたい　きもち\xf000븀\x0000\xfffeわかるけれど……\xf000븁\x0000\xfffeまず　アララギはかせに\xfffeおれいを　いわないと\xf000븁\x0000ほら\xfffeけんきゅうじょは　こっちだよ！\xf000븁\x0000
-チェレン『もうしわけないけれど\xfffeベルの　いえまで　いってくれる？\xf000븁\x0000\xfffeきっと　また　いつものように\xfffeのんびりして　いるんじゃないかな\xf000븀\x0000ほんとう　マイペースだよね
-ベル『……さっきのは　ヒミツだよ
-チェレン『さ！\xfffeはかせに　あおう\xf000븁\x0000
-ベル『おうい！\xfffe\xf000Ā\x0001\x0000　まってよお！\xf000븁\x0000
-ベル『ねえねえ！\xfffe\xf000Ā\x0001\x0000　まってよお！\xf000븁\x0000
-ママ『いたいた！　で\xfffeはかせの　はなしは　どうだった？\xf000븁\x0000……　……　……\xfffe……　……　……\xf000븁\x0000ポケモンずかんの　かんせいを\xfffeおねがい　されたんだ！？\xf000븀\x0000すごーい！！\xf000븁\x0000
-なーんてね\xf000븁\x0000じつは　ママ　そのはなしは\xfffeすでに　しっているんだけどね\xf000븁\x0000
-というわけで　あなたたち　この\xfffeタウンマップを　もっていきなさいな\xf000븁\x0000
-ママ『はい　チェレン\xf000븁\x0000
-チェレン『たいせつに　つかいます\xf000븁\x0000
-ママ『ほら　ベルも\xf000븁\x0000
-ベル『あ　ありがとうございます！\xf000븁\x0000
-ママ『あと　\xf000Ā\x0001\x0000の　へやは\xfffeあたしが　かたづけて　おくから\xf000븀\x0000ベルたちは　きにしなくて　いいのよ\xf000븁\x0000ねっ　\xf000Ā\x0001\x0000\xf000븁\x0000
-ママ『それにしても　ポケモンって\xfffeほんとうに　すごいのね！\xf000븁\x0000こんなに　かわいいのに　へやを\xfffeふきとばすほどの　とんでもない\xf000븀\x0000パワーを　ひめているんだもの！\xf000븁\x0000そんな　ポケモンと　いっしょなら\xfffeどこに　いくのだって　あんしんよね！\xf000븁\x0000
-あなたたちの　パパや　ママには\xfffeあたしから　つたえておくから！\xf000븁\x0000ポケモンだけ　じゃなくて\xfffeイッシュちほうの　すてきなところ\xf000븁\x0000いっぱい　いっぱい　みつけて\xfffeステキな　おとなに　なるのよ！\xf000븀\x0000じゃ　いってらっしゃい！！\xf000븁\x0000
-チェレン『タウンマップを　つかえば\xfffeじぶんが　どこにいるか　わかる……\xf000븀\x0000これは　うれしいね\xf000븁\x0000じゃ　１ばんどうろに　いこうか\xfffeはかせが　まってる\xf000븁\x0000
-ベル『あっ　まってよお\xfffe\xf000Ā\x0001\x0000も　はやく　きてね\xf000븁\x0000
-ベル『\xf000Ā\x0001\x0000\xfffeこっち　だよ！\xf000븁\x0000
-チェレン『ベルがね\xfffeたびを　はじめるなら\xf000븀\x0000さいしょの　いっぽは\xf000븀\x0000みんな　いっしょが　いいって\xf000븁\x0000
-ベル『ねえ　\xf000Ā\x0001\x0000！\xf000븁\x0000みんなで　いっしょに\xfffe１ばんどうろに　ふみだそうよ！\xf000븁\x0000
-チェレン『じゃ　いくよ！\xf000븁\x0000
-チェレン『どこ　いくのさ\xf000븁\x0000
-せーの！！\xf000븁\x0000
-かがくの　ちからって　すげー！\xf000븁\x0000いまなら　せきがいせんで\xfffeあんなことや　こんなことが\xf000븀\x0000あっ！　というまに　できるってよ！
+Chelen: Hey! Do you happen to know\xfffewhere Belle is?\xf000븁\x0000\xfffeShe should come with us when\xfffevisiting the Professor...\xf000븀\x0000Could you go find here?\xf000븁\x0000
+Chelen: Hey! Do you happen to know\xfffewhere Belle is?\xf000븁\x0000\xfffeShe should come with us when\xfffevisiting the Professor...\xf000븀\x0000Could you go find here?
+Belle: Well now we're here...\xfffeLet's go inside...
+Chelen: There you are!\xfffeLet's go inside now!\xf000븁\x0000
+Belle: Hold on, \xf000Ā\x0001\x0000!\xfffePlease wait a second!\xf000븁\x0000
+Belle: Hold on, \xf000Ā\x0001\x0000!\xfffePlease wait a second!\xf000븁\x0000
+Mom: Hey guys! How was the\xfffeProfessor doing? What is it?\xf000븁\x0000……　……　……\xfffe……　……　……\xf000븁\x000Whoa, she gave you a\xfffePokédex? I don't even know\xf000븀\x0000what it is...?\xf000븁\x0000
+Well...\xf000븁\x0000I have to be a mom...\xfffeBut I guess you know that...\xf000븁\x0000Please be careful on your journey!\xfffeI don't want you guys to get hurt!\xf000븁\x0000
+Ow wait guys! I know something!\xfffeTake this Town Map, it could\xf000븀\x0000come in pretty handy...!\xf000븁\x0000
+Mom: There you go!\xf000븁\x0000
+Chelen: Thank you, realy thanks!\xf000븁\x0000
+Mom: And of course one for you!\xf000븁\x0000
+Belle: Thank you!\xf000븁\x0000
+Mom: Well, \xf000Ā\x0001\x0000...\xfffeYour room is cleaned up now,\xf000븀\x0000it was a big mess...!\xf000븁\x0000Well, that's okay, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Mom: Well, I do like Pokémon,\xfffeand I've always wanted one...\xf000븁\x0000But...\xf000븁\x0000I don't like the mess\xfffePokémon create as in your room!\xf000븀\x0000That's some pritty good mess!\xf000븁\x0000But still... I just wanted\xfffea Pokémon... I always wanted...\xf000븁\x0000
+My mom and dad didn't want\xfffeme to have a Pokémon...\xf000븁\x0000You're lucky to have one!\xf000븁\x0000Your Pokémon will grow old with\xfffeyou and you will get a bond.\xf000븁\x0000You will have many fun when\xfffeyou're exploring Ishu!\xf000븀\x0000But I'll go now, see you later!\xf000븁\x0000
+Chelon: Well, okay!\xfffeSay thanks for the Town Map!\xf000븀\x0000It is handy indeed!\xf000븁\x0000But we have to go. We're\xfffemeeting the Professor at\xf000븀\x0000Route 1, remember? Let's go!\xf000븁\x0000
+Belle: Yeah, that's true \xf000Ā\x0001\x0000!\xfffeLet's go!\xf000븁\x0000
+Belle: \xf000Ā\x0001\x0000, you're just in time!\xfffeWe're going now!\xf000븁\x0000
+Chelen: The Professor should\xfffebe somewhere ahead.\xf000븀\x0000We have to go soon!\xf000븁\x0000
+Belle: Yeah, \xf000Ā\x0001\x0000!\xf000븁\x0000We should go find her!\xfffeLet's go on to Route 1!\xf000븁\x0000
+Chelen: I see her!\xf000븁\x0000
+Chelen: I see her!\xf000븁\x0000
+There we go!\xf000븁\x0000
+Hey there! I just found\xfffesomething out! Wanna hear it?\xf000븁\x0000You can store Pokémon in\xfffea PC at the Pokécenter now!\xf000븀\x0000That's just great, isn't it?
 あなたは　ひらがな　よりも\xfffeかんじの　ほうが　すきなのかしら？
 では\xfffe話し方を　変えてみるわね
 そうよね！　ひらがなには\xfffeひらがなの　あじわいが　あるわね
-よのなかには　たっくさんの　ポケモンと\xfffeいろんな　ひとが　いるんだって！！\xf000븁\x0000\xfffeそんな　おはなし　きいたら\xfffeあたし　ワクワクしちゃうよー！！
-ベル『ああ！　なんだろう\xfffeどきどき　ワクワク　しちゃうね\xf000븁\x0000
-チェレン『そうだね\xfffeさ　はかせが　まってる\xf000븁\x0000
+Hey! Do you have Pokémon?\xfffeOw ow ow I want Pokémon!\xf000븁\x0000\xfffeI realy, realy, realy want\xfffePokééééééééémon!!!
+Belle: Wow!　I'm sóó excited!\xfffeMy heart is pounding so hard!\xf000븁\x0000
+Chelen: I'm waiting for the Professor...\xf000븁\x0000
 ここは　カノコタウン\xfffeさまざまな　てんが　つどう　まち
-\xf000Ā\x0001\x0000の　いえ
-チェレンの　いえ
-ベルの　いえ
-アララギ　ポケモンけんきゅうじょ
+\xf000Ā\x0001\x0000's house.
+Chelen's house.
+Belle's house.
+Professor Araragi's Pokémon Lab.
 チェレン『やあ　\xf000Ā\x0001\x0000\xfffeハンサムさんの　はなしは　おわった？\xf000븁\x0000
 ベル『……ふたりとも　ごめんね\xf000븁\x0000サンヨウシティの　ジムリーダーさん\xfffeよびに　いってたら\xf000븀\x0000ぜんぶ　おわっちゃってて……\xf000븁\x0000
 チェレン『……それなら\xfffeぼくだって　おなじさ\xf000븁\x0000ダークトリニティに　すきを　つかれ\xfffeゲーチスを　のがして　しまったし\xf000븁\x0000
