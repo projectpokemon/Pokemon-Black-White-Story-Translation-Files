@@ -1,9 +1,9 @@
 Quit
-１かい
-２かい
-３かい
-１１かい
-２２かい
-４７かい
-５５かい
-なんかいに　いきますか？
+1st Floor
+2nd Floor
+3rd Floor
+11th Floor
+22th Floor
+47th Floor
+55th Floor
+Where do you want to go?
