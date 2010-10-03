@@ -2,7 +2,7 @@
 ほう！　オマエさん\xfffeなかなかの　トレーナーだな！\xf000븁\x0000ほらあなに　はいり　おのれと\xfffeポケモンを　きたえてみよ！
 ピッチャー！\xfffeだいいっきゅう　なげました！！\xf000븁\x0000
 いま　なげつけたのは\xfffeわざマシン５６「なげつける」だ！\xf000븁\x0000どうぐを　なげて\xfffeあいてに　ダメージを　あたえる\xf000븁\x0000しかも　なげる　どうぐによって\xfffeダメージは　かわるんだよ！
-９ばんどうろ
-カラフル　＆　ワンダフルライフ\xfffeショッピングモール　アールナイン
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeパソコンの　ボックスを　せいりするとき\xfffeセレクトボタンを　おすと\xf000븁\x0000\xfffeポケモンを　さくさく\xfffeいどうできる　モードに　なります！
-シリンダーブリッジ\xfffeイッシュじまんの　てつどうきょう
+Route 9
+Colorful & Wonderful Life\xfffeShopping Mall
+Trainer Tips\xf000븁\x0000\xfffe\xfffePressing the SELECT button while using\xfffethe PC organizes the boxes.\xf000븁\x0000\xfffeYou can arrange your Pokémon\xfffemuch easier this way!
+Cylinder Bridge\xfffeIsshu's railway bridge

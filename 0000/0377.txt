@@ -15,7 +15,7 @@
 ゆうがたに　みつけた\xfffeさらさらいわ　を　あげるわ\xf000븁\x0000
 よるに　みつけた\xfffeつめたいいわ　を　あげるわ\xf000븁\x0000
 そうね……\xf000븁\x0000いわが　すきなら　あした……\xfffeできれば　べつの　じかんたいに\xf000븀\x0000ここに　くると　いいわ
-８ばんどうろ
-８ばんどうろ
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeバッグに　しまっている\xfffeどうぐの　ばしょを　いれかえるには\xf000븁\x0000\xfffeセレクトボタンを　おしましょう！\xfffeポチッとな！
-シリンダーブリッジ\xfffeイッシュじまんの　てつどうきょう
+Route 8
+Route 8
+Trainer Tips\xf000븁\x0000\xfffe\xfffeIf you want to\xfffeswitch items in your bag,\xf000븁\x0000\xfffejust press the SELECT button!\xfffeIt's that easy!
+Cylinder Bridge\xfffeIsshu's railway bridge
