@@ -40,8 +40,8 @@
 ダ　ダブルバトルの　おさそい　なの？\xf000븁\x0000\xfffeま　まだ　あたしたちの\xfffeポケモン　そだってないの……\xf000븁\x0000そだてやさんに　あずけようかな
 あたちたちの　ぴったり\xfffeいきの　あった　コンビネーション\xf000븁\x0000\xfffeどんな　トレーナーさんでも\xfffeてんてこまい　するんだよ
 ときどき　ポケモンと\xfffeあそばせて　もらってる！
-３ばんどうろ
-３ばんどうろ
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeポケモンリストの　ひだりうえに\xfffeセットする　ポケモンは　だいじです！\xf000븁\x0000\xfffeポケモンしょうぶのとき　とびだすのは\xfffeそこに　セットされた　ポケモンです！
-ポケモン　そだてや\xfffeたいせつな　ポケモン　あずかります
+Route 3
+Route 3
+Trainer Tips\xf000븁\x0000\xfffe\xfffeThe Pokémon at the top of\xfffeyour party are important!\xf000븁\x0000\xfffeThey are the ones that may\xfffebe sent out to battle first!
+Pokémon Daycare\xfffeWe'll help raise your Pokémon
 no data

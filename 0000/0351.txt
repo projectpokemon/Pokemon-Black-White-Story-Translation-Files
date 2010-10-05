@@ -1,8 +1,8 @@
-ライブキャスターが　なっている
-\xf000Ā\x0001\x0000は\xfffeライブキャスターを　つなげた\xf000븁\x0000
-ママ『\xf000Ā\x0001\x0000\xf000븁\x0000
+The Live Caster is ringing.
+\xf000Ā\x0001\x0000's\xfffeLive Caster is connected.\xf000븁\x0000
+Mom: \xf000Ā\x0001\x0000.\xf000븁\x0000
 やっと　おいついた……\xfffeもう　ここまで　きたのね\xf000븁\x0000「おそらく　いまごろは\xfffe　サンヨウシティに　むかってます」って\xf000븀\x0000\xfffeアララギはかせに　きいてね\xf000븁\x0000\xfffeで　ママから\xfffeまた　プレゼント！\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000！\xfffeこれを　はいて　いきなさい\xf000븁\x0000
-\xf000Ā\x0001\x0000 \xfffereceived the \xf000\xff00\x0001\x0002Running Shoes\xf000\xff00\x0001\x0000！
+\xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0002ランニングシューズ\xf000\xff00\x0001\x0000を　もらった！
 ランニングシューズを　はいていれば\xfffeどこにいくのも　あっ　というま！\xf000븁\x0000\xfffeでは　とりあつかい　せつめいしょを\xfffeよむから　きいてなさいね\xf000븁\x0000\xfffe「ランニングシューズは\xfffe Ｂボタンを　おすことで　いままでより\xf000븀\x0000\xfffe はやく　はしれるように　なります！\xf000븁\x0000\xfffe ランニングシューズを　はいて\xfffe おもいっきり　はしりまくろう！」\xf000븁\x0000\xfffeですって\xf000븁\x0000\xfffeかったまま　しまっておいたのを\xfffeかたづけを　していて　みつけたの\xf000븀\x0000……たまには　かたづけも　するものね\xf000븁\x0000
 \xf000Ā\x0001\x0000\xfffeあなたは　ひとりじゃないの\xf000븀\x0000\xfffeわかっているでしょ？\xf000븁\x0000\xfffeいつも　ポケモンと　いっしょだし\xfffeともだちも　いる\xf000븁\x0000\xfffeそれに　ママだって　いつも\xfffeあなたのことを　おもっているから\xf000븁\x0000\xfffeそれじゃあ\xfffeたびを　たのしんでね！\xf000븁\x0000
 ベル『おうい！　\xf000Ā\x0001\x0000！\xf000븁\x0000
@@ -16,6 +16,6 @@
 えんりょ　しなくて　いいのにさ！
 ポケモンの　げんきが　なくて\xfffeたたかわせたくない　ときは……\xf000븀\x0000みちを　あるけば　いいよ！\xf000븁\x0000ポケモンが　とびだすのは　くさむらさ
 トレーナーとの　ポケモンしょうぶは\xfffeにげられない　しんけんしょうぶ　よ！
-２ばんどうろ
-２ばんどうろ
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeたたかいに　さんかした　ポケモンは\xfffeけいけんちが　もらえます！\xf000븁\x0000\xfffeポケモンを　どんどん　たたかわせて\xfffeどんどん　つよくしよう！
+Route 2
+Route 2
+Trainer Tips\xf000븁\x0000\xfffe\xfffeAll Pokémon that are involved in\xfffe a battle earn EXP Points!\xf000븁\x0000\xfffeThe more your Pokémon battle,\xfffethe stronger they will become. 
