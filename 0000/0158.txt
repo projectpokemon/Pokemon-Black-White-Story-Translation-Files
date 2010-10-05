@@ -1,9 +1,9 @@
 テストメッセージです
 \xf000ȅ\x0001\x0002円
-ここまでの　かつやくを\xfffeポケモンレポートに　かきこみますか？
+Would you like to record your \xfffeactivity up to this point?
 まえに　かかれた　レポートに\xfffeうえから　かいても　いいですか？
-ポケモンレポートに　かきこんでいます\xfffeでんげんを　きらないでください
-\xf000ă\x0001\x0000は\xfffeレポートに　しっかり　かきのこした！
+The game is being saved.\xfffeDo not turn off the power.
+\xf000ă\x0001\x0000\xfffesaved the game!
 ちゅうい！！\xf000븁\x0000『つづきから　はじめる』で\xfffeぼうけん　していた\xf000븀\x0000レポートが　かかれています！\xf000븁\x0000そちらで　プレイしていた　ぼうけんや\xfffeすべての　ポケモン　どうぐ　などが\xf000븀\x0000きえてしまいます……\xf000븁\x0000ほんとうに\xfffeうえから　かいても　いいですか？
 レポートが　かけませんでした\xf000븁\x0000
 すでに　べつの　ポケモンレポートが\xfffeかかれていますので\xf000븀\x0000レポートが　かけません！\xf000븁\x0000くわしくは\xfffeとりあつかいせつめいしょを\xf000븀\x0000ごらんください
