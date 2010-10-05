@@ -1,21 +1,21 @@
-Welcome to the Pokémon Wi-Fi Club!\xfffe\xf000븁\x0000Would you like to use the Nintendo Wi-Fi \xfffeConnection?
-それでは　また　おこしください
-Ｗｉ－Ｆｉ　せつぞくを\xfffeかいし　しますか？
-それでは　こちらへ　どうぞ！\xf000븁\x0000
-……あら？\xf000븁\x0000おきゃくさまは\xfffeまだ　ともだちてちょうに\xf000븀\x0000おともだちを　とうろく　してませんね\xf000븁\x0000Ｗｉ－Ｆｉクラブは\xfffeともだちてちょうに\xf000븀\x0000おともだちを　とうろく　していないと\xf000븀\x0000ごりよう　できません\xf000븁\x0000おきゃくさまの　ともだちコードだけ\xfffeうけとりますか？\xf000Ȁ\x0001\x0000
-……あら？\xf000븁\x0000\xfffeおきゃくさまは\xfffeまだ　ともだちてちょうに\xf000븀\x0000\xfffeおともだちを　とうろく　してませんね\xf000븁\x0000\xfffeＷｉ－Ｆｉクラブは\xfffeともだちてちょうに\xf000븀\x0000\xfffeおともだちを　とうろく　していないと\xf000븀\x0000\xfffeごりよう　できません\xf000븁\x0000\xfffeおともだちを　とうろく　してから\xfffeおこしください\xf000븁\x0000
-Ｗｉ－Ｆｉクラブ　では\xfffeともだちてちょうに　とうろくした\xf000븀\x0000ひと　どうしで　ポケモンこうかんや\xf000븀\x0000つうしんたいせんなどを　たのしめます\xf000븁\x0000なかにある　モニターを　そうさすれば\xfffeじぶんが　あそびたい　ないようで\xf000븀\x0000あいてを　ぼしゅう　できます\xf000븁\x0000また　ともだちに　ちょくせつ\xfffeはなしかけて　いっしょに\xf000븀\x0000あそぶことも　できます\xf000븁\x0000Would you like to use the Nintendo Wi-Fi \xfffeConnection?
-ただいま　じゅんびちゅう　です！\xfffeまた　あとで　おこしください
-てもちに　つれていけない\xfffeポケモンが　います
-つうしんエラーが　はっせいしました
+Welcome to the Pokémon Center Wi-Fib\xfffeClub!\xf000븁\x0000May I help you with anything?
+Please come again.
+Would you like to launch\xfffeNintendo WFC?
+Right this way, please.\xf000븁\x0000
+...Oh?\xf000븁\x0000I'm sorry, but you don't have any\xfffefriends registered in you Pal Pad.\xf000븀\x0000The Wi-Fi Club cannot be used if\xfffeno friends are in your Pal Pad.\xf000븁\x0000Would you like to get your own\xfffeFriend Code at least?\xf000Ȁ\x0001\x0000
+...Oh?\xf000븁\x0000I'm sorry, but you don't have any\xfffefriends registered in you Pal Pad.\xf000븀\x0000The Wi-Fi Club cannot be used if\xfffeno friends are in your Pal Pad.\xf000븁\x0000\xfffePlease register friends in your\xfffePal Pad, and then come back.\xf000븁\x0000
+At any Wi-Fi Club, you may play using\xfffeNintendo Wi-Fi Connection.\xf000븁\x000Doing so, you may trade or battle with\xfffefriends you have registered in your\xf000븀\x0000Pal Pad.\xf000븁\x0000Two kinds of battles can be conducted:\xfffeSingle or Double.\xf000븁\x0000For each kind, you may choose one of\xfffethree level restrictions: Free,\xf000븀\x0000Level 50, or Level 100.\xf000븁\x0000For Level 50 and Level 100, the levels\xfffeof all participating Pokémon will be\xf000븀\x0000temporarily changed to the set level.\xf000븁\x0000Connect to Nintendo WFC?
+This Spicky-eared PICHU can't\xfffeenter the Wi-Fi club.
+This Pokémon are not eligible\xfffeto enter the Wi-Fi club.
+An error occured.
 Go to Wi-Fi Club
-Explanation
+Information
 Quit
-ポケモンセンター　Ｗｉ－Ｆｉひろばへの\xfffeごあんないは　こちらです！\xf000븁\x0000Would you like to use the Nintendo Wi-Fi \xfffeConnection?\xf000Ȁ\x0001\x0000
+ポケモンセンター　Ｗｉ－Ｆｉひろばへの\xfffeごあんないは　こちらです！\xf000븁\x0000Ｗｉ－Ｆｉコネクションを\xfffeごりよう　ですか？\xf000Ȁ\x0001\x0000
 Ｗｉ－Ｆｉ　せつぞくを\xfffeかいし　しますか？\xf000Ȁ\x0001\x0000
 それでは　こちらに　どうぞ！\xf000븁\x0000
 またの　ごりようを\xfffeおまちして　おります
-Ｗｉ－Ｆｉひろば　は　\xfffeせかいの　ポケモントレーナーと\xf000븀\x0000こうりゅう　できる　しせつです\xf000븁\x0000おしゃべり　や　ひろばゲーム\xfffeＷｉ－Ｆｉひろば　だけの　どうぐ\xf000븀\x0000タッチトイ　などで　あそべます\xf000븁\x0000なお　Ｗｉ－Ｆｉひろば　は\xfffe１かいの　せつぞくで　あそべる\xf000븀\x0000じかんが　きまって　います\xf000븁\x0000しゅうりょう　までの　あいだ\xfffeたくさん　たのしんで　くださいね！\xf000븁\x0000Would you like to use the Nintendo Wi-Fi \xfffeConnection?\xf000Ȁ\x0001\x0000
+Ｗｉ－Ｆｉひろば　は　\xfffeせかいの　ポケモントレーナーと\xf000븀\x0000こうりゅう　できる　しせつです\xf000븁\x0000おしゃべり　や　ひろばゲーム\xfffeＷｉ－Ｆｉひろば　だけの　どうぐ\xf000븀\x0000タッチトイ　などで　あそべます\xf000븁\x0000なお　Ｗｉ－Ｆｉひろば　は\xfffe１かいの　せつぞくで　あそべる\xf000븀\x0000じかんが　きまって　います\xf000븁\x0000しゅうりょう　までの　あいだ\xfffeたくさん　たのしんで　くださいね！\xf000븁\x0000Ｗｉ－Ｆｉコネクションを\xfffeごりよう　ですか？\xf000Ȁ\x0001\x0000
 Go to the Wi-Fi Plaza
 Explanation
 おきゃくさま\xfffeこちらへ　どうぞ！\xf000븁\x0000
