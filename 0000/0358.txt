@@ -10,7 +10,7 @@
 フリーウェイを　みていると\xfffeなんというか　みたされるんだ……
 さばくに　うもれた　いせき……\xfffeそこはかとなく　ロマンティックね
 おっと！　トレーナー\xfffeすなの　いろを　よくみてごらん\xf000븁\x0000いろの　こい　すな\xfffeうすい　すな　があるだろう？\xf000븁\x0000いろの　こい　すなには\xfffeポケモンが　ひそんでいるんだぞ！
-４ばんどうろ
-４ばんどうろ
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeポケモンは　わざを　だすための\xfffeげんきの　みなもとの　ＰＰ……\xf000븁\x0000\xfffeすなわち　パワーポイントを\xfffeわざごとに　もってます\xf000븁\x0000\xfffeこの　パワーポイントが　なくなると\xfffeわざが　だせなくなります\xf000븁\x0000\xfffeパワーポイントが　へったときも\xfffeポケモンセンターに　いきましょう！
+Route 4
+Route 4
+Trainer Tips\xf000븁\x0000\xfffe\xfffePokémon moves require\xfffesome form of energy.\xf000븁\x0000\xfffeThis energy is called Power Points,\xfffeor PP for short.\xf000븁\x0000\xfffeWhen a move runs out of PP,\xfffeit can no longer be used!\xf000븁\x0000\xfffeIf your Pokémon runs out of PP,\xfffeget to the Pokémon Center right away!
 おつかれの　さぎょういんは\xfffeヒウンシティちかくの　プレハブへ！

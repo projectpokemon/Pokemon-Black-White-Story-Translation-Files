@@ -1,6 +1,6 @@
-しぜんのなか　のんびり　くらすなら\xfffeホワイトフォレストへ　どうぞ
-とかいで　エネルギッシュに　くらすなら\xfffeブラックシティへ　どうぞ
-ホワイトフォレストは\xfffeしぜんに　あこがれた　ひとが\xf000븀\x0000よく　ひっこしてくるのよ
-ブラックシティって\xfffeとかいに　あこがれた　ひとが\xf000븀\x0000よく　ひっこしてくるのよ
-すむひとが　かわれば\xfffeもりも　かわっていく\xf000븁\x0000その　へんかを　みていると\xfffeもりも　わたしたちも\xf000븀\x0000おなじ　いきものだって　かんじるね
-すむひとが　かわれば\xfffeまちも　へんかしていく\xf000븁\x0000そのへんかを　ずっと　みていると\xfffeまるで　まちは\xf000븀\x0000きょだいな　いきものの　ようだね
+White Forest is where people\xfffelive peacefully among nature.
+Black City is an urban\xfffearea with energetic residents.
+There are a lot of people that\xfffewant to live in White Forest.\xf000븀\x0000Movers come through here often.
+There are a lot of people that\xfffewant to live in Black City.\xf000븀\x0000Movers come through here often.
+This forest changes when\xfffethe people living there change.\xf000븁\x0000I guess over time,\xfffecreatures also notice the changes.\xf000븀\x0000Don't you think?
+This town changes when\xfffethe people living there change.\xf000븁\x0000I guess over time,\xfffecreatures also notice the changes.\xf000븀\x0000Don't you think?
