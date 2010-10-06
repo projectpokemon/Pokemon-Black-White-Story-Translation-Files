@@ -4,7 +4,7 @@ It's a vending machine!\xfffeDo you want to buy something?
 You do not have enough money!
 You didn't buy anything.
 Do you want to buy anything else?
-Fresh Water\xf000봃\x0001\x0001200円
-Soda Pop\xf000봃\x0001\x0001300円
-Lemonade\xf000봃\x0001\x0001350円
+Fresh Water\xf000봃\x0001\x0001$200
+Soda Pop\xf000봃\x0001\x0001$300
+Lemonade\xf000봃\x0001\x0001$350
 Quit

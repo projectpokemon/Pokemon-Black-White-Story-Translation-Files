@@ -1,53 +1,53 @@
 Cheren: Here we go\xf000븁\x0000
-Bel: Doctorー!\xf000븁\x0000
-There you are!\xf000븁\x0000I was waiting for you\xfffeヤングガールに　ヤングボーイ！\xf000븁\x0000あらためて　じこしょうかい　するね\xf000븁\x0000My name is ...\xf000븁\x0000
-Cheren: ...Doctor Araragi?\xfffeなまえは　しっていますよ\xf000븁\x0000
-Araragi: もう！　チェレンったら\xfffeちょっと　クールじゃない？\xf000븁\x0000きょうは　きねんとなる　ひ　でしょ\xfffeかしこまったほうが　いいじゃない\xf000븁\x0000では　あらためて……\xf000븁\x0000わたしの　なまえは　アララギ！\xf000븁\x0000ポケモンという　しゅぞくが\xfffeいつ　うまれたか　しらべています\xf000븁\x0000
-あっ　すごーい！\xfffeもう　ポケモンしょうぶを　したのね\xf000븁\x0000それでかな\xfffeポケモンたちも　きみたちを\xf000븀\x0000しんらい　しはじめた……\xf000븀\x0000そんな　かんじ！\xf000븁\x0000ところで　ポケモンに\xfffeニックネームを　つける？
-Araragi: なるほどなるほど\xfffeニックネームは\xf000븀\x0000\xf000Ă\x0001\x0000で　オーケー？
-Araragi: \xf000Ă\x0001\x0000と　いうんだ\xfffeすっごく　いい　なまえ　よね！\xf000븁\x0000
-Araragi: なるほどなるほど\xfffeニックネームは　つけないんだ\xf000븀\x0000ま　それも　ありだよね\xf000븁\x0000
-Araragi: さて　きみたちに\xfffeポケモンを　あげた　りゆうだけど……\xf000븁\x0000
-Cheren: ポケモンずかん　ですよね\xf000븁\x0000
-Bel: ポケモンずかん……？\xf000븁\x0000
-Araragi: すごいすごい！\xfffeさすが　チェレン！\xf000븁\x0000ポケモンの　ことを\xfffeよく　べんきょう　しているわね\xf000븁\x0000ということで！　あらためて\xfffeせつめいさせて　もらうわね！\xf000븁\x0000
-ポケモンずかん　とは……！\xf000븁\x0000きみたちが　であった　ポケモンを\xfffeじどうてきに　きろく　していく\xf000븀\x0000ハイテクな　どうぐ　なの！\xf000븁\x0000だからね　\xf000Ā\x0001\x0000たちは\xfffeいろんな　ところに　でかけ\xf000븀\x0000この　イッシュちほう　すべての\xf000븀\x0000ポケモンに　であってほしいのッ！\xf000븁\x0000
-では　おききします\xf000븁\x0000\xf000Ā\x0001\x0000！\xfffeチェレン！　ベル！\xf000븁\x0000ポケモンずかんを　かんせいさせるため\xfffeぼうけんの　たびに　でかけるよね！
-Araragi: もう！\xf000븁\x0000わたしが　ききたいのは\xfffeせかいを　きりひらく\xf000븁\x0000ゆうきある　ことば　だけなの！！\xf000븁\x0000\xf000Ā\x0001\x0000たちは\xfffeいろんな　ところに　でかけ\xf000븀\x0000この　イッシュちほう　すべての\xf000븀\x0000ポケモンに　であってほしいのッ！
-Bel: はあーい\xf000븁\x0000じゃなくて　はい！\xf000븁\x0000
-Cheren: ありがとう　ございます\xf000븁\x0000おかげで　ねんがんの\xfffeポケモントレーナーに　なれました\xf000븁\x0000
-Araragi: ありがとッ　みんな！\xfffeさいこうの　へんじ　よね！\xf000븁\x0000
-\xf000Ā\x0001\x0000 received \xfffethe\xf000\xff00\x0001\x0002Pokédex\xf000\xff00\x0001\x0000!
-Araragi: では　つぎのステップね\xf000븁\x0000どのように　ポケモンと\xfffeであうのかを　おしえるから\xf000븀\x0000１ばんどうろに　きてね！\xf000븁\x0000
-Bel: あっ　あたしたち\xfffeはかせに　たのまれたから\xf000븀\x0000たびしても　いいんだよね？\xf000븁\x0000じぶんの　やりたいことを\xfffeさがしても　いいんだよね？\xf000븁\x0000
-Cheren: ああ\xf000븁\x0000ずかんを　かんせい　させながらなら\xfffeすきなように　たびすれば　いい
-Bel: なんだか　ドキドキしてきた\xf000븁\x0000ねえ　\xf000Ā\x0001\x0000は\xfffe\xf000ā\x0001\x0001と　なにするの？
-Cheren: ……ようやく\xfffeポケモントレーナーに　なれたんだ\xf000븁\x0000ほかの　トレーナーと\xfffeたたかって　つよくなるよ　ぼくは
-Araragi: ハーイ！　\xf000Ā\x0001\x0000！\xfffeさいきんの　ちょうしは　どう？\xf000븁\x0000
-Papa Araragi: よお　\xf000Ā\x0001\x0000！\xfffeポケモンと　であっておるか？\xf000븁\x0000イッシュちほうは　もちろん\xfffeせかいには　ほんとうに\xf000븀\x0000おおくの　ポケモンが　いるぞ！
+Bel: Professor!\xf000븁\x0000
+There you are!\xf000븁\x0000Now that you are here\xfffeI should introduce myself...\xf000븁\x0000My name is ...\xf000븁\x0000
+Cheren: ...Professor Araragi?\xfffeI've heard about a lot you!\xf000븁\x0000
+Araragi: Indeed so!\xfffeWe practically already know each other.\xf000븁\x0000Can I see your Pokémon?\xfffe\xf000븁\x0000I see... they look happy.\xf000븁\x0000hmmm……\xf000븁\x0000Well, I love to see that!\xf000븁\x0000
+So tell me have you heard of Pokémon\xfffenicknaming?\xf000븁\x0000....\xf000븀\x0000Well if thats the case\xfffewhy not nickname your Pokémon!\xf000븁\x0000What do you say?\xfffeWill you nickname your new Pokémon?
+Araragi: So...\xf000븁\x0000nickname your Pokémon \xf000Ă\x0001\x0000 is this okay?
+Araragi: Well now.\xfffenow thats done lets continue.\xf000븁\x0000
+Araragi: Pokémon are are a unique species\xfffeThey inhabit the world we live in.\xf000븀\x0000\xfffeI think it's important we discuss this.\xf000븁\x0000
+Araragi: Make your Pokémon happy!\xf000븁\x0000If they are mistreated\xfffeit may not speak to you.\xf000븁\x0000
+Cheren: What do you mean?\xf000븁\x0000
+Bel: Pokémon speak……?\xf000븁\x0000
+Araragi: Wow!\xfffeIndeed!\xf000븁\x0000Eventually you will begin to understand\xfffeeach other.\xf000븁\x0000Pokémon are not a tools\xffferemember that!\xf000븁\x0000
+Lets see……!\xf000븁\x0000Could I trust you guys to help me?\xf000븁\x0000Of course I can!\xf000븀\x0000You three are the perfect team!\xf000븁\x0000....\xf000븁\x0000I can see it already!\xf000븁\x0000My dream coming true!\xf000븀\x0000Sorry, I'm just so happy!!\xfffe\xf000븁\x0000Well, I should tell you about\xfffethe Pokedex!\xf000븁\x0000
+...\xf000븁\x0000It's a high tech device used to\xffferegister Pokémon Data.\xf000븁\x0000So can you help me out?\xfffeand find and befriend new Pokémon?
+Araragi: Okay!\xf000븁\x0000I believe you are about set.\xfffeI think I didn't miss anything\xf000븁\x0000Oh, wait!\xf000븁\x0000\xf000Ā\x0001\x0000I need to teach you about battling!\xf000븀\x0000It's really important it's really dangerous\xf000븀\x0000to go not knowing how!
+Bel: Of course!\xf000븁\x0000I'd loved to help you!\xf000븁\x0000
+Cheren: Me too!\xf000븁\x0000I know a lot about Pokémon\xfffeI might be of great help!\xf000븁\x0000
+Araragi: Well, then it's settled\xfffeWe are one big team now!\xf000븁\x0000
+\xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0002ポケモンずかん\xf000\xff00\x0001\x0000を　てにいれた!
+Araragi: Okay.\xf000븁\x0000Now I must teach you\xfffehow to catch a Pokémon\xf000븀\x0000come and meet me at Route 1!\xf000븁\x0000
+Bel: This is awesome lets get going!\xf000븀\x0000What are we waiting for?\xf000븁\x0000Let's get going and\xfffelearn to catch Pokémon!\xf000븁\x0000
+Cheren: Wait!\xf000븁\x0000I got to run home real\xfffequick and tell my parents!
+Bel: Go ahead.\xf000븁\x0000We will follow you out.
+Cheren: ……\xf000븁\x0000I'm starting to get real nervous..
+Araragi: ハーイ!　\xf000Ā\x0001\x0000!\xfffeさいきんの　ちょうしは　どう?\xf000븁\x0000
+Papa Araragi: よお　\xf000Ā\x0001\x0000!\xfffeポケモンと　であっておるか?\xf000븁\x0000イッシュちほうは　もちろん\xfffeせかいには　ほんとうに\xf000븀\x0000おおくの　ポケモンが　いるぞ!
 no data
 no data
 no data
-Papa Araragi: よお　\xf000Ā\x0001\x0000！\xf000븁\x0000
-ぎりぎりぎりぃ！
+Papa Araragi: よお　\xf000Ā\x0001\x0000!\xf000븁\x0000
+ぎりぎりぎりぃ!
 Bel: あたしね　アララギはかせの\xfffeおてつだいを　させてもらうの\xf000븁\x0000じぶんの　ポケモンずかんを\xfffeながめていて　おもったの\xf000븁\x0000たびをして　であった\xfffeポケモンたち……　もっともっと\xf000븀\x0000このコたちのこと　しりたいなって\xf000븁\x0000
-そうだ！\xf000븁\x0000\xf000Ā\x0001\x0000　しってる？\xfffeポケモンの　たいりょうはっせいのこと
-Bel: さすが　\xf000Ā\x0001\x0000だよね！\xf000븁\x0000ある　ポケモンが　かくちの　くさむらで\xfffeいっぱい　しゅつげん　することも\xf000븁\x0000どうろにある　ゲートの\xfffeでんこうけいじばんを　みれば\xf000븁\x0000イッシュちほうの　どこで\xfffeたいりょうはっせいが　おきているか\xf000븀\x0000わかるってことも　しってるんだ！\xf000븁\x0000
-Bel: うふふ\xfffeじゃあ　あたしが　おしえてあげるね\xf000븁\x0000まず　たいりょうはっせい　は\xfffeある　ポケモンが　かくちの　くさむらで\xf000븀\x0000いっぱい　しゅつげん　すること\xf000븁\x0000どこで　たいりょうはっせい　してるかは\xfffeどうろにある　ゲートの\xf000븀\x0000でんこうけいじばんを　みれば\xf000븀\x0000わかるんだよ！　どう　すごいでしょ\xf000븁\x0000
-ポケモンの　けんきゅうって\xfffeべんきょうすること　いっぱいだけど\xf000븁\x0000たびをして　みつけた\xfffeあたしの　やりたいことだから\xf000븀\x0000ぜんぜん　へいき！　たのしいよ\xf000븁\x0000でね　\xf000Ā\x0001\x0000\xfffeときどきは　あたしとも\xf000븀\x0000ポケモンしょうぶも　してね！\xf000븁\x0000そうすることで　ポケモンたちのこと\xfffeもっと　わかるから！
-Bel: \xf000Ā\x0001\x0000　しってる？\xf000븁\x0000ヒンバスって　ポケモンは\xfffeきれいなウロコを　もたせて\xf000븁\x0000ひとと　こうかんすると\xfffeしんか　するんだって！　すごいよね\xf000븁\x0000ポケモンって　ほんとうに\xfffeふしぎな　いきもの　だよね！
-Bel: \xf000Ā\x0001\x0000　しってる？\xf000븁\x0000ヤグルマのもりに　ひょうめんが\xfffeコケで　おおわれた　いわが　あるのね\xf000븁\x0000あの　いわの　せいなのか\xfffeヤグルマのもりで　レベルアップすると\xf000븀\x0000しんかする　ポケモンが　いるんだよ！\xf000븁\x0000ポケモンって　ほんとうに\xfffeふしぎな　いきもの　だよね！
-Bel: \xf000Ā\x0001\x0000　しってる？\xf000븁\x0000ネジやまの　おくに　こおりで\xfffeおおわれた　いわが　あるのね\xf000븁\x0000あの　まわりで　レベルアップすると\xfffeしんかする　ポケモンが　いるんだよ！\xf000븁\x0000ポケモンって　ほんとうに\xfffeふしぎな　いきもの　だよね！
-Bel: \xf000Ā\x0001\x0000　しってる？\xf000븁\x0000とくていの　わざを　おぼえた\xfffeじょうたいで　レベルアップすると\xf000븀\x0000しんかする　ポケモンが　いるんだよ！\xf000븁\x0000ポケモンって　ほんとうに\xfffeふしぎな　いきもの　だよね！
-Bel: \xf000Ā\x0001\x0000　しってる？\xf000븁\x0000きまった　どうぐを　もたせておいて\xfffeよるに　レベルアップすると\xf000븀\x0000しんかする　ポケモンが　いるんだよ！\xf000븁\x0000ポケモンって　ほんとうに\xfffeふしぎな　いきもの　だよね！
-Bel: おっ　\xf000Ā\x0001\x0000！\xf000븁\x0000きょうは　あたしと\xfffeポケモンしょうぶ　しない？
-Bel: うん！　\xf000Ā\x0001\x0000！\xf000븁\x0000しつないでの　しょうぶ　だからね\xfffeこうふん　しすぎちゃ　ダメだよ！\xf000븁\x0000
-Bel: ええええ！\xf000븁\x0000ちょっと……\xfffeううん　けっこう　がっかり……
-Bel: やっぱり　あたしと\xfffeポケモンしょうぶ　するでしょ？
-Bel: ふえええ！\xf000븁\x0000やっぱり　\xf000Ā\x0001\x0000は\xfffeすごく　つよい　トレーナーだよね！\xf000븁\x0000あたし　\xf000Ā\x0001\x0000が　する\xfffeポケモンしょうぶ　だいすき　だよ\xf000븁\x0000なんだか　ポケモンも\xfffeとても　うれしそうなんだもん！
-アララギはかせと　だれだろう……？\xfffeえがおの　だんせいが　うつっている
+そうだ!\xf000븁\x0000\xf000Ā\x0001\x0000　しってる?\xfffeポケモンの　たいりょうはっせいのこと
+Bel: さすが　\xf000Ā\x0001\x0000だよね!\xf000븁\x0000ある　ポケモンが　かくちの　くさむらで\xfffeいっぱい　しゅつげん　することも\xf000븁\x0000どうろにある　ゲートの\xfffeでんこうけいじばんを　みれば\xf000븁\x0000イッシュちほうの　どこで\xfffeたいりょうはっせいが　おきているか\xf000븀\x0000わかるってことも　しってるんだ!\xf000븁\x0000
+Bel: うふふ\xfffeじゃあ　あたしが　おしえてあげるね\xf000븁\x0000まず　たいりょうはっせい　は\xfffeある　ポケモンが　かくちの　くさむらで\xf000븀\x0000いっぱい　しゅつげん　すること\xf000븁\x0000どこで　たいりょうはっせい　してるかは\xfffeどうろにある　ゲートの\xf000븀\x0000でんこうけいじばんを　みれば\xf000븀\x0000わかるんだよ!　どう　すごいでしょ\xf000븁\x0000
+ポケモンの　けんきゅうって\xfffeべんきょうすること　いっぱいだけど\xf000븁\x0000たびをして　みつけた\xfffeあたしの　やりたいことだから\xf000븀\x0000ぜんぜん　へいき!　たのしいよ\xf000븁\x0000でね　\xf000Ā\x0001\x0000\xfffeときどきは　あたしとも\xf000븀\x0000ポケモンしょうぶも　してね!\xf000븁\x0000そうすることで　ポケモンたちのこと\xfffeもっと　わかるから!
+Bel: \xf000Ā\x0001\x0000　しってる?\xf000븁\x0000ヒンバスって　ポケモンは\xfffeきれいなウロコを　もたせて\xf000븁\x0000ひとと　こうかんすると\xfffeしんか　するんだって!　すごいよね\xf000븁\x0000ポケモンって　ほんとうに\xfffeふしぎな　いきもの　だよね!
+Bel: \xf000Ā\x0001\x0000　しってる?\xf000븁\x0000ヤグルマのもりに　ひょうめんが\xfffeコケで　おおわれた　いわが　あるのね\xf000븁\x0000あの　いわの　せいなのか\xfffeヤグルマのもりで　レベルアップすると\xf000븀\x0000しんかする　ポケモンが　いるんだよ!\xf000븁\x0000ポケモンって　ほんとうに\xfffeふしぎな　いきもの　だよね!
+Bel: \xf000Ā\x0001\x0000　しってる?\xf000븁\x0000ネジやまの　おくに　こおりで\xfffeおおわれた　いわが　あるのね\xf000븁\x0000あの　まわりで　レベルアップすると\xfffeしんかする　ポケモンが　いるんだよ!\xf000븁\x0000ポケモンって　ほんとうに\xfffeふしぎな　いきもの　だよね!
+Bel: \xf000Ā\x0001\x0000　しってる?\xf000븁\x0000とくていの　わざを　おぼえた\xfffeじょうたいで　レベルアップすると\xf000븀\x0000しんかする　ポケモンが　いるんだよ!\xf000븁\x0000ポケモンって　ほんとうに\xfffeふしぎな　いきもの　だよね!
+Bel: \xf000Ā\x0001\x0000　しってる?\xf000븁\x0000きまった　どうぐを　もたせておいて\xfffeよるに　レベルアップすると\xf000븀\x0000しんかする　ポケモンが　いるんだよ!\xf000븁\x0000ポケモンって　ほんとうに\xfffeふしぎな　いきもの　だよね!
+Bel: おっ　\xf000Ā\x0001\x0000!\xf000븁\x0000きょうは　あたしと\xfffeポケモンしょうぶ　しない?
+Bel: うん!　\xf000Ā\x0001\x0000!\xf000븁\x0000しつないでの　しょうぶ　だからね\xfffeこうふん　しすぎちゃ　ダメだよ!\xf000븁\x0000
+Bel: ええええ!\xf000븁\x0000ちょっと……\xfffeううん　けっこう　がっかり……
+Bel: やっぱり　あたしと\xfffeポケモンしょうぶ　するでしょ?
+Bel: ふえええ!\xf000븁\x0000やっぱり　\xf000Ā\x0001\x0000は\xfffeすごく　つよい　トレーナーだよね!\xf000븁\x0000あたし　\xf000Ā\x0001\x0000が　する\xfffeポケモンしょうぶ　だいすき　だよ\xf000븁\x0000なんだか　ポケモンも\xfffeとても　うれしそうなんだもん!
+アララギはかせと　だれだろう……?\xfffeえがおの　だんせいが　うつっている
 ちちと　むすめ……\xfffeふたりの　アララギはかせの　しゃしん
 たんけんの　こころえ　その１\xfffeＸボタンで　メニューがひらく
 たんけんの　こころえ　その２\xfffeポケモン　レポートで　きろくできる
-ポケモンに　ついて　かかれた\xfffeほんが　いっぱい　ある！
-ポケモンに　かんする　しりょうや\xfffeけんきゅうほうこくが　たくさん！
+ポケモンに　ついて　かかれた\xfffeほんが　いっぱい　ある!
+ポケモンに　かんする　しりょうや\xfffeけんきゅうほうこくが　たくさん!

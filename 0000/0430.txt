@@ -1,4 +1,4 @@
-Cheren: \xf000Ā\x0001\x0000\xf000븁\x0000アララギはかせに　きいたけど\xfffeポケモンを　もらえるんだって？\xf000븁\x0000
+Cheren: \xf000Ā\x0001\x0000\xf000븁\x0000There is the gift from the Professor!\xf000븁\x0000
 ……　……　……\xfffe……　……　……\xf000븁\x0000Bel is late again……?\xf000븁\x0000
 Bel: Well, I'm Sorry.\xfffe... if I have become slow...\xf000븁\x0000
 Cheren: Hey,　Bel\xf000븁\x0000You're acting like a 10 year old\xfffeby being late...\xf000븁\x0000Professor Araragi brought us a box.\xfffeI think it has Pokémon in it...?\xf000븁\x0000

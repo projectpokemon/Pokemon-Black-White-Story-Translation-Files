@@ -1,38 +1,38 @@
-アララギ『ハーイ！\xfffe\xf000Ā\x0001\x0000！！\xf000븁\x0000ポケモンと　ともに　みちをゆく！\xfffeこれが　トレーナーの　よろこびだよね\xf000븁\x0000ということで！　トレーナーにとって\xfffeいちばん　だいじな　ばしょを\xf000븀\x0000おしえるから　ついてきてね！\xf000븁\x0000
-みなさま……　これから\xfffeだいじな　おはなしを　します\xf000븁\x0000もうしばらく　おまちください
-ちょっと……\xfffeいま　じゅんびちゅう　なんです\xf000븁\x0000もうしばらく　おまちください
-ちょっと……\xfffeいま　じゅんびちゅう　なんです\xf000븁\x0000もうしばらく　おまちください\xf000븁\x0000
+Ah, there you are!\xfffe\xf000Ā\x0001\x0000!!\xf000븁\x0000I've been waiting for you\xf000븁\x0000I think it's important to\xfffetalk about what this building is!\xf000븁\x0000It's where you go to heal\xfffeyour Pokémon!\xf000븁\x0000....\xf000븀\x0000Come with me!\xf000븁\x0000
+Hey!……\xfffeI'm a member of Team Plasma!\xf000븁\x0000This path is closed off\xfffeuntil further notice!
+Hey!……\xfffeI'm a member of Team Plasma!\xf000븁\x0000This path is closed off\xfffeuntil further notice!
+Hey!……\xfffeYou cannot go through here!\xf000븁\x0000Please come back later!\xf000븁\x0000
 no data
-チェレン『ポケモンセンターの　まえで\xfffeはかせが　まっていなかった？\xf000븁\x0000ぼくは　いいんだよ\xfffeポケモンセンターのこと　しっているし\xf000븁\x0000それより　はやく　たたかいたいよ！\xfffeつよくなるには　じっせんが　１ばんさ
-なんか　ひろばで\xfffeはじまるらしいぞ！\xf000븁\x0000
-んじゃ　ちょいと\xfffeいってみるかね\xf000븁\x0000
-チェレン『\xf000Ā\x0001\x0000\xfffeこっちに　きなよ\xf000븁\x0000
-ワタクシは　ゲーチス\xf000븁\x0000プラズマだんの　ゲーチスです\xf000븁\x0000きょう　みなさんに\xfffeおはなしするのは　ポケモンを\xf000븀\x0000じゆうに　しましょう　ということです
-えっ？
-なに？
-ゲーチス『われわれ　にんげんは　\xfffeポケモンと　いっしょに\xf000븀\x0000くらして　きました\xf000븁\x0000おたがいを　もとめあい\xfffeひつようとしあう　パートナー\xf000븁\x0000そうおもって　おられる\xfffeひと　ばかりでしょう\xf000븁\x0000ですが\xfffeほんとうに　そうなのでしょうか？\xf000븁\x0000われわれ　にんげんが\xfffeそう　おもいこんでいるだけ……\xf000븁\x0000そんな　ふうに\xfffeかんがえたことは　ありませんか？\xf000븁\x0000
+Cheren: ……There is no Gym here.\xf000븁\x0000\xfffe...\xf000븁\x0000To think of it, there aren't trainers\xfffehere either!\xf000븁\x0000I think I will go to Sanyou City\xfffeand take on the Gym Leader\xf000븁\x0000You better get going too!\xf000븁\x0000Oh wait……　You're suppose to go to the \xfffePokémon center\xf000븁\x0000The Professor is waiting outside.
+There are some people causing\xfffean uproar!\xf000븁\x0000
+I wonder what they would want\xfffe...what legendary...\xf000븁\x0000
+Cheren: \xf000Ā\x0001\x0000\xfffeCome over here!\xf000븁\x0000
+Can I get everyone's attention!\xf000븁\x0000I am the leader of Team Plasma\xf000븁\x0000I am here to tell a tale of\xfffea legendary beast\xf000븀\x0000A beasts not seen by many humans!
+Huh?
+What?
+Geechisu: We have been living side by side by\xfffePokémon as partners.\xf000븀\x0000Is that what we should really be\xfffedoing?\xf000븁\x0000Are they really our equal,\xfffeor are we the ones to control them!\xf000븁\x0000We make them battle everyday\xfffeand we teach them what they need!xf000븁\x0000so...\xfffeAre they really our equal？\xf000븁\x0000Or are they our tools\xfffeof war……\xf000븁\x0000What our intetions are mean no\xfffeharm to any of you!\xf000븁\x0000
 トレーナーは\xfffeポケモンに　すきかって\xf000븀\x0000めいれい　している……\xf000븁\x0000しごとの　パートナーとしても\xfffeこきつかっている……\xf000븁\x0000そんなことはないと　だれが\xfffeはっきりと　いいきれるのでしょうか
 ドキ！
 そんな
 わからんよ
-ゲーチス『いいですか\xfffeみなさん\xf000븁\x0000ポケモンは　にんげんとは　ことなり\xfffeみちの　かのうせいを　ひめた\xf000븀\x0000いきもの　なのです\xf000븁\x0000われわれが　まなぶべき　ところを\xfffeかずおおく　もつ　そんざいなのです\xf000븁\x0000そんな　ポケモンたちに　たいし\xfffeワタクシたち　にんげんが\xf000븀\x0000すべきことは　なんでしょうか
+Geechisu: いいですか\xfffeみなさん\xf000븁\x0000ポケモンは　にんげんとは　ことなり\xfffeみちの　かのうせいを　ひめた\xf000븀\x0000いきもの　なのです\xf000븁\x0000われわれが　まなぶべき　ところを\xfffeかずおおく　もつ　そんざいなのです\xf000븁\x0000そんな　ポケモンたちに　たいし\xfffeワタクシたち　にんげんが\xf000븀\x0000すべきことは　なんでしょうか
 なあに？
 かいほう？
-ゲーチス『そうです！\xfffeポケモンを　じゆうに　することです！！\xf000븁\x0000そうしてこそ\xfffeにんげんと　ポケモンは\xf000븀\x0000はじめて　たいとうに　なれるのです\xf000븁\x0000みなさん\xfffeポケモンと　ただしく　つきあうために\xf000븀\x0000どうすべきか　よく　かんがえてください\xf000븁\x0000というところで\xfffeワタクシ　ゲーチスの　はなしを\xf000븀\x0000おわらせて　いただきます\xf000븁\x0000ごせいちょう　かんしゃ　いたします\xf000븁\x0000
+Geechisu: そうです！\xfffeポケモンを　じゆうに　することです！！\xf000븁\x0000そうしてこそ\xfffeにんげんと　ポケモンは\xf000븀\x0000はじめて　たいとうに　なれるのです\xf000븁\x0000みなさん\xfffeポケモンと　ただしく　つきあうために\xf000븀\x0000どうすべきか　よく　かんがえてください\xf000븁\x0000というところで\xfffeワタクシ　ゲーチスの　はなしを\xf000븀\x0000おわらせて　いただきます\xf000븁\x0000ごせいちょう　かんしゃ　いたします\xf000븁\x0000
 おじさん『いまの　はなし……\xfffeわしたちは　どうすれば　いいんだ？\xf000븁\x0000
 おにいさん『ポケモンを　かいほうって\xfffeそんな　はなし　ありえないでしょ！\xf000븁\x0000
-？？？『\xf000븉\x0001\x0001キミの　ポケモン\xf000븁\x0000いま　はなしていたよね……\xf000븉\x0001\x0000\xf000븁\x0000
-チェレン『……ずいぶんと\xfffeはやくち　なんだな\xf000븁\x0000それに　ポケモンが\xfffeはなした……　だって？\xf000븀\x0000おかしなことを　いうね\xf000븁\x0000
-？？？『\xf000븉\x0001\x0001ああ　はなしているよ\xf000븁\x0000そうか\xfffeキミたちにも　きこえないのか……\xf000븀\x0000かわいそうに……\xf000븁\x0000ボクの　なまえは　Ｎ（エヌ）\xf000븉\x0001\x0001\xf000븁\x0000
-チェレン『……ぼくは　チェレン\xfffeこちらは　\xf000Ā\x0001\x0000\xf000븁\x0000たのまれて　ポケモンずかんを\xfffeかんせい　させるための\xf000븀\x0000たびに　でたところ\xf000븁\x0000もっとも　ぼくの　もくひょうは\xfffeチャンピオン　だけど\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001ポケモンずかん　ね……\xf000븁\x0000そのために　かずおおくの　ポケモンを\xfffeモンスターボールに　とじこめるんだ\xf000븁\x0000ボクも　トレーナーだが\xfffeいつも　ぎもんに　おもう\xf000븁\x0000ポケモンは\xfffeそれで　シアワセなのか　って\xf000븉\x0001\x0000\xf000븁\x0000
+???: \xf000븉\x0001\x0001キミの　ポケモン\xf000븁\x0000いま　はなしていたよね……\xf000븉\x0001\x0000\xf000븁\x0000
+Cheren: ……ずいぶんと\xfffeはやくち　なんだな\xf000븁\x0000それに　ポケモンが\xfffeはなした……　だって？\xf000븀\x0000おかしなことを　いうね\xf000븁\x0000
+???: \xf000븉\x0001\x0001ああ　はなしているよ\xf000븁\x0000そうか\xfffeキミたちにも　きこえないのか……\xf000븀\x0000かわいそうに……\xf000븁\x0000ボクの　なまえは　Ｎ（エヌ）\xf000븉\x0001\x0001\xf000븁\x0000
+Cheren: ……ぼくは　チェレン\xfffeこちらは　\xf000Ā\x0001\x0000\xf000븁\x0000たのまれて　ポケモンずかんを\xfffeかんせい　させるための\xf000븀\x0000たびに　でたところ\xf000븁\x0000もっとも　ぼくの　もくひょうは\xfffeチャンピオン　だけど\xf000븁\x0000
+N: \xf000븉\x0001\x0001ポケモンずかん　ね……\xf000븁\x0000そのために　かずおおくの　ポケモンを\xfffeモンスターボールに　とじこめるんだ\xf000븁\x0000ボクも　トレーナーだが\xfffeいつも　ぎもんに　おもう\xf000븁\x0000ポケモンは\xfffeそれで　シアワセなのか　って\xf000븉\x0001\x0000\xf000븁\x0000
 \xf000븉\x0001\x0001そうだね　\xf000Ā\x0001\x0000だったか\xf000븁\x0000キミの　ポケモンの　こえを\xfffeもっと　きかせてもらおう！\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001モンスターボールに\xfffeとじこめられている　かぎり……\xf000븁\x0000ポケモンは　かんぜんな\xfffeそんざいには　なれない\xf000븁\x0000ボクは　ポケモンという\xfffeトモダチの　ため\xf000븀\x0000せかいを　かえねば　ならない\xf000븉\x0001\x0000\xf000븁\x0000
-チェレン『……おかしな　ヤツ\xf000븁\x0000だけど　きにしないで　いいよ\xf000븁\x0000トレーナーと　ポケモンは\xfffeおたがい　たすけあっている！\xf000븁\x0000じゃあ　ぼくは　さきにいく\xf000븁\x0000つぎのまち……　サンヨウシティの\xfffeジムリーダーと　たたかいたいんだ\xf000븁\x0000きみも　ジムリーダーと\xfffeどんどん　たたかいなよ\xf000븁\x0000トレーナーが　つよくなるには\xfffeかくちに　いる　ジムリーダーと\xf000븀\x0000しょうぶするのが　いちばん　だからね\xf000븁\x0000
-あら？\xf000븁\x0000あなたと　あなたのポケモン\xfffeどことなく　にてるって　かんじ！
-おじいちゃんが\xfffeいいことを　おしえてあげよう\xf000븁\x0000いいかね？　いちどに　つれあるける\xfffeポケモンは　６ひきまで　なんじゃ！
-ポケモンは　ひとのため\xfffeちからのかぎり　がんばる\xf000븁\x0000ひとは　そんな　ポケモンのため\xfffeあいをもって　せっする\xf000븁\x0000それが　おたがいの　かんけいだよ\xfffeわたしは　そう　おもってるよ
+N: \xf000븉\x0001\x0001モンスターボールに\xfffeとじこめられている　かぎり……\xf000븁\x0000ポケモンは　かんぜんな\xfffeそんざいには　なれない\xf000븁\x0000ボクは　ポケモンという\xfffeトモダチの　ため\xf000븀\x0000せかいを　かえねば　ならない\xf000븉\x0001\x0000\xf000븁\x0000
+Cheren: ……There is no Gym here.\xf000븁\x0000To think of it, there aren't trainers\xfffehere either!\xf000븁\x0000 think I will go to Sanyou City\xfffeand take on the Gym Leader\xf000븁\x0000You better get going too!\xf000븁\x0000Oh wait……　You're suppose to go to the Pokémon\xfffecenter\xf000븁\x0000The Professor is waiting outside.\xf000븁\x0000You better go now\xfffeI don't think she is very patient\xf000븁\x0000While your doing that\xfffeI will battle to become strong\xfffeand stronger\xf000븀\x0000See ya later!x\xf000븁\x0000
+Oh?\xf000븁\x0000 I don't speak English well\xfffeI speak mostly Kanji！
+Can you believe it?\xfffeI was called a Grandpa!\xf000븁\x0000Do I look that old to you！
+Pokémon grow stronger by leveling..\xf000븁\x0000if your Pokémon was from\xfffea friend it might not obey.\xf000븁\x0000You will need a certain about of\xfffebadges to impress the Pokémon\xf000븁\x0000Keep that in mind young trainer!
 すばらしい　けしきと\xfffeすてきな　ねいろ……\xf000븁\x0000ぼかぁ　しあわせきぶんに　なれる\xfffeこの　ばしょが　すきなんだなぁ
-くさむらから　とびでて　おそってくる\xfffeやせいの　ポケモンも　いるけれど\xf000븁\x0000ポケモンと　こころを　かよわせて\xfffeなかよくなることだって　できるわ！
+Pokémon are usually found in grass\xfffebut some are found in water!\xf000븁\x0000I love the different possibilities\xfffethat we get!
 カラクサタウン\xfffeおいしげるツルは　はんえいのあかし
 no data
