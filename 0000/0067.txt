@@ -49,11 +49,11 @@
 この　ギアステーションには\xfffeトレーナーと　たたかえる　でんしゃ……\xf000븀\x0000バトルサブウェイが　あるのよ！\xf000븁\x0000
 あなた　トレーナーね！　これを\xfffeなにもいわずに　うけとりなさい\xf000븁\x0000
 バトルレコーダーを　もっていると\xfffeともだち　との　しょうぶや\xf000븀\x0000バトルサブウェイでの　しょうぶを\xf000븀\x0000きろく　することが　できるのよ！\xf000븁\x0000というわけで　なぞのオンナは\xfffeどこかに……　そう！\xf000븀\x0000トライアルハウスに　さっていくわ！\xf000븁\x0000
-ライモンシティ\xfffeいなずまきらめく　かがやきのまち
-ビッグスタジアム\xfffeベースボール　＆　フットボール
-リトルコート\xfffeテニス　＆　バスケット
-バトルサブウェイ\xfffeノッテ　タタカウ！
-ミュージカル　ホール
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeビッグスタジアムや\xfffeリトルコートでは　きまった　じかんに\xf000븀\x0000\xfffeしあいが　おこなわれています！\xf000븁\x0000\xfffeあこがれの　スポーツせんしゅと\xfffeポケモンしょうぶが　できるかも！
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeミュージカルホールでは　いつでも\xfffeさんかしゃを　ぼしゅうちゅう！\xf000븁\x0000\xfffeさんかすれば　するほど\xfffeすてきな　グッズが　もらえるかも！
-トライアルハウス！\xfffeトレーナーとしての　ちからだめし！
+Raimon City\xfffeBright Town of Flashing Lightning
+Big Stadium\xfffeBaseball　&　Basketball
+Little Court\xfffeTennis & Basketball
+Battle Subway\xfffeGet into battles!
+Musical Hall
+Trainer Tips\xf000븁\x0000\xfffe\xfffeAt the Big Stadium\xfffeand Little Court,\xf000븀\x0000\xfffethere will be games!\xf000븁\x0000\xfffeYou may be able to\xfffebattle some of players!
+Trainer Tips\xf000븁\x0000\xfffe\xfffeThe Musical Hall is always\xfffelooking for new participants!\xf000븁\x0000\xfffeYou may be able to leave\xfffewith a prize!
+Battle Testing Facility!\xfffeTest your strength as a trainer!

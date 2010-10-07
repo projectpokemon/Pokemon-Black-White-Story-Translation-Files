@@ -52,8 +52,8 @@
 オレは……　こいする　おとこ\xfffeそのなも　チャールズ\xf000븁\x0000そんなオレから　アドバイス……\xf000븁\x0000チャレンジこそが　じんせい　なんだぜ
 ……ふっ　ざまあねえな\xfffeおしえるつもりが　おそわるとはな\xf000븁\x0000それにしても　おまえには\xfffeみどころが　ある\xf000븁\x0000じぶんの　ポケモンへの　りかいがなきゃ\xfffeローテーションバトルは　かてないからな\xf000븁\x0000ローテーションバトルが　したけりゃ\xfffeソウリュウシティに　いきな……
 オレは……　こいする　おとこ\xfffeそのなも　チャールズ\xf000븁\x0000バイクにのって　かぜになるのが\xfffeにあう　ツミな　おとこさ
-ホドモエのはねばし
-ようこそ　ホドモエシティへ！
+Hodomoe Drawbridge
+Welcome to Hodomoe City!
 ホドモエが　あらわしているのは\xfffeふねの　ほと　うずまく　みずのこと
-ホドモエの　マーケット
-ホドモエシティ　ポケモンジム\xfffeリーダー　ヤーコン\xf000븀\x0000\xfffeアンダーグラウンド　ボス
+Hodomoe Market
+Hodomoe Pokémon Gym\xfffeLeader: Yakon\xf000븀\x0000\xfffeThe Underground Boss

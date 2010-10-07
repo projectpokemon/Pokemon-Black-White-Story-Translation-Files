@@ -2,7 +2,7 @@ Welcome!\xfffeHow may I help you?
 Welcome to the TM Shop!\xfffeHow may I help you?
 Is there anything else I may do\xfffefor you?
 Please come again!
-Welcome!\xf000븁\x0000
+Hello!\xf000븁\x0000
 Buy
 Sell
 Nevermind

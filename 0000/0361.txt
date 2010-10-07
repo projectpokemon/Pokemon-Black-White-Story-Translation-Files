@@ -47,7 +47,7 @@
 ポケモンも　パフォーマーも　みんな\xfffeすごい　わざの　もちぬし　なのね！
 だれかを　えがおに　できるなんて\xfffeすてきな　さいのうだと　おもうな！\xf000븁\x0000そう！　ポケモンは　ステキなの！\xfffeだって　アナタを　えがおにするもの！
 ろじょうパフォーマンスも\xfffeライモンの　みりょく　だなや！
-５ばんどうろ\xfffe　パフォーマー　ストリート
-ホドモエのはねばし
-ホドモエのはねばし
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeバッグには　どうぐの　しゅるいごとに\xfffeポケットが　あります\xf000븁\x0000\xfffeいれる　どうぐの　しゅるいに　よって\xfffeじどうてきに　ふりわけられます\xf000븁\x0000\xfffeつかいたい　どうぐが　どこに　あるのか\xfffeポケットの　なまえで　すぐわかります
+Route 5\xfffe　Street Performances
+Hodomoe Drawbridge
+Hodomoe Drawbridge
+Trainer Tips\xf000븁\x0000\xfffe\xfffeYour Bag has pockets\xfffefor each type of item.\xf000븁\x0000\xfffeItems automatically get sorted\xfffewhen placed in the bag.\xf000븁\x0000\xfffeIt's easy to find an item\xfffeby looking at the name of the pockets.

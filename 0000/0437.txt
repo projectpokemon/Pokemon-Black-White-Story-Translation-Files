@@ -1,14 +1,14 @@
-Araragi: This is the Pokémon Center!\xfffeAre you feeling tired？\xf000븁\x0000If so, the Pokémon Center is just the\xfffeplace for you!\xf000븁\x0000
+Araragi: This is the Pokémon Center!\xfffeAre you feeling tired?\xf000븁\x0000If so, the Pokémon Center is just the\xfffeplace for you!\xf000븁\x0000
 Bel: There you are!\xf000븁\x0000
-Araragi: The Pokémon Center is\xfffea great place!\xf000븁\x0000It's amazing!\xf000븁\x0000You will return here if you are wiped out!\xf000븀\x0000Don't try not to lose though, okay?\xf000븁\x0000Your Pokémon might become upset.\xf000븁\x0000Okay \xf000Ā\x0001\x0000\xfffeTry it out. Heal your Pokémon!\xf000븁\x0000
-Araragi: ちょっと　\xf000Ā\x0001\x0000\xfffeどこへ　いくのよ!？\xf000븁\x0000ほら!　おねえさんに　はなしかけて\xfffeきみの　ポケモンを　あずけてみて\xf000븁\x0000
+Araragi: The Pokémon Center is\xfffea great place!\xf000븁\x0000It's amazing!\xf000븁\x0000You will return here if you get wiped out!\xf000븁\x0000Don't try to lose though, okay?\xfffeYour Pokémon might become upset.\xf000븁\x0000Okay \xf000Ā\x0001\x0000\xfffeTry it out. Heal your Pokémon!\xf000븁\x0000
+Araragi: Hey!　\xf000Ā\x0001\x0000\xfffeWhere are you going?？\xf000븁\x0000We aren't done here yet,\xfffecome back here!\xf000븁\x0000
 Araragi: Try out the Pokémon Center\xfffegive your Pokémon to Nurse Joy.
 Bel: \xf000Ā\x0001\x0000,Try it out!
-Araragi: Okay!\xfffeLets head to the Pokémon Storage!\xf000븁\x0000You can switch out your Pokémon\xfffehere.!\xf000븁\x0000
-Araragi: Here it is!\xfffethis is the well known PC!\xf000븁\x0000It's been around for many many years.\xf000븁\x0000We all use this PC..\xf000븁\x0000It is needed by many Pokémon trainers\xfffelike yourself\xf000븁\x0000You can come and pick them up\xfffeWhenever you want!\xf000븁\x0000Oh, don't forget to bring out your\xfffePokémon, they won't gather any EXP.\xf000븀\x0000Be sure to switch often!\xf000븁\x0000Now whats next?\xf000븁\x0000Ah, yes, the Pokémart\xfffeCome with me!\xf000븁\x0000
-Bel: Wha……\xf000븁\x0000So I can leave my Pokémon here?\xf000븁\x0000……?\xf000븁\x0000
-Araragi: Indeed!\xfffeIt's quite amazing ain't it?\xf000븀\x0000Whenever you have 6 Pokémon\xf000븁\x0000Pokémon caught will automatically\xfffebe transfered to your PC!\xf000븁\x0000Okay, we must continue now, Bel!\xf000븁\x0000
-Araragi: This is\xfffethe Pokémon Mart!\xf000븁\x0000It's very useful when\xfffeyou need supplies.\xf000븁\x0000You can sell stuff here too!\xf000븁\x0000Be sure to restock often!\xf000븁\x0000/You can always run out\xfffeof Pokéballs!\xf000븁\x0000
-Araragi: Well!\xf000븁\x0000Thats about all there is here other\xfffethan the Wi-Fi Rooms!\xf000븁\x0000You can trade Pokémon via\xfffewireless network!\xf000븁\x0000You will need to get the 1st\xfffeGym badge first!\xf000븁\x0000You can also battle people online\xfffeif you have a Friend Code.\xf000븁\x0000Well, I can't go telling you everything\xfffecan I?\xf000븁\x0000I better go outside.\xf000븁\x0000That Team Plasma has been lurking\xfffearound for quite some time!\xf000븁\x0000
+Araragi: Okay!\xfffeLet's head to the Pokémon Storage!\xf000븁\x0000You can switch out your Pokémon\xfffehere!\xf000븁\x0000
+Araragi: Here it is!\xfffethis is the well known PC!\xf000븁\x0000It's been around for many many years.\xf000븁\x0000We all use this PC.\xf000븁\x0000It is needed by many Pokémon trainers\xfffelike yourself\xf000븁\x0000You can come and pick them up\xfffewhenever you want!\xf000븁\x0000Also, don't forget to bring out your\xfffePokémon, they won't gather any EXP.\xf000븀\x0000Be sure to switch often!\xf000븁\x0000Now what's next?\xf000븁\x0000Ah, yes, the Pokémart\xfffeCome with me!\xf000븁\x0000
+Bel: Wha...\xf000븁\x0000So I can leave my Pokémon here?\xf000븁\x0000...?\xf000븁\x0000
+Araragi: Indeed!\xfffeIt's quite amazing isn't it?\xf000븀\x0000Whenever you have 6 Pokémon\xf000븁\x0000Pokémon caught will automatically\xfffebe transferred to your PC!\xf000븁\x0000Okay, we must continue now, Bel!\xf000븁\x0000
+Araragi: This is\xfffethe Pokémon Mart!\xf000븁\x0000It's very useful when\xfffeyou need supplies.\xf000븁\x0000You can sell stuff here too!\xf000븁\x0000Be sure to restock often!\xf000븁\x0000You can always run out\xfffeof Pokéballs!\xf000븁\x0000
+Araragi: Well!\xf000븁\x0000Thats about all there is here other\xfffethan the Wi-Fi Rooms!\xf000븁\x0000You can trade Pokémon via\xfffea wireless network!\xf000븁\x0000You will need to get the 1st\xfffeGym badge first!\xf000븁\x0000You can also battle people online\xfffeif you have a Friend Code.\xf000븁\x0000Well, I can't go telling you everything\xfffecan I?\xf000븁\x0000I better go outside.\xf000븁\x0000That Team Plasma has been lurking\xfffearound for quite some time!\xf000븁\x0000
 Bel: Well, wasn't that interesting?\xf000븁\x0000I better get some items\xfffeI'm sure I'll need them!\xf000븁\x0000
-You can save your progress by\xfffepressing the X button and tapping SAVE!……\xf000븀\x0000It's always important to save!
+You can save your progress by\xfffepressing the X button and tapping SAVE!\xf000븀\x0000It's always important to save!

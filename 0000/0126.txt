@@ -18,9 +18,9 @@
 ようこそ！　イッシュちほう\xfffeさいきょう　にして\xf000븀\x0000さいだいの　しれん！\xf000븀\x0000といわれる　ソウリュウジムへ！\xf000븁\x0000まずは　この　おいしいみず\xfffeうけとって　くださいっすよ\xf000븁\x0000
 ソウリュウジムの　しかけに　ついて\xfffeかんたんに　せつめい　するっす！\xf000븁\x0000この　ジムは\xfffeドラゴンの　せなか　くび　そして\xf000븀\x0000あたまが　とおりみちに　なってるっす\xf000븁\x0000この　とおりみち　ですけど\xfffeドラゴンの　うでに　ある　スイッチに\xf000븀\x0000のることで　いきさきが　かわるっす\xf000븁\x0000ドラゴンの　くびが　どう　うごくか\xfffeちゅうい　してくださいっす！
 ジムリーダーに　かったんですか！\xfffeいやー　スゴイっすね！\xf000븁\x0000あっ　いままでに　サービスした\xfffeおいしいみずの　だいきん……\xf000븀\x0000そろそろ　もらえますかね？\xf000븁\x0000……　……　……\xfffe……　……　……\xf000븁\x0000ウソっす！\xfffeウソですよ！\xf000븁\x0000いやー　ほんとうに\xfffeおめでとう　ございます！！
-ソウリュウ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　アイリス\xfffeにんてい　トレーナー！
-ソウリュウ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　アイリス\xfffeにんてい　トレーナー！\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
-ソウリュウ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　アイリス\xfffeにんてい　トレーナー！\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeチェレン\xf000븀\x0000\xfffeベル
-ソウリュウ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　シャガ\xfffeにんてい　トレーナー！
-ソウリュウ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　シャガ\xfffeにんてい　トレーナー！\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
-ソウリュウ　ポケモンジム\xf000븁\x0000\xfffeジムリーダー　シャガ\xfffeにんてい　トレーナー！\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeチェレン\xf000븀\x0000\xfffeベル
+Souryuu Pokémon Gym\xf000븁\x0000\xfffeLeader: Iris\xfffeCertified Trainers!
+Souryuu Pokémon Gym\xf000븁\x0000\xfffeLeader: Iris\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
+Souryuu Pokémon Gym\xf000븁\x0000\xfffeLeader: Iris\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBel
+Souryuu Pokémon Gym\xf000븁\x0000\xfffeLeader: Shaga\xfffeCertified Trainers!
+Souryuu Pokémon Gym\xf000븁\x0000\xfffeLeader: Shaga\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
+Souryuu Pokémon Gym\xf000븁\x0000\xfffeLeader: Shaga\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBel

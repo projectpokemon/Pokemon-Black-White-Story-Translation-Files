@@ -71,10 +71,10 @@
 アララギ『ありがとッ！\xfffeさいこうの　へんじ　よね！\xf000븁\x0000わたしも　きみたちに\xfffeポケモンを　プレゼントできて\xf000븀\x0000すごく　うれしかったの！\xf000븁\x0000だって　また　ひとと　ポケモンの\xfffeステキな　であいが　うまれたから！\xf000븁\x0000
 \xf000Ā\x0001\x0000\xfffeこれ　プレゼントよ！\xf000븁\x0000
 アララギ『その　マスターボールは\xfffeどんな　ポケモンも　ぜったいに\xf000븀\x0000つかまえられる　さいこうの　ボール\xf000븁\x0000こんな　かたちでしか\xfffeおうえん　できないけれど……\xf000븁\x0000\xf000Ā\x0001\x0000は　\xf000Ā\x0001\x0000\xfffeどんなことが　あっても\xf000븀\x0000まよわずに　ポケモンと　すすんでね！\xf000븁\x0000じゃーねー！！\xf000븁\x0000
-ここは　ソウリュウシティ\xfffeかこと　みらいが　からみあう　まち
-シャガの　いえ
-バトルの　やかた\xfffeザ・トリプルバトル！
-バトルの　やかた\xfffeザ・ローテーションバトル！
-おとくな　けいじばん！\xf000븁\x0000\xfffe\xfffeシャガしちょうが　みとめた\xfffeつよい　トレーナーに\xf000븁\x0000\xfffeドラゴンタイプ　さいきょうの　わざを\xfffeでんじゅ　します！\xf000븁\x0000\xfffeくわしくは\xfffeシャガしちょうの　いえで！
-ソウリュウシティ　ポケモンジム\xfffeリーダー　アイリス\xf000븀\x0000\xfffeりゅうの　こころを　しる　むすめ
-ソウリュウシティ　ポケモンジム\xfffeリーダー　シャガ\xf000븀\x0000\xfffeスパルタン　メイヤー
+Souryuu City\xfffeWhere the Past and Future Interlock
+Shaga's House
+The Battle House\xfffeTriple Battling!
+The Battle House\xfffeRotation Battling!
+Trainer Tips\xf000븁\x0000\xfffe\xfffeThe mayor, Shaga, is\xfffea strong trainer.\xf000븁\x0000\xfffeHe can teach Dragon Pokémon\xfffethe most powerful Dragon attack!\xf000븁\x0000\xfffeGo to his house\xfffefor more info!
+Souryuu Pokémon Gym\xfffeLeader: Iris\xf000븀\x0000\xfffeDaughter with the Heart of a Dragon
+Souryuu Pokémon Gym\xfffeLeader: Shaga\xf000븀\x0000\xfffeThe Spartan Mayor

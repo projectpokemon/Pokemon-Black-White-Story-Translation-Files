@@ -15,12 +15,12 @@
 まけたとき
 いちばんになったとき
 おしえない
-シングルトレイン　のりば
-ダブルトレイン　のりば
-マルチトレイン　のりば
-Ｗｉ－Ｆｉトレイン　のりば
-スーパーシングルトレイン　のりば
-スーパーダブルトレイン　のりば
-スーパーマルチトレイン　のりば
-カナワタウンいき　トレイン　のりば
+Single Line
+Double Line
+Multi Line
+Wi-Fi Train Line
+Super Single Line
+Super Double Line
+Super Multi Line　
+Kanawa Town　Line
 ただいま　ちょうせいちゅう　です
