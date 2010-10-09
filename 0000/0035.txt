@@ -16,5 +16,5 @@
 オレたち　ダンスで\xfffeメッセージ　つたえる！\xf000븁\x0000うれしいことや　かなしいこと……\xfffeせかいは　こんなにも\xf000븀\x0000かがやいてる　ってことを！\xf000븁\x0000
 オーケー！\xfffeレッツ　ダンシング！\xf000븁\x0000
 ひとが　いる　けしき……\xfffeポケモンが　いる　けしき……\xf000븁\x0000ともに　すばらしいのです\xfffeだから　えを　かくのです\xf000븁\x0000あっ　アトリエは\xfffeモードストリートを\xf000븀\x0000すすんだところに　ありますよ
-ここは　ヒウン　セントラルエリア\xfffeこのさき　４ばんどうろ
-このさき　モードストリート\xfffeヒウンアイス　＆　アトリエ　ヒウン
+Hiun Central Square\xfffe↑ Route 4
+↓ Maude Street\xfffeHiun Icee　&　Hiun Art Gallery

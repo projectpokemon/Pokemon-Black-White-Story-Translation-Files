@@ -11,11 +11,11 @@ no data
 はたらく　じょせいは　うつくしく\xfffeたたかう　ポケモンは　ステキなの！
 バトルカンパニーでは\xfffeうでじまんの　トレーナーを\xf000븀\x0000かんげい　していまーす！
 つぎこそ！　つぎこそは\xfffeヒウンアイスを　たべたーい！
-ヒウンシティ\xfffeヒウンは　そらとぶくも　めでたいくも
-ヒウンシティ\xfffeヒウンは　そらとぶくも　めでたいくも
-このさき　ヒウンストリート\xfffeうみがわ　ゆうらんせん　のりば
-このさき　モードストリート\xfffeうみがわ　プライムピア
-このさき　スリムストリート\xfffeうみがわ　ユナイテッドピア
-このさき　ポケモンジム\xfffeうみがわ　リバティピア
+Hiun City\xfffeヒウンは　そらとぶくも　めでたいくも
+Hiun City\xfffeヒウンは　そらとぶくも　めでたいくも
+↑ Hiun Street\xfffe↓ Cruise Pier
+↑ Maude Street\xfffe↓ Prime Pier
+↑ Slim Street\xfffe↓ United Pier
+↑ Pokémon Gym\xfffe↓ Liberty Pier
 すれちがい　ちょうさたい　ほんぶ\xfffe……ひとはあるくから　すれちがう
-バトルカンパニー\xfffeうでじまんの　トレーナー　ようこそ！
+Battle Company\xfffeAll trainers are welcome!
