@@ -6,7 +6,7 @@ Here you are!\xf000븁\x0000\xfffeほのおタイプの　わざを　つかえ�
 Here you are!\xf000븁\x0000\xfffeみずタイプの　わざを　つかえるから\xfffeほのおタイプに　あいしょう　いいわよ\xf000븁\x0000
 Here you are!\xf000븁\x0000\xfffeくさタイプの　わざを　つかえるから\xfffeみずタイプに　あいしょう　いいわよ\xf000븁\x0000
 \xf000Ā\x0001\x0000は\xfffe\xf000ā\x0001\x0001を　てにいれた！
-てにいれた　\xf000ā\x0001\x0001に\xfffeGive It a nickname?
+てにいれた　\xf000ā\x0001\x0001に\xfffeGive it a nickname?
 いろんなタイプの　ポケモンが　いれば\xfffeどんな　ポケモンが　でてきても\xf000븀\x0000\xfffeきっと　なんとか　なるわよ！
 Bel: Oh!\xf000Ā\x0001\x0000も\xfffeAre you looking for the strange Pokemon?\xf000븁\x0000
 Bel: それにしても\xfffeゆめを　みせるって\xf000븀\x0000どんな　しくみ　なんだろう？
@@ -14,7 +14,7 @@ Bel: Hey, hey!\xf000븁\x0000なんだか　かべの　むこうから\xfffeDid
 Muuun ...
 Bel: あっ　まってえ！\xf000븁\x0000
 ？？？: Did Munna come out?\xf000븁\x0000
-？？？: Look, look！\xfffeDase's dream smoke!\xf000븁\x0000
+？？？: Look, look！\xfffeThat's dream smoke!\xf000븁\x0000
 Munna: ... Muu!
 Bel: Hey!!\xf000븁\x0000あなたたち　だあれ？\xf000븁\x0000What are you doing??\xf000븁\x0000
 ？？？: わたしたちの　ことか？\xf000븁\x0000わたしたち　プラズマだんは\xfffeおろかな　ひとびとから\xf000븀\x0000ポケモンを　かいほう　するため\xf000븀\x0000にちや　たたかって　いるのだ\xf000븁\x0000

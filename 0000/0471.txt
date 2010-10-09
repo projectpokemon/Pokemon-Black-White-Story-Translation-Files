@@ -4,16 +4,16 @@ We hope to see you again.
 Do you want to launch Nintendo WFC?
 This way, please.\xf000븁\x0000
 This is the Global Trade\nStation, or GTS for short.\xf000븁\x0000\xfffeWe enable the trading of Pokémon with\xfffepeople worldwide over Nintendo WFC.\xf000븁\x0000
-The Spicky-eared PICHU can't\xfffeenter this Wi-Fi option.
-These Pokémon arn't eligable to\xfffeenter this Wi-Fi option.
+The Spiky-eared PICHU can't\xfffeenter this Wi-Fi option.
+These Pokémon aren't eligible to\xfffeenter this Wi-Fi option.
 An error occured.
 Random Match
 Go to GTS
-Dress-Up Photo's
+Dress-Up Photos
 Battle Videos
 Information
 Quit
-Would you like to make a global\xfffetrade using GTS?
+Would you like to make a global\xfffetrade using the GTS?
 This is the Global Trade\nStation, or GTS for short.\xf000븁\x0000\xfffeWe enable the trading of Pokémon with\xfffepeople worldwide over Nintendo WFC.\xf000븁\x0000
 GTS
 GTS ネゴシエーション
@@ -51,7 +51,7 @@ Do you want to enter the online\xfffeDress-up data exchange mode?
 Yes
 Info
 Back
-Do you want to get more Info\xfffeabout Global Link works?
+Do you want to get more Info\xfffeabout how the Global Link works?
 No, continue
 Yes, please
 Quit

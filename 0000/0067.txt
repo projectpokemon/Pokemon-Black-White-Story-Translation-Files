@@ -54,6 +54,6 @@ Big Stadium\xfffeBaseball　&　Basketball
 Little Court\xfffeTennis & Basketball
 Battle Subway\xfffeGet into battles!
 Musical Hall
-Trainer Tips\xf000븁\x0000\xfffe\xfffeAt the Big Stadium\xfffeand Little Court,\xf000븀\x0000\xfffethere will be games!\xf000븁\x0000\xfffeYou may be able to\xfffebattle some of players!
+Trainer Tips\xf000븁\x0000\xfffe\xfffeAt the Big Stadium\xfffeand Little Court,\xf000븀\x0000\xfffethere will be games!\xf000븁\x0000\xfffeYou may be able to\xfffebattle some of the players!
 Trainer Tips\xf000븁\x0000\xfffe\xfffeThe Musical Hall is always\xfffelooking for new participants!\xf000븁\x0000\xfffeYou may be able to leave\xfffewith a prize!
 Battle Testing Facility!\xfffeTest your strength as a trainer!
