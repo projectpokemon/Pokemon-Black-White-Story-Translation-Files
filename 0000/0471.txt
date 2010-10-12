@@ -3,7 +3,7 @@ Do you want to enter a Wi-Fi\xfffeConnection option?
 We hope to see you again.
 Do you want to launch Nintendo WFC?
 This way, please.\xf000븁\x0000
-This is the Global Trade\nStation, or GTS for short.\xf000븁\x0000\xfffeWe enable the trading of Pokémon with\xfffepeople worldwide over Nintendo WFC.\xf000븁\x0000
+This is the Global Trade\xfffeStation, or GTS for short.\xf000븁\x0000\xfffeWe enable the trading of Pokémon with\xfffepeople worldwide over Nintendo WFC.\xf000븁\x0000
 The Spiky-eared PICHU can't\xfffeenter this Wi-Fi option.
 These Pokémon aren't eligible to\xfffeenter this Wi-Fi option.
 An error occured.
