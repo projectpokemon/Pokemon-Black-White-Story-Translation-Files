@@ -1,14 +1,14 @@
-チェレン『ポケモンが\xfffeどくを　うけると\xf000븁\x0000たたかっている　あいだ\xfffeどんどん　たいりょくが　へる\xf000븁\x0000ただし　たいりょくが　へるのは\xfffeたたかっているとき　だけ　ね……\xf000븁\x0000
-やあ　\xf000Ā\x0001\x0000\xf000븁\x0000ジムリーダーを\xfffeさがしに　きたのかい？
-さっきまで　ここで\xfffeポケモンの　タイプについて\xf000븀\x0000はなしていたけどね……\xf000븁\x0000すれちがったんじゃ　ないか？\xf000븁\x0000
-トレーナーとして　つよくなるなら\xfffeじっせんが　いちばん　だよ\xf000븁\x0000そういう　いみでは\xfffeジムリーダーに　いどむのが\xf000븀\x0000ベスト　だけどね\xf000븁\x0000
-ところでさ　\xf000Ā\x0001\x0000\xfffeぼくと　しょうぶ　してくれないか\xf000븁\x0000しょうぶのとき　どれだけ\xfffeどうぐが　だいじか　ためしたいんだ
-チェレン『\xf000Ā\x0001\x0000\xfffeぼくと　しょうぶ　してくれないか\xf000븁\x0000しょうぶのとき　どれだけ\xfffeどうぐが　だいじか　ためしたいんだ
-そう？　ぜひとも\xfffeどうぐを　ためしたいから\xf000븀\x0000きみの　じゅんびが　できるまで\xf000븀\x0000ここで　またせてもらうよ
-チェレン『さて　どうぐの\xfffeこうかが　どれほどか……\xf000븁\x0000あるいは　どうぐなしで\xfffeどれだけ　たたかえるか　ためすか\xf000븁\x0000もちろん　しつないでの　しょうぶ\xfffeあらすことなく　たたかうよ\xf000븁\x0000
-チェレン『やはり　どうぐを\xfffeつかいこなすのは　だいじ　だね\xf000븁\x0000そうだ　\xf000Ā\x0001\x0000\xfffeこの　きのみを　あげるよ\xf000븁\x0000
-チェレン『ポケモンに\xfffeきのみを　もたせておけば\xf000븁\x0000たたかって　たいりょくが　へったとき\xfffeかってに　たべてくれる\xf000븁\x0000もっとも　キズぐすりの　ように\xfffeひとが　つくった　どうぐは\xf000븀\x0000もたせておいても　つかえないけどね\xf000븁\x0000じゃ　がんばってよ\xf000븁\x0000
-ポケモンのことを　あいしているから\xfffeもっと　ポケモンについて　しりたい\xf000븁\x0000\xfffeそんな　よっきゅうを　みたすため\xfffeこの　トレーナーズスクールが　ある！
+Cheren: Wow!\xfffeThis is some good stuff!\xf000븁\x0000If only I had someone\xfffeto battle right about now...\xf000븁\x0000I think I might be able to beat\xfffe....!\xf000븁\x0000
+Ah!　\xf000Ā\x0001\x0000\xf000븁\x0000I was looking for you!\xfffeWould you like to battle？
+Great!\xfffethen I can show you what I learned!\xf000븀\x0000I better be careful……\xf000븁\x0000Wait, you agree？\xf000븁\x0000
+I just learned a lot form this school.\xfffeI think I might beat you!\xf000븁\x0000Did you know you can EV Train?\xfffeI bet you didn't!\xf000븀\x0000I can tell you want to leave..\xf000븁\x0000
+Oh!　\xf000Ā\x0001\x0000\xfffeare you afraid you'll lose?\xf000븁\x0000Come on!\xfffeI got some stuff to show you!\xf000븁\x0000Are you sure ?\xfffeyou want to battle right?
+Cheren:\xf000Ā\x0001\x0000\xfffeI see you are finally ready!\xf000븁\x0000You are ready aren't you?\xfffeCmon' I want to battle!
+Really？　Well if you insist!\xfffeI take it you need to train.\xf000븀\x0000I'm certain you have your reasons.\xf000븀\x0000come back when you're ready!
+Cheren: Okay!\xfffenow to remember what I learned……\xf000븁\x0000Ah yes I know!\xfffeI hope you know what you're up against.\xf000븁\x0000I won't be as easy as before!\xfffeMy Pokemon are stronger!\xf000븁\x0000
+Cheren: Oh, darn I lost...\xfffeyou learned a thing or to as well.\xf000븁\x0000Well,　\xf000Ā\x0001\x0000\xfffeHere take this!\xf000븁\x0000
+Cheren: When a Pokemons health is low you\xfffecan use items to heal them.\xf000븁\x0000You must be careful though because\xfffeyou lose a turn!\xf000븁\x0000If you get to know your Pokemon then\xfffeyou know how much it can take.\xf000븀\x0000All Gym Leaders no this.\xf000븁\x0000Speaking of which you should head to\xfffethe Gym in town!\xf000븁\x0000
+Pokemon have many different traits.\xfffePokemon that are breeded tend to know\xf000븁\x0000\xfffemoves their parents new.\xfffeIt also depends on held items too！
 ポケモンには　とくせい　と　よばれる\xfffeふしぎな　ちからが　そなわってるよ\xf000븁\x0000とくせいの　こうかには\xfffeいろんな　しゅるいが　あって\xf000븁\x0000その　おおくは　たたかっているときに\xfffeこうかを　はっき　するよ！
 しんかキャンセル　という\xfffeテクニックが　あるんだよね\xf000븀\x0000いいかい？　ほんを　よむよ\xf000븁\x0000「ポケモンが　しんかする　しゅんかん\xfffe　Ｂボタンを　おすことで\xf000븀\x0000　ポケモンは　おどろき　しんかをやめる」
 わざマシンを　つかうことでしか\xfffeおぼえない　わざも　ある\xf000븁\x0000\xfffeわざマシンは　なんどでも　つかえるから\xfffeどんどん　つかうのも　いいかもな\xf000븁\x0000\xfffeおぼえさせた　わざが　いまいちだったら\xfffeべつの　わざマシンを　つかえばいいし
