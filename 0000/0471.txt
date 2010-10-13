@@ -2,9 +2,9 @@ Welcome to the Pokémon Center\xfffeGlobal Terminal corner!\xf000븁\x0000
 Do you want to enter a Wi-Fi\xfffeConnection option?
 We hope to see you again.
 Do you want to launch Nintendo WFC?
-This way, please.\xf000븁\x0000
+This way, please. \ Xf000 byub \ x0000
 This is the Global Trade\xfffeStation, or GTS for short.\xf000븁\x0000\xfffeWe enable the trading of Pokémon with\xfffepeople worldwide over Nintendo WFC.\xf000븁\x0000
-The Spiky-eared PICHU can't\xfffeenter this Wi-Fi option.
+The Spiky-eared Pichu can not \ xfffeenter this Wi-Fi option.
 These Pokémon aren't eligible to\xfffeenter this Wi-Fi option.
 An error occured.
 Random Match
@@ -16,38 +16,38 @@ Quit
 Would you like to make a global\xfffetrade using the GTS?
 This is the Global Trade\nStation, or GTS for short.\xf000븁\x0000\xfffeWe enable the trading of Pokémon with\xfffepeople worldwide over Nintendo WFC.\xf000븁\x0000
 GTS
-GTS ネゴシエーション
+Negotiation GTS
 Information
 Back
 Do you want a Global Pokémon\xfffeLink Search?
 Exchange
 Information
 Back
-ＧＴＳでは　ポケモンを　あずけること\xfffeポケモンを　さがすことの\xf000븁\x0000\xfffe２つの　ほうほうで\xfffeポケモンこうかんを　おこないます\xf000븁\x0000
-くわしい　せつめいを\xfffeごきぼうですか？
-おきゃくさまが　こうかんに　だしたい\xfffeポケモンを　あずけて　いただきます\xf000븁\x0000\xfffeそのときに　おきゃくさまが\xfffeほしいポケモンを　おたずねします\xf000븁\x0000\xfffeおあずかりしている　あいだに\xfffeじょうけんにあう　かたが\xf000븀\x0000\xfffeみつかったら　こうかんせいりつです\xf000븁\x0000
-わたしどもが　おあずかりしている\xfffeたくさんのポケモンの　なかから\xf000븁\x0000\xfffeほしいポケモンを\xfffeさがすことも　できます\xf000븁\x0000\xfffeそのポケモンと　こうかんするときに\xfffeあずけていたかたの　ほしいポケモンを\xf000븀\x0000\xfffeかわりに　おあずかりします\xf000븁\x0000
-ポケモンを　あずけるって？
-ポケモンを　さがすって？
-わかった
-ポケモン　グローバル　こうかん\xfffeこうしょうを　かいし　しますか？
-こうしょうを　かいし　する
-せつめいを　きく
+It does Azukeru Pokemon GTS \ xfffe Pokemon that here \ xf000 븁 \ x0000 \ xfffe2 in one more more \ xfffe Performs a diplomat Pokemon \ xf000 븁 \ x0000
+Explained about the Kuwashii \ xfffe boy How are you?
+Your repayment is our diplomat in Dashitai \ xfffe you to the Pokemon Daycare \ xf000 븁 \ x0000 \ xfffe our repayment is that when you \ xfffe'd ask you a Pokemon \ xf000 븁 \ x0000 \ xfffe to your Azukari While the \ xfffe how the same Youkenniau \ xf000 븀 \ x0000 \ xfffe diplomat is due to coefficient of Mitsukattara \ xf000 븁 \ x0000
+I Azukari us that you have \ xfffe from among many Pokemon \ xf000 븁 \ x0000 \ xfffe pokemon you want \ xfffe here you can \ xf000 븁 \ x0000 \ xfffe when the Pokemon with this ON THE \ xfffe Daycare How you want the Pokemon Teita \ xf000 븀 \ x0000 \ xfffe you will instead Azukari \ xf000 븁 \ x0000
+I Azukeru a Pokemon?
+What pokemon here?
+Found
+Pokemon Global diplomat \ xfffe Koushou Would the commencement?
+Koushou to the commencement
+Asking explained about
 Back
-ＧＴＳネゴシエーション　では\xfffeどんな　ポケモンを　こうかんしたいか\xf000븀\x0000\xfffeこうかんじょうけんを　きめて\xf000븁\x0000\xfffeおなじ　じょうけんの　かたが\xfffeみつかったら\xf000븁\x0000\xfffeそのかたと　ネゴシエーション\xfffeこうかんを　おこなうことが　できます\xf000븁\x0000\xfffeこうかんを　おこなうためには\xfffeてもちに　ポケモンが　２ひきいじょう\xf000븀\x0000\xfffeひつように　なります\xf000븁\x0000
-くわしい　せつめいを\xfffeごきぼうですか？
-ネゴシエーションこうかん　とは\xfffeあいてに　さしだしたい\xf000븀\x0000\xfffeポケモンを　３ひき　えらび\xf000븁\x0000\xfffeそのあと　あいてが　さしだした\xfffe３ひきの　ポケモンのなかから\xf000븀\x0000\xfffeほしいポケモンを　１ひき　えらびあう\xf000븀\x0000\xfffeこうかんの　ことです\xf000븁\x0000
-こうかんじょうけん　には\xfffeこうかんしたい　レベル\xf000븀\x0000\xfffeほしいポケモン　あげるポケモン　の\xf000븀\x0000\xfffe３つの　じょうけんが　あります\xf000븁\x0000\xfffeそれぞれの　こうかんじょうけんが\xfffeいっちしたかたと\xf000븀\x0000\xfffeこうかんを　することが　できます\xf000븁\x0000\xfffeまた　いちど　こうかんした　かたと\xfffeまちあわせる　ことができる\xf000븀\x0000\xfffeまちあわせこうかんも　あります\xf000븁\x0000
-ネゴシエーションこうかん　って？
-こうかんじょうけんって？
-わかった
+GTS negotiation \ xfffe what pokemon you want diplomat \ xf000 븀 \ x0000 \ xfffe emotions I'll take this to the texture \ xf000 븁 \ x0000 \ xfffe Youkenno Improper Onajiji \ xfffe Mitsukattara \ xf000 븁 \ x0000 \ xfffe the How to negotiate with \ xfffe You can make a diplomat \ xf000 븁 \ x0000 \ xfffe diplomat dedicated to performing the \ xfffe Hikiiji You have two Pokemon with rice \ xf000 븀 \ x0000 \ xfffe now Hitsu \ xf000 븁 \ x0000
+Explained about the Kuwashii \ xfffe boy How are you?
+Diplomat and negotiation \ xfffe Sashidashitai to our opponent \ xf000 븀 \ x0000 \ xfffe Erabi mill Pokemon 3 \ xf000 븁 \ x0000 \ xfffe Sashidashita that our opponent then \ xfffe3 Pokemon from among Stretches \ xf000 븀 \ x0000 \ xfffe meet a pokemon you want Erabi mill \ xf000 븀 \ x0000 \ xfffe is a diplomat \ xf000 븁 \ x0000
+To do this, Kanji Condition \ xfffe want to level diplomat \ xf000 븀 \ x0000 \ xfffe Pokemon Pokemon'll want \ xf000 븀 \ x0000 \ xfffe3 may Youkenga Tsunoji \ xf000 븁 \ x0000 \ xfffe speak the way their emotions \ xfffe Itchi How to have \ xf000 븀 \ x0000 \ xfffe can be a diplomat \ xf000 븁 \ x0000 \ xfffe and also how the diplomat once \ xfffe can Machiawaseru \ xf000 븀 \ x0000 \ xfffe diplomat also Machiawase \ xf000 븁 \ x0000
+What negotiation diplomat?
+Kanji Youkentte this?
+Found
 Do you want to enter the online\xfffeBattle Recorder mode?
-バトルビデオでは　おてもちの\xfffeバトルレコーダーを　つかって\xf000븁\x0000\xfffeじぶんで　とった　バトルビデオを\xfffeはっぴょうしたり\xf000븁\x0000\xfffeほかの　トレーナーの　バトルビデオを\xfffeみる　ことが　できます\xf000븁\x0000\xfffeみたい　バトルビデオは\xfffeポケモンや　しせつや\xf000븀\x0000\xfffeにんきランキング　などから\xf000븀\x0000\xfffeけんさく　することが　できます\xf000븁\x0000\xfffeまた　おくった　バトルビデオには\xfffe１２ケタの　ナンバーが　つきます\xf000븁\x0000\xfffeこの　ナンバーを　ともだちに\xfffeおしえる　ことで\xf000븁\x0000\xfffeじぶんの　バトルビデオを\xfffeともだちに　みせることも　できます\xf000븁\x0000
+Battle of rice with your video \ xfffe battle recorder to Tsukatsu \ xf000 븁 \ x0000 \ xfffe video taken in battle Jibun \ xfffe or Happyou \ xf000 븁 \ x0000 \ xfffe video battle other trainers \ xfffe You can see \ xf000 븁 \ x0000 \ xfffe video is like a battle \ xfffe Setsu and Pokemon, and then \ xf000 븀 \ x0000 \ xfffe rankings from Ninki \ xf000 븀 \ x0000 \ xfffe can Ken Saku \ xf000 븁 \ x0000 \ xfffe battle video also spent happy \ xfffe12 attaches digit number \ xf000 븁 \ x0000 \ xfffe this number from a friend \ xfffe by Oshieru \ xf000 븁 \ x0000 \ xfffe jackpot battle Video \ xfffe which could also be my friend \ xf000 븁 \ x0000
 Yes
 Info
 Back
 Do you want to enter the online\xfffeDress-up data exchange mode?
-ミュージカルショットでは　おてもちの\xfffeバトルレコーダーを　つかって\xf000븁\x0000\xfffeライモンシティの\xfffeポケモンミュージカルで　とった\xf000븀\x0000\xfffeしゃしんを　はっぴょう　できます\xf000븁\x0000\xfffeみんなが　とった　しゃしんも\xfffeすきな　ポケモンごとに\xf000븀\x0000\xfffeみることが　できます\xf000븁\x0000
+Of rice shot up your musical \ xfffe battle recorder to Tsukatsu \ xf000 븁 \ x0000 \ xfffe of Raimonshiti \ xfffe took in Pokemonmyujikaru \ xf000 븀 \ x0000 \ xfffe can Happyou the Shashin \ xf000 븁 \ x0000 \ xfffe Everyone has taken to Yashinmo \ xfffe like every Pokemon \ xf000 븀 \ x0000 \ xfffe you can try \ xf000 븁 \ x0000
 Yes
 Info
 Back
@@ -55,43 +55,43 @@ Do you want to get more Info\xfffeabout how the Global Link works?
 No, continue
 Yes, please
 Quit
-Random Match\xfffeとおくにいる　みしらぬひとと\xf000븀\x0000\xfffeつうしんたいせんが　できます\xf000븁\x0000\xfffeRandom Match\xfffeSingle Double Triple\xf000븀\x0000\xfffeRotation Shooter\xf000븀\x0000\xfffe５つの　たいせんルールと\xf000븁\x0000\xfffeFree Rating\xfffe２つの　モードが　あります\xf000븁\x0000\xfffeフリーモードは　だれでも\xfffeじゆうに　さんか　できます\xf000븁\x0000\xfffeレーティングモードは\xfffeゲームシンクせっていを　おこない\xf000븁\x0000\xfffeおてもとの　パソコンで\xfffeポケモングローバルリンクの\xf000븀\x0000\xfffeホームページに　アクセスして\xf000븁\x0000\xfffeゲームシンクＩＤコードを\xfffeとうろくすることで　さんか　できます\xf000븁\x0000\xfffehttp://www.pokemon-gl.com/\xfffe（ポケモングローバルリンク）\xf000븁\x0000
+Random Match \ xfffe Mishiranu person and are Tooku \ xf000 븀 \ x0000 \ xfffe I can Taise Tsushin \ xf000 븁 \ x0000 \ xfffeRandom Match \ xfffeSingle Double Triple \ xf000 븀 \ x0000 \ xfffeRotation Shooter \ xf000 븀 \ x0000 \ xfffe5 not rule Tsunotai \ xf000 븁 \ x0000 \ xfffeFree Rating \ xfffe2 two modes \ xf000 븁 \ x0000 \ xfffe Free mode anybody \ xfffe's can do well over the same \ xf000 븁 \ x0000 \ xfffe Rating Mode \ xfffe Okonai Off control to sink the game \ xf000 븁 \ x0000 \ xfffe to your original PC \ xfffe of Pokemongurobarurinku \ xf000 븀 \ x0000 \ xfffe to access the website \ xf000 븁 \ x0000 \ xfffe Games Sink ID Code \ xfffe Rokusuru Thank you whether it's \ xf000 븁 \ x0000 \ xfffehttp: / / www.pokemon-gl.com/ \ xfffe (Pokemongurobarurinku) \ xf000 븁 \ x0000
 Where would you like information about?
 Free Mode
 Rating Mode
 Special Rules
 Nothing
-フリーモードは\xfffeとおくにいる　みしらぬひとと\xf000븀\x0000\xfffeてがるに　たいせんする　モードです\xf000븁\x0000\xfffeポケモンを　そだてたら\xfffeきがるに　ちょうせん　してください\xf000븁\x0000
-レーティングモードは\xfffeたいせんを　きわめたい　ひとに\xf000븀\x0000\xfffeおすすめの　モードです\xf000븁\x0000\xfffeつうしんを　つなげたとき\xfffeレーティングの　ちかい　ひとと\xf000븀\x0000\xfffeたいせん　しやすく　なります\xf000븁\x0000\xfffeレーティングは\xfffe１５００から　スタートして\xf000븀\x0000\xfffeかつと　あがり　まけると　さがります\xf000븁\x0000\xfffeレーティングが　たかいほど\xfffeつよい　トレーナーと　なるので\xf000븁\x0000\xfffeぜひ　ちょうせんして\xfffeいまの　レベルを　たしかめてください\xf000븁\x0000\xfffeさいごに　さんかちゅうの\xfffeちゅういが　ひとつ　あります\xf000븁\x0000\xfffeレーティングモードの　せいせきは\xfffeＤＳほんたいを　かえて\xf000븁\x0000\xfffeＷｉ－Ｆｉコネクションに\xfffeせつぞく　すると\xf000븁\x0000\xfffeそれまでの　せいせきが\xfffeすべて　きえてしまいます\xf000븁\x0000\xfffeさんかちゅう　ＤＳほんたいを\xfffeかえるときは　ごちゅうい　ください\xf000븁\x0000
-ランダムマッチでは　いくつかの\xfffeとくべつな　ルールが　あります\xf000븁\x0000\xfffeポケモンの　レベルが　５１いじょうの\xfffeばあいは　すべて　５０に　なります\xf000븁\x0000\xfffeポケモンの　なまえは\xfffeニックネームで　よびません\xf000븁\x0000\xfffeまた　たいせんに　さんかさせる\xfffeポケモンを　えらぶとき\xf000븁\x0000\xfffeたいせんちゅう　ポケモンに\xfffeめいれいを　するとき\xf000븁\x0000\xfffeそれぞれに\xfffeせいげん　じかんが　あります\xf000븁\x0000\xfffeせいげん　じかんを　こえると\xfffeポケモンの　わざは\xf000븀\x0000\xfffeじどうで　えらばれることに　なるので\xf000븀\x0000\xfffeごちゅうい　ください\xf000븁\x0000\xfffeなお　たいせんにも\xfffeせいげん　じかんが　あります\xf000븁\x0000\xfffeせいげん　じかんを　こえても\xfffeしょうぶが　つかない　ときは\xf000븁\x0000\xfffeはんていにより　かちまけを\xfffeけってい　します\xf000븁\x0000
+Free mode \ xfffe Mishiranu person and are Tooku \ xf000 븀 \ x0000 \ xfffe I want to Tegaru Sensuru mode \ xf000 븁 \ x0000 \ xfffe Sodatetara Pokemon \ xfffe butterfly to please not Kigaru \ xf000 븁 \ x0000
+The Retingumodo \ xfffe a person to do Kiwametai Taise \ xf000 븀 \ x0000 \ xfffe mode is recommended \ xf000 븁 \ x0000 \ xfffe when linking the Tsushin \ xfffe with a person operating Ino Tika \ xf000 븀 \ x0000 \ xfffe want makes it easier to not \ xf000 븁 \ x0000 \ xfffe ratings \ xfffe1500 start with \ xf000 븀 \ x0000 \ xfffe and Agari and knock down and the Garimasu \ xf000 븁 \ x0000 \ xfffe expensive than the rating \ xfffe Tsuyoi trainer Since \ xf000 븁 \ x0000 \ xfffe means to do Chouse \ xfffe please insure the level of today \ xf000 븁 \ x0000 \ xfffe Yuuno the Tokachi In Closing I \ xfffe has one immediately Yuuiga \ xf000 븁 \ x0000 \ xfffe Because of the cough Retingumodo \ xfffeDS wish you would drop to Ireland \ xf000 븁 \ x0000 \ xfffeWi-Fi connections \ xfffe then I sure Setsu \ xf000 븁 \ x0000 \ xfffe to cough because of it \ xfffe will all Kie \ xf000 븁 \ x0000 \ xfffe Yuu want the DS's Tokachi Ireland \ xfffe careful not immediately available when the frog please \ xf000 븁 \ x0000
+Some random match \ xfffe have such a special rule \ xf000 븁 \ x0000 \ xfffe Youno level 51 Pokemon Iji \ xfffe If you can not all be 50 \ xf000 븁 \ x0000 \ xfffe a pokemon before the \ Yobimasen xfffe nickname \ xf000 븁 \ x0000 \ xfffe make friends with you and I Taise \ xfffe when you pick out a Pokemon \ xf000 븁 \ x0000 \ xfffe Pokemon immediately Yuu Taisen \ xfffe when a niece Reina \ xf000 븁 \ x0000 \ Each xfffe \ xfffe there because I do Genji \ xf000 븁 \ x0000 \ xfffe Genji is more than dry because \ xfffe Pokemon deeds \ xf000 븀 \ x0000 \ xfffe not matter because it will be chosen on the same \ xf000 븀 \ x0000 \ xfffe careful not immediately available please \ xf000 븁 \ x0000 \ xfffe I also still Taise \ xfffe there because I do Genji \ xf000 븁 \ x0000 \ xfffe Genji because even beyond the dry \ xfffe not have the time Shoubu The \ xf000 븁 \ x0000 \ xfffe the discount they solder the Tokachi \ xfffe the Kettei \ xf000 븁 \ x0000
 Which mode of Global Link do you\xfffewant to play?
 Single Battle
 Double Battle
 Triple Battle
 Rotation Battle
-シューターバトル
+Shutabatoru
 Back
 Do you want to enter the\xfffe'Single Battle' mode?
 Do you want to enter the\xfffe'Double Battle' mode?
 Do you want to enter the\xfffe'Triple Battle' mode?
 Do you want to enter the\xfffe'Rotation Battle' mode?
-Do you want to enter the\xfffe'シューターバトル' mode?
+Do you want to enter the \ xfffe 'Shutabatoru' mode?
 Enter Mode
 Information
 Quit
-シングルバトルは　ポケモンが\xfffe３～６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe３ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-ダブルバトルは　ポケモンが\xfffe４～６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe４ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-トリプルバトルは　ポケモンが\xfffe６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe６ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-ローテーションバトルは　ポケモンが\xfffe４～６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe４ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-シューターバトルは\xfffeミラクルシューターありの\xf000븀\x0000\xfffeトリプルバトルを　おこないます\xf000븀\x0000\xfffeポケモンが　６ひき　ひつようです\xf000븁\x0000\xfffeたたかうまえに　あいてと\xfffeポケモンの　みせあいを　おこない\xf000븀\x0000\xfffe６ひき　えらんで　たいせんします\xf000븁\x0000\xfffeつれていく　ポケモンは　すべて　ちがう\xfffeポケモンで　なくては　ならず\xf000븁\x0000\xfffeもたせる　どうぐも　すべて　ちがう\xfffeどうぐで　なくては　なりません\xf000븁\x0000\xfffeまた　とくべつな　ポケモンや　タマゴは\xfffeつれていくことは　できません\xf000븁\x0000
-てもちか　バトルボックスの\xfffeどちらを　つかうか　えらんでください
-てもち
-バトルボックス
+Battle single Pokemon \ xfffe3 ~ seems Hitsu mill 6 \ xf000 븁 \ x0000 \ xfffe with our opponent in the example will fight \ xfffe Okonai the Ai show me the pokemon \ xf000 븀 \ x0000 \ xfffe3 then I Taise by Eran mill \ xf000 븁 \ x0000 \ xfffe Pokemon we all are different entanglement \ xfffe not a Pokemon is not \ xf000 븁 \ x0000 \ xfffe immediately even if all Chigau Motaseru \ xfffe must do without Gude \ xf000 븁 \ x0000 \ xfffe and Pokemon is such a special and egg \ xfffe that we can bring him \ xf000 븁 \ x0000
+Double Battle is a Pokemon \ xfffe4 ~ seems Hitsu mill 6 \ xf000 븁 \ x0000 \ xfffe with our opponent in the example will fight \ xfffe Okonai the Ai show me the pokemon \ xf000 븀 \ x0000 \ xfffe4 then I Taise by Eran mill \ xf000 븁 \ x0000 \ xfffe Pokemon we all are different entanglement \ xfffe not a Pokemon is not \ xf000 븁 \ x0000 \ xfffe immediately even if all Chigau Motaseru \ xfffe must do without Gude \ xf000 븁 \ x0000 \ xfffe and Pokemon is such a special and egg \ xfffe that we can bring him \ xf000 븁 \ x0000
+Battle Triple Pokemon \ xfffe6 seems Hitsu mill \ xf000 븁 \ x0000 \ xfffe with our opponent in the example will fight \ xfffe Okonai the Ai show me the pokemon \ xf000 븀 \ x0000 \ xfffe6 then I Taise by Eran mill \ xf000 븁 \ x0000 \ xfffe Pokemon we all are different entanglement \ xfffe not a Pokemon is not \ xf000 븁 \ x0000 \ xfffe immediately even if all Chigau Motaseru \ xfffe must do without Gude \ xf000 븁 \ x0000 \ xfffe such a special and Pokemon egg and \ xfffe that we can bring him \ xf000 븁 \ x0000
+Battle rotation Pokemon \ xfffe4 ~ seems Hitsu mill 6 \ xf000 븁 \ x0000 \ xfffe with our opponent in the example will fight \ xfffe Okonai the Ai show me the pokemon \ xf000 븀 \ x0000 \ xfffe4 then I Taise by Eran mill \ xf000 븁 \ x0000 \ xfffe Pokemon we all are different entanglement \ xfffe not a Pokemon is not \ xf000 븁 \ x0000 \ xfffe immediately even if all Chigau Motaseru \ xfffe must do without Gude \ xf000 븁 \ x0000 \ xfffe and Pokemon is such a special and egg \ xfffe that we can bring him \ xf000 븁 \ x0000
+The Shutabatoru \ xfffe in there Mirakurushuta \ xf000 븀 \ x0000 \ xfffe Performs a Triple Battle \ xf000 븀 \ x0000 \ xfffe seems to be running over six Pokemon Hitsu \ xf000 븁 \ x0000 \ xfffe and up until I got into a fight for example \ xfffe show me the pokemon Okonai Ai \ xf000 븀 \ x0000 \ xfffe6 I Taise in the mill Eran \ xf000 븁 \ x0000 \ xfffe Pokemon we all are different entanglement \ xfffe not a Pokemon not \ xf000 븁 \ x0000 \ xfffe Motaseru immediately even if all Chigau \ xfffe must do without Gude \ xf000 븁 \ x0000 \ xfffe such a special Pokemon egg and also \ xfffe that we can bring him \ xf000 븁 \ x0000
+The Battle Box or rice to \ xfffe Please Spending one or Eran
+Rice up
+Battle Box
 Quit
-てもちか　バトルボックスの\xfffeどちらを　つかうか　えらんでください
-けってい
-バトルボックス
+The Battle Box or rice to \ xfffe Please Spending one or Eran
+Kettei
+Battle Box
 Quit
-……あら？\xf000븁\x0000\xfffeおきゃくさま　てもちも　ボックスも\xfffeポケモンで　いっぱい　ですよ\xf000븁\x0000\xfffeＧＴＳを　ごりように　なるには\xfffeてもち　か　ボックス　に\xf000븀\x0000\xfffeあきを　つくって　ください\xf000븁\x0000
-……あら？\xfffeおきゃくさま！\xf000븁\x0000\xfffeポケモンを　てもちに　２ひきいじょう\xfffeおもちで　ないと\xf000븀\x0000\xfffeＧＴＳを　ごりよう　いただけません\xf000븁\x0000
-……あら？\xfffeおきゃくさま！\xf000븁\x0000\xfffeポケモンを　てもちに　２ひきいじょう\xfffeおもちで　ないと\xf000븀\x0000\xfffeＧＴＳネゴシエーションを\xf000븀\x0000\xfffeごりよう　いただけません\xf000븁\x0000
+... Oh? \ Xf000 븁 \ x0000 \ xfffe boxes are too glutinous to our repayment Us \ xfffe It is filled with Pokemon \ xf000 븁 \ x0000 \ xfffeGTS to become GORI a \ xfffe box or rice to \ xf000 븀 \ x0000 \ xfffe Aki Please make a \ xf000 븁 \ x0000
+... Oh? \ Xfffe our repayment it! \ Xf000 븁 \ x0000 \ xfffe rice with two Pokemon Hikiiji You \ xfffe not toys \ xf000 븀 \ x0000 \ xfffeGTS GORI Itadakemasen as a \ xf000 븁 \ x0000
+... Oh? \ Xfffe our repayment it! \ Xf000 븁 \ x0000 \ xfffe rice with two Pokemon Hikiiji You \ xfffe not toys \ xf000 븀 \ x0000 \ xfffeGTS negotiation \ xf000 븀 \ x0000 \ xfffe Itadakemasen as GORI \ xf000 븁 \ x0000
