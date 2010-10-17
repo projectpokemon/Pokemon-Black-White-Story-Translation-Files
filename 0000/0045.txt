@@ -1,15 +1,15 @@
-ヤナップ　バオップ　ヒヤップ　の\xfffe３びきは　とくべつな　いしで\xf000븀\x0000しんかをする　ポケモンなんだ！\xf000븁\x0000きみなら　どの　ポケモンを\xfffeしんか　させてみたい？
-ヤナップ　か……\xfffeそれじゃあ　リーフのいし　だね\xf000븁\x0000
-バオップ　か……\xfffeそれじゃあ　ほのおのいし　だね\xf000븁\x0000
-ヒヤップ　か……\xfffeそれじゃあ　みずのいし　だね\xf000븁\x0000
-きみが　しっているか　しらないか\xfffeぼくには　わからないが　アドバイス！\xf000븁\x0000ポケモンは　しんか　すると\xfffeちからづよく　なるけれど　かわりに\xf000븀\x0000わざを　おぼえにくくなる\xf000븁\x0000とくに　いしで　しんか　する\xfffeポケモンは　その　けいこうが　つよい\xf000븁\x0000なので　いい　わざを　おぼえてから\xfffeいしを　つかって　しんか　させるか\xf000븁\x0000さっさと　いしで　しんか　させてから\xfffeわざマシンで　わざを　おぼえさせるか\xf000븀\x0000それは　きみに　おまかせさ！
-ヤナップ
-バオップ
-ヒヤップ
+YANAPPU, BAOPPU, and HIYAPPU\xfffeare all Pokémon that evolve\xf000븀\x0000with use of special stones!\xf000븁\x0000Which Pokémon do you\xfffewant to evolve?
+YANAPPU...\xfffeYou'll need a Leaf Stone.\xf000븁\x0000
+BAOPPU...\xfffeYou'll need a Fire Stone.\xf000븁\x0000
+HIYAPPU...\xfffeYou'll need a Water Stone.\xf000븁\x0000
+You may or not know this,\xfffebut I'll tell anyway!\xf000븁\x0000If you evolve your Pokémon,\xfffeit will get stronger, but it will\xf000븀\x0000be harder for it to learn moves.\xf000븁\x0000It's especially hard for Pokémon\xfffethat evolve with stones.\xf000븁\x0000It's good to use a stone after\xfffea Pokémon learns the right moves.\xf000븁\x0000If you need to,\xfffeyou can still use\xf000븀\x0000TMs on evolved Pokémon!
+YANAPPU
+BAOPPU
+HIYAPPU
 Quit
-ヤナップ　なんだね？
-バオップ　なんだね？
-ヒヤップ　なんだね？
-じゃあ　きみなら\xfffeヤナップ　バオップ　ヒヤップ　の\xf000븀\x0000どの　ポケモンを\xf000븀\x0000しんか　させてみたい？
-うん　そうだね\xf000븁\x0000えらぶのは　むずかしいよね\xfffeきまったら　また　はなしてよ！
-おやゆびを　うえに　むけ\xfffeそれいがいの　ゆびを　にぎりしめる\xf000븁\x0000それが　サムズアップの　ポーズ\xfffeオーケーや　グッドって　ことさ！
+You pick YANAPPU?
+You pick BAOPPU?
+You pick HIYAPPU?
+Then,\xfffewhich one do you pick?
+No problem.\xf000븁\x0000When you make a decision,\xfffecome talk to me again!
+Make sure hold your\xfffeDS the right way.\xf000븁\x0000If you drop and break it,\xfffeyou're screwed!

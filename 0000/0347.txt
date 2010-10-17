@@ -1,16 +1,16 @@
 Exhausted?\xfffeWelcome to the Pokémon Center!\xf000븁\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
 Good Morning,\xfffeand welcome to the Pokémon Center.\xf000븁\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
 Hello,\xfffeand welcome to the Pokémon Center.\xf000븁\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
-いらっしゃいませ！\xfffeポケモン　センター　です\xf000븁\x0000……あら　もしかして\xfffeおたんじょうび　ですか？
-おたんじょうび\xfffeおめでとうございます！！\xf000븁\x0000これからも　ポケモンセンターを\xfffeごりように　なってくださいね\xf000븁\x0000それでは　あなたの　ポケモンを\xfffeやすませて　あげますか？
-……あら　かんちがい　でしたか\xfffeもうしわけ　ございません\xf000븁\x0000あなたの　ポケモンを\xfffeやすませて　あげますか？
+いらっしゃいませ！\xfffeポケモン センター です\xf000븁\x0000……あら もしかして\xfffeおたんじょうび ですか？
+おたんじょうび\xfffeおめでとうございます！！\xf000븁\x0000これからも ポケモンセンターを\xfffeごりように なってくださいね\xf000븁\x0000それでは あなたの ポケモンを\xfffeやすませて あげますか？
+……あら かんちがい でしたか\xfffeもうしわけ ございません\xf000븁\x0000あなたの ポケモンを\xfffeやすませて あげますか？
 OK, I’ll take your Pokémon for a few\xfffeseconds.
 Thank you for waiting.\xf000븁\x0000\xfffeWe’ve restored your Pokémon to full\xfffehealth.\xf000븁\x0000
 Please, come back again any time!
-おつかれさまです！\xfffeポケモン　センター　です\xf000븁\x0000\xfffeここでは　ポケモンの\xfffeたいりょく　かいふくを　します\xf000븁\x0000\xfffeあなたの　ポケモンを……\xf000븁\x0000
-そ　その　カードは！？\xf000븁\x0000\xfffeその　いろ！！\xfffeその　かがやき！！\xf000븁\x0000\xfffeわたしも　これまでに\xfffeシルバーカードの　トレーナーさんなら\xf000븀\x0000\xfffeなんにんか　みてきましたが\xf000븁\x0000\xfffeそれより　すごい\xfffeトレーナーカードを　おもちの　かたは\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000さんが　はじめて　です！\xf000븁\x0000\xfffeさあ　\xf000Ā\x0001\x0000さんの\xfffeポケモンを　やすませて　あげましょう！
-\xf000Ā\x0001\x0000さん　おつかれさまです！\xfffeいつもので　よろしい　ですね！
-おあずかりした　ポケモンに\xfffeポケルスが　ついて　いるようです\xf000븁\x0000\xfffeくわしいことは　わかって　いませんが\xfffeポケルスと　いうのは\xf000븀\x0000\xfffeポケモンに　くっつく\xf000븀\x0000\xfffeちいさな　せいめいたい　だそうです\xf000븁\x0000\xfffeこれが　ついている　あいだ\xfffeポケモンが　よく　そだつ　みたいです
+おつかれさまです！\xfffeポケモン センター です\xf000븁\x0000\xfffeここでは ポケモンの\xfffeたいりょく かいふくを します\xf000븁\x0000\xfffeあなたの ポケモンを……\xf000븁\x0000
+そ その カードは！？\xf000븁\x0000\xfffeその いろ！！\xfffeその かがやき！！\xf000븁\x0000\xfffeわたしも これまでに\xfffeシルバーカードの トレーナーさんなら\xf000븀\x0000\xfffeなんにんか みてきましたが\xf000븁\x0000\xfffeそれより すごい\xfffeトレーナーカードを おもちの かたは\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000さんが はじめて です！\xf000븁\x0000\xfffeさあ \xf000Ā\x0001\x0000さんの\xfffeポケモンを やすませて あげましょう！
+\xf000Ā\x0001\x0000さん おつかれさまです！\xfffeいつもので よろしい ですね！
+おあずかりした ポケモンに\xfffeポケルスが ついて いるようです\xf000븁\x0000\xfffeくわしいことは わかって いませんが\xfffeポケルスと いうのは\xf000븀\x0000\xfffeポケモンに くっつく\xf000븀\x0000\xfffeちいさな せいめいたい だそうです\xf000븁\x0000\xfffeこれが ついている あいだ\xfffeポケモンが よく そだつ みたいです
 Welcome to the Pokémon Wireless\xfffeClub Union Room.\xf000븁\x0000You may interact directly with\xfffemany Trainers here.\xf000븁\x0000Would you like to enter the room?
 The Trainers in the Union Room\xfffewill be those players around you\xf000븀\x0000who have also entered the room.\xf000븁\x0000You may enter two Pokémon up to\xfffeLv. 30 for a one-on-one battle.\xf000븁\x0000Or, you may trade your Pokémon here\xfffewith another Trainer.\xf000븁\x0000You may also mix records or draw\xfffewith other players.\xf000븁\x0000You may also chat with other\xfffeplayers in the room.\xf000븁\x0000...Or find friends by touching\xfffethe spoken words.\xf000븁\x0000Would you like to enter the room?
 DS Wireless Communications will be\xfffelaunched. Is that okay?
@@ -19,7 +19,7 @@ We hope to see you again!
 Enter
 Quit
 Info
-もうしわけ　ございませんが\xfffeおきゃくさまは　まだ\xf000븀\x0000ユニオンルームに　はいれません\xf000븁\x0000
-てもちに　つれていけない\xfffeポケモンが　います\xf000븁\x0000
-そういえば　おきゃくさま\xf000븁\x0000トレーナーカードに　かいてある\xfffeごじぶんの　かたがきが\xf000븀\x0000ポケモントレーナーの　ままですね？\xf000븁\x0000かたがきを　かえておくと\xfffeユニオンルームで　あいさつを\xf000븀\x0000するときに　イメージが\xf000븀\x0000つたわりやすくて　べんりですよ\xf000븁\x0000そうですねー\xf000븁\x0000たとえば　\xf000Ď\x0001\x0000\xfffeなど　いかがでしょうか？\xf000븁\x0000わたしから　みた　いんしょう　ですが\xfffeまずは　かたがきを　かえてみましょう\xf000븁\x0000おきに　めさない　ようでしたら\xfffeトレーナーカードで　かたがきを\xf000븀\x0000タッチすれば　へんこうできますよ\xf000븁\x0000
-いまは　まだ　つかえないみたい
+もうしわけ ございませんが\xfffeおきゃくさまは まだ\xf000븀\x0000ユニオンルームに はいれません\xf000븁\x0000
+てもちに つれていけない\xfffeポケモンが います\xf000븁\x0000
+そういえば おきゃくさま\xf000븁\x0000トレーナーカードに かいてある\xfffeごじぶんの かたがきが\xf000븀\x0000ポケモントレーナーの ままですね？\xf000븁\x0000かたがきを かえておくと\xfffeユニオンルームで あいさつを\xf000븀\x0000するときに イメージが\xf000븀\x0000つたわりやすくて べんりですよ\xf000븁\x0000そうですねー\xf000븁\x0000たとえば \xf000Ď\x0001\x0000\xfffeなど いかがでしょうか？\xf000븁\x0000わたしから みた いんしょう ですが\xfffeまずは かたがきを かえてみましょう\xf000븁\x0000おきに めさない ようでしたら\xfffeトレーナーカードで かたがきを\xf000븀\x0000タッチすれば へんこうできますよ\xf000븁\x0000
+いまは まだ つかえないみたい

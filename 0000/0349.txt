@@ -3,12 +3,12 @@ Cheren: We can't keep\xfffethe professor waiting.\xf000븁\x0000
 Cheren: Hey Professor Araragi.\xfffeSorry to keep you waiting.\xf000븁\x0000
 Araragi: I guess it's\xfffetime we got started!\xf000븁\x0000\xfffeWhen you see a Pokémon,\xfffetheir data gets added to the Pokédex.\xf000븀\x0000\xfffeIt's done automatically!\xf000븁\x0000\xfffeNext! When you actually catch it,\xfffeyou get more data on it!\xf000븀\x0000\xfffeYou then have it for keeps!\xf000븁\x0000\xfffeNow I'll show you guys\xfffehow to catch a Pokémon!\xf000븁\x0000
 Araragi: Did you see that?\xf000븁\x0000\xfffeThat is the first rule\xfffeof catching Pokémon.\xf000븀\x0000\xfffeYou have to first weaken it!\xf000븁\x0000\xfffeA Pokémon at full strength\xfffewould be hard to catch, huh?\xf000븁\x0000\xfffeYou should use your Pokémon's\xfffeabilities to help you.\xf000븀\x0000\xfffeTry to paralyze it or make it sleep!\xf000븁\x0000\xfffeFinally, try to catch it\xfffewith a Poké Ball! Take these!\xf000븁\x0000
-\xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0002モンスターボール\xf000\xff00\x0001\x0000を　てにいれた！
+\xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0002モンスターボール\xf000\xff00\x0001\x0000を てにいれた！
 Araragi: Poké Balls were created\xfffefor catching Pokémon.\xf000븁\x0000\xfffeThey make it possible to\xfffecarry Pokémon with you!\xf000븁\x0000\xfffeI'll be waiting for you guys\xfffein Karakusa Town!\xf000븁\x0000
 Cheren: So it looks like we'll only\xfffefind Pokémon in the grass.\xf000븁\x0000
 I'm going ahead to\xfffeKarakusa Town.\xf000븁\x0000
 Bel: I'll go too!\xfffeIt's a good idea.\xf000븀\x0000\xfffeWe can buy Poké Balls there.\xf000븁\x0000
-Bel: Wait!\xf000븁\x0000\xfffeHey!\xfffe\xf000Ā\x0001\x0000, and　Cheren.\xf000븁\x0000\xfffeI think this might\xfffebe pretty fun.\xf000븁\x0000
+Bel: Wait!\xf000븁\x0000\xfffeHey!\xfffe\xf000Ā\x0001\x0000, and Cheren.\xf000븁\x0000\xfffeI think this might\xfffebe pretty fun.\xf000븁\x0000
 Cheren: We should go.\xfffeThe professor is waiting.\xf000븁\x0000
 Bel: I have\xfffean idea!\xf000븁\x0000Why don't we compete\xfffeto catch every Pokémon?\xf000븁\x0000I've already got one\xfffefrom the professor.\xf000븁\x0000So I guess whoever gets\xfffethe most Pokémon wins, huh?\xf000븁\x0000
 Cheren: That would be\xfffepretty interesting.\xf000븁\x0000\xfffeFilling up the Pokédex will\xfffealso make the professor happy.\xf000븁\x0000\xfffeAlright, let's head to\xfffeKarakusa Town.\xf000븀\x0000\xfffeWe can go home to heal\xf000븀\x0000\xfffeour Pokémon if necessary.\xf000븁\x0000
@@ -16,17 +16,17 @@ Bel: \xf000ā\x0001\x0000 and I\xfffeare a team now.\xf000븀\x0000\xfffeWe're g
 Cheren: \xf000Ā\x0001\x0000,\xfffeare you competing with Bel?\xf000븁\x0000You need to have\xfffe2 Pokémon to catch up.
 Bel: \xf000Ā\x0001\x0000.\xf000븁\x0000Have you caught\xfffeany new Pokémon yet?
 Bel: No?...\xfffeGo look for a Pokemon if you want to win!\xf000븁\x0000
-Bel:\xf000Ȁ\x0001\x0000ひき！？\xf000븁\x0000すごい！　すごーい！！\xfffeそれだけの　ポケモンが　いてくれると\xf000븀\x0000なんだか　ときめいちゃうよね！\xf000븁\x0000
+Bel:\xf000Ȁ\x0001\x0000ひき！？\xf000븁\x0000すごい！ すごーい！！\xfffeそれだけの ポケモンが いてくれると\xf000븀\x0000なんだか ときめいちゃうよね！\xf000븁\x0000
 Bel:\xf000Ā\x0001\x0000\x0000looks like you win.\xf000븀\x0000That's not fair...\xf000븁\x0000You have more than 1\xfffeI will catch up to you!\xf000븁\x0000
-Bel: Okay!\xf000븁\x0000...You're a liar!?\xf000븁\x0000You should have gone and caught\xfffeanother Pokemon...\xf000븁\x0000So we're matched.\xf000븁\x0000
-By the way, Bel\xfffeCheck your Pokedex\xf000븁\x0000The Pokémon you see or get\xfffeare now added data!\xf000븀\x0000That's what the Professor wants.\xf000븁\x0000So,\xfffeLet's keep track of it!\xf000븀\x0000If you don't you might forget some.\xf000븁\x0000
+Bel: Okay!\xf000븁\x0000...You're a liar!?\xf000븁\x0000You should have went and caught\xfffeanother Pokemon...\xf000븁\x0000So we're matched.\xf000븁\x0000
+By the way, Bel\xfffeCheck your Pokédex\xf000븁\x0000The Pokémon you see or get\xfffeare now added data!\xf000븀\x0000Thats what the Professor wants.\xf000븁\x0000So,\xfffeLets keep track of it!\xf000븀\x0000If you don't you might forget some\xf000븁\x0000
 no data
 The telephone is ringing!
 \xf000Ā\x0001\x0000\xfffeAnswered the call.\xf000븁\x0000
 Cheren:...Looks like we're supposed to meet\xfffethe Professor up ahead.\xf000븁\x0000
 Are your Pokémon\xfffegetting tired?\xf000븁\x0000\xfffeIf your Pokémon is getting\xfffetired on the road,\xf000븀\x0000\xfffeyou may need this.\xf000븁\x0000\xfffePlease put it in\xfffea safe pocket in your bag!\xf000븁\x0000
-Pokémon won't be able to\xfffebattle if they lose all their health.\xf000븁\x0000\xfffeDon't overdo it.\xfffeLet your Pokémon rest.
+Pokémon won't be able to\xfffebattle if they lose all their health.\xf000븁\x0000\xfffeDon't overdo it and\xfffelet your Pokémon rest.
 Wild Pokémon are\xfffehiding in the grass...\xf000븁\x0000\xfffeHere's some advice.\xf000븁\x0000\xfffeTry to catch any Pokémon\xfffethat you battle.\xf000븀\x0000\xfffeYou'll find them in the grass.
 Route 1
 Route 1
-Trainer Tips\xf000븁\x0000\xfffe\xfffeTalk to everybody\xfffethat you see!\xf000븁\x0000\xfffeThey can provide\xfffeuseful information!
+Trainer Tips\xf000븁\x0000\xfffe\xfffeTalk to anybody\xfffethat you see!\xf000븁\x0000\xfffeThey can provide\xfffeuseful information!

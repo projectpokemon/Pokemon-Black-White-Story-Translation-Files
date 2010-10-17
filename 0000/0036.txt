@@ -1,28 +1,28 @@
-Cheren: Hey　\xf000Ā\x0001\x0000.\xf000븁\x0000I just now challenged Artie,\xfffethe Gym Leader.\xf000븁\x0000
-He's a Gym Leader, alright.\xf000븁\x0000It was a tough battle\xfffefor that badge.\xf000븁\x0000His Bug-types gave\xfffeme some trouble.\xf000븁\x0000
-このまま　イッシュちほうの\xfffeジムリーダー　ぜんいんに　かつ\xf000븁\x0000そして　ポケモンリーグに　むかい\xfffeチャンピオンを　こえる！\xf000븁\x0000そうすれば　だれもが　ぼくを　つよい\xfffeトレーナーとして　みとめてくれる……\xf000븁\x0000それでこそ　ぼくは\xfffeいきていると　じっかん　できるはず……\xf000븁\x0000
-Artie: うおわ？\xf000븁\x0000きみ……　ヤグルマのもりで\xfffeプラズマだんと　たたかってくれた……\xf000븁\x0000たしか　なまえは……\xf000븁\x0000\xf000Ā\x0001\x0000くん！\xf000븁\x0000ひょっとして　ジムに　チャレンジ？\xf000븁\x0000
-Artie: うおわ？\xf000븁\x0000きみ……　ヤグルマのもりで\xfffeプラズマだんと　たたかってくれた……\xf000븁\x0000たしか　なまえは……\xf000븁\x0000\xf000Ā\x0001\x0000さん！\xf000븁\x0000ひょっとして　ジムに　チャレンジ？\xf000븁\x0000
-あうう……　もうしわけないけど\xfffeちょいと　まってくれるかな？\xf000븁\x0000れんらくが　あってさ！\xfffeプラズマだんが　でたらしいんだ！\xf000븁\x0000というか　きみも　きてよ！\xfffeプライムピアって\xf000븀\x0000はとばに　いくからさ！！\xf000븁\x0000
-Artie: ……\xf000븁\x0000まちがいなく　ココだね\xf000븁\x0000
-Team Plasma: いない　いない！\xf000븁\x0000この　なかに　なかまとか\xfffeしちけんじんさまは　いない！\xf000븁\x0000ウソだと　おもうなら\xfffeオレと　しょうぶ　してみるか？
-Team Plasma: ……ふぅ\xfffeびびらせるなよな　もう！\xf000븁\x0000
-Team Plasma: くそー！\xf000븁\x0000おれは　こっちの　よわそうな\xfffeヤツの　あいてを　するから\xf000븁\x0000おまえら　まとめて\xfffeあっちの　つよそうな　ヤツにむかえ\xf000븁\x0000
+Cheren: Hey \xf000Ā\x0001\x0000.\xf000븁\x0000I just now challenged Artie,\xfffethe Gym Leader.\xf000븁\x0000
+He's a Gym Leader, alright.\xf000븁\x0000It was a tough battle\xfffefor that badge.\xf000븁\x0000His Bug-types didn't give\xfffeme too much trouble though.\xf000븁\x0000
+I'm going to keep beating\xfffeall the gym leaders in Isshu.\xf000븁\x0000Then I'll head for the Pokémon\xfffeLeague and beat the Champion!\xf000븁\x0000Once I do that, everyone'll recognize\xfffeme as a powerful trainer...\xf000븁\x0000I really feel that's\xfffewhat I'm living for...\xf000븁\x0000
+Arti: Oho?\xf000븁\x0000You... Yes, you fought Team\xfffePlasma in Yaguruma Forest...\xf000븁\x0000And I believe your name was...xf000븁\x0000\xf000Ā\x0001\x0000!\xf000븁\x0000Perhaps you're here to challenge my gym?\xf000븁\x0000
+Arti: Oho?\xf000븁\x0000You... Yes, you fought Team\xfffePlasma in Yaguruma Forest...\xf000븁\x0000And I believe your name was...xf000븁\x0000\xf000Ā\x0001\x0000!\xf000븁\x0000Perhaps you're here to challenge my gym?\xf000븁\x0000
+Aww... er, I know it's awful of me,\xfffebut could you wait a little longer?\xf000븁\x0000I've heard word that\xfffeTeam Plasma is in town!\xf000븁\x0000You need to come too!\xfffeMeet me at the\xf000븀\x0000Prime Pier!!\xf000븁\x0000
+Artie: ...\xf000븁\x0000There's no doubt,\xfffethis is the place.\xf000븁\x0000
+Plasma Grunt: Nope, sorry!\xf000븁\x0000There's no Plasma members\xfffeor Sages in here!\xf000븁\x0000You think I'm lying?\xfffeWanna fight about it?
+Plasma Grunt: ...Hmph.\xfffeNow scram!\xf000븁\x0000
+Plasma Grunt: Grrr!\xf000븁\x0000I'll take care\xfffeof this weakling.\xf000븁\x0000you two go for the\xfffestrong one over there!\xf000븁\x0000
 Think about how Pokémon\xfffewith weak trainers feel!
 They're worthless even\xfffeif we take them!
-Artie: ……ったく！\xf000븁\x0000というわけで　\xf000Ā\x0001\x0000くん\xfffeそっちの　あいては　おまかせするよ\xf000븁\x0000
-Artie: ……ったく！\xf000븁\x0000というわけで　\xf000Ā\x0001\x0000さん\xfffeそっちの　あいては　おまかせするよ\xf000븁\x0000
-Artie: ……やっぱり　しょうぶして\xfffeなかに　はいるしか　ないのかな
-Team Plasma: マズイ……\xf000븁\x0000マズイマズイマズイマズイマズイマズイ\xf000븁\x0000プラズマだんと　して　マズイ\xfffeちぢめて　プラズマズイ！\xf000븁\x0000とりあえず　しちけんじんさまに\xfffeほうこく　しないと……！\xf000븁\x0000
-Iris: ……はあ　まよっちゃった\xf000븁\x0000ライブキャスターで　せつめいされても\xfffeチンプンカンプン　だよ！\xf000븁\x0000
-Artie: ここに　プラズマだんがいる\xf000븁\x0000もしかしたら　うばわれた\xfffeポケモンも　いるかもしれない\xf000븀\x0000じゃあ　ボクは　いくよ！\xf000븁\x0000
-Iris: Alright!\xfffeI'll fight too!\xf000븀\x0000Let's go Big Sis!\xf000븁\x0000
-Bel: Wait.\xf000븁\x0000\xf000Ā\x0001\x0000, you come too!\xf000븁\x0000
+Arti: ...The nerve!\xf000븁\x0000\xf000Ā\x0001\x0000,\xfffeyou take care of them!\xf000븁\x0000
+Arti: ...The nerve!\xf000븁\x0000\xf000Ā\x0001\x0000,\xfffeyou take care of them!\xf000븁\x0000
+Arti: ...It seems battling is the\xfffeonly way we're getting in.
+Plasma Grunt: This is bad...\xf000븁\x0000This is bad, bad, bad!\xf000븁\x0000Team Plasma's been smashed again!\xfffePlasmashed, you could say!\xf000븁\x0000We'll have to report back\xfffeto the Sage for now...!\xf000븁\x0000
+Iris: ...Whew, I got lost.\xf000븁\x0000Even trying to find directions over the\xfffeLive Caster, it's all moonspeak to me!\xf000븁\x0000
+Artie: Arti: Team Plasma is right here.\xf000븁\x0000So maybe the Pokémon they\xfffestole will be, too!\xf000븀\x0000Okay, I'm going in!\xf000븁\x0000
+Iris: Alright!\xfffeI'll fight too!\xf000븀\x0000Hey, and missy Bel, too!\xf000븁\x0000
+Bel: Hold on a sec...\xf000븁\x0000\xf000Ā\x0001\x0000, you come too!\xf000븁\x0000
 The Live Caster is ringing.
 \xf000Ā\x0001\x0000\xfffeanswered the call.\xf000븁\x0000
-ジムリーダーが　たしかめるのは\xfffeちょうせんしゃと　ポケモンとの\xf000븀\x0000きずな……　むすびつき　だな！
-ジムに　チャレンジする　まえに\xfffeキズぐすりの　かずは　たりているか\xf000븀\x0000たしかめて　おかないとね
-だれもが　ポケモントレーナーとして\xfffeつよくなれる　わけじゃないよ\xf000븁\x0000だけど　ポケモンを　あいしたり\xfffeいっしょに　あそんだりは\xf000븀\x0000みんなに　できることだよね
-わたしの　バッグには　６コ\xfffeモンスターボールが　はいってます！\xf000븁\x0000ほんとうは　スーパーボールや\xfffeハイパーボールが　ほしいのですが……\xf000븁\x0000ジムバッジを　あつめないと\xfffeフレンドリィショップで　かえないんだ
-あたしの　ポケモン　かわいーの！\xf000븁\x0000くたびれて　おうちに　かえった\xfffeあたしを　いやしてくれるの！
+ジムリーダーが たしかめるのは\xfffeちょうせんしゃと ポケモンとの\xf000븀\x0000きずな…… むすびつき だな！
+ジムに チャレンジする まえに\xfffeキズぐすりの かずは たりているか\xf000븀\x0000たしかめて おかないとね
+だれもが ポケモントレーナーとして\xfffeつよくなれる わけじゃないよ\xf000븁\x0000だけど ポケモンを あいしたり\xfffeいっしょに あそんだりは\xf000븀\x0000みんなに できることだよね
+わたしの バッグには ６コ\xfffeモンスターボールが はいってます！\xf000븁\x0000ほんとうは スーパーボールや\xfffeハイパーボールが ほしいのですが……\xf000븁\x0000ジムバッジを あつめないと\xfffeフレンドリィショップで かえないんだ
+あたしの ポケモン かわいーの！\xf000븁\x0000くたびれて おうちに かえった\xfffeあたしを いやしてくれるの！
 Hiun Pokémon Gym\xf000븁\x0000\xfffeLeader: Artie\xf000븀\x0000\xfffeThe Insect Artist

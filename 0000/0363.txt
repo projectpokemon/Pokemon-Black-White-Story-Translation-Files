@@ -1,8 +1,8 @@
-この　６ばんどうろに　ある\xfffeフキヨセのほらあな……\xf000븁\x0000その　おくには\xfffeおおむかし　イッシュの　ポケモンを\xf000븀\x0000ひのうみから　まもったといわれる\xf000븁\x0000すごい　ポケモン……\xfffeコバルオンが　いると　いう\xf000븁\x0000みずのうえを　すすめるという\xfffeなみのりの　わざが　つかえるなら\xf000븀\x0000その　コバルオンにも　あえるかもな
-コバルオンには　なかまとも　いうべき\xfffeポケモンが　いるとも　きいたが……
-こりゃ　まいった！\xf000븁\x0000\xfffeあのな　このさきの　ほらあな\xfffeでんきいしのほらあな　というんだが\xf000븀\x0000\xfffeいりぐちが　ふさがっとる\xf000븁\x0000\xfffeデンチュラという　ポケモンの\xfffeしわざ　なんだが\xf000븁\x0000\xfffeヤーコンさんに　たのまないと\xfffeあのままでは　とおれんなあ……
-でんきいしのほらあな　は\xfffeふくざつな　めいろの　ようだが\xf000븀\x0000じつは　いっぽんみち　なんだ
-かんそうはだの　ポケモンは\xfffeみずタイプの　わざや\xf000븀\x0000あめが　だいすき　なの♪\xf000븁\x0000これ　ポケモンの\xfffeとくせいの　おはなし　ね！
+この ６ばんどうろに ある\xfffeフキヨセのほらあな……\xf000븁\x0000その おくには\xfffeおおむかし イッシュの ポケモンを\xf000븀\x0000ひのうみから まもったといわれる\xf000븁\x0000すごい ポケモン……\xfffeコバルオンが いると いう\xf000븁\x0000みずのうえを すすめるという\xfffeなみのりの わざが つかえるなら\xf000븀\x0000その コバルオンにも あえるかもな
+コバルオンには なかまとも いうべき\xfffeポケモンが いるとも きいたが……
+こりゃ まいった！\xf000븁\x0000\xfffeあのな このさきの ほらあな\xfffeでんきいしのほらあな というんだが\xf000븀\x0000\xfffeいりぐちが ふさがっとる\xf000븁\x0000\xfffeデンチュラという ポケモンの\xfffeしわざ なんだが\xf000븁\x0000\xfffeヤーコンさんに たのまないと\xfffeあのままでは とおれんなあ……
+でんきいしのほらあな は\xfffeふくざつな めいろの ようだが\xf000븀\x0000じつは いっぽんみち なんだ
+かんそうはだの ポケモンは\xfffeみずタイプの わざや\xf000븀\x0000あめが だいすき なの♪\xf000븁\x0000これ ポケモンの\xfffeとくせいの おはなし ね！
 Route 6
 Route 6
 Trainer Tips\xf000븁\x0000\xfffe\xfffeThere are useful tools\xfffeand pockets in your bag.\xf000븁\x0000\xfffeSome of these may have\xfffea square check box.\xf000븁\x0000\xfffeChecking that box will register\xfffethat tool or pocket to the Y button.\xf000븁\x0000\xfffeYou can register many tools to the\xfffeY button for easy access!

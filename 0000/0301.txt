@@ -1,85 +1,85 @@
-Ｎ『\xf000븉\x0001\x0001ボクが　のぞむのは\xfffeポケモンだけの　せかい……\xf000븁\x0000ポケモンは　ひとから　ときはなたれ\xfffeほんらいの　ちからを　とりもどす\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001……さあ\xfffeさいごの　たたかいだ\xf000븁\x0000ボクには　かくごが　ある！\xfffeトモダチの　ポケモンたちを\xf000븀\x0000きずつけても　しんねんを　つらぬく！\xf000븁\x0000……ここまで　きたからには\xfffeキミにも　あるんだろう？\xf000븁\x0000あるなら　ボクの　もとにきて\xfffeみせてほしい！\xf000븀\x0000キミの　かくごを！！\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001ボクが　のぞむのは\xfffeポケモンだけの　せかい……\xf000븁\x0000ポケモンは　ひとから　ときはなたれ\xfffeほんらいの　ちからを　とりもどす\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001……さあ\xfffeさいごの　たたかいだ\xf000븁\x0000ボクには　かくごが　ある！\xfffeトモダチの　ポケモンたちを\xf000븀\x0000きずつけても　しんねんを　つらぬく！\xf000븁\x0000……ここまで　きたからには\xfffeキミにも　あるんだろう？\xf000븁\x0000あるなら　ボクの　もとにきて\xfffeみせてほしい！\xf000븀\x0000キミの　かくごを！！\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 What I want is\xfffea world of only Pokémon...\xf000븁\x0000By separating Pokémon from people,\xfffethey will regain their natural power.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001 ...Now.\xfffeThis will be our final battle.\xf000븁\x0000I am prepared!\xfffeEven if my Pokémon friends are wounded,\xf000븀\x0000my beliefs will prevail!\xf000븁\x0000...Since you have come this far,\xfffecertainly you must feel something similar?\xf000븁\x0000If you do, I ask you to\xfffecome forth and show it to me!\xf000븀\x0000Prepare yourself!!\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 What I want is\xfffea world of only Pokémon...\xf000븁\x0000By separating Pokémon from people,\xfffethey will regain their natural power.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001 ...Now.\xfffeThis will be our final battle.\xf000븁\x0000I am prepared!\xfffeEven if my Pokémon friends are wounded,\xf000븀\x0000my beliefs will prevail!\xf000븁\x0000...Since you have come this far,\xfffecertainly you must feel something similar?\xf000븁\x0000If you do, I ask you to\xfffecome forth and show it to me!\xf000븀\x0000Prepare yourself!!\xf000븉\x0001\x0000\xf000븁\x0000
 no data
 no data
-Ｎ『\xf000븉\x0001\x0001ボクと　たたかうつもりで\xfffeここまで　キミは　やってきた……\xf000븁\x0000……だのに　ゼクロムは\xfffeはんのう　しないんだね\xf000븁\x0000まだ　キミを\xfffeえいゆうと　みとめていないのか\xf000븁\x0000がっかり　だね\xf000븁\x0000……ボクは　すこしだけ\xfffeキミのことを　きにいっていたのに\xf000븁\x0000なんども　たたかう　うちに\xfffeポケモンを　だいじにする\xf000븀\x0000トレーナーかも　とかんじたのに！\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001ボクと　たたかうつもりで\xfffeここまで　キミは　やってきた……\xf000븁\x0000……だのに　レシラムは\xfffeはんのう　しないんだね\xf000븁\x0000まだ　キミを\xfffeえいゆうと　みとめていないのか\xf000븁\x0000がっかり　だね\xf000븁\x0000……ボクは　すこしだけ\xfffeキミのことを　きにいっていたのに\xf000븁\x0000なんども　たたかう　うちに\xfffeポケモンを　だいじにする\xf000븀\x0000トレーナーかも　とかんじたのに！\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001……だけど　ボクの\xfffeおもいこみ　でしか　なかった！\xf000븁\x0000やはり　トレーナーが　たたかっても\xfffeわかりあうことなんて　ない！\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001キミに　できることは　２つ！\xf000븁\x0000かちめのない　たたかいを　いどむか\xf000븁\x0000それとも　ここを　たちさり\xfffeポケモンが　ひとから　ときはなたれた\xf000븀\x0000あたらしい　せかいを　みまもるか\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001……だけど　ボクの\xfffeおもいこみ　でしか　なかった！\xf000븁\x0000やはり　トレーナーが　たたかっても\xfffeわかりあうことなんて　ない！\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001キミに　できることは　２つ！\xf000븁\x0000かちめのない　たたかいを　いどむか\xf000븁\x0000それとも　ここを　たちさり\xfffeポケモンが　ひとから　ときはなたれた\xf000븀\x0000あたらしい　せかいを　みまもるか\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001おいで　レシラム！\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001おいで　ゼクロム！\xf000븉\x0001\x0000\xf000븁\x0000
-バッグの　なか……\xfffeダークストーンが　うごめいている！？
-バッグの　なか……\xfffeライトストーンが　うごめいている！？
-Ｎ『\xf000븉\x0001\x0001キミの　ダークストーンが……！\xf000븁\x0000いや　ゼクロムが！\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001キミの　ライトストーンが……！\xf000븁\x0000いや　レシラムが！\xf000븉\x0001\x0000\xf000븁\x0000
-まわりの　オーラを　とりこんだ\xfffeダークストーンが\xf000븀\x0000それを　きょうれつな　パワーとし\xf000븁\x0000いま……\xf000븁\x0000ときはなつ……！！
-まわりの　オーラを　とりこんだ\xfffeライトストーンが\xf000븀\x0000それを　きょうれつな　パワーとし\xf000븁\x0000いま……\xf000븁\x0000ときはなつ……！！
-Ｎ『\xf000븉\x0001\x0001レシラムと　ゼクロムは……\xf000븁\x0000もとは　ひとつの　いのち……\xfffeいっぴきの　ポケモンだった\xf000븁\x0000せいはんたい　にして\xfffeまったく　おなじ　そんざい\xf000븁\x0000レシラムと　ゼクロムも　えいゆうと\xfffeみとめた　じんぶつの　もとに\xf000븀\x0000あらわれる　ポケモン……\xf000븁\x0000……そうか\xfffeやはり　キミも\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001ゼクロムと　レシラムは……\xf000븁\x0000もとは　ひとつの　いのち……\xfffeいっぴきの　ポケモンだった\xf000븁\x0000せいはんたい　にして\xfffeまったく　おなじ　そんざい\xf000븁\x0000ゼクロムと　レシラムも　えいゆうと\xfffeみとめた　じんぶつの　もとに\xf000븀\x0000あらわれる　ポケモン……\xf000븁\x0000……そうか\xfffeやはり　キミも\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001その　ポケモンが\xfffeなんと　いっているか\xf000븀\x0000おしえてあげるよ\xf000븁\x0000「キミと　たたかいたい\xfffe　なかまに　してみろ」\xf000븁\x0000ここまで　やってきた\xfffeキミが　りそうを　もとめたいのか\xf000븀\x0000たしかめる　つもり　なんだね\xf000븁\x0000ボクも　キミのちからを　しりたい……\xfffeさあ！　ゼクロムを　つかまえ\xf000븀\x0000キミの　なかまに　するんだ！！\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001その　ポケモンが\xfffeなんと　いっているか\xf000븀\x0000おしえてあげるよ\xf000븁\x0000「キミと　たたかいたい\xfffe　なかまに　してみろ」\xf000븁\x0000ここまで　やってきた\xfffeキミが　しんじつを　もとめたいのか\xf000븀\x0000たしかめる　つもり　なんだね\xf000븁\x0000ボクも　キミのちからを　しりたい……\xfffeさあ！　レシラムを　つかまえ\xf000븀\x0000キミの　なかまに　するんだ！！\xf000븉\x0001\x0000\xf000븁\x0000
-ババリバリッシュ！！
-ンバーニンガガッ！！
-ゼクロムは　つかまえてみろ！　と\xfffe\xf000Ā\x0001\x0000を　みつめている……
-レシラムは　つかまえてみろ！　と\xfffe\xf000Ā\x0001\x0000を　みつめている……
-Ｎ『\xf000븉\x0001\x0001……そうか\xf000븁\x0000りそうを　おいもとめる　えいゆうに\xfffeその　ちからを　かすと　いわれている\xf000븀\x0000ゼクロムが　キミの　ちからを　みとめ\xf000븀\x0000ともに　あゆむことを　きめたか……\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001……そうか\xf000븁\x0000しんじつを　おいもとめる　えいゆうに\xfffeその　ちからを　かすと　いわれている\xf000븀\x0000レシラムが　キミの　ちからを　みとめ\xf000븀\x0000ともに　あゆむことを　きめたか……\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001さて……\xf000븁\x0000キミの　ポケモンが　きずついている\xfffeそんな　あいてに　かっても　むいみだ\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎは　\xf000Ā\x0001\x0000の　ポケモンを\xfffeかいふく　させた！
-Ｎ『\xf000븉\x0001\x0001ボクには　みらいが　みえる！\xf000븁\x0000ぜったいに　かつ！！\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001……　……　……\xfffe……　……　……\xf000븁\x0000……ボクと　レシラムが　やぶれた\xf000븁\x0000キミの　おもい……　りそう……\xfffeそれが　ボクたちを　うわまわったか……\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001……　……　……\xfffe……　……　……\xf000븁\x0000……ボクと　ゼクロムが　やぶれた\xf000븁\x0000キミの　おもい……　しんじつ……\xfffeそれが　ボクたちを　うわまわったか……\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001ゼクロムと　レシラム……\xf000븁\x0000２ひきが　それぞれ　ことなる\xfffeえいゆうを　えらんだ……\xf000븀\x0000こんなことも　あるのか\xf000븁\x0000おなじじだいに　ふたりのえいゆう\xfffeりそうを　もとめる　もの\xf000븀\x0000しんじつを　もとめる　もの\xf000븀\x0000ともに　ただしいと　いうのか？\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001……わからない\xf000븁\x0000ことなる　かんがえを\xfffeひてい　するのではなく\xf000븁\x0000ことなる　かんがえを\xfffeうけいれることで\xf000븀\x0000せかいは　かがくはんのうを　おこす\xf000븁\x0000これこそが……\xfffeせかいを　かえるための　すうしき……\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001レシラムと　ゼクロム……\xf000븁\x0000２ひきが　それぞれ　ことなる\xfffeえいゆうを　えらんだ……\xf000븀\x0000こんなことも　あるのか\xf000븁\x0000おなじじだいに　ふたりのえいゆう\xfffeりそうを　もとめる　もの\xf000븀\x0000しんじつを　もとめる　もの\xf000븀\x0000ともに　ただしいと　いうのか？\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001……わからない\xf000븁\x0000ことなる　かんがえを\xfffeひてい　するのではなく\xf000븁\x0000ことなる　かんがえを\xfffeうけいれることで\xf000븀\x0000せかいは　かがくはんのうを　おこす\xf000븁\x0000これこそが……\xfffeせかいを　かえるための　すうしき……\xf000븉\x0001\x0000\xf000븁\x0000
-ゲーチス『それでも　ワタクシと\xfffeおなじ　ハルモニアの　なまえをもつ\xf000븀\x0000にんげん　なのか？\xf000븁\x0000ふがいない　むすこ　め\xf000븁\x0000
-ゲーチス『もともと　ワタクシが\xf000븁\x0000Ｎに　しんじつを　おいもとめさせ\xfffeでんせつの　ポケモンを\xf000븀\x0000げんだいに　よみがえらせたのは\xf000븁\x0000「ワタクシの」\xfffeプラズマだんに　けんいを　つけるため！\xf000븀\x0000おそれた　みんなを　あやつるため！\xf000븁\x0000その　てんは　よくやってくれました\xf000븁\x0000
-ゲーチス『もともと　ワタクシが\xf000븁\x0000Ｎに　りそうを　おいもとめさせ\xfffeでんせつの　ポケモンを\xf000븀\x0000げんだいに　よみがえらせたのは\xf000븁\x0000「ワタクシの」\xfffeプラズマだんに　けんいを　つけるため！\xf000븀\x0000おそれた　みんなを　あやつるため！\xf000븁\x0000その　てんは　よくやってくれました\xf000븁\x0000
-だが　でんせつの　ポケモンを\xfffeしたがえた　もの　どうしが\xf000븁\x0000しんねんを　かけて　たたかい\xfffeじぶんが　ほんものの　えいゆうなのか\xf000븀\x0000たしかめたい……と　のたまったあげく\xf000븁\x0000ただの　トレーナーに　やぶれるとは\xfffeおろか　にも　ほどがある！\xf000븁\x0000つまるところ　ポケモンと　そだった\xfffeいびつで　ふかんぜんな　にんげんか……\xf000븁\x0000
-\xf000Ā\x0001\x0000！　まさか\xfffeアナタのような　トレーナーが\xf000븀\x0000でんせつの　ポケモンに　えらばれるとは\xf000븀\x0000かんぜんに　けいさんがい　でしたよ\xf000븁\x0000
-ですが　ワタクシの　もくてきは\xfffeなにも　かわらない！　ゆるがない！\xf000븁\x0000ワタクシが　せかいを\xfffeかんぜんに　しはいするため！\xf000븁\x0000なにも　しらない\xfffeにんげんの　こころを　あやつるため！\xf000븁\x0000Ｎには　プラズマだんの\xfffeおうさまで　いてもらいます\xf000븁\x0000だが　そのために\xfffeじじつを　しる　アナタ……\xf000븁\x0000ジャマなものは　とりのぞきましょう\xf000븁\x0000
-チェレン『……しはい　だって？\xf000븁\x0000プラズマだんの　もくてきは\xfffeポケモンを　かいほう　することじゃ？\xf000븁\x0000
-ゲーチス『あれは　プラズマだんを\xfffeつくりあげるための　ウソ　ですよ\xf000븁\x0000ポケモンの　ように\xfffeべんりな　モノを　ときはなって\xf000븀\x0000どうすると　いうのです？\xf000븁\x0000たしかに　ポケモンを　あやつることで\xfffeにんげんの　かのうせいは　ひろがる\xf000븀\x0000それは　みとめましょう\xf000븁\x0000だからこそ！　ワタクシだけが\xfffeポケモンを　つかえれば　いいのです\xf000븁\x0000
-アデク『……きさま\xfffeそんな　くだらぬ　かんがえで！\xf000븁\x0000
-ゲーチス『なんとでも\xf000븁\x0000さて　かみと　よばれようと\xfffeしょせんは　ポケモン\xf000븁\x0000そいつが　みとめたところで\xfffe\xf000Ā\x0001\x0000！\xf000븀\x0000アナタなど　おそるるに　たらん\xf000븁\x0000さあ　かかってきなさい！\xf000븁\x0000ワタクシは　アナタの　ぜつぼうする\xfffeしゅんかんの　かおが　みたいのだ！\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001\xf000Ā\x0001\x0000！！\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001\xf000Ā\x0001\x0000！！\xf000븉\x0001\x0000\xf000븁\x0000
-ゲーチス『だれが　なにを　しようと！\xfffeワタクシを　とめることは　できない！\xf000븁\x0000
-チェレン『……ゆるせないよ\xf000븁\x0000ちからを　じぶんの　ためだけに……\xfffeしかも　まちがった　つかいかた　だよ
-アデク『……Ｎの　ひたむきな　おもいを\xfffeいいように　りよう　するとは……
-Ｎ『\xf000븉\x0001\x0001……ボクの\xfffeすうしきは　まちがって　いたのか？\xf000븉\x0001\x0000
+Ｎ:\xf000븉\x0001\x0001 You came all this way\xfffewith the intent to battle me...\xf000븁\x0000...Yet Zekrom\xfffeis not reacting.\xf000븁\x0000Does it still not recognize\xfffeyou as a hero?\xf000븁\x0000How disappointing...\xf000븁\x0000...I'd taken quite a\xfffeliking to you, though.\xf000븁\x0000In all our battles,\xfffeI felt you could be a\xf000븀\x0000trainer who valued their Pokémon!\xf000븉\x0001\x0000\xf000븁\x0000
+Ｎ:\xf000븉\x0001\x0001 You came all this way\xfffewith the intent to battle me...\xf000븁\x0000...Yet Reshiram\xfffeis not reacting.\xf000븁\x0000Does it still not recognize\xfffeyou as a hero?\xf000븁\x0000How disappointing...\xf000븁\x0000...I'd taken quite a\xfffeliking to you, though.\xf000븁\x0000In all our battles,\xfffeI felt you could be a\xf000븀\x0000trainer who valued their Pokémon!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001...But it seems that was nothing\xfffemore than a baseless assumption!\xf000븁\x0000Yes, as much as trainers fight,\xfffethey can never build an understanding!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001You have two options!\xf000븁\x0000Fight a hopeless battle...?\xf000븁\x0000Or else leave here,\xfffeand let Pokémon be separated\xf000븀\x0000from humans to form a new world?\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001...But it seems that was nothing\xfffemore than a baseless assumption!\xf000븁\x0000Yes, as much as trainers fight,\xfffethey can never build an understanding!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001You have two options!\xf000븁\x0000Fight a hopeless battle...?\xf000븁\x0000Or else leave here,\xfffeand let Pokémon be separated\xf000븀\x0000from humans to form a new world?\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 Come, Reshiram!\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 Come, Zekrom!\xf000븉\x0001\x0000\xf000븁\x0000
+Is the Dark Stone...\xfffemoving inside the bag?!
+Is the Light Stone...\xfffemoving inside the bag?!
+N:\xf000븉\x0001\x0001 Your Dark Stone is...!\xf000븁\x0000No... Zekrom is...!\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 Your Light Stone is...!\xf000븁\x0000No... Reshiram is...!\xf000븉\x0001\x0000\xf000븁\x0000
+The aura-wrapped\xfffeDark Stone\xf000븀\x0000radiated an immense power!\xf000븁\x0000And now...\xf000븁\x0000It's releasing...!!
+The aura-wrapped\xfffeLight Stone\xf000븀\x0000radiated an immense power!\xf000븁\x0000And now...\xf000븁\x0000It's releasing...!!
+N:\xf000븉\x0001\x0001 Reshiram and Zekrom...\xf000븁\x0000Originally one life...\xfffeOne Pokémon.\xf000븁\x0000Distinctly opposite,\xfffeyet exactly the same entity.\xf000븁\x0000Reshiram and Zekrom\xfffeboth appeared before ones\xf000븀\x0000they recognize as heroes...\xf000븁\x0000...I see. And yes,\xfffeas is the same with you.\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 Zekrom and Reshiram...\xf000븁\x0000Originally one life...\xfffeOne Pokémon.\xf000븁\x0000Distinctly opposite,\xfffeyet exactly the same entity.\xf000븁\x0000Zekrom and Reshiram\xfffeboth appeared before ones\xf000븀\x0000they recognize as heroes...\xf000븁\x0000...I see. And yes,\xfffeas is the same with you.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Do you hear\xfffethe Pokémon speaking?\xf000븀\x0000Let me tell you what it says.\xf000븁\x0000"I want to fight you...\xfffe Make me your ally!"\xf000븁\x0000He wants to test if you\xfffehave come this far seeking an ideal...\xf000븀\x0000I want to know\xf000븁\x0000your power as well...\xfffeNow! Catch Zekrom!\xf000븀\x0000Befriend it!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Do you hear\xfffethe Pokémon speaking?\xf000븀\x0000Let me tell you what it says.\xf000븁\x0000"I want to fight you...\xfffe Make me your ally!"\xf000븁\x0000He wants to test if you\xfffehave come this far seeking truth...\xf000븀\x0000I want to know\xf000븁\x0000your power as well...\xfffeNow! Catch Reshiram!\xf000븀\x0000Befriend it!\xf000븉\x0001\x0000\xf000븁\x0000
+Babaribarisshu!!
+Nbaningagatsu!!
+You need to catch Zekrom!\xfffeIt's staring at \xf000Ā\x0001\x0000...
+You need to catch Reshiram!\xfffeIt's staring at \xf000Ā\x0001\x0000...
+N:\xf000븉\x0001\x0001 ...I see.\xf000븁\x0000It is said that power was lent\xfffeto the hero who pursued ideals.\xf000븀\x0000Zekrom has recognized your power\xf000븀\x0000and chosen to walk with you, then...\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 ...I see.\xf000븁\x0000It is said that power was lent\xfffeto the hero who pursued truth.\xf000븀\x0000Reshiram has recognized your power\xf000븀\x0000and chosen to walk with you, then...\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 Now...\xf000븁\x0000Your Pokémon are wounded. Winning against\xfffesuch an opponent would be meaningless.\xf000븉\x0001\x0000\xf000븁\x0000
+N healed\xfffe\xf000Ā\x0001\x0000's Pokémon!
+N:\xf000븉\x0001\x0001 I have seen the future!\xf000븁\x0000I WILL win!!\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 .........\xfffe.........\xf000븁\x0000...Reshiram and I have been beaten.\xf000븁\x0000Your thoughts... your ideals...\xfffeIs that what has bested me...?\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 .........\xfffe.........\xf000븁\x0000...Zekrom and I have been beaten.\xf000븁\x0000Your thoughts... your truth...\xfffeIs that what has bested me...?\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 Zekrom and Reshiram...\xf000븁\x0000Those two chose heroes\xfffeupon varying qualities...\xf000븀\x0000Is that the case?\xf000븁\x0000Two heroes in the same era,\xfffeone seeking the ideal,\xf000븀\x0000one seeking the truth, coexisting...\xf000븀\x0000Is that correct?\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001...I don't understand.\xf000븁\x0000I would not deny\xfffediffering ideas.\xf000븁\x0000In fact,\xfffein accepting differing ideas, the world\xf000븀\x0000will experience a chemical reaction.\xf000븁\x0000This...is the formula\xfffethat can change the world...\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 Reshiram and Zekrom...\xf000븁\x0000Those two chose heroes\xfffeupon varying qualities...\xf000븀\x0000Is that the case?\xf000븁\x0000Two heroes in the same era,\xfffeone seeking the ideal,\xf000븀\x0000one seeking the truth, coexisting...\xf000븀\x0000Is that correct?\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001...I don't understand.\xf000븁\x0000I would not deny\xfffediffering ideas.\xf000븁\x0000In fact,\xfffein accepting differing ideas, the world\xf000븀\x0000will experience a chemical reaction.\xf000븁\x0000This...is the formula\xfffethat can change the world...\xf000븉\x0001\x0000\xf000븁\x0000
+Geechisu: Even still,\xfffeare you not of the Harmonia name,\xf000븀\x0000the same as I?\xf000븁\x0000What a worthless son...\xf000븁\x0000
+Geechisu: From the very beginning...\xf000븁\x0000N's revival of\xfffethe legendary truth-seeking Pokémon\xf000븀\x0000 in our time...\xf000븁\x0000It was all for\xfffethe glory of MY Team Plasma!\xf000븀\x0000To manipulate the fearful populace!\xf000븁\x0000You did well to come that far.\xf000븁\x0000
+Geechisu: From the very beginning...\xf000븁\x0000N's revival of\xfffethe legendary ideal-seeking Pokémon\xf000븀\x0000in our time...\xf000븁\x0000It was all for\xfffethe glory of MY Team Plasma!\xf000븀\x0000To manipulate the fearful populace!\xf000븁\x0000You did well to come that far.\xf000븁\x0000
+But you wanted to fight a fellow,\xfffebelief-driven trainer who could\xf000븁\x0000also subdue a legendary Pokémon,\xfffeto see if you were a true hero...\xf000븀\x0000And in the end, you were beaten by a\xf000븁\x0000petty commoner for it, you utter fool!\xfffeIt seems being raised with Pokémon\xf000븁\x0000only made you a wretched and\xfffeimperfect human in the end...\xf000븁\x0000
+\xf000Ā\x0001\x0000! I had not the\xfffeslightest conception of the\xf000븀\x0000legendary Pokémon choosing\xf000븀\x0000a trainer like you...\xf000븁\x0000
+Yet nothing will impede me toward\xfffemy goal! I will not falter!\xf000븁\x0000So that I shall rule\xfffethe world with an iron fist!\xf000븁\x0000So that I can manipulate the hearts\xfffeof those humans who know but nothing!\xf000븁\x0000N has served as the\xfffeking of Team Plasma.\xf000븁\x0000But you know the truth\xfffeof why that is...\xf000븁\x0000And for getting in my way,\xfffeI will have to eliminate you!\xf000븁\x0000
+Cheren: ...Rule the world?\xf000븁\x0000Wasn't Team Plasma's\xfffegoal to liberate Pokémon?\xf000븁\x0000
+Geechisu: That was but a lie told to\xfffehelp in the construction of Team Plasma.\xf000븁\x0000What good would come\xfffeof letting useful things\xf000븀\x0000like Pokémon free?\xf000븁\x0000But by manipulating Pokémon, the\xfffepotential of humans grows tremendously.\xf000븀\x0000You must acknowledge that!\xf000븁\x0000And so! It would be most pleasing for\xfffeI to be the only one using Pokémon!\xf000븁\x0000
+Adeku: ...You dirty,\xfffedeceiving...!\xf000븁\x0000
+Geechisu: Regardless.\xf000븁\x0000Now then... that which is called a god,\xfffebut is ultimately only a Pokémon...\xf000븁\x0000And \xf000Ā\x0001\x0000,\xfffethe one it has recognized!\xf000븀\x0000You have much to fear...\xf000븁\x0000Now, have at you!\xf000븁\x0000I wish to see that glorious flash\xfffeof despair upon your face!\xf000븁\x0000
+N:\xf000븉\x0001\x0001 \xf000Ā\x0001\x0000!!\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 \xf000Ā\x0001\x0000!!\xf000븉\x0001\x0000\xf000븁\x0000
+Geechisu: Try what you may!\xfffeI shall not be stopped!\xf000븁\x0000
+Cheren: ……ゆるせないよ\xf000븁\x0000ちからを じぶんの ためだけに……\xfffeしかも まちがった つかいかた だよ
+Adeku: ……Ｎの ひたむきな おもいを\xfffeいいように りよう するとは……
+N:\xf000븉\x0001\x0001……ボクの\xfffeすうしきは まちがって いたのか？\xf000븉\x0001\x0000
 ……バルバル
 ……シュボ
-ゲーチス『……どういうことだ？\xf000븁\x0000この　ワタクシは\xfffeプラズマだんを　つくりあげた\xf000븀\x0000かんぜんな　おとこ　なんだぞ！\xf000븁\x0000せかいを　かえる\xfffeかんぜんな　しはいしゃ　だぞッ！？\xf000븁\x0000
-アデク『さて　Ｎよ……\xf000븁\x0000いまも　ポケモンと　ひとは\xfffeわかれるべきだと　かんがえるか？\xf000븁\x0000
-ゲーチス『……ふはは！\xf000븁\x0000えいゆうに　なれぬ　ワタクシが\xfffeでんせつのポケモンを　てにする……\xf000븁\x0000そのためだけに　よういしたのが\xfffeその　Ｎ！！\xf000븁\x0000いってみれば　ひとの　こころを　もたぬ\xfffeバケモノ　です\xf000븁\x0000そんな　いびつな　にんげんに\xfffeはなしが　つうじると　おもうのですか\xf000븁\x0000
-チェレン『アデクさん\xf000븁\x0000こいつの　はなしを　きいても\xfffeメンドーな　だけです\xf000븁\x0000こいつにこそ　こころが　ないよ！\xf000븁\x0000
-アデク『そうだな……\xfffeほんとうに　あわれな　ものよ\xf000븁\x0000
-Ｎよ……\xfffeいろいろ　おもうことが　あるだろう\xf000븁\x0000だが　おまえさんは\xfffeけっして　ゲーチスに　あやつられ\xf000븁\x0000しんじつを　おいもとめたのでは　なく\xfffeじぶんの　かんがえで　うごいたのだ！\xf000븁\x0000だからこそ　でんせつの　ポケモンと\xfffeであうことが　できたではないか！\xf000븁\x0000
-Ｎよ……\xfffeいろいろ　おもうことが　あるだろう\xf000븁\x0000だが　おまえさんは\xfffeけっして　ゲーチスに　あやつられ\xf000븁\x0000りそうを　おいもとめたのでは　なく\xfffeじぶんの　かんがえで　うごいたのだ！\xf000븁\x0000だからこそ　でんせつの　ポケモンと\xfffeであうことが　できたではないか！\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001……だが\xfffeボクに　えいゆうの　しかくは\xf000븁\x0000ない！\xf000븉\x0001\x0000\xf000븁\x0000
-アデク『そうかあ？\xf000븁\x0000でんせつの　ポケモンと　ともに\xfffeこれから　どうするか……\xf000븀\x0000それが　だいじ　だろうよ！\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001わかったような　ことを\xf000븁\x0000いままで　おたがい\xfffeしんじるもののため　あらそっていた\xf000븁\x0000だのに！　なぜ！\xf000븉\x0001\x0000\xf000븁\x0000
-アデク『Ｎよ……\xf000븁\x0000おたがい　りかい　しあえなくとも\xfffeひてい　する　りゆうには　ならん！\xf000븁\x0000そもそも　あらそった　にんげんの\xfffeどちらかだけが　ただしいのでは　ない\xf000븀\x0000それを　かんがえてくれ\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001……キミに\xfffeはなしたいことが　ある\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001キミと　はじめて　であった\xfffeカラクサタウンでの　ことだ\xf000븁\x0000キミの　ポケモンから\xfffeきこえてきた　こえが\xf000븀\x0000ボクには　しょうげき　だった……\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001なぜなら　あの　ポケモンは\xf000븁\x0000キミのことを　スキ　といっていた……\xf000븁\x0000いっしょに　いたいと　いっていたから\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001……ボクには　りかい　できなかった\xf000븁\x0000せかいに　ひとの　ことを\xfffeすきな　ポケモンが　いるだなんて\xf000븁\x0000それまで　そんな　ポケモンを\xfffeボクは　しらなかったからね……\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001それからも　たびを　つづけるほどに\xfffeきもちは　ゆらいでいった……\xf000븁\x0000こころを　かよいあわせ　たすけあう\xfffeポケモンと　ひと　ばかりだったから\xf000븁\x0000だからこそ\xfffeじぶんが　しんじていた　ものが\xf000븁\x0000なにか　たしかめるため\xfffeキミと　たたかいたい……\xf000븀\x0000おなじ　えいゆうとして　むきあいたい\xf000븀\x0000そう　ねがったが……\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001ポケモンの　ことしか……\xfffeいや　そのポケモンの　ことすら\xf000븀\x0000りかい　していなかった　ボクが……\xf000븁\x0000おおくの　ポケモンと　であい\xfffeなかまに　かこまれていた\xf000븀\x0000キミに　かなうはずがなかった……\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001……さて　チャンピオンは\xfffeこんな　ボクを　ゆるしてくれたが……\xf000븁\x0000ボクが　どうすべきかは\xfffeボクじしんが　きめることさ……\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000Ā\x0001\x0000！！\xf000븁\x0000
-\xf000븉\x0001\x0001キミは　ゆめがある　といった……\xfffeその　ゆめ……　かなえろ！\xf000븁\x0000すばらしい　ゆめや　りそうは\xfffeせかいを　かえる　ちからを　くれる！\xf000븀\x0000\xf000Ā\x0001\x0000！　キミなら　できる！！\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001キミよ……　ゆめを　もて！\xf000븁\x0000そのために　りそうを　おいもとめろ！\xfffeそして　いつか　かならず\xf000븀\x0000ゆめを　じつげん　するんだ！！\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001キミは　ゆめがある　といった……\xfffeその　ゆめ……　かなえろ！\xf000븁\x0000すばらしい　ゆめを　じつげんし\xfffeキミの　しんじつと　するんだ！\xf000븀\x0000\xf000Ā\x0001\x0000！　キミなら　できる！！\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001キミよ……　ゆめを　もて！\xf000븁\x0000そのために　しんじる　みちを　いけ！\xfffeそして　いつか　かならず\xf000븀\x0000ゆめを　じつげん　するんだ！！\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001それじゃ……\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001サヨナラ……！\xf000븉\x0001\x0000\xf000븁\x0000
+Geechisu: ...What is this?\xf000븁\x0000I am the creator\xfffeof Team Plasma\xf000븀\x0000the pinnacle of mankind!\xf000븁\x0000Should the world not change\xfffeto place me in total control?!\xf000븁\x0000
+Adeku: So, N...\xf000븁\x0000What do you think about\xfffeseparating Pokémon and humans now?\xf000븁\x0000
+Geechisu: ...Wahaha!\xf000븁\x0000I obtained the legendary Pokémon\xfffewithout even having to be the hero...\xf000븁\x0000That's all I ever\xfffeneeded you for, N!!\xf000븁\x0000Look at yourself!\xfffeYou're a heartless, inhuman monster!\xf000븁\x0000Is it even worth talking\xfffewith such an aberration as you?\xf000븁\x0000
+Cheren: Adeku.\xf000븁\x0000Listening to this guy's\xfffestarting to just get annoying.\xf000븁\x0000We all know he's the\xfffeheartless one here!\xf000븁\x0000
+Adeku: You said it...\xfffeHe's just plain hopeless.\xf000븁\x0000
+N...\xfffeYou must be thinking many things.\xf000븁\x0000But you were never\xfffereally controlled by Geechisu.\xf000븁\x0000You weren't pursuing truth, just\xfffeacting according to your own thoughts!\xf000븁\x0000Isn't that why you were able\xfffeto meet the legendary Pokémon?!\xf000븁\x0000
+N...\xfffeYou must be thinking many things.\xf000븁\x0000But you were never\xfffereally controlled by Geechisu.\xf000븁\x0000You weren't pursuing an ideal, just\xfffeacting according to your own thoughts!\xf000븁\x0000Isn't that why you were able\xfffeto meet the legendary Pokémon?!\xf000븁\x0000
+N:\xf000븉\x0001\x0001 ...But me,\xfffea hero...?\xf000븁\x0000I meet no such qualifications!\xf000븉\x0001\x0000\xf000븁\x0000
+Adeku: Is that so?\xf000븁\x0000Well, now that you're with the\xfffelegendary Pokémon, what will you do...?\xf000븀\x0000That's what's important!\xf000븁\x0000
+N:\xf000븉\x0001\x0001 Try to understand...\xf000븁\x0000We've been arguing over\xfffeour own beliefs until now.\xf000븁\x0000And yet...! Why?!\xf000븉\x0001\x0000\xf000븁\x0000
+Adeku: N...\xf000븁\x0000Even if we can't understand each other,\xfffethere's no reason to reject other ideas!\xf000븁\x0000Humans don't quarrel for the sole\xfffepurpose of determining who is right...\xf000븀\x0000Please, think about that.\xf000븁\x0000
+N:\xf000븉\x0001\x0001 ...There's something I want\xfffeto talk to you about.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001When I first met you\xfffeback in Karakusa Town...\xf000븁\x0000I heard the voices\xfffeof your Pokémon,\xf000븀\x0000and they shocked me...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Why do these Pokémon...\xf000븁\x0000Why do they claim to be...\xfffefond of you...?\xf000븁\x0000They said they wanted\xfffeto be with you...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001...I couldn't comprehend.\xf000븁\x0000That there were Pokémon in\xfffethis world who liked people...\xf000븁\x0000I had no knowledge of such\xfffePokémon until that moment...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001And from then on, as my journey\xfffecontinued, my feelings swayed...\xf000븁\x0000Pokémon and people\xfffewere all selflessly\xf000븁\x0000joining their hearts\xfffeto help each other...\xf000븁\x0000So I wanted to fight you,\xfffeto ascertain my belief...\xf000븀\x0000I wanted to face you as a\xf000븀\x0000fellow hero. That I desired...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001I considered only Pokémon...\xfffeNo, only those Pokémon\xf000븀\x0000I had known, even...\xf000븁\x0000I should not have opposed you,\xfffesurrounded by all those\xf000븀\x0000Pokémon you had met...\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 ...Well, the Champion\xfffehas forgiven me, but...\xf000븁\x0000What I do now will be\xfffeup to me to decide...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000Ā\x0001\x0000!!\xf000븁\x0000
+\xf000븉\x0001\x0001You must have dreams...\xfffeYour dreams... are powerful!\xf000븁\x0000Your dreams and ideals have the\xfffepower to change the world!\xf000븀\x0000\xf000Ā\x0001\x0000！ You can do it!!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001You... must have dreams!\xf000븁\x0000Believe in them, and walk whatever paths\xfffeto fulfill them! And someday, surely\xf000븀\x0000your dreams shall be realized!!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001You must have dreams...\xfffeYour dreams... are powerful!\xf000븁\x0000Your dreams and truth have the\xfffepower to change the world!\xf000븀\x0000\xf000Ā\x0001\x0000！ You can do it!!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001You... must have dreams!\xf000븁\x0000Believe in them, and walk whatever paths\xfffeto fulfill them! And someday, surely\xf000븀\x0000your dreams shall be realized!!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Well, then...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Farewell...!\xf000븉\x0001\x0000\xf000븁\x0000
 no data
 no data
 no data
@@ -87,10 +87,10 @@ no data
 no data
 no data
 no data
-Ｎ『\xf000븉\x0001\x0001こころして　かかりたまえ\xf000븁\x0000ゼクロムは　りそうを　もたない\xfffeにんげんに　キバを　むくらしいから\xf000븉\x0001\x0000
-Ｎ『\xf000븉\x0001\x0001こころして　かかりたまえ\xf000븁\x0000レシラムは　よき　こころを　もたない\xfffeにんげんを　やきつくすと　いうよ\xf000븉\x0001\x0000
-ダークストーンを　つかったが\xfffeまったく　はんのう　しない……
-ライトストーンを　つかったが\xfffeまったく　はんのう　しない……
+N:\xf000븉\x0001\x0001こころして かかりたまえ\xf000븁\x0000ゼクロムは りそうを もたない\xfffeにんげんに キバを むくらしいから\xf000븉\x0001\x0000
+N:\xf000븉\x0001\x0001こころして かかりたまえ\xf000븁\x0000レシラムは よき こころを もたない\xfffeにんげんを やきつくすと いうよ\xf000븉\x0001\x0000
+You held up the Dark Stone,\xfffebut nothing happened...
+You held up the Light Stone,\xfffebut nothing happened...
 no data
 no data
 no data
@@ -98,9 +98,9 @@ no data
 no data
 no data
 no data
-Ｎ『\xf000븉\x0001\x0001……ボクが　キミのことを\xfffeゲーチスに　はなしたのは\xf000븁\x0000ポケモン　いがいで\xfffeはじめて　トモダチに　なれそうと\xf000븀\x0000かんじていたから　かもしれない……\xf000븁\x0000なのに　こんな　かたちで\xfffeキミたちを　まきこんで　しまった\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000ā\x0001\x0001を　ボックスから\xfffeてもちに　くわえますか？
-\xf000ā\x0001\x0001を　てもちに\xfffeくわえなくて　いいですか？
-では　どの　ポケモンを\xfffeおくりかえしますか？\xf000븁\x0000
-その\xf000Ă\x0001\x0002を\xfffeおくりかえして　いいですか？
-\xf000ā\x0001\x0001を\xfffeてもちに　くわえた！
+N:\xf000븉\x0001\x0001……ボクが キミのことを\xfffeゲーチスに はなしたのは\xf000븁\x0000ポケモン いがいで\xfffeはじめて トモダチに なれそうと\xf000븀\x0000かんじていたから かもしれない……\xf000븁\x0000なのに こんな かたちで\xfffeキミたちを まきこんで しまった\xf000븉\x0001\x0000\xf000븁\x0000
+Do you want to place\xfffe\xf000ā\x0001\x0001 in your party?
+Do you want to place\xfffe\xf000ā\x0001\x0001 in your party?
+Which Pokémon are\xfffeyou replacing?\xf000븁\x0000
+Swap it\xfffewith \xf000Ă\x0001\x0002?
+\xf000ā\x0001\x0001 was\xfffeadded to your party!

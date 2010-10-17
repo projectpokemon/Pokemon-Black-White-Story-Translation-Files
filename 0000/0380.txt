@@ -1,7 +1,7 @@
-この　ほらあなに　ひそむのは\xfffeてごわい　ポケモンばかり！\xf000븁\x0000チャンピオンが　ときどき\xfffeしゅぎょうのため　はいっていくが\xf000븁\x0000オマエさんが　いどむには\xfffeまだまだ　はやいな！
-ほう！　オマエさん\xfffeなかなかの　トレーナーだな！\xf000븁\x0000ほらあなに　はいり　おのれと\xfffeポケモンを　きたえてみよ！
-ピッチャー！\xfffeだいいっきゅう　なげました！！\xf000븁\x0000
-いま　なげつけたのは\xfffeわざマシン５６「なげつける」だ！\xf000븁\x0000どうぐを　なげて\xfffeあいてに　ダメージを　あたえる\xf000븁\x0000しかも　なげる　どうぐによって\xfffeダメージは　かわるんだよ！
+この ほらあなに ひそむのは\xfffeてごわい ポケモンばかり！\xf000븁\x0000チャンピオンが ときどき\xfffeしゅぎょうのため はいっていくが\xf000븁\x0000オマエさんが いどむには\xfffeまだまだ はやいな！
+ほう！ オマエさん\xfffeなかなかの トレーナーだな！\xf000븁\x0000ほらあなに はいり おのれと\xfffeポケモンを きたえてみよ！
+ピッチャー！\xfffeだいいっきゅう なげました！！\xf000븁\x0000
+いま なげつけたのは\xfffeわざマシン５６「なげつける」だ！\xf000븁\x0000どうぐを なげて\xfffeあいてに ダメージを あたえる\xf000븁\x0000しかも なげる どうぐによって\xfffeダメージは かわるんだよ！
 Route 9
 Colorful & Wonderful Life\xfffeShopping Mall
 Trainer Tips\xf000븁\x0000\xfffe\xfffePressing the SELECT button while using\xfffethe PC organizes the boxes.\xf000븁\x0000\xfffeYou can arrange your Pokémon\xfffemuch easier this way!

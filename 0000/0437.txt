@@ -1,7 +1,7 @@
 Araragi: This is the Pokémon Center!\xfffeAre you feeling tired?\xf000븁\x0000If so, the Pokémon Center is just the\xfffeplace for you!\xf000븁\x0000
 Bel: There you are!\xf000븁\x0000
 Araragi: The Pokémon Center is\xfffea great place!\xf000븁\x0000It's amazing!\xf000븁\x0000You will return here if you get wiped out!\xf000븁\x0000Don't try to lose though, okay?\xfffeYour Pokémon might become upset.\xf000븁\x0000Okay \xf000Ā\x0001\x0000\xfffeTry it out. Heal your Pokémon!\xf000븁\x0000
-Araragi: Hey!　\xf000Ā\x0001\x0000\xfffeWhere are you going?？\xf000븁\x0000We aren't done here yet,\xfffecome back here!\xf000븁\x0000
+Araragi: Hey! \xf000Ā\x0001\x0000\xfffeWhere are you going?？\xf000븁\x0000We aren't done here yet,\xfffecome back here!\xf000븁\x0000
 Araragi: Try out the Pokémon Center\xfffegive your Pokémon to Nurse Joy.
 Bel: \xf000Ā\x0001\x0000,Try it out!
 Araragi: Okay!\xfffeLet's head to the Pokémon Storage!\xf000븁\x0000You can switch out your Pokémon\xfffehere!\xf000븁\x0000

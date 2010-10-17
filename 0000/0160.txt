@@ -1,6 +1,6 @@
-Hey, you!　What\xfffewas your starter Pokémon?\xf000븁\x0000\xfffe.........\xfffe.........\xf000븁\x0000\xfffeIt was \xf000ā\x0001\x0000!\xfffeThis \xf000ā\x0001\x0001 would be good for you.\xf000븁\x0000
+Hey, you! What\xfffewas your starter Pokémon?\xf000븁\x0000\xfffe.........\xfffe.........\xf000븁\x0000\xfffeIt was \xf000ā\x0001\x0000!\xfffeThis \xf000ā\x0001\x0001 would be good for you.\xf000븁\x0000
 Your \xf000ā\x0001\x0000 is weak against\xfffe\xf000ă\x0001\x0002-type Pokémon\xf000븀\x0000\xfffebecause they have a type advantage!\xf000븁\x0000\xfffeDo you want to take\xfffethis \xf000ā\x0001\x0001 to help you?
-Oh?　You don't have enough\xffferoom in your party.\xf000븁\x0000\xfffeCome back when you\xfffefree up a space.
+Oh? You don't have enough\xffferoom in your party.\xf000븁\x0000\xfffeCome back when you\xfffefree up a space.
 I'll still be here if you\xfffedecide that you want it!
 Here you are!\xf000븁\x0000\xfffeIt's a Fire-type, so it'll\xfffebe strong against Grass-types!\xf000븁\x0000
 Here you are!\xf000븁\x0000\xfffeIt's a Water-type, so it'll\xfffebe strong against Fire-types!\xf000븁\x0000
@@ -9,10 +9,10 @@ Here you are!\xf000븁\x0000\xfffeIt's a Grass-type, so it'll\xfffebe strong aga
 Would you like to give\xfffe\xf000ā\x0001\x0001 a nickname?
 Most Pokémon have a weakness\xfffeto a certain type, so\xf000븀\x0000\xfffeit's good to have multiple types!
 Bel: Oh! \xf000Ā\x0001\x0000!\xfffeAre you looking for the strange Pokemon?\xf000븁\x0000
-Bel: それにしても\xfffeゆめを　みせるって\xf000븀\x0000どんな　しくみ　なんだろう？
-Bel: Hey, hey!\xf000븁\x0000なんだか　かべの　むこうから\xfffeDid you hear something??\xf000븀\x0000ねえねえ　いってみようよ！
+Bel: それにしても\xfffeゆめを みせるって\xf000븀\x0000どんな しくみ なんだろう？
+Bel: Hey, hey!\xf000븁\x0000なんだか かべの むこうから\xfffeDid you hear something??\xf000븀\x0000ねえねえ いってみようよ！
 Muuun ...
-Bel: あっ　まってえ！\xf000븁\x0000
+Bel: あっ まってえ！\xf000븁\x0000
 ？？？: Did Munna come out?\xf000븁\x0000
 ？？？: Look, look！\xfffeThat's dream smoke!\xf000븁\x0000
 Munna: ... Muu!
@@ -22,39 +22,39 @@ Team Plasma: What are we doing?\xf000븁\x0000We're here for the Pokémon\xfffeM
 Munna: MU...... NYU.......
 Team Plasma: Kyahh!\xfffeShow us your dream smoke!\xf000븁\x0000
 Bel: You think kicking thePokémon\xfffewill bring out the dream smoke?\xf000븁\x0000That's cruel! Why are you doing this?!\xfffeAren't you trainers too?\xf000븁\x0000
-Team Plasma: そうよ\xfffeワタシたちも　ポケモントレーナー\xf000븁\x0000だけど　たたかう　りゆうは\xfffeあなたたちと　ちがって\xf000븀\x0000ポケモンを　じゆうに　するため！\xf000븁\x0000
-Team Plasma: そして　わたしたちが\xfffeポケモンを　じゆうに　するとは！\xf000븁\x0000しょうぶに　かち　ちからずくで\xfffeポケモンを　うばうこと！\xf000븁\x0000というわけで\xfffeおまえたちの　ポケモン\xf000븀\x0000わたしたちが　すくいだしてやる！\xf000븁\x0000
-Bel: えええ！\xfffeたすけて　\xf000Ā\x0001\x0000！\xf000븁\x0000
-Team Plasma: こどもだと\xfffeおもって　みくびったか？\xf000븁\x0000まあいい\xfffeつぎは　ワタシだ\xf000븁\x0000
-Team Plasma: ……まさか\xfffeふたりして　まけるとはな！\xf000븁\x0000だが　ゆめのけむりは\xfffeてにいれないと　いけない！\xf000븁\x0000
-おら！\xfffeゆめのけむり　だせ！！\xf000븁\x0000
+Team Plasma: そうよ\xfffeワタシたちも ポケモントレーナー\xf000븁\x0000だけど たたかう りゆうは\xfffeあなたたちと ちがって\xf000븀\x0000ポケモンを じゆうに するため！\xf000븁\x0000
+Team Plasma: そして わたしたちが\xfffeポケモンを じゆうに するとは！\xf000븁\x0000しょうぶに かち ちからずくで\xfffeポケモンを うばうこと！\xf000븁\x0000というわけで\xfffeおまえたちの ポケモン\xf000븀\x0000わたしたちが すくいだしてやる！\xf000븁\x0000
+Bel: えええ！\xfffeたすけて \xf000Ā\x0001\x0000！\xf000븁\x0000
+Team Plasma: こどもだと\xfffeおもって みくびったか？\xf000븁\x0000まあいい\xfffeつぎは ワタシだ\xf000븁\x0000
+Team Plasma: ……まさか\xfffeふたりして まけるとはな！\xf000븁\x0000だが ゆめのけむりは\xfffeてにいれないと いけない！\xf000븁\x0000
+おら！\xfffeゆめのけむり だせ！！\xf000븁\x0000
 Bel: やめたげてよお！\xf000븁\x0000
-Gechisu: ……おまえたち\xfffeなにを　あそんでいるのだ？\xf000븁\x0000
-Gechisu: われわれ　プラズマだんは\xfffeおろかな　にんげんと\xf000븀\x0000ポケモンを　きりはなすのだぞ！\xf000븁\x0000
-Gechisu: その　やくめ\xfffeはたせないと　いうのなら……！\xf000븁\x0000
-Team Plasma: こ　これは……！\xf000븁\x0000なかまを　あつめるとき……\xfffeえんぜつで　ひとを　だまして\xf000븀\x0000あやつろうと　するときの\xf000븀\x0000ゲーチスさま　じゃないわ！\xf000븁\x0000
-Team Plasma: ああ……\xfffeさくせんに　しっぱいしたとき\xf000븁\x0000そして　しょばつを\xfffeくだされるときの　ゲーチスさま……\xf000븁\x0000
-Team Plasma: とにかく　いますぐ\xfffeあやまって　ゆるしてもらいましょう！\xf000븁\x0000
+Gechisu: ……おまえたち\xfffeなにを あそんでいるのだ？\xf000븁\x0000
+Gechisu: われわれ プラズマだんは\xfffeおろかな にんげんと\xf000븀\x0000ポケモンを きりはなすのだぞ！\xf000븁\x0000
+Gechisu: その やくめ\xfffeはたせないと いうのなら……！\xf000븁\x0000
+Team Plasma: こ これは……！\xf000븁\x0000なかまを あつめるとき……\xfffeえんぜつで ひとを だまして\xf000븀\x0000あやつろうと するときの\xf000븀\x0000ゲーチスさま じゃないわ！\xf000븁\x0000
+Team Plasma: ああ……\xfffeさくせんに しっぱいしたとき\xf000븁\x0000そして しょばつを\xfffeくだされるときの ゲーチスさま……\xf000븁\x0000
+Team Plasma: とにかく いますぐ\xfffeあやまって ゆるしてもらいましょう！\xf000븁\x0000
 ？？？: むにゃあ！
-Bel: ……いまのって　なあに？\xf000븁\x0000あの　ゲーチスって　ひと\xfffeあちこちに　いたし\xf000븀\x0000ほんもの　じゃあ　ないよね\xf000븁\x0000……もしかして　ゆめ？\xf000븁\x0000
-それに　あの　ポケモン……\xf000븁\x0000
+Bel: ……いまのって なあに？\xf000븁\x0000あの ゲーチスって ひと\xfffeあちこちに いたし\xf000븀\x0000ほんもの じゃあ ないよね\xf000븁\x0000……もしかして ゆめ？\xf000븁\x0000
+それに あの ポケモン……\xf000븁\x0000
 わっ！\xf000븁\x0000
-Makomo: まちきれなくて　きちゃった\xf000븁\x0000って　ムシャーナ！？\xf000븁\x0000
+Makomo: まちきれなくて きちゃった\xf000븁\x0000って ムシャーナ！？\xf000븁\x0000
 Musharna: Musha?
 Munna: Munyi.
 Makomo: What happened?\xf000븁\x0000
-Bel: あっ　マコモさん\xf000븁\x0000あのですね　ムンナがいて……\xfffeでも　プラズマだんが　ムンナを……\xf000븁\x0000で　ムシャーナが　きて……\xfffeなんだか　ゆめ？　を　みせたのかな\xf000븀\x0000そうしたら　プラズマだんが……\xf000븁\x0000
-Makomo: ……I see\xf000븁\x0000ムシャーナはね\xfffeムンナが　しんかした　ポケモンなの\xf000븁\x0000で　なかまの　ムンナの\xfffeピンチを　しって\xf000븁\x0000ゆめを　げんじつにする　ちからで\xfffeムンナを　たすけたのね\xf000븁\x0000……って\xfffeちょっと　まって！\xf000븁\x0000
-これって　ゆめのけむり！？\xf000븁\x0000
-これで　アタシの　けんきゅうが\xfffeかんせい　するわ！\xf000븁\x0000アナタたち　あとで\xfffeアタシの　いえに　きてねー！！\xf000븁\x0000
-Bel: ふええ　なんだか\xfffeすっごく　ドタバタしちゃったねえ\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffeマコモさんの　いえに　いってみたら？\xf000븁\x0000あたし？　あたしはね\xfffeさっきの　ポケモン　さがすんだから！\xf000븁\x0000
-Bel: \xf000Ā\x0001\x0000は\xfffeマコモさんの　いえに　いってみたら？\xf000븁\x0000あたし？　あたしはね\xfffeさっきの　ポケモン　さがすんだから！
+Bel: あっ マコモさん\xf000븁\x0000あのですね ムンナがいて……\xfffeでも プラズマだんが ムンナを……\xf000븁\x0000で ムシャーナが きて……\xfffeなんだか ゆめ？ を みせたのかな\xf000븀\x0000そうしたら プラズマだんが……\xf000븁\x0000
+Makomo: ……I see\xf000븁\x0000ムシャーナはね\xfffeムンナが しんかした ポケモンなの\xf000븁\x0000で なかまの ムンナの\xfffeピンチを しって\xf000븁\x0000ゆめを げんじつにする ちからで\xfffeムンナを たすけたのね\xf000븁\x0000……って\xfffeちょっと まって！\xf000븁\x0000
+これって ゆめのけむり！？\xf000븁\x0000
+これで アタシの けんきゅうが\xfffeかんせい するわ！\xf000븁\x0000アナタたち あとで\xfffeアタシの いえに きてねー！！\xf000븁\x0000
+Bel: ふええ なんだか\xfffeすっごく ドタバタしちゃったねえ\xf000븁\x0000\xf000Ā\x0001\x0000は\xfffeマコモさんの いえに いってみたら？\xf000븁\x0000あたし？ あたしはね\xfffeさっきの ポケモン さがすんだから！\xf000븁\x0000
+Bel: \xf000Ā\x0001\x0000は\xfffeマコモさんの いえに いってみたら？\xf000븁\x0000あたし？ あたしはね\xfffeさっきの ポケモン さがすんだから！
 Asura: しょあ！！\xf000븁\x0000
 Were you surprised??\xf000븁\x0000We destroyed the Castle\xfffeポケモントレーナーよ\xf000븁\x0000あなたには\xfffeI was amazed!\xf000븁\x0000
-Pokemon and people should be astonished\xfffeこころに　スキが　できます\xf000븁\x0000そうすれば　ほんらい　もっている\xfffeちからも　だせないものです\xf000븁\x0000われわれは　しろを　しゅつげんさせ\xfffeでんせつの　ポケモンを　みせつけ\xf000븀\x0000ひとびとを　おどろかせる……\xf000븁\x0000そのスキに　プラズマだんの　すごさを\xfffeあたらしい　せかいの　すばらしさを\xf000븁\x0000ひとびとの　こころに\xfffeふかくふかく　きざもうとしたのです\xf000븁\x0000
-ですが　あなたや　ジムリーダーの\xfffeつよき　こころを　みているかぎり\xf000븁\x0000その　さくせんも\xfffeどこまで　ききめが　あったか……？\xf000븁\x0000……その　こころの　つよさこそが\xfffeポケモンを　つぎの　ステージに\xf000븀\x0000みちびくために　ひつようなのか……？\xf000븁\x0000フム……　くだらない　はなしを\xfffeきかせて　わるかったですね\xf000븀\x0000これでも　もっていきなさい\xf000븁\x0000
-Asura: Ｎさまの　ゆめ……\xfffeそれを　おわらせたのは　あなたです\xf000븀\x0000So please forget it\xf000븁\x0000
-Looker: Well……\xfffeプラズマだんに　ついて\xf000븁\x0000こくさいけいさつの　わたしに\xfffeI'll have everything!\xf000븁\x0000
+Pokemon and people should be astonished\xfffeこころに スキが できます\xf000븁\x0000そうすれば ほんらい もっている\xfffeちからも だせないものです\xf000븁\x0000われわれは しろを しゅつげんさせ\xfffeでんせつの ポケモンを みせつけ\xf000븀\x0000ひとびとを おどろかせる……\xf000븁\x0000そのスキに プラズマだんの すごさを\xfffeあたらしい せかいの すばらしさを\xf000븁\x0000ひとびとの こころに\xfffeふかくふかく きざもうとしたのです\xf000븁\x0000
+ですが あなたや ジムリーダーの\xfffeつよき こころを みているかぎり\xf000븁\x0000その さくせんも\xfffeどこまで ききめが あったか……？\xf000븁\x0000……その こころの つよさこそが\xfffeポケモンを つぎの ステージに\xf000븀\x0000みちびくために ひつようなのか……？\xf000븁\x0000フム…… くだらない はなしを\xfffeきかせて わるかったですね\xf000븀\x0000これでも もっていきなさい\xf000븁\x0000
+Asura: Ｎさまの ゆめ……\xfffeそれを おわらせたのは あなたです\xf000븀\x0000So please forget it\xf000븁\x0000
+Looker: Well……\xfffeプラズマだんに ついて\xf000븁\x0000こくさいけいさつの わたしに\xfffeI'll have everything!\xf000븁\x0000
 Asura: ……that have appeared here\xfffeThe Dreamsmoke, Musharna\xf000븁\x0000Can only grant their own\xfffereal dreams...\xf000븁\x0000
-Looker: ありがとう\xf000븁\x0000これで　ゲーチスを　のぞき\xfffeのこる　しちけんじんは\xf000븀\x0000あと　\xf000Ȁ\x0001\x0000にんか……\xf000븁\x0000かれらが　なにを　かんがえ\xfffeのぞんでいたか　しりたいものだ……\xf000븀\x0000では　また　あおう！\xf000븁\x0000
-Looker: ありがとう！\xf000븁\x0000さて　\xf000Ā\x0001\x0000……\xfffeきみに　つたえることが　ある\xf000븁\x0000ここより　はるか　とおいところで\xfffeＮらしき　じんぶつが\xf000븀\x0000ドラゴンポケモンと　いるのを\xf000븀\x0000みたという　じょうほうが　あった\xf000븁\x0000わたしは　じょうほうが　ただしいか\xfffeたしかめに　いくつもりだよ\xf000븀\x0000では　また　いつか　あおう！\xf000븁\x0000
+Looker: ありがとう\xf000븁\x0000これで ゲーチスを のぞき\xfffeのこる しちけんじんは\xf000븀\x0000あと \xf000Ȁ\x0001\x0000にんか……\xf000븁\x0000かれらが なにを かんがえ\xfffeのぞんでいたか しりたいものだ……\xf000븀\x0000では また あおう！\xf000븁\x0000
+Looker: ありがとう！\xf000븁\x0000さて \xf000Ā\x0001\x0000……\xfffeきみに つたえることが ある\xf000븁\x0000ここより はるか とおいところで\xfffeＮらしき じんぶつが\xf000븀\x0000ドラゴンポケモンと いるのを\xf000븀\x0000みたという じょうほうが あった\xf000븁\x0000わたしは じょうほうが ただしいか\xfffeたしかめに いくつもりだよ\xf000븀\x0000では また いつか あおう！\xf000븁\x0000

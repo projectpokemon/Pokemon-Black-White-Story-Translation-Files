@@ -1,7 +1,7 @@
 I come to this mall\xffferegularly to shop!\xf000븁\x0000I'm trying to collect\xfffeall of the TMs!
 The 1st floor sells various\xfffemedicines and repellents.\xf000븁\x0000The 2nd floor sells Poké Balls,\xfffeTMs, and mail.\xf000븁\x0000The 3rd floor sells Vitamins for\xfffeEffort Values, and stat increasing\xf000븀\x0000items to be used during battles.\xf000븁\x0000One day I want to be a guide\xfffefor Pokémon Gyms.\xf000븀\x0000I've been practicing for it！
 This mall is good for getting\xfffePokémon supplies.\xf000븀\x0000\xfffeIt's nice for trainers to have.
-あたしが　よく　かうのは\xfffeポケモンの　たいりょくを　あげる\xf000븀\x0000マックスアップ　という　どうぐ\xf000븁\x0000ほかにも　いろんな　どうぐが\xfffeうっていて　めうつり　しちゃう！
+あたしが よく かうのは\xfffeポケモンの たいりょくを あげる\xf000븀\x0000マックスアップ という どうぐ\xf000븁\x0000ほかにも いろんな どうぐが\xfffeうっていて めうつり しちゃう！
 no data
 no data
 no data
@@ -12,12 +12,12 @@ no data
 no data
 no data
 A good trainer never fights\xfffewith just brute strength.\xf000븁\x0000It's more about which\xfffetechniques each Pokémon has.\xf000븁\x0000The more time that you put into\xfffeyour Pokémon, the more that\xf000븀\x0000you learn about their techniques.
-かくれんぼ　したら\xfffeたのしそうだよね！
+かくれんぼ したら\xfffeたのしそうだよね！
 Welcome to the\xfffeR9 Shopping Mall!\xf000븁\x0000It's R9 because\xfffeit's on Route 9.\xf000븁\x0000Make sure that\xfffeyou remember that!
-Have you heard?　There's a cave\xfffeout on Route 9.\xf000븁\x0000I don't know\xfffewhat's inside though.
-オッス！\xfffeポケモントレーナー！\xf000븁\x0000おまえさん　かみなりのいし　って\xfffeどうぐ　しっているかい？
-さっすがー！　かみなりのいしが\xfffeある　ポケモンを　しんかさせると\xf000븀\x0000しってるなんて　すごいよな\xf000븁\x0000
-じゃあ　おしえてやろう！\xf000븁\x0000かみなりのいしを　つかうと\xfffeある　ポケモンが　しんかするのさ！\xf000븁\x0000
-まあ　ここで　であったのも\xfffeなにかの　えんだ！　もってけ！\xf000븁\x0000
-なんでも　シビビールって　ポケモンが\xfffeかみなりのいしで　しんかするってよ！
+Have you heard? There's a cave\xfffeout on Route 9.\xf000븁\x0000I don't know\xfffewhat's inside though.
+オッス！\xfffeポケモントレーナー！\xf000븁\x0000おまえさん かみなりのいし って\xfffeどうぐ しっているかい？
+さっすがー！ かみなりのいしが\xfffeある ポケモンを しんかさせると\xf000븀\x0000しってるなんて すごいよな\xf000븁\x0000
+じゃあ おしえてやろう！\xf000븁\x0000かみなりのいしを つかうと\xfffeある ポケモンが しんかするのさ！\xf000븁\x0000
+まあ ここで であったのも\xfffeなにかの えんだ！ もってけ！\xf000븁\x0000
+なんでも シビビールって ポケモンが\xfffeかみなりのいしで しんかするってよ！
 R9 Colorful & Wonderful Life\xfffeShopping Mall

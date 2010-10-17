@@ -1,8 +1,8 @@
-どなた……？\xf000븁\x0000アタクシの　ねむりを　さまたげる\xfffeやぼな　トレーナーさんは？\xf000븁\x0000アナタ　ね……\xf000븁\x0000ふうん……\xf000븁\x0000つよさと　やさしさを　あわせもち\xfffeなんだか　てごわそう……\xf000븁\x0000だけど　あくびが　でちゃうような\xfffeたいくつな　しょうぶ　だけは\xf000븀\x0000かんべん　ね……\xf000븁\x0000
-まだ　てあわせ　していない\xfffeしてんのうが　いるのでしょ？\xf000븁\x0000アタクシに　かまわず\xfffeさきに　すすみなさいな
-……しょうぶを　するたびに\xfffeかんじょうを　おおきく　ゆらし\xf000븁\x0000ちからが　はつどうし\xfffeまわりの　ものを　こわしてしまった\xf000븀\x0000よわい　じぶんは　もう　いない……\xf000븁\x0000だけれども　まだまだ　ね……\xf000븁\x0000アタクシの　りそうは\xfffeエレガントに　かちを　おさめること\xf000븁\x0000アナタ……　これからも\xfffeアタクシの　あいてを　してね
-……どうやら　ポケモンリーグの\xfffeしてんのう　ぜんいんに　かったのね\xf000븁\x0000ひろばの　ちゅうおうに　ある\xfffeおおきな　ぞうを　しらべれば\xf000븀\x0000チャンピオンの　へやに　いけるわ……
-どなた……？\xf000븁\x0000アタクシの　ねむりを　さまたげる\xfffeやぼな　トレーナーさんは？\xf000븁\x0000……ふうん\xfffeまた　アナタ　なのね……\xf000븁\x0000あいかわらず\xfffeつよさと　やさしさを　あわせもち\xf000븀\x0000さらに　つよくなった　みたい……\xf000븁\x0000だけど　あくびが　でちゃうような\xfffeたいくつな　しょうぶ　だけは\xf000븀\x0000かんべん　ね……\xf000븁\x0000
-いちぞくに　つたわる\xfffeトレーナーの　こころえ　たしなみを\xf000븀\x0000もってしても　かてない……\xf000븁\x0000アナタのような　トレーナーと\xfffeあいまみえるため　ここに　きたの……
-……みじゅくな　こころゆえ\xfffeちからが　ぼうそうし\xf000븁\x0000たたかいを　きんじられていた\xfffeありし　ひの　アタクシ……\xf000븁\x0000とうじ　こころから　こがれていたのは\xfffeいまのような　こころおどる　とき\xf000븁\x0000ウフフ……\xfffeいま　アタクシ　えがおに　なっている\xf000븀\x0000すこし　はずかしい
-……ポケモンリーグの　してんのう\xfffeぜんいんに　かったのね\xf000븁\x0000それなら　アナタは\xfffeチャンピオンの　へやに　いく\xf000븀\x0000しかくを　えたと　いうこと……\xf000븁\x0000いくだけでは　いみは　ないわ……\xf000븁\x0000そこで　おもうぞんぶん\xfffeちからを　はっき　しなさい
+Who...?\xf000븁\x0000Who is this boorish trainer who\xfffewould wake me from my slumber?\xf000븁\x0000It is you...\xf000븁\x0000Hmph...\xf000븁\x0000A combination of power and kindness\xfffemakes one stubborn indeed...\xf000븁\x0000But do not show me a\xfffebore of a match that\xf000븀\x0000only makes me yawn...\xf000븁\x0000
+Be there any of the Elite\xfffeFour you've yet to challenge?\xf000븁\x0000Never you mind me.\xfffeContinue on your way.
+...Whenever I battle,\xfffemy emotions are rattled.\xf000븁\x0000She who ruined all that\xfffearound her whenever she evoked\xf000븀\x0000her power is no more now...\xf000븁\x0000And yet, still...\xf000븁\x0000My ideal is to wake up to\xfffean elegantly-earned victory.\xf000븁\x0000You... May you continue to be\xfffemy companion in battle... or otherwise.
+……どうやら ポケモンリーグの\xfffeしてんのう ぜんいんに かったのね\xf000븁\x0000ひろばの ちゅうおうに ある\xfffeおおきな ぞうを しらべれば\xf000븀\x0000チャンピオンの へやに いけるわ……
+Who...?\xf000븁\x0000Who is this boorish trainer who\xfffewould wake me from my slumber?\xf000븁\x0000...Hm.\xfffeIt's you again...\xf000븁\x0000As ever, a combination of\xfffepower and kindness seems to\xf000븀\x0000have made you even stronger...\xf000븁\x0000But do not show me\xfffea bore of a match\xf000븀\x0000that only makes me yawn...\xf000븁\x0000
+I have a fondness for telling my\xfffefamily information about trainers,\xf000븀\x0000but even so, I can't win...\xf000븁\x0000I came here to catch a\xfffeof trainers like you...
+...An inexperienced soul runs\xfffewild with its power.\xf000븁\x0000There were some days on which\xfffeI was prohibited from battling...\xf000븁\x0000That same soul that yearned for\xfffebattle dances at times like now...\xf000븁\x0000Ohoho...\xfffeYou've got me smiling.\xf000븀\x0000This is a tad embarrassing.
+……ポケモンリーグの してんのう\xfffeぜんいんに かったのね\xf000븁\x0000それなら アナタは\xfffeチャンピオンの へやに いく\xf000븀\x0000しかくを えたと いうこと……\xf000븁\x0000いくだけでは いみは ないわ……\xf000븁\x0000そこで おもうぞんぶん\xfffeちからを はっき しなさい

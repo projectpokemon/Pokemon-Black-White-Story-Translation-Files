@@ -1,5 +1,5 @@
-イッシュちほうで　もらえる\xfffeかずかずの　ジムバッジ！\xf000븀\x0000せつめいを　ききたいかい？
-ほいほい\xfffeしりたくなったら　またきなさい
+イッシュちほうで もらえる\xfffeかずかずの ジムバッジ！\xf000븀\x0000せつめいを ききたいかい？
+ほいほい\xfffeしりたくなったら またきなさい
 With the Trio Badge, all Pokémon\xfffeup to level 20 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 With the Basic Badge, all Pokémon\xfffeup to level 30 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 With the Beetle Badge, all Pokémon\xfffeup to level 40 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
@@ -8,7 +8,7 @@ With the Quake Badge, all Pokémon\xfffeup to level 60 will obey you.\xf000븀\x
 With the Jet Badge, all Pokémon\xfffeup to level 70 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 With the Icicle Badge, all Pokémon\xfffeup to level 80 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 With the Legend Badge, all Pokémon\xfffewill obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
-どの　バッジの\xfffeせつめいを　ききたい？
+どの バッジの\xfffeせつめいを ききたい？
 Trio Badge
 Basic Badge
 Beetle Badge
@@ -18,5 +18,5 @@ Jet Badge
 Icicle Badge
 Legend Badge
 Quit
-ビルから　まちを　みおろす……\xfffeそうすると　ふるえるよ\xf000븁\x0000だって　わがはい\xfffeたかいところ　こわいもん……
+ビルから まちを みおろす……\xfffeそうすると ふるえるよ\xf000븁\x0000だって わがはい\xfffeたかいところ こわいもん……
 no data

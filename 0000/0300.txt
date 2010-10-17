@@ -1,10 +1,10 @@
-Geechisu: Wielder of the Dark Stone,\xfffeI welcome you.\xf000븁\x0000
-Geechisu: Wielder of the Light Stone,\xfffeI welcome you.\xf000븁\x0000
-ポケモンリーグを　つつみかくすように\xfffeあらわれた　しろは\xf000븁\x0000イッシュが　かわることを\xfffeあらわす　シンボル\xf000븁\x0000
-その　しろの　おうは\xfffeでんせつの　ポケモンを　したがえ\xf000븀\x0000チャンピオンを　こえた\xf000븀\x0000さいきょうの　トレーナー！\xf000븁\x0000しかも　せかいを　よくしたいという\xfffeあつい　おもいを　むねに　ひめている！\xf000븁\x0000これを　えいゆうと　よばずして\xfffeだれを　えいゆうと　よぶのです？\xf000븁\x0000
-ここまで　ぶたいそうちが　ととのえば\xfffeひとびとの　こころは　つかめる！\xf000븁\x0000いとも　たやすく　ワタクシの……\xfffeいや　プラズマだんの　のぞむ\xf000븀\x0000せかいに　できるのです！\xf000븁\x0000ワタクシたちだけが　ポケモンをつかい\xfffeむりょくな　ひとを　しはいするのです\xf000븁\x0000
-ながかったぞ！\xf000븁\x0000けいかくを　さとられぬよう\xfffeいきを　ひそめていた……\xf000븀\x0000くるしみの　ひびも　おわる！！\xf000븁\x0000
-さあ　すすめ！\xf000븁\x0000
-そして　じぶんも\xfffeえいゆうに　なれるのか\xf000븀\x0000たしかめれば　いいのです！\xf000븁\x0000
-ゲーチス『さあ！\xfffeダークストーンを　もつものよ！\xf000븁\x0000この　へやにて　じぶんも\xfffeえいゆうに　なれるのか\xf000븀\x0000たしかめれば　いいのです！
-ゲーチス『さあ！\xfffeライトストーンを　もつものよ！\xf000븁\x0000この　へやにて　じぶんも\xfffeえいゆうに　なれるのか\xf000븀\x0000たしかめれば　いいのです！
+Geechisu: Welcome,\xfffepossessor of the Dark Stone.\xf000븁\x0000
+Geechisu: Welcome,\xfffepossessor of the Light Stone.\xf000븁\x0000
+This castle, once\xfffeconcealed under the Pokémon League,\xf000븁\x0000is a sign that Isshu will change.\xf000븁\x0000
+The lord of the castle has\xfffetamed the legendary Pokémon\xf000븀\x0000and surpassed the Champion...\xf000븀\x0000The ultimate Trainer!\xf000븁\x0000Furthermore, his heart burns with ideas\xfffeof what he wishes to do with the world!\xf000븁\x0000If you wouldn't call him a hero\xfffethen just who would you?\xf000븁\x0000
+Once the stage has been put in order,\xfffewe will capture people's hearts!\xf000븁\x0000A remarkably simple desire of mine...\xfffewell rather,\xf000븀\x0000of Team Plasma's!\xf000븁\x0000With only us in control of Pokémon,\xfffewe will rule the powerless.\xf000븁\x0000
+It's been so long!\xf000븁\x0000I've lived in hiding so my\xfffeplan would not be exposed...\xf000븀\x0000But those days of suffering are over!!\xf000븁\x0000
+Now, continue!\xf000븁\x0000
+Maybe you too,\xfffecan become a hero...\xf000븀\x0000Well, it couldn't hurt to try!\xf000븁\x0000
+Geechisu: Hey!\xfffePossessor of the Dark Stone!\xf000븁\x0000Are you capable of\xfffebecoming a hero too?\xf000븀\x0000Well, it couldn't hurt to try!
+Geechisu: Hey!\xfffePossessor of the Light Stone!\xf000븁\x0000Are you capable of\xfffebecoming a hero too?\xf000븀\x0000Well, it couldn't hurt to try!

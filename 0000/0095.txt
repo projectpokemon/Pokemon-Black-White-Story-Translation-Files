@@ -1,12 +1,12 @@
-アララギ『ハーイ！\xfffe\xf000Ā\x0001\x0000！！\xf000븁\x0000
-チェレン『こっちに　きなよ\xf000븁\x0000
-アララギ『カミツレに　よばれて\xfffeでんきタイプの　ポケモンのこと\xf000븀\x0000いろいろ　きかれている　ときに\xf000븀\x0000きみたちのこと　おもいだして……\xf000븁\x0000で　ようじと　いうのは　これ！\xfffeドドーンと　サービスよ！！\xf000븁\x0000
-はい　チェレン！\xf000븁\x0000
-\xf000Ā\x0001\x0000も\xf000븁\x0000
-いっしょに　いたい　ポケモンと\xfffeであったら　おしむことなく\xf000븀\x0000いい　ボールを　つかいなさいな\xf000븁\x0000その　ポケモンとの　であいは\xfffeそれが　さいしょで\xf000븀\x0000さいごかも　しれないんだから！\xf000븁\x0000
-……それと　ポケモンずかんの\xfffeかんせいを　おねがいした\xf000븀\x0000わたしが　こんなことを　いうのも\xf000븁\x0000ちょっと　おかしいけど\xfffeたびを　たのしみなさいね！\xf000븁\x0000
-……あっ！\xf000븁\x0000ポケモンずかんのこと\xfffeなにもしなくて　いいって\xf000븁\x0000いみ　じゃないのは　わかってるよね\xf000븁\x0000さてと……\xfffeベルに　あわなきゃね\xf000븁\x0000
-チェレン『……ぼくたちを\xfffeたびに　ださせるため\xf000븀\x0000ポケモンと　ずかんを　くれた……\xf000븁\x0000そういうこと　らしいね\xfffeかあさんが　おしえてくれたよ\xf000븁\x0000ぼくたちに　せかいを　みせたいからって\xfffeきみのママと　ベルのママ　３にんで\xf000븀\x0000アララギはかせに　たのんでね\xf000븁\x0000
-さて　\xf000Ā\x0001\x0000\xfffeこれから　どうしようか\xf000븁\x0000そうだな……　４ばんどうろで\xfffeまだ　つかまえていない\xf000븀\x0000ポケモンを　つかまえることで\xf000븀\x0000おれいと　させてもらうかな\xf000븁\x0000
-４ばんどうろ　から\xfffeいらした　あなたに\xf000븀\x0000このさき　ライモンシティです！\xf000븁\x0000つぎ！　ライモンシティ　から\xfffeいらした　あなたに\xf000븀\x0000このさき　４ばんどうろ　です！
-でんこうけいじばんを　みれば\xfffeライモンシティについて　バッチリ！
+Araragi: Hiiii there,\xfffe\xf000Ā\x0001\x0000!!\xf000븁\x0000
+Cheren: Come over here.\xf000븁\x0000
+Araragi: Kamitsure called me over\xfffeto ask me all about\xf000븀\x0000electric-type Pokémon,\xf000븀\x0000きand I was reminded of you...\xf000븁\x0000So, this is what I "wanted" you\xfffefor! Bam! At your service!!\xf000븁\x0000
+Here, Cheren!\xf000븁\x0000
+And here, \xf000Ā\x0001\x0000.\xf000븁\x0000
+If you ever run into a Pokémon you\xfffewant to keep, don't be frugal,\xf000븀\x0000make sure you use a good Pokéball!\xf000븁\x0000You never know if it'll\xfffebe both the first and last\xf000븀\x0000time you see that Pokémon!\xf000븁\x0000
+...Well, of course I'd say that,\xfffehaving asked you to\xf000븀\x0000complete the Pokédex and all.\xf000븁\x0000It might sound a little weird, but I\xfffereally do want you to enjoy your journey!\xf000븁\x0000
+...Oh!\xf000븁\x0000Not like I'm saying it's fine to\xfffecompletely ignore the Pokédex,\xf000븁\x0000of course.\xf000븁\x0000Now then...\xfffeI've got to meet up with Belle.\xf000븁\x0000
+Cheren: ...She gave us Pokémon\xfffeand Pokédexes so we\xf000븀\x0000could go on a journey...\xf000븁\x0000That's the gist of it.\xfffeIt's what my mother told me.\xf000븁\x0000They wanted us to see the world,\xfffeso my mom, your mom, and Belle's mom\xf000븀\x0000all asked Professor Araragi to help.\xf000븁\x0000
+So, \xf000Ā\x0001\x0000.\xfffeWhat will you do now?\xf000븁\x0000Hm... Well, excuse me.\xfffeI think I'll go catch\xf000븀\x0000some of the Pokémon I\xf000븀\x0000haven't caught on Route 4.\xf000븁\x0000
+４ばんどうろ から\xfffeいらした あなたに\xf000븀\x0000このさき ライモンシティです！\xf000븁\x0000つぎ！ ライモンシティ から\xfffeいらした あなたに\xf000븀\x0000このさき ４ばんどうろ です！
+でんこうけいじばんを みれば\xfffeライモンシティについて バッチリ！
