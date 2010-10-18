@@ -1,10 +1,10 @@
-Cheren:……\xf000Ā\x0001\x0000\xf000븁\x0000むずかしいね\xfffeじぶんと むきあうのは\xf000븁\x0000じぶんの イヤな ところや\xfffeきらいな ぶぶんばかり めにつくよ\xf000븁\x0000
-???:そうとも\xf000븁\x0000そして だれも\xfffeじぶんからは にげられない\xf000븁\x0000
+Cheren: \xf000Ā\x0001\x0000...\xf000븁\x0000It's difficult... confronting myself.\xf000븁\x0000I keep noticing parts of myself\xfffeI dislike, or even hate.\xf000븁\x0000
+???: That's right.\xf000븁\x0000And no one can even\xffferun from their true self.\xf000븁\x0000
 Cheren: Renbu?\xf000븁\x0000
-Renbu:ししょうに いわれ みにきた\xf000븁\x0000いいか？\xfffeしょうぶに まけたとしても\xf000븁\x0000それまでの じぶんを こえていれば\xfffeそれは じぶんに かったといえる\xf000븁\x0000そのため しょうぶを つうじ\xfffeあいてを みろ！\xf000븀\x0000ポケモンを みろ！\xf000븀\x0000そして じぶんを みるんだ！\xf000븁\x0000
-Cheren:……もしかして\xfffeアデクさんの うけうり ですか？\xf000븁\x0000
-Renbu:……さあな\xf000븁\x0000わたしが のぞんでいるのは\xfffeそのようにして じぶんを つらぬく\xf000븀\x0000トレーナーとの たたかい……\xf000븁\x0000そんな トレーナーと まじわるとき\xfffeわたしも わたしの ポケモンたちも\xf000븀\x0000さらに つよくなれる……\xf000븁\x0000では ポケモンリーグにて\xfffeきみたちの ちょうせん まっているよ\xf000븁\x0000
-Cheren:……だってさ\xf000븁\x0000じゃ \xf000Ā\x0001\x0000！\xfffeポケモンしょうぶ うけてもらうよ！\xf000븁\x0000
+Renbu: My master told me about this,\xfffeso I came to see.\xf000븁\x0000Do you understand?\xfffeEven if you lose in battle...\xf000븁\x0000As long as you surpass your past self,\xfffeyou've still achieved a victory\xf000븀\x0000over yourself.\xf000븁\x0000So for that purpose, through battle,\xfffewe see opponents! We see Pokémon!\xf000븀\x0000And we see ourselves!\xf000븁\x0000
+Cheren: I suppose that's a line\xfffeyou're passing down from Adeku?\xf000븁\x0000
+Renbu: Well, yeah.\xf000븁\x0000What I want is to fight a trainer\xfffewho sees themselves that way...\xf000븁\x0000In associating with such a trainer,\xfffeI know I and my Pokémon\xf000븀\x0000would get even stronger...\xf000븁\x0000Well, I'll be awaiting your challenges\xfffeat the Pokémon League!\xf000븁\x0000
+Cheren: Well then...\xf000븁\x0000Okay, \xf000Ā\x0001\x0000!\xfffeShow me a Pokémon battle!\xf000븁\x0000
 Cheren:……こうして おおくの\xfffeトレーナーや ポケモンと たたかい\xf000븁\x0000じぶんが なにものか みさだめれば\xfffeいっぽんの みちが ひらけてくる\xf000븁\x0000きっと それは\xfffeぼくが ぼくで あるための みち\xf000븁\x0000ぼくにも きみにも\xfffeポケモンが いてくれる\xf000븁\x0000ともに みちを あるいてくれる\xfffeだいじな ポケモンたちが
 Cheren:……きたね \xf000Ā\x0001\x0000\xf000븁\x0000これまでの ぼくを こえるため……\xf000븁\x0000そして じゅんすいに つよい\xfffeトレーナーの きみに かつため\xf000븀\x0000ポケモンしょうぶ うけてもらうよ！\xf000븁\x0000
 Cheren:……こうして おおくの\xfffeトレーナーや ポケモンと たたかい\xf000븁\x0000じぶんが なにものか みさだめれば\xfffeいっぽんの みちが ひらけてくる\xf000븁\x0000きっと それは\xfffeぼくが ぼくで あるための みち\xf000븁\x0000ぼくにも きみにも\xfffeポケモンが いてくれる\xf000븁\x0000ともに みちを あるいてくれる\xfffeだいじな ポケモンたちが
