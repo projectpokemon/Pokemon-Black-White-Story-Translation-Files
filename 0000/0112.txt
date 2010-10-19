@@ -1,32 +1,31 @@
-おお！ おまえさん！\xfffe\xf000Ā\x0001\x0000だろ！！\xf000븁\x0000
-ちょいと おまえさんの\xfffeポケモンずかんを みせてもらうよ\xf000븁\x0000……どれどれ\xf000븁\x0000\xfffeみつけた かずは\xfffe\xf000Ȃ\x0001\x0000ひき か！\xf000븁\x0000
-おお！ ギアルを みつけておるのか！\xfffeなかなかの トレーナーだねえ！\xf000븁\x0000
-ふむう……\xfffeギアルは まだ みておらぬのか\xf000븁\x0000\xfffeだが たいした ポケモンずかん だ！\xf000븁\x0000
-おぉ すまない！\xfffeちと こうふん してな\xf000븁\x0000\xfffeわたしの なまえも\xfffeアララギ\xf000븁\x0000\xfffeそう！ おまえさんに\xfffeポケモンと ずかんを たくしたのは\xf000븀\x0000\xfffeわたしの むすめ なんだ！\xf000븁\x0000\xfffeおまえさんのことは アイツから\xfffeいろいろ おしえて もらっていてね\xf000븁\x0000\xfffeここで あえたのは\xfffeなんとも うれしい かぎりだよ！\xf000븁\x0000
-では であいを きねんして\xfffeおまえさんの ポケモンずかんを\xf000븀\x0000\xfffeパワーアップ！ だね\xf000븁\x0000
-\xf000Ā\x0001\x0000の ポケモンずかんが\xfffeパワーアップ した！
-アララギ『おなじ ポケモンでも\xfffeすがたが かわる ポケモンが いる\xf000븁\x0000みたことが ある すがたなら\xfffeこれで いつでも かくにん できるよ\xf000븁\x0000あわせて ポケモンを\xfffeさがしやすいように けんさくきのうも\xf000븀\x0000ついか しておいたからね\xf000븁\x0000
-？？？『アララギはかせ\xfffeそちらの トレーナーさんは？\xf000븁\x0000
-アララギ『おお！ おう！\xfffeすまんすまん\xf000븁\x0000\xfffeフウロくん こちらは\xfffe\xf000Ā\x0001\x0000くんと いって\xf000븀\x0000\xfffeわたしの むすめの しりあいだよ！\xf000븁\x0000\xfffeポケモンずかん かんせいを めざし\xfffeイッシュを たび しているのだ\xf000븁\x0000
-フウロ『そうなんだ！ だったら\xfffeジムに ちょうせん するでしょ？\xf000븀\x0000\xfffeわあ！ とっても たのしみ！！\xf000븁\x0000
-アララギ『そうだな \xf000Ā\x0001\x0000くん\xfffeぜひ ちょうせんすると いいぞ！\xf000븁\x0000\xfffeなにしろ ここの ジムは\xfffeぶっとんで おるからな！\xf000븁\x0000
-ではな フウロくん\xfffeまた なにかあったら たのむぞ\xf000븁\x0000
-フウロ『……はかせ\xfffeアタシの ひこうきは かもつきです！\xf000븁\x0000\xfffeはこぶのは にもつで\xfffeひとは のせないんですよ\xf000븁\x0000……しかも いきさきは カントーとか\xfffeシンオウとか かるく いっちゃって！\xf000븁\x0000
-アララギ『おいおい\xfffeかわいい かおして\xf000븀\x0000\xfffeそんな かたいことを いうな\xf000븁\x0000\xfffeにんげんは たすけあい\xfffeポケモンとも たすけあい だ！\xf000븁\x0000\xfffeそれでは しょくん\xfffeまた あおうぞ！\xf000븁\x0000
-フウロ『……もう！\xf000븁\x0000\xfffeあんな いいかげんな かんじなのに\xfffeせかいてきな ポケモンはかせって\xf000븀\x0000\xfffeいまだに しんじられない\xf000븁\x0000
-さてと\xfffe\xf000Ā\x0001\x0000くん！\xf000븁\x0000ジムに ちょうせん してくれたら\xfffeジムリーダーとしても\xf000븀\x0000すごく うれしいんだけど\xf000븁\x0000アタシ そのまえに\xfffeやるべきことが あるの\xf000븁\x0000
-さてと\xfffe\xf000Ā\x0001\x0000さん！\xf000븁\x0000ジムに ちょうせん してくれたら\xfffeジムリーダーとしても\xf000븀\x0000すごく うれしいんだけど\xf000븁\x0000アタシ そのまえに\xfffeやるべきことが あるの\xf000븁\x0000
-さっき かもつきを\xfffeそうじゅう していたとき\xf000븁\x0000タワーオブヘブンの てっぺんに\xfffeなにか みえたのね\xf000븁\x0000
-きっと よわった\xfffeポケモンだと おもうの！\xf000븁\x0000だとしたら ほうっておけないでしょ？\xfffeだから さきに しらべさせてね\xf000븁\x0000ということで ７ばんどうろの\xfffeタワーオブヘブンに いくんだけど\xf000븀\x0000よければ アナタも きてね\xf000븁\x0000
+Oh! It's you!\xfffeYou must be \xf000Ā\x0001\x0000!\xf000븁\x0000
+Can I take a quick look at your\xfffePokédex?\xf000븁\x0000Hmmm... Yes...\xf000븁\x0000\xfffeSo you've found \xf000Ȃ\x0001\x0000 Pokémon!\xf000븁\x0000
+Oh! And you've found Gear?!\xfffeYou're quite the trainer!\xf000븁\x0000
+Oops, I'm sorry!\xfffeI got a little overexcited there.\xf000븁\x0000\xfffeMy name is... ALSO Araragi!\xf000븁\x0000
+That's right! My daughter is the on who\xfffemade your Pokédex!\xf000븁\x0000\xfffeShe's told me all sorts of\xfffethings about you.\xf000븁\x0000\xfffeI'm just overjoyed I could\xfffemeet you here!\xf000븁\x0000So in comemmoration of our meeting,\xfffelet me upgrade your Pokédex! Okay?\xf000븁\x0000
+\xf000Ā\x0001\x0000's Pokédex was upgraded!
+Araragi: There are some Pokémon that are\xfffeof the same species, but have different\xf000븀\x0000forms.\xf000븁\x000With this upgrade, you now can keep\xfffetrack of which forms you've seen!\xf000븁\x0000Plus, I've added some additional\xfffefunctions to make it easier to\xf000븀\x0000search for Pokémon!\xf000븁\x0000
+???: Professor Araragi, who\xfffeis this trainer?\xf000븁\x0000
+Araragi: Oh! ...Oh!\xfffeSorry, I'm sorry.\xf000븁\x0000\xfffeFuuro, this is \xf000Ā\x0001\x0000, an\xfffeanquaintance of my daughter!\xf000븁\x0000\xf000Ā\x0001\x0000's journering through Isshu,\xfffeaiming to complete the Pokédex.\xf000븁\x0000
+Fuuro: I see! Then you'll probably\xfffechallenge the gym here, right?\xf000븀\x0000\xfffeWow! I'm looking forward to it!\xf000븁\x0000
+Araragi: Yeah, \xf000Ā\x0001\x0000!\xfffeIt'd be great if you challenged her!\xf000븁\x0000I'm sure you'll just soar right\xfffethrough the gym here!\xf000븁\x0000
+Well, Fuuro, if anything comes up\xfffeagain, I'm counting on you!\xf000븁\x0000
+Fuuro: ...Professor, my plane's a\xfffecargo plane!\xf000븁\x0000It carries luggage, not people.\xf000븁\x0000...Not to mention places like Kanto\xfffeand Sinnoh aren't easy destinations!\xf000븁\x0000
+Araragi: Hey, now, don't be so\xfffeharsh while you're making suck\xf000븀\x0000\xfffea cute face...\xf000븁\x0000\xfffeHumans need to help each other,\xfffejust like we do with Pokémon!\xf000븁\x0000\xfffeWell, you two, hope we meet\xfffeagain!\xf000븁\x0000
+Fuuro: ...Why!\xf000븁\x0000\xfffeSo irresponsible for a world-\xffferenowned Pokémon proferros!\xf000븀\x0000\xfffeI still don't believe it.\xf000븁\x0000
+Now, \xf000Ā\x0001\x0000!\xf000븁\x0000As the gym leader, I'd be very\xfffeglad if you were to challenge\xf000븀\x0000my gym.\xf000븁\x0000But first, there's something\xfffeI need to do.\xf000븁\x0000
+Now, \xf000Ā\x0001\x0000!\xf000븁\x0000As the gym leader, I'd be very\xfffeglad if you were to challenge\xf000븀\x0000my gym.\xf000븁\x0000But first, there's something\xfffeI need to do.\xf000븁\x0000
+Earlier, when I was flying my cargo\xfffeplane...\xf000븁\x0000I saw something atop the Tower\xfffeof Heaven.\xf000븁\x0000It was a weakened Pokémon,\xfffeI'm sure of it!\xf000븁\x0000
+I can't very well ignore it,\xfffenow can I?\xf000븁\x0000So I'm soing ahead and investigating!\xf000븁\x0000That said, I'm going to the Tower\xfffeof Heaven on Route 7...\xf000븀\x0000And if you want, you can come too.\xf000븁\x0000
 フウロさん\xf000븁\x0000かもつきの そうじゅうを おえて\xfffeどこに いっちゃったんですかね\xf000븁\x0000ひょっとして ７ばんどうろの\xfffeタワーオブヘブン っすか？
-Ｎ『\xf000븉\x0001\x0001……わかりあうためと いい\xfffeトレーナーは しょうぶで あらそい\xf000븀\x0000ポケモンを きずつけあう\xf000븁\x0000ボクだけなのかな\xfffeそれが とても くるしいのは\xf000븁\x0000まあいい…… キミの ポケモンと\xfffeはなしを させてもらうよ\xf000븁\x0000……ボクは うまれたころより\xfffeポケモンと くらし そだったからね\xf000븀\x0000ヒトと はなすよりも らくなんだ\xf000븁\x0000だって ポケモンは\xfffeぜったいに ウソを つかない\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001\xf000ā\x0001\x0000 だね……\xf000븁\x0000\xf000Ā\x0001\x0001は\xfffeどんな トレーナーか おしえてよ？\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001……そうか \xf000Ā\x0001\x0001は\xfffeカノコタウンで うまれそだち\xf000븀\x0000ははおやと ふたりぐらし なんだ\xf000븁\x0000ポケモンずかんを きっかけに\xfffeせかいを みてまわる\xf000븀\x0000たびを している…… と\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001それにしても この \xf000ā\x0001\x0001\xfffeなぜだか キミを しんじている……\xf000븀\x0000いいね……！\xf000븁\x0000すべての ひとと ポケモンが\xfffeキミたちの ように むきあうなら\xf000븁\x0000ひとに りよう されるだけの\xfffeポケモンを ときはなたずに\xf000븁\x0000ポケモンたちと ひとの\xfffeゆくすえを みまもることが できるのに\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001ゲーチスは プラズマだんを つかい\xfffeとくべつな いしを さがしている\xf000븁\x0000そのなも ライトストーンと\xfffeダークストーン……\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001でんせつの ポケモンは\xfffeその にくたいが ほろぶと\xf000븁\x0000ストーンと なって ねむりながら\xfffeえいゆうの たんじょうを まつ……\xf000븁\x0000その ストーンから でんせつの\xfffeドラゴンポケモンを よみがえらせ\xf000븁\x0000トモダチに なり\xfffeボクが えいゆうで あることを\xf000븀\x0000せかいに みとめさせ したがわせる……\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001……ボクの ゆめは あらそうことなく\xfffeせかいを かえること\xf000븁\x0000ちからで せかいを かえようとすれば\xfffeさからう ひとも でるだろう\xf000븁\x0000そのとき きずつくのは おろかな\xfffeトレーナーに りよう されてしまう\xf000븀\x0000むかんけいの ポケモンたち だから\xf000븁\x0000そう……\xfffeポケモンは ひとに つかわれるような\xf000븀\x0000ちいさな そんざいじゃ ないんだよ！\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001その けっか……\xf000븁\x0000キミたちの ように\xfffeおたがい むきあっている\xf000븀\x0000ポケモンと トレーナーを\xf000븀\x0000ひきさくことに なるのは\xf000븀\x0000すこし むねが いたむけどね\xf000븉\x0001\x0000\xf000븁\x0000
+N:\xf000븉\x0001\x0001 ...To understand each other,\xfffetrainers struggle through battle,\xf000븀\x0000and wound POkémon in the process.\xf000븁\x000Am I the only one? The only one\xfffewho sees how very painful it is?\xf000븁\x0000Regardless... I have spoken to\xfffeyour Pokémon...\xf000븁\x0000...Since the day I was born,\xfffeI have been brought up with Pokémon.\xf000븀\x0000It's more comfortable to me than\xf000븀\x0000talking with people.\xf000븁\x0000So I know Pokémon cannot ever lie.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001\xf000ā\x0001\x0000...\xf000븁\x0000Would you tell me what kind of\xfffetrainer \xf000Ā\x0001\x0001 is?\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001...I see. So you were born and\xffferaised in Kanoko Town, together\xf000븀\x0000with your mother...\xf000븁\x0000Taking the opportunity presented to\xfffeyou by the Pokédex, you are\xf000븀\x0000out on a journey to see the world...\xf000븀\x0000Hmm.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Even so, for whatever reason,\xfffethis \xf000ā\x0001\x0001 seems to believe in you...\xf000븀\x0000How splendid...!\xf000븁\x0000If only all people could get\xfffealong with Pokémon as you all do...\xf000븁\x0000Yet the fate of Pokémon and humans is\xfffeleft in the hands of those who\xf000븀\x0000use Pokémon for themselves...\xf000븁\x0000Geechisu is having Team Plasma\xfffesearch for a special stone.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001The paired Light Stone and Dark Stone...\xfffeand we seek the latter.\xf000븁\x0000The body of the legendary Pokémon\xfffewas destroyed, and it sleeps in\xf000븀\x0000the form of a stone, awaiting the\xf000븀\x0000hero's return...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001I will revive the legendary Pokémon\xfffefrom its slumber.\xf000븁\x0000And I will befriend it, and the\xfffeworld will recognize me as a hero...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001...My dream is to make this\xfffeworld without stife.\xf000븁\x0000If the world is changed by force,\xfffethere will be those who oppose it.\xf000븁\x0000And when there is opposition,\xfffethose wounded are the innocent Pokémon\xf000븀\x0000whom foolish trainers abuse...\xf000븁\x0000Yes... Pokémon are not\xfffeplaythings for people to control!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001As such...\xf000븁\x0000It pains me a little to separate\xfffetrainers from their Pokémon when there\xf000븀\x0000are ones like you who respect\xf000븀\x0000each other...\xf000븉\x0001\x0000\xf000븁\x0000
 ひこうき！ この フォルム！\xfffeまさに とぶための デザイン！\xf000븁\x0000\xfffeそして とぶための メカニックも\xfffeいっさいの むだが ないんです！
 この フキヨセの くうこうから\xfffeとびたつのは かもつき ばかりさ\xf000븁\x0000\xfffeトレーナーが とびたいときは\xfffeそらをとぶ って わざがあるもんね
 フウロさんの おじいちゃん\xfffeでんせつの ひこうきのり だったの\xf000븁\x0000\xfffeあっ フウロさん てのは\xfffeこのまちの ジムリーダー！\xf000븀\x0000\xfffeやさしい おねえさん なんだから！
@@ -40,7 +39,7 @@
 なんてね\xf000븁\x0000ぼくら ポケモン もってないし\xfffeそれまで その わざマシンを\xf000븀\x0000かくしておくつもり だったんだ\xf000븁\x0000だけど もったいないから\xfffeおにいちゃん つかって いいよ\xf000븁\x0000ぼくら また\xfffeフウロねえちゃんから もらうから！\xf000븁\x0000
 なんてね\xf000븁\x0000ぼくら ポケモン もってないし\xfffeそれまで その わざマシンを\xfffeかくしておく つもりだったんだ\xf000븁\x0000だけど もったいないから\xfffeおねえちゃん つかって いいよ\xf000븁\x0000ぼくら また\xfffeフウロねえちゃんから もらうから！\xf000븁\x0000
 つかって いーよー！！\xf000븁\x0000
-じゃあね！ バイバイ！！\xf000븁\x0000
+Bye! Bye!!\xf000븁\x0000
 Fukiyose City\xfffeTown of Flowery Winds
 Fukiyose Cargo Service\xfffeWorking Quickly & Safely
 Fukiyose Pokémon Gym\xfffeLeader: Furou\xf000븀\x0000\xfffeGirl of the Sky
