@@ -28,9 +28,9 @@ no data
 でんせつの ポケモンは\xfffeしんじつを もとめる えいゆうを\xf000븀\x0000たすけ くにを つくる……\xf000븁\x0000そして にくたいが ほろぶと\xfffeライトストーンと なり あらたな\xf000븀\x0000えいゆうの たんじょうを まつ……\xf000븁\x0000そんな はなしを\xfffeちいさいときに きいたことが あるよ
 でんせつの ポケモンは\xfffeりそうを もとめる えいゆうを\xf000븀\x0000たすけ くにを つくる……\xf000븁\x0000そして にくたいが ほろぶと\xfffeダークストーンと なり あらたな\xf000븀\x0000えいゆうの たんじょうを まつ……\xf000븁\x0000そんな はなしを\xfffeちいさいときに きいたことが あるよ
 ジムリーダー ハチクさまの\xfffeちんちゃくれいせい っぷり……\xf000븁\x0000\xfffeファイティング コンピュータとよぶ\xfffeひとが いるのも なっとくだよ
-おどれ！ おどれ！\xfffe２ひきの ドラゴン！
-まわる♪ まわる♪\xfffeまわって ねじれて♪
-ぐるぐる わかれて\xfffeぐるぐる まざって
+How're you? How're you?\xfffeI'm doing the twin dragon dance!
+Twisting ♪ Twisting ♪\xfffeWalking in a circle ♪
+Circle circle...\xfffeYou're the true shape of the sun!
 あさも よるも まざり\xfffeすべてが ゆるされる♪
 しっちを あるけば ビックリした\xfffeやせいの ポケモンが でてくるよ！
 しっちが こおって ツルツル……\xfffeしっちの ポケモン げんきかな？
