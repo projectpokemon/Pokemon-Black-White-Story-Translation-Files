@@ -1,14 +1,14 @@
-ジムリーダーに\xfffeいどむ こころの じゅんび\xf000븀\x0000できているようだな\xf000븁\x0000では いざ！\xf000븁\x0000
-つよき こころを もつものよ\xfffeこれを わたそう\xf000븁\x0000
-\xf000Ā\x0001\x0000は ハチクから\xfffeアイシクルバッジを もらった！\xf000븁\x0000
-バッジが ７つ\xf000븁\x0000なるほど レベル８０までの ポケモンは\xfffeめいれいを すなおに きいてくれる\xf000븁\x0000この わざマシンには\xfffeわたしの おもいが こめられている\xf000븁\x0000
-かならず きゅうしょに あたる わざ\xfffeそれが 「こおりのいぶき」
+Hachiku: Your heart seems suitably\xfffeprepared to challenge a gym leader.\xf000븀\x0000Now, come!\xf000븁\x0000
+Hachiku: You possess a strong\xfffeheart! Have this!\xf000븁\x0000
+\xf000Ā\x0001\x0000 recieved the Icicle Badge\xfffefrom gym leader Hachiku!\xf000븁\x0000
+Seven badges...\xf000븁\x0000I see. Now, Pokémon up to Level 80\xfffewill hear out your every order.\xf000븁\x0000Take this TM, packed with my thoughts!\xf000븁\x0000
+That is Ice Breath, an attack that\xfffewill always land a critical hit.
 いくら たたかえど\xfffeつよさ とは なにか わからない\xf000븁\x0000\xfffeだが きみなら\xfffeなにか こたえを みつけるやもな
 つよさを ひけらかすのは\xfffeよわい ものが することだ
 ハチク『そのむかし ケガをして\xfffeおちこんでいた わたしに\xf000븀\x0000アデクさんは いわれた\xf000븁\x0000ほかのひとや ポケモンと ともにあり\xfffeその ささえに よって\xf000븀\x0000じぶんが つよくなる……\xf000븀\x0000そういう つよさも ある と\xf000븁\x0000チェレンと いう わかものも\xfffeそれを さとったようだな
 この おいしいみず\xfffeうけとって くださいっすよ\xf000븁\x0000
 こおりは ほのおで とかすか\xfffeかくとうで ぶっこわす\xf000븁\x0000\xfffeあるいは いわ はがねで\xfffeこなごなにすると いいっすよ！
-ハチクさんに ならって\xfffeことばかず へらしているんすよ
+Good going, champ!\xfffeYou melted that ice!
 Sekka Pokémon Gym\xf000븁\x0000\xfffeLeader: Hachiku\xfffeCertified Trainers!
 Sekka Pokémon Gym\xf000븁\x0000\xfffeLeader: Hachiku\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
 Sekka Pokémon Gym\xf000븁\x0000\xfffeLeader: Hachiku\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCherem\xf000븀\x0000\xfffeBel
