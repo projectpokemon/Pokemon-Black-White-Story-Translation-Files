@@ -2,7 +2,8 @@ Oh! It's you!\xfffeYou must be \xf000Ā\x0001\x0000!\xf000븁\x0000
 Can I take a quick look at your\xfffePokédex?\xf000븁\x0000Hmmm... Yes...\xf000븁\x0000\xfffeSo you've found \xf000Ȃ\x0001\x0000 Pokémon!\xf000븁\x0000
 Oh! And you've found Gear?!\xfffeYou're quite the trainer!\xf000븁\x0000
 Oops, I'm sorry!\xfffeI got a little overexcited there.\xf000븁\x0000\xfffeMy name is... ALSO Araragi!\xf000븁\x0000
-That's right! My daughter is the on who\xfffemade your Pokédex!\xf000븁\x0000\xfffeShe's told me all sorts of\xfffethings about you.\xf000븁\x0000\xfffeI'm just overjoyed I could\xfffemeet you here!\xf000븁\x0000So in comemmoration of our meeting,\xfffelet me upgrade your Pokédex! Okay?\xf000븁\x0000
+That's right! My daughter is the on who\xfffemade your Pokédex!\xf000븁\x0000\xfffeShe's told me all sorts of\xfffethings about you.\xf000븁\x0000\xfffeI'm just overjoyed I could\xfffemeet you here!\xf000븁\x0000
+So in comemmoration of our meeting,\xfffelet me upgrade your Pokédex! Okay?\xf000븁\x0000
 \xf000Ā\x0001\x0000's Pokédex was upgraded!
 Araragi: There are some Pokémon that are\xfffeof the same species, but have different\xf000븀\x0000forms.\xf000븁\x000With this upgrade, you now can keep\xfffetrack of which forms you've seen!\xf000븁\x0000Plus, I've added some additional\xfffefunctions to make it easier to\xf000븀\x0000search for Pokémon!\xf000븁\x0000
 ???: Professor Araragi, who\xfffeis this trainer?\xf000븁\x0000
