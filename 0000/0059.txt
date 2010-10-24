@@ -1,11 +1,11 @@
-Hello!\xf000븁\x0000Would you like me to\xfffemassage one of your Pokémon?
+﻿Good day!\xf000븁\x0000Would you like me to\xfffemassage one of your Pokémon?
 Feel free to come back\xfffeif you change your mind.
-Alright!\xfffeJust relax.\xf000븁\x0000
-That's an Egg...\xfffeI can't massage that.
-Finished!\xf000븁\x0000It seemed to really\xfffelike the massage!
-Finished!\xf000븁\x0000It seemed to\xfffelike the massage!
-Finished!\xf000븁\x0000It seemed content\xfffewith the massage!
-I'm sorry. I only give\xfffemassages once a day...\xf000븀\x0000You can come back tomorrow!
+Alright!\xfffeJust relax...\xf000븁\x0000
+Um, massaging an egg...?\xfffeI think it's a little early for that.
+Okay! Finished!\xf000븁\x0000It seemed to really\xfffelike the massage!
+Okay! Finished!\xf000븁\x0000It seemed to\xfffelike the massage!
+Okay! Finished!\xf000븁\x0000It seemed content\xfffewith the massage!
+I'm sorry!\xfffeI've exhausted from that massage...\xf000븀\x0000You can come back tomorrow!
 When I see that my Pokémon\xfffeis happy, I'm happy!\xf000븁\x0000You and your Pokémon will\xfffeshare feelings with each other!
-...Guhuguhuguhu!
-You can sit down and\xfffewatch TV if you like.
+...Guhu-guhu-guhu!
+The TV's hard to see form here!\xfffeEr, not because of you or anything.
