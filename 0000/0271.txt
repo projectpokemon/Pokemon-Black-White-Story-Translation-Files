@@ -37,7 +37,7 @@ Well done!\xfffeYou were too strong for me...\xf000븁\x0000Hey! Can you help me
 Hey! Can you help me? Would\xfffeyou help me bring food to everyone?
 Well that's okay!\xfffeEnjoy your stay!
 Really?! Thank you!\xf000븁\x0000Well then, do you understand everything?
-Okay, I'll explain...\xfffeYou go ask what they want to eat.\xf000븁\x0000I mean every person here\xfffewho wants to eat something.\xf000븁\x000When you asked everyone\xfffeonce, you'll report to me!\xf000븁\x0000
+Okay, I'll explain...\xfffeYou go ask what they want to eat.\xf000븁\x0000I mean every person here\xfffewho wants to eat something.\xf000븁\x0000When you asked everyone\xfffeonce, you'll report to me!\xf000븁\x0000
 I'm sorry to be rough, but if\xfffeyou make a mistake...\xf000븁\x0000Well... You won't be helping...\xf000븁\x0000
 Try to be nice and all!\xfffeSmiling will help too!\xf000븁\x0000
 Try to be nice and all!\xfffeSmiling will help too!
@@ -45,7 +45,7 @@ What does table \xf000Ȁ\x0001\x0000\xfffewant for a sandwich?
 Okay okay!\xfffeI'll make the sandwiches!\xf000븁\x0000
 There you are!\xfffeNow bring them to the right table!
 ちゅうもんを とっていない \xfffeおきゃくさんが いるじゃない\xf000븀\x0000ぜんい んから きいてね！
-Well...\xfffeHow did everything go?\xf000븁\x0000かんぺきね！ おきゃくさんも\xfffeまんぞく しているみたい\x f000븁\x0000
+Well...\xfffeHow did everything go?\xf000븁\x0000かんぺきね！ おきゃくさんも\xfffeまんぞく しているみたい\xf000븁\x0000
 Well...\xfffeHow did everything go?\xf000븁\x0000Aaah... You did it wrong...\xfffeWhat a shame...\xf000븁\x0000
 これは おれいよ\xfffeすごく がんばっていたわね！\xf000븁\x0000
 Well... I didn't expect you to do\xfffeit so well, but this is... Well...
