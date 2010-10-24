@@ -1,14 +1,14 @@
 no data
-シュウサク『とかいの しげきで\xfffeつよくなった ぼくを みてよ！\xf000븁\x0000
-しげきが たりなかったみたい……\xfffeもっと とかいの かぜに ふかれよう
-ちょっと ぼくには\xfffeここは しげきが つよすぎるかも……
-じゅうぶんな しげきは\xfffeひとの せいちょうを はやくする\xf000븀\x0000そんな ことばが にあう まちだよね
-ヒロコ『わたしの メガネが\xfffeピーンときた そこの あなた\xf000븀\x0000ポケモンしょうぶ しましょうよ！\xf000븁\x0000
-メ…… メガネに ひびが はいったわ\xfffeなんて ステキな しょうぶ なの！？
-ここで すごした じかんは\xfffeすごく たのしくて ステキ だったわ\xf000븁\x0000でも しげき だらけな まいにちだと\xfffeなんだか しぜんが こいしいの！
-メガネに うつる たくさんの ビル！\xfffeめまいが しちゃうぐらい ステキね
-タクロウ『お！ キマってんな おまえ！\xfffeオレと どっちが キマってるか\xf000븀\x0000ポケモンしょうぶで キめようぜ！\xf000븁\x0000
-サイコーに キマってんな おまえ！\xfffeオトコみちの むこうに イけるぜ！
+Shusaku: The bustle of the city has\xfffemade me stronger! Check me out!\xf000븁\x0000
+I guess I haven't had enough bustle...\xfffeI'll go feel the city breeze some more!
+Maybe the bustle here\xfffeis just too much for me...
+Hustle and bustle makes\xfffepeople mature faster...\xf000븀\x0000That sure describes this town, alright.
+Hiroko: Out of the corner of\xfffemy glasses, I see you!\xf000븀\x0000Let us do Pokémon battle!\xf000븁\x0000
+M... My glasses are cracked!\xfffeWas that a fantastic battle or what?!
+The time I've spent here\xfffehas been truly marvelous.\xf000븁\x0000But getting worked up every day...\xfffeit makes me yearn for nature!
+Through my glasses, I see many buildings!\xfffeRaised to fantastic, dizzying heights!
+Takuro: Oh! You haven't settled things with me!\xfffeShall we settle who's better?\xf000븀\x0000Let us do so by Pokémon battle!\xf000븁\x0000
+It's settled - you're the best!\xfffeNow walk the path of a real man!
 ツッパリすぎて くたびれたぜ\xf000븁\x0000ホワイトフォレストに\xfffeちょっぴり あこがれちゃうぜ
 シティの かぜで オレが かがやく！\xfffeどうだ いまの オレ\xf000븀\x0000サイコーに キマってるだろ？
 サトコ『あのおんね！ わたしと\xfffeポケモンしょうぶ せんけー！\xf000븁\x0000あいそらしい ポケモン\xfffeたくさん もっとれんてー！\xf000븁\x0000
@@ -119,4 +119,4 @@ no data
 あなたと ポケモンの コンビ\xfffeとても うつくしかったわ！！
 ひとが うみだせる\xfffeうつくしさには げんかいがある……\xf000븀\x0000このまちを みていると そうかんじる
 ひとがつくった このまちの\xfffeけいさん された うつくしさ……\xf000븀\x0000こころが おどりますわ
-ここは ブラックシティ\xfffeいいかえれば くろい とし
+This is Black City.\xfffeBut you could call it Kuroi Toshi.\xf000븀\x0000Or Negro de la Ciudad. Or... yeah.

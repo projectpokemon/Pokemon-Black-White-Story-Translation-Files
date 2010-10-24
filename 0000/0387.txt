@@ -1,19 +1,19 @@
-チェレン『……ストップ\xf000븁\x0000\xf000Ā\x0001\x0000！\xf000븁\x0000
-シャガさんや アララギはかせ から\xfffeおしえて もらったけれど\xf000븀\x0000ポケモンリーグに むかうんだね？
-チェレン『アデクさんなら……\xfffeチャンピオンなら\xf000븀\x0000だいじょうぶと しんじているけど\xf000븁\x0000さいあくの ばあい\xfffeきみが プラズマだんの ボス\xf000븀\x0000Ｎと たたかうんだね……\xf000븁\x0000だから たしかめたい！\xfffeきみが どれだけ つよいかを！\xf000븁\x0000
-チェレン『かくさなくても いい\xf000븁\x0000さいあくの ばあい\xfffeきみが プラズマだんの ボス\xf000븀\x0000Ｎと たたかうのは しっているよ\xf000븁\x0000だから たしかめたい！\xfffeきみが どれだけ つよいかを！\xf000븁\x0000
-チェレン『……すごいね きみは\xf000븁\x0000すなおに そう おもうよ\xf000븁\x0000……さあ ポケモンを\xfffeげんきに してあげないとね\xf000븁\x0000
-チェレンは\xfffe\xf000Ā\x0001\x0000の ポケモンを\xf000븀\x0000かいふく してくれた！
-チェレン『……いまの ぼくでは\xfffe\xf000Ā\x0001\x0000 きみに かなわない\xf000븁\x0000それでは Ｎとの たたかいで\xfffeなにか たすけてあげら……\xf000븁\x0000
-ベル『\xf000Ā\x0001\x0000！\xf000븁\x0000こんなことしか できないけれど\xfffeあたしからは これ！\xf000븁\x0000
-ベル『それにしても おもしろいね\xfffeみんな ばらばらで\xf000븁\x0000
-チェレン『おもしろい？\xfffeこんなときに きみは……\xf000븁\x0000
-ベル『はい チェレン\xfffeすこしは わらおうよ\xf000븁\x0000しんこくな かお するだけじゃ\xfffeなんにも かわらないんだから\xf000븁\x0000えーっとね あたしたち\xfffeポケモンと であってから\xf000븁\x0000おなじ みちのりを あゆんだのに\xfffeいろんなことが あって……\xf000븀\x0000みんな すごく かわっちゃって\xf000븁\x0000やりたいことも\xfffeできることも べつべつ でしょ？\xf000븁\x0000でも それって\xfffeたびの いみが あったんだなあ\xf000븀\x0000って なんか うれしくなったの\xf000븁\x0000
-チェレン『……そういうことか\xf000븁\x0000……たしかに ぼくたちは みんな\xfffeちがうわけだし それぞれの\xf000븀\x0000できることを すれば いいんだよね\xf000븁\x0000
-ベル『うん！ \xf000Ā\x0001\x0000のこと\xfffeしんぱいして あたしも チェレンも\xf000븀\x0000いま ここで そろってるから\xf000븀\x0000なんだか おもしろいなって……\xf000븁\x0000ゴメンナサイ\xf000븁\x0000
-チェレン『……みんなに とっての\xfffeりそうとか しんじつって\xf000븀\x0000みんなの かずだけ あるからね\xf000븁\x0000だけど だいじな ときには\xfffeたすけあえるのが ふつう なんだ\xf000븁\x0000だから ひとと ポケモンは\xfffeいつも そばに いるんだって\xf000븀\x0000さいきん おもえるように なった……\xf000븁\x0000\xf000Ā\x0001\x0000！\xfffeアデクさんや きみに\xf000븀\x0000なにか あったとき\xf000븁\x0000ぼくが たすけられるように なる\xfffeそのために つよくなる\xf000븁\x0000だから ムリ するな\xf000븁\x0000
-ベル『いっちゃった！\xf000븁\x0000
-\xf000Ā\x0001\x0000！\xf000븁\x0000あたしも\xfffeあたしに できること するね\xf000븁\x0000だから……\xfffeえーっと……\xf000븁\x0000こういうとき かっこいいこと\xfffeいえたら いいのに……\xf000븁\x0000えーっと！\xfffeおたがい がんばろうね！！\xf000븁\x0000
+Cheren: …Stop!\xf000븁\x0000\xf000Ā\x0001\x0000!\xf000븁\x0000
+Bel: Shaga and Professor Araragi\xfffetold us..\xf000븀\x0000you're heading to the\xfffePokémon League?
+Cheren: If it's Adeku……\xfffeIf it's the Champion fighting,\xf000븀\x0000I believe it'll turn right\xfffein the end, but..\xf000븁\x0000You don't have to hide it.\xfffeIf the worst should happen,\xf000븀\x0000you'll have to battle/xfffeTeam Plasma's boss, N……\xf000븁\x0000So I want to test you!\xfffeTo see how strong you are!\xf000븁\x0000
+Cheren: You don't have to hide it.\xf000븁\x0000If the worse should happen,\xfffeyou'll have to battle\xf000븀\x0000Team Plasma's boss, N.\xf000븁\x0000So I want to test you!\xfffeTo see how strong you are!\xf000븁\x0000
+Cheren: ……You're just too good.\xf000븁\x0000That's honestly what I think.\xf000븁\x0000……Well, I suppose I've got\xfffeto make your Pokémon better now.\xf000븁\x0000
+Cheren recovered xf000Ā\x0001\x0000's Pokémon!
+Cheren: ……Neither Bel nor I are\xfffeany match for you now.\xf000븁\x0000If we can be any aid\xfffein the battle with N……\xf000븁\x0000
+Bel: \xf000Ā\x0001\x0000!\xf000븁\x0000It's all I can do for you,\xfffebut.. have this, from me!\xf000븁\x0000
+Bel: Despite everything, it's been\xfffedelightful! Everything!\xf000븁\x0000
+Cheren:"Delightful"? At a time\xfffelike this? You're hopeless……\xf000븁\x0000
+Bel: Go on, Cheren,\xfffelaugh it up!\xf000븁\x0000'Course I know you won't,\xfffesince you're always all\xf000븁\x0000serious and moody-\xfffelooking!\xf000븁\x0000Umm, well... we've\xfffemet a lot of Pokémon now…\xf000븀\x0000We've all walked the same routes,\xfffebut encountered all different\xf000븁\x0000things...\xfffeeverybody's changed a ton.\xf000븀\x0000What you want to do\xfffeisn't always the same as\xf000븁\x0000what you are able to do,\xfffehuh?\xf000븁\x0000But still, our journey had\xfffe meaning, and I'm just glad\xf000븁\x0000for that.\xf000븁\x0000
+Cheren: ……Really?\xf000븁\x0000……I feel we've found that\xfffeeveryone has their differences\xf000븀\x0000and capabilities, and that's\xfffejust fine.\xf000븁\x0000
+Bel: Yep! \xf000Ā\x0001\x0000のこと\xfffeしんぱいして あたしも チェレンも\xf000븀\x0000いま ここで そろってるから\xf000븀\x0000なんだか おもしろいなって……\xf000븁\x0000ゴメンナサイ\xf000븁\x0000
+Cheren: ……Because the ideals\xfffeand the truths people\xf000븀\x0000find are as numerous as\xfffepeople themselves.\xf000븁\x0000But in times of trouble,\xfffeit's only natural to use to\xf000븁\x0000help each other out.\xf000븀\x0000Lately I've come to realize\xfffenot only that people and\xf000븀\x0000Pokémon should always be\xfffetogether, but also why……\xf000븁\x0000\xf000Ā\x0001\x0000!\xfffeIf anything happens to you\xf000븀\x0000or Adeku...\xf000븁\x0000I'll do my best to help\xfffeyou... That's the end\xf000븁\x0000I've sought to achieve\xfffeby becoming stronger.\xf000븁\x0000So...\xfffedon't push yourself!\xf000븁\x0000
+Bel: And he's off!\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000I'll be sure to do\xfffewhat I can too.\xf000븁\x0000So……\xfffeerr……\xf000븁\x0000It's times like this I\xfffereally wish I had something\xf000븁\x0000cool to say……\xf000븁\x0000Um, Well!\xfffeLet's both do our best!\xfffeYeah!\xf000븁\x0000
 ……よく ここまで くるよな\xfffeたいした もんだ\xf000븁\x0000そんな おまえに\xfffeそんけいの ねんを いだいた\xf000븀\x0000オレは これを くれてやるのだ\xf000븁\x0000
 ……やみのいし\xf000븁\x0000ある きまった ポケモンを\xfffeしんかさせる どうぐ なのだ\xf000븁\x0000オレは タワーオブヘブンで\xfffeつかまえ しんか させた\xf000븀\x0000ヒトモシに つかったぞ
 Route 10

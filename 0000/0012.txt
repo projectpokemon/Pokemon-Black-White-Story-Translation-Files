@@ -1,38 +1,38 @@
-I welcome you to the\xfffeSanyou City Pokémon Gym.\xf000븁\x0000
+Welcome.\xfffeThis is Sanyou City's Pokémon Gym.\xf000븁\x0000
 no data
-I'm the one with the rage\xfffeof Fire-type Pokémon, Pod!\xf000븁\x0000
-I'm Korn. I work with\xfffeWater-type Pokémon.\xf000븁\x0000
-And I have Pokémon\xfffeof the grass type.\xf000븀\x0000\xfffeMy name is Dent.\xf000븁\x0000
-Dent: So...\xf000븁\x0000\xfffeYou're wondering why there\xfffeare three of us here...\xf000븁\x0000
-Pod: Now!\xfffeI'll explain why!\xf000븁\x0000\xfffeWe're three people.\xfffeWhichever one of us fights depends\xf000븁\x0000\xfffeon which starter Pokémon\xfffethe challenger has chosen!\xf000븁\x0000
-Korn: I see.\xf000븁\x0000\xfffeThe Pokémon that you\xfffestarted out with is a\xf000븀\x0000\xfffe\xf000ă\x0001\x0000-type.\xf000븁\x0000
-Looks like you're gonna\xfffebe burning with me, Pod\xf000븀\x0000\xfffeas your opponent.\xf000븁\x0000
-Alright! I, Korn will be facing\xfffeyou with Water-type Pokémon.\xf000븁\x0000
-Yeah...I like\xfffeGrass-types, so I, Dent,\xf000븀\x0000\xfffewill be your opponent.\xf000븁\x0000
-イヤッホー！\xf000븁\x0000\xfffeきょうだいで いちばん つよい\xfffeオレさまと あそぼうぜ！！\xf000븁\x0000
-よかったね！ ３にんの\xfffeトップと たたかうことが できて\xf000븁\x0000
-はい ぼくで よろしければ\xfffeまごころを こめて\xf000븀\x0000\xfffeおあいて させていただきます\xf000븁\x0000
-Not cool!\xfffeI wanted to blaze!!
-It's better that you don't\xfffebattle me, Korn.
-...I guess now\xfffejust isn't my time.\xf000븁\x0000\xfffeI wanted to battle you\xfffeand your Pokémon.
-うわーッ！ オマエ すげえ！！\xf000븁\x0000\xfffeポケモンリーグの きまりだ\xfffeこの ジムバッジを うけとってくれ\xf000븁\x0000
-すごいですね！\xf000븁\x0000\xfffeポケモンリーグの きまりです\xfffeこの バッジを どうぞ\xf000븁\x0000
-……おどろいた\xfffeきみ すっごく つよいんだね\xf000븁\x0000\xfffeポッドや コーンでも\xfffeかてない あいて だったみたい……\xf000븁\x0000
+I'm the fire-type\xfffefreak, Pod!\xf000븁\x0000
+I'm the water-user, Corn.\xfffePleased to make your acquaintance.\xf000븁\x0000
+As for me...\xfffeCall me Dent. I have a preference\xf000븀\x0000\xfffefor grass-types.\xf000븁\x0000
+Dent: Um, well...\xf000븁\x0000\xfffeYou may ask why\xfffethere are three of us...\xf000븁\x0000
+Pod: Well!\xfffeLet me explain!\xf000븁\x0000\xfffeWe are three!\xfffeAnd the type of the Pokémon\xf000븁\x0000\xfffeyou first chose decides\xfffewho you fight!\xf000븁\x0000
+Corn: That's right.\xf000븁\x0000\xfffeAnd the first partner you picked\xfffewas a \xf000ă\x0001\x0000-type.\xf000븁\x0000
+Meaning your opponent\xfffeis me! Pod!\xf000븀\x0000\xfffeI'm flarin' to go!\xf000븁\x0000
+Alright! As a lover of water-types,\xfffeI, Corn, shall be your opponent.\xf000븁\x0000
+Right... Meaning your\xfffeopponent is I, Dent,\xf000븀\x0000\xfffepreferrer of grass-types.\xf000븁\x0000
+Ya-HOO!\xf000븁\x0000\xfffeC'mon, play with me,\xfffeand give it your all!!\xf000븁\x0000
+Excellent! Now you may fight\xfffethe most powerful of us three!\xf000븁\x0000
+Dent: If you are so willing,\xfffeI would gladly commit myself\xf000븀\x0000\xfffeto being your opponent.\xf000븁\x0000
+Oh, what the?!\xfffeBut I was getting all heated up!!
+Be glad that you do\xfffenot have to face I, Corn.
+...Hm, it seems the timing of\xfffemy dance fell behind.\xf000븁\x0000\xfffeAh, yes, I did want to\xfffehave a Pokémon battle with you.
+WHOA! You're NUTS, man!!\xf000븁\x0000\xfffeOkay, Pokémon League rules!\xfffeTake the gym badge!\xf000븁\x0000
+Impressive!\xf000븁\x0000\xfffeAs is the Pokémon League's custom,\xfffeyou may take this gym badge.\xf000븁\x0000
+...You surprised me.\xfffeYou're very powerful indeed.\xf000븁\x0000\xfffeIt would appear that neither Pod nor\xfffeCorn could have bested you, either...\xf000븁\x0000
 \xf000Ā\x0001\x0000 received\xfffethe Tri Badge from Pod!\xf000븁\x0000
-\xf000Ā\x0001\x0000 received\xfffethe Tri Badge from Korn!\xf000븁\x0000
+\xf000Ā\x0001\x0000 received\xfffethe Tri Badge from Corn!\xf000븁\x0000
 \xf000Ā\x0001\x0000 received\xfffethe Tri Badge from Dent!\xf000븁\x0000
-ジムバッジは\xfffeトレーナーの つよさの あかしです\xf000븁\x0000\xfffeバッジを ひとつ もっていれば\xfffeひとと こうかんした\xf000븀\x0000ポケモンでも レベル２０までなら\xf000븀\x0000めいれいを きいてくれます\xf000븁\x0000あと これも もらってください\xf000븁\x0000
-\xf000ĉ\x0001\x0000 contains the move\xfffeCheer Up.\xf000븁\x0000\xfffeCheer Up raises the user's\xfffeAttack and Special Attack!\xf000븁\x0000\xfffeYou can teach it as\xfffemany times as you want.
-ぼくたち イッシュちほう では\xfffeまだ かけだしの ジムリーダーです\xf000븁\x0000\xfffeということは ほかの ジムリーダーは\xfffeもっと つよいって ことですよね\xf000븀\x0000\xfffeふう がんばらないと…… ですね
-わざマシンは なんどだって\xfffeつかえると いうことはッ！\xf000븁\x0000\xfffeつれている ポケモン\xfffeすべてに おなじ わざを\xf000븀\x0000\xfffeおしえることだって できるんだぜッ！！
-もし サンヨウシティの ジムリーダーが\xfffe１７にん きょうだい だったら\xf000븁\x0000\xfffeそれぞれが タイプごとの\xfffeスペシャリストに なってるのかもね
-デント『ぼくたち イッシュちほう では\xfffeまだ かけだしの ジムリーダーです\xf000븁\x0000ということは ほかの ジムリーダーは\xfffeもっと つよいって ことですよね\xf000븁\x0000ゆっくりと のんびりとで いいから\xfffeぼくたち ３にん きそいあって\xf000븀\x0000つよくなって いきますよ
-ポッド『おっ！ おまえ！\xfffeトライバッジを てにいれたころよりも\xf000븀\x0000はるかに つよく なってるのな！
-コーン『……ききましたよ\xfffeＮのしろ のこと\xf000븁\x0000この コーンたち への\xfffeれんらくが まにあえば\xf000븀\x0000３にんそろって ちからに なれたのに
-どうも！ じぶんは\xfffeポケモンジムに ちょうせんする\xf000븀\x0000トレーナーを ガイドする\xf000븀\x0000ガイドーと いいます\xf000븁\x0000ジムに ちょうせん\xfffeありがとう ございます\xf000븀\x0000きねんに これを さしあげますよ！\xf000븁\x0000
-ポケモンしょうぶの きほんは\xfffeタイプの あいしょう なんですよね\xf000븁\x0000\xfffeあいてのポケモンに たいして\xfffeゆうりなタイプの ポケモン\xf000븀\x0000\xfffeゆうりなタイプの わざをえらべば\xf000븀\x0000\xfffeしょうりは めのまえ っすよね\xf000븁\x0000ということで この ジムは\xfffeカーテンに かかれた\xf000븀\x0000ポケモンの タイプに たいして\xf000븁\x0000あいしょうの いい ポケモンの\xfffeタイプの スイッチを ふめば\xf000븀\x0000さきに すすめるっす！！
-ジムバッジを てにいれた\xfffeその すばらしい しゅんかんを\xf000븀\x0000\xfffeいつまでも おぼえていてほしいっすね
-Welcome!\xf000븁\x0000Lists of the trainers that beat this gym\xfffeare added are compiled on those statues!
-Sanyou Pokémon Gym\xf000븁\x0000\xfffeLeaders: Korn, Pod, & Dent\xfffeCertified Trainers!
-Sanyou Pokémon Gym\xf000븁\x0000\xfffeLeaders: Korn, Pod, & Dent\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
-Sanyou Pokémon Gym\xf000븁\x0000\xfffeLeaders: Korn, Pod, & Dent\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBel
+Gym badges are\xfffeproof of a trainer's strength.\xf000븁\x0000\xfffeWith one badge in hand,\xfffePokémon up to Level 20 will recognize\xf000븀\x0000your power and obey your orders.\xf000븁\x0000Please take this in addition.\xf000븁\x0000
+The contents of \xf000ĉ\x0001\x0000\xfffeare known as Cheer Up.\xf000븁\x0000\xfffeUse Cheer Up, and your\xfffeattack and special attack will increase!\xf000븁\x0000\xfffeBy the way, Technical Machines like that\xfffecan be used indefinitely.
+Among the Isshu region's gym leaders,\xfffewe are still considered novices.\xf000븁\x0000\xfffeMeaning the other gym leaders\xfffewill only get stronger from here!\xf000븀\x0000\xfffeWhew... we must all do our best.
+They say you can use TMs\xfffeas many times as you want!!\xf000븁\x0000\xfffeYou can teach all the Pokémon in your\xfffeparty the same moves if you want to!!
+If there had been seventeen siblings\xfffeto serve as Sanyou City's gym leaders,\xf000븁\x0000\xfffeperhaps we would specialize\xfffein a much wider array of types.
+Dent: Among the Isshu region's gym leaders,\xfffewe are still considered novices.\xf000븁\x0000\xfffeMeaning the other gym leaders\xfffewill only get stronger from here!\xf000븁\x0000We shall take it easy,\xfffeand we three shall strive to be stronger.
+Pod: Oh! You!\xfffeYou've gotten a billion times stronger\xf000븀\x0000since you got the Tri Badge, eh?!
+Corn: ...I heard about\xfffeN and his castle.\xf000븁\x0000If the notice to us had come in time,\xfffewe three could've shown our power...
+Hey there! I'm a guide for trainers\xfffetackling the Pokémon gyms.\xf000븀\x0000Call me Guido.\xf000븁\x0000Thank you very much\xfffefor taking on the gyms.\xf000븀\x0000Take this in commemoration!\xf000븁\x0000
+The basics of Pokémon battling\xfffecenter around type weaknesses.\xf000븁\x0000\xfffeUse Pokémon and attacks that\xfffeare an advantageous type\xf000븀\x0000\xfffeto the opposing Pokémon,\xf000븀\x0000\xfffeand victory will come to you.\xf000븁\x0000That said, this gym has Pokémon types\xfffedisplayed on curtains.\xf000븀\x0000Step on the switch for the Pokémon type\xf000븁\x0000that'll be effective against it,\xfffeand head onward!!
+Make sure to forever remember\xfffethat magnificent moment\xf000븀\x0000\xfffewhen you got your first gym badge!
+Welcome!\xf000븁\x0000We take pride in our\xfffemenu of trainers!
+Sanyou Pokémon Gym\xf000븁\x0000\xfffeLeaders: Corn, Pod, & Dent\xfffeCertified Trainers!
+Sanyou Pokémon Gym\xf000븁\x0000\xfffeLeaders: Corn, Pod, & Dent\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
+Sanyou Pokémon Gym\xf000븁\x0000\xfffeLeaders: Corn, Pod, & Dent\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBel

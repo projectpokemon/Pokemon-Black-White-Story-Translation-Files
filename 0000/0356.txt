@@ -1,17 +1,17 @@
-チェレン『\xf000Ā\x0001\x0000！\xf000븁\x0000こいつら はなしが つうじない\xfffeメンドーな れんちゅう だね\xf000븁\x0000
-プラズマだん『あんな こどもに\xfffeポケモンは つかいこなせない\xf000븁\x0000それでは ポケモンが\xfffeかわいそう だろう？\xf000븁\x0000おまえらの ポケモンも おなじ\xfffeわれわれ プラズマだんに さしだせ\xf000븀\x0000というか うばってやるよ！\xf000븁\x0000
-プラズマだん『なぜだ！ なぜ\xfffeただしき われわれが まける！？\xf000븁\x0000
-チェレン『さすが \xf000Ā\x0001\x0000\xf000븁\x0000さあ あのこから とりあげた\xfffeポケモンを かえしなよ\xf000븁\x0000
-かえす ひつようは ないぜ！\xf000븁\x0000
-プラズマだん『たいへん だよな\xf000븁\x0000りかい されない ばかりか\xfffeジャマされる なんて\xf000븁\x0000
-プラズマだん『あいては ふたり\xfffeわれわれも ふたり\xf000븁\x0000われわれの けっそくを みせつけ\xfffeただしいことを おしえてやるよ\xf000븁\x0000
-チェレン『まだ いたとはね……\xf000븁\x0000それにしても ポケモンドロボウが\xfffeなにを ひらきなおって いるんだか\xf000븁\x0000
-\xf000Ā\x0001\x0000\xf000븁\x0000おさななじみの コンビネーションで\xfffeかれらに おもいしらせよう\xf000븁\x0000
-プラズマだん『おれたちは\xfffeポケモンを かいほう するため\xf000븀\x0000おろかな にんげんたち から\xf000븀\x0000ポケモンを うばっていくのだ！！\xf000븁\x0000
-チェレン『……やれやれ\xfffeほんとうに メンドーくさいな\xf000븁\x0000どんな りゆうが あろうと\xfffeひとの ポケモンを\xf000븀\x0000とって いいわけ ないよね？\xf000븁\x0000
-プラズマだん『おまえたちの ような\xfffeポケモントレーナーが\xf000븀\x0000ポケモンを くるしめているのだ……\xf000븁\x0000
-チェレン『……なぜ トレーナーが\xfffeポケモンを くるしめて いるのか\xf000븀\x0000まったく りかい できないね！\xf000븁\x0000
-プラズマだん『ポケモンは かえす……\xf000븁\x0000だが この ポケモンは\xfffeひとに つかわれ かわいそうだぞ\xf000븁\x0000
-プラズマだん『……いつか\xfffeじぶんたちの おろかさに きづけ\xf000븁\x0000
-チェレン『ポケモンの ちからを\xfffeひきだす トレーナーが いる\xf000븁\x0000トレーナーを しんじて\xfffeそれに こたえる ポケモンが いる\xf000븁\x0000これで どうして ポケモンが\xfffeかわいそう なのか わからないね\xf000븁\x0000
-さてと…… \xf000Ā\x0001\x0000\xfffeぼくが ポケモンを かえしてくるよ\xf000븁\x0000
+Cheren: \xf000Ā\x0001\x0000!\xf000븁\x0000Nothing's getting through\xfffeto these annoying punks...\xf000븁\x0000
+Grunt: Twerps like you\xfffecan't control Pokémon!\xf000븁\x0000You feel sorry for the\xfffePokémon's pitiable plight, huh?\xf000븁\x0000Well, just hold out your\xfffePokémon for Team Plasma\xf000븀\x0000and we'll nab 'em, too!\xf000븁\x0000
+Grunt: How?! How can we lose\xfffewhen we're in the right?!\xf000븁\x0000
+Cheren: Well done, \xf000Ā\x0001\x0000!\xf000븁\x0000Now, hand over the Pokémon\xfffeyou took from that girl!\xf000븁\x0000
+We ain't returning nothin'!\xf000븁\x0000
+Grunt: Ugh, what a mess!\xf000븁\x0000Don't you get in our way\xfffeif you got no reason in your heads!\xf000븁\x0000
+Grunt: Us two'll be your opponents!\xf000븁\x0000Once you see our amazing union,\xfffeyou'll just KNOW we're right!\xf000븁\x0000
+Cheren: There are more...?\xf000븁\x0000Even so, you're nothing more\xfffethan Pokémon thieves!\xf000븁\x0000
+\xf000Ā\x0001\x0000...\xf000븁\x0000Let's show them what a\xfffechildhood duo can accomplish!\xf000븁\x0000
+Grunt: We're stealing Pokémon from\xfffestupid humans to liberate them!!\xf000븁\x0000
+Cheren: ...Yeesh.\xfffeYou guys are a real pain.\xf000븁\x0000What reason could there ever be\xfffeto steal somebody's Pokémon?\xf000븀\x0000None, that's what.\xf000븁\x0000
+Grunt: Trainers like you\xfffeare making Pokémon suffer...\xf000븁\x0000
+Cheren: ...How are trainers\xfffemaking Pokémon suffer?\xf000븀\x0000That doesn't make sense at all!\xf000븁\x0000
+Grunt: Fine, have your Pokémon back...\xf000븁\x0000But it's such a pity that\xfffeit'll be abused by people...\xf000븁\x0000
+Grunt: ...You'll realize your\xfffefolly someday!\xf000븁\x0000
+Cheren: There exist trainers that can\xfffeshow the true power of Pokémon...\xf000븁\x0000And there are Pokémon that believe in\xfffeand even respond to trainers.\xf000븁\x0000Given that, how could Pokémon\xfffebe pitiable? I just don't get it.\xf000븁\x0000
+Now then... \xf000Ā\x0001\x0000,\xfffeI'll go give back the Pokémon.\xf000븁\x0000

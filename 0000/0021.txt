@@ -1,29 +1,29 @@
-チェレン『ついてきなよ\xf000븁\x0000
-このまま まっすぐ すすめば\xfffeポケモンセンター\xf000븁\x0000あと……\xfffeよければ これを つかいなよ\xf000븁\x0000
-チェレン『カゴのみを ポケモンに\xfffeもたせておけば ねむらされても\xf000븀\x0000ポケモンは かいふくして めざめる\xf000븁\x0000ついでに アドバイス\xf000븁\x0000シッポウシティの ジムリーダーは\xfffeノーマルタイプの つかいて\xf000븁\x0000かくとうタイプの ポケモンが いると\xfffeかなり ゆうり かもね\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001ボクは…… ダレにも\xfffeみえない ものが みたいんだ\xf000븁\x0000ボールの なかの\xfffeポケモンたちの りそう\xf000븁\x0000トレーナーという\xfffeありかたの しんじつ\xf000븁\x0000そして ポケモンが\xfffeかんぜんと なった みらい……\xf000븁\x0000キミも みたいだろう？\xf000븉\x0001\x0000
-Ｎ『\xf000븉\x0001\x0001そうかい\xf000븁\x0000では ボクと\xfffeボクの トモダチで\xf000븀\x0000みらいを みることが できるか\xf000븀\x0000キミで たしかめさせて もらうよ\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001……ふうん\xfffeきたいはずれ だな\xf000븁\x0000それよりも ボクと\xfffeボクの トモダチで\xf000븀\x0000みらいを みることが できるか\xf000븀\x0000キミで たしかめさせて もらうよ\xf000븉\x0001\x0000\xf000븁\x0000
-Ｎ『\xf000븉\x0001\x0001いまの ボクの トモダチとでは\xfffeポケモンを すくいだせない……\xf000븁\x0000せかいを かえるための\xfffeすうしきは とけない……\xf000븁\x0000ボクには ちからが ひつようだ……\xfffeだれもが なっとくする ちから……\xf000븉\x0001\x0000\xf000븁\x0000
+Cheren: Come with me.\xf000븁\x0000
+Head straight this way\xfffeto get to the Pokémon Center.\xf000븁\x0000And... if you want,\xfffeyou can use this.\xf000븁\x0000
+Give a Chesto Berry to a Pokémon,\xfffeand if it falls asleep,\xf000븀\x0000it'll use it to wake up.\xf000븁\x0000Lastly, some advice.\xf000븁\x0000The gym leader of Shippo City\xfffeuses normal-types.\xf000븁\x0000If you bring fighting-type Pokémon,\xfffethey'll give you a great advantage.\xf000븁\x0000
+N: \xf000븉\x0001\x0001I... want to see things\xfffeno one else sees.\xf000븁\x0000The ideal for the Pokémon\xfffewe keep inside balls...\xf000븁\x0000The truth of what\xfffea "trainer" should be...\xf000븁\x0000And a future where Pokémon\xfffehave attained their zenith...\xf000븁\x0000Don't you wish to see them, too?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Is that so?\xf000븁\x0000Then, can my friends and I\xfffeshow people the future?\xf000븀\x0000Allow me to test with you!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001...Hmph.\xfffeSo my expectations were incorrect.\xf000븁\x0000More importantly, can my friends and I\xfffeshow people the future?\xf000븀\x0000Allow me to test with you!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001As they are now, my Pokémon\xfffecannot save all Pokémon...\xf000븁\x0000The formula that can change the world\xfffeis yet to be solved...\xf000븁\x0000I require power...\xfffePower that will let everyone understand...\xf000븉\x0001\x0000\xf000븁\x0000
 no data
-……ひつような\xfffeちからは わかっている\xf000븁\x0000……えいゆうと ともに\xfffeこの イッシュちほうを つくった\xf000븀\x0000でんせつの ポケモン レシラム！\xf000븁\x0000ボクは えいゆうに なり\xfffeキミと トモダチに なる！\xf000븁\x0000
-……ひつような\xfffeちからは わかっている\xf000븁\x0000……えいゆうと ともに\xfffeこの イッシュちほうを つくった\xf000븀\x0000でんせつの ポケモン ゼクロム！\xf000븁\x0000ボクは えいゆうに なり\xfffeキミと トモダチに なる！\xf000븁\x0000
-？？？『やあ アロエねえさん\xfffeなにか いいカセキは みつかったかい？\xf000븁\x0000
-アロエ『アンタ また\xfffeいきづまったのかい？\xf000븁\x0000
-\xf000Ā\x0001\x0000！\xf000븁\x0000こいつさ こうみえても\xfffeヒウンジムの ジムリーダーで\xf000븀\x0000アーティって いうんだよ！\xf000븁\x0000
-アーティ『……んうん？\xfffeなんとなく きぶんてんかん かな？\xf000븁\x0000でさ なんとなく たいへんそうだけど\xfffeひょっとして なんか ありまして？\xf000븁\x0000
-アロエ『そうなんだよ！！\xfffeてんじひんを もっていかれてさ！\xf000븁\x0000
-ベル『ねえねえ \xf000Ā\x0001\x0000\xfffeみんな あつまって どうしたの？\xf000븁\x0000
-チェレン『……\xf000Ā\x0001\x0000\xfffeなにか もんだい でも？\xf000븁\x0000
-アロエ『なんだいなんだい？\xfffeこのこたちは……？\xf000븀\x0000アンタの ともだちかい？\xf000븁\x0000…… …… ……\xfffe…… …… ……\xf000븁\x0000ベルに チェレン……\xfffeなるほど トレーナーなんだね！\xf000븁\x0000それなら てわけするよ\xfffeあたしゃ こっちね\xf000븁\x0000
-そして アンタたち！\xf000븁\x0000チェレンと ベルは\xfffeはくぶつかんに のこってちょうだい！\xf000븁\x0000
-で アーティと \xf000Ā\x0001\x0000は\xfffeヤグルマのもりを さがしておくれよ！\xf000븁\x0000いい？ アーティ\xfffeアンタが あんない してやんな\xf000븁\x0000じゃ たのんだよ！\xf000븁\x0000
-アーティ『さてさて……\xfffeきみ…… \xf000Ā\x0001\x0000くんだっけ？ \xf000븁\x0000じゃあ いこうか\xfffeドロボウたいじ とやらにさ\xf000븁\x0000
-アーティ『さてさて……\xfffeきみ…… \xf000Ā\x0001\x0000さんだっけ？\xf000븁\x0000じゃあ いこうか\xfffeドロボウたいじ とやらにさ\xf000븁\x0000
-ベル『あっ \xf000Ā\x0001\x0000\xfffeこれを もっていってよ！\xf000븁\x0000マコモさんから あずかってたの\xfffeダウジングマシン！\xf000븁\x0000
-ダウジングマシンを つかうと\xfffeめには みえないけれど\xf000븁\x0000かくれている どうぐの\xfffeばしょが わかるんだって！\xf000븁\x0000
-チェレン『とりあえず はくぶつかんを\xfffeまもれば いいんだね？\xf000븁\x0000
-ベル『あっ あたしも！\xf000븁\x0000
+...I know what\xfffepower it is I need.\xf000븁\x0000...That of the legendary Pokémon that,\xfffetogether with a great hero,\xf000븀\x0000made this land of Isshu... Reshiram!\xf000븁\x0000I shall be your hero, Reshiram...\xfffeand I shall befriend you!\xf000븁\x0000
+...I know what\xfffepower it is I need.\xf000븁\x0000...That of the legendary Pokémon that,\xfffetogether with a great hero,\xf000븀\x0000made this land of Isshu... Zekrom!\xf000븁\x0000I shall be your hero, Zekrom...\xfffeand I shall befriend you!\xf000븁\x0000
+???: Yo, Miss Aloe!\xfffeFound any good fossils lately?\xf000븁\x0000
+Aloe: Darnit, are you trying\xfffeto test my limits again?\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000Take a good look at this guy,\xfffe'cause he's the leader of Hiun City's Gym:\xf000븀\x0000Arti's his name!\xf000븁\x0000
+Arti: ...Hmmm?\xfffeIs it just me, or is there something wrong?\xf000븁\x0000Could there have been...\xfffesome kind of trouble, maybe?\xf000븁\x0000
+Aloe: You bet there's been trouble!\xfffeThey've got one of my exhibits!\xf000븁\x0000
+Bel: Hey, hey, \xf000Ā\x0001\x0000\!xfffeWhy's everyone gathered around here?\xf000븁\x0000
+Cheren: ...\xf000Ā\x0001\x0000,\xfffeis something wrong?\xf000븁\x0000
+Aloe: What's all this?\xfffeThese children are...?\xf000븀\x0000Friends of yours?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000Bel and Cheren...\xfffeI see, you must be Trainers!\xf000븁\x0000Then let's split the work!\xfffeHmm, how about...\xf000븁\x0000
+Right, you kids!\xf000븁\x0000Cheren and Bel,\xfffewatch my museum!\xf000븁\x0000
+And Arti and \xf000Ā\x0001\x0000 will\xfffesearch Yaguruma Forest!\xf000븁\x0000OK? Arti!\xfffeYou lead the way!\xf000븁\x0000I'm counting on all of you!\xf000븁\x0000
+Arti: So, so...\xfffeYou are... young Master \xf000Ā\x0001\x0000? \xf000븁\x0000Well, let's go then.\xfffeWe'll do away with those thieves!\xf000븁\x0000
+Arti: So, so...\xfffeYou are... young Miss \xf000Ā\x0001\x0000? \xf000븁\x0000Well, let's go then.\xfffeWe'll do away with those thieves!\xf000븁\x0000
+Bel: Ah! \xf000Ā\x0001\x0000!\xfffeTake this!\xf000븁\x0000Makomo gave me this\xfffeDowsing Machine!\xf000븁\x0000
+With the Dowsing Machine,\xfffeyou won't be able to see\xf000븁\x0000hidden items, but you will\xfffefind out their location!\xf000븁\x0000
+Cheren: ...Is it really safe to leave us\xfffeprotecting the museum?\xf000븁\x0000
+Bel: Ah! Wait for me!\xf000븁\x0000
 アロエ『こっちの ほうには\xfffeプラズマだん いないみたいだけど\xf000븀\x0000ここを うごくわけにも いかないし\xf000븁\x0000アンタ…… ヤグルマのもりを\xfffeしっかり さがしておくれよ！
 だれも つかっていない ふるびた\xfffeいふくの こうじょうや そうこを\xf000븁\x0000きぼうにあふれた わかい ひとたちが\xfffeアトリエとして つかいだしたの\xf000븁\x0000それが げいじゅつのまち とよばれる\xfffeシッポウシティの はじまりね
 この そうこ……\xfffeなかで いいもの うってるぜ

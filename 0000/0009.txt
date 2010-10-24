@@ -1,14 +1,14 @@
 Test
-バトルサブウェイに ようこそ！\xf000븁\x0000\xfffeこちらでは シングルトレインの\xfffeじょうしゃを ごあんない しております\xf000븁\x0000
-バトルサブウェイに ようこそ！\xf000븁\x0000\xfffeこちらでは ダブルトレインの\xfffeじょうしゃを ごあんない しております\xf000븁\x0000
-バトルサブウェイに ようこそ！\xf000븁\x0000\xfffeこちらでは マルチトレインの\xfffeじょうしゃを ごあんない しております\xf000븁\x0000
-バトルサブウェイに ようこそ！\xf000븁\x0000\xfffeこちらでは Ｗｉ－Ｆｉトレインの\xfffeじょうしゃを ごあんない しております\xf000븁\x0000
-バトルサブウェイに ようこそ！\xf000븁\x0000\xfffeこちらでは スーパーシングルトレインの\xfffeじょうしゃを ごあんない しております\xf000븁\x0000
-バトルサブウェイに ようこそ！\xf000븁\x0000\xfffeこちら スーパーシングルトレインは\xfffeシングルトレインを かちぬいた\xf000븀\x0000かたのみ じょうしゃを\xf000븀\x0000ごあんない しております\xf000븁\x0000
-バトルサブウェイに ようこそ！\xf000븁\x0000\xfffeこちらでは スーパーダブルトレインの\xfffeじょうしゃを ごあんない しております\xf000븁\x0000
-バトルサブウェイに ようこそ！\xf000븁\x0000\xfffeこちら スーパーダブルトレインは\xfffeダブルトレインを かちぬいた\xf000븀\x0000かたのみ じょうしゃを\xf000븀\x0000ごあんない しております\xf000븁\x0000
-バトルサブウェイに ようこそ！\xf000븁\x0000\xfffeこちらでは スーパーマルチトレインの\xfffeじょうしゃを ごあんない しております\xf000븁\x0000
-バトルサブウェイに ようこそ！\xf000븁\x0000\xfffeこちら スーパーマルチトレインは\xfffeマルチトレインを かちぬいた\xf000븀\x0000かたのみ じょうしゃを\xf000븀\x0000ごあんない しております\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeThis will lead you to\xfffethe Single Train boarding area.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeThis will lead you to\xfffethe Double Train boarding area.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeThis will lead you to\xfffethe Multi Train boarding area.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeThis will lead you to\xfffethe Wi-Fi Train boarding area.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeThis will lead you to\xfffethe Super Single Train boarding area.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeこちら スーパーシングルトレインは\xfffeシングルトレインを かちぬいた\xf000븀\x0000かたのみ じょうしゃを\xf000븀\x0000ごあんない しております\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeThis will lead you to\xfffethe Super Double Train boarding area.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeこちら スーパーダブルトレインは\xfffeダブルトレインを かちぬいた\xf000븀\x0000かたのみ じょうしゃを\xf000븀\x0000ごあんない しております\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeThis will lead you to\xfffethe Super Multi Train boarding area.\xf000븁\x0000
+Welcome to the Battle Subway!\xf000븁\x0000\xfffeこちら スーパーマルチトレインは\xfffeマルチトレインを かちぬいた\xf000븀\x0000かたのみ じょうしゃを\xf000븀\x0000ごあんない しております\xf000븁\x0000
 test
 げんざい \xf000Ā\x0001\x0000さまは\xfffe\xf000ȃ\x0001\x0001れんしょうちゅう です\xf000븁\x0000
 シングルトレインでは ポケモン\xfffe３ひきで バトルを おこないます\xf000븁\x0000\xfffeポケモンは ３ひき すべて\xfffeちがう ポケモンで なくてはならず\xf000븁\x0000\xfffeもたせる どうぐも すべてちがう\xfffeどうぐで なくては なりません\xf000븁\x0000\xfffeまた このしせつでは ポケモンは\xfffeすべて レベル５０の ポケモン\xf000븀\x0000\xfffeとなって たたかうことに なります\xf000븁\x0000\xfffeたたかいのば となる れっしゃは\xfffe７りょう へんせいと なっており\xf000븁\x0000\xfffe７にんの トレーナーと\xfffeたたかうことに なります\xf000븁\x0000
@@ -88,7 +88,7 @@ Join a Group
 ざんねんながら こんかい ランクが\xfffe\xf000ȁ\x0001\x0000に さがって しまいました……\xf000븁\x0000
 せきがいせんつうしんと\xfffeＤＳワイヤレスつうしん\xf000븁\x0000どちらに されますか？
 せきがいせんつうしん
-ＤＳ Wireless Communications
+DS Wireless Communications
 せきがいせんつうしん および\xfffeＤＳワイヤレスつうしんを\xf000븀\x0000かいし しますか？
 バトルサブウェイに ようこそ！\xf000븁\x0000\xfffeこちら スーパーシングルトレインは\xfffeシングルトレインを かちぬいた\xf000븀\x0000\xfffeかたのみ じょうしゃを\xf000븀\x0000\xfffeごあんない しております\xf000븁\x0000
 バトルサブウェイに ようこそ！\xf000븁\x0000\xfffeこちら スーパーダブルトレインは\xfffeダブルトレインを かちぬいた\xf000븀\x0000\xfffeかたのみ じょうしゃを\xf000븀\x0000\xfffeごあんない しております\xf000븁\x0000

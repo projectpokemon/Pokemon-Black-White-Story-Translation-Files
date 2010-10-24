@@ -1,69 +1,69 @@
-Cheren: \xf000Ā\x0001\x0000\xf000븁\x0000I heard from Professor Araragi...\xfffeSo did you get the Pokémon?\xf000븁\x0000
-... ... ...\xfffe... ... ...\xfffe\xf000븁\x0000And Bel's her usual...?\xf000븁\x0000
-Bel: Uhhh, I'm so sorry! \xfffeI know, I'm late again...\xf000븁\x0000
-Cheren: Hey, Bel\xf000븁\x0000I've known you were a slowpoke\xfffefor ten years now, but sheesh...\xf000븁\x0000Today's the day you get your Pokémon\xfffefrom Professor Araragi, remember?\xf000븁\x0000
+Cheren: \xf000Ā\x0001\x0000!\xf000븁\x0000I heard from Professor Araragi...\xfffeSo did you get the Pokémon?\xf000븁\x0000
+... ... ...\xfffe... ... ...\xf000븁\x0000And Bel's her usual...?\xf000븁\x0000
+Bel: Uhhh, I'm so sorry!\xfffeI know, I'm late again...\xf000븁\x0000
+Cheren: Hey, Bel!\xf000븁\x0000I've known you were a slowpoke\xfffefor ten years now, but sheesh...\xf000븁\x0000Today's the day you get your Pokémon\xfffefrom Professor Araragi, remember?\xf000븁\x0000
 Bel: Okay, I said I'm sorry!\xfffeSorry, \xf000Ā\x0001\x0000, Cheren...\xf000븁\x0000
-Bel: So, where are the Pokémon?\xf000븁\x0000Since they were sent to \xf000Ā\x0001\x0000's \xfffehouse, I'd say \xf000Ā\x0001\x0000 gets \xf000븀\x0000to choose first.\xf000븁\x0000
+Bel: So, where are the Pokémon?\xf000븁\x0000Since they were sent to \xf000Ā\x0001\x0000's house,\xfffeI'd say \xf000Ā\x0001\x0000 gets to choose first.\xf000븁\x0000
 Cheren: Well, of course.\xf000븁\x0000
-Our Pokémon await us\xfffeinside that box...\xf000븁\x0000Well, \xf000Ā\x0001\x0000\xfffeTake the first step\xf000븁\x0000and check it out!\xfffeHurry, we want to meet our Pokémon!
-Cheren: Hey...!\xfffeDon't leave without a Pokémon!\xf000븁\x0000
+Our Pokémon await us inside that box...\xf000븁\x0000Well, \xf000Ā\x0001\x0000?\xfffeTake the first step and check it out!\xf000븀\x0000Hurry, we want to meet our Pokémon!
+Cheren: Where are you going?\xfffeAren't you going to open the box first?\xf000븁\x0000
 Cheren: Won't you open the box, already?\xf000븁\x0000I'm sure the Pokémon are\xfffedying to meet us, too!
-Bel: Hey, what kind of Pokémon\xfffedo you think they are...?
-\xf000Ā\x0001\x0000\xfffeopened the gift box!\xf000븁\x0000
-...I've delivered three Pokémon \xfffealong with this letter. You and \xfffeyour friends should get together\xfffeand choose among yourselves.\xfffeWell, my regards!\xfffe\xfffe\xf000봃\x0001\x0000- Araragi
-Fire Pokémon\xfffe「\xf000ā\x0001\x0001」 is inside.\xf000븁\x0000Choose this Pokémon?
-Grass Pokémon\xfffe「\xf000ā\x0001\x0001」 is inside.\xf000븁\x0000Choose this Pokémon?
-Water Pokémon\xfffe「\xf000ā\x0001\x0001」 is inside.\xf000븁\x0000Choose this Pokémon?
-\xf000봂\x0000Water Pokémon\xfffe\xf000봂\x0000「\xf000ā\x0001\x0001」
-\xf000봂\x0000Fire Pokémon\xfffe\xf000봂\x0000「\xf000ā\x0001\x0001」
-\xf000봂\x0000Grass Pokémon\xfffe\xf000봂\x0000「\xf000ā\x0001\x0001」
-Choose your Pokémon.
-Choose this Pokémon?
- I choose this!
+Bel: Heyyy, what kind of Pokémon\xfffedo you think they are...?
+\xf000Ā\x0001\x0000 opened up\xfffethe present box!\xf000븁\x0000
+...I've delivered three Pokémon\xfffealong with this letter.\xfffeYou and your friends\xfffeshould get together and\xfffechoose among yourselves.\xfffeWell, my regards!\xfffe　　　　　　　　　　　　　　　- Araragi
+Fire-Type Pokémon\xfffe"\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000" is inside.\xf000븁\x0000Choose this Pokémon?
+Grass-Type Pokémon\xfffe"\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000」" is inside.\xf000븁\x0000Choose this Pokémon?
+Water-Type Pokémon\xfffe"\xf000\xff00\x0001\x0001\xf000ā\x0001\x0001\xf000\xff00\x0001\x0000」" is inside.\xf000븁\x0000Choose this Pokémon?
+\xf000봂\x0000Water-Type Pokémon\xfffe\xf000봂\x0000"\xf000ā\x0001\x0001"
+\xf000봂\x0000Fire-Type Pokémon\xfffe\xf000봂\x0000"\xf000ā\x0001\x0001"
+\xf000봂\x0000Grass-Type Pokémon\xfffe\xf000봂\x0000"\xf000ā\x0001\x0001"
+Choose a Pokémon!
+Is this Pokémon alright?
+I choose this!
 Yes
 No
-\xf000Ā\x0001\x0000 obtained \xf000ā\x0001\x0001!
-Bel: Well! I choose this Pokémon!\xfffeAnd Cheren gets that one!\xf000븁\x0000
-Cheren: And why are YOU choosing\xfffemy Pokémon...?\xf000븁\x0000Well, not like I didn't want\xfffe\xf000ā\x0001\x0001 from the start anyway.\xf000븁\x0000
-Bel: Everyone's chosen their own Pokémon!\xfffeWhich means...\xf000븁\x0000Come on!\xfffeHeyyy! Let's have a Pokémon battle!\xf000븁\x0000
-Cheren: ...Uh, Bel? Our Pokémon\xfffeare still weak.\xf000븁\x0000And there's no sense in a\xfffePokémon battle indoors!\xf000븁\x0000
-Bel: Gosh, it's fiiiiine!\xfffeLike you said, our guys are\xf000븀\x0000still weak, right?\xf000븁\x0000And we gotta raise 'em somehow,\xfffeso why not fight!\xf000븁\x0000Come on \xf000Ā\x0001\x0000!\xfffeLet's battle right now!\xf000븁\x0000
-ねえねえ！ あたしと\xfffeポケモンしょうぶ しよう！\xf000븁\x0000\xf000Ā\x0001\x0000が そのきに なったら\xfffeアタシに はなしかけて
-……はこは からっぱ
-Cheren: ウーン…… そうだな\xfffeあいて してあげれば？\xf000븁\x0000ポケモンを てにいれて\xfffeはしゃぎたくなる きもち\xf000븀\x0000わからないでも ないし\xf000븁\x0000
-Bel: どこ いくのよお？\xfffeあたしと しょうぶ してよう！\xf000븁\x0000
-Bel: Hey!\xfffeポケモンしょうぶ する？\xf000븁\x0000
-Whee!\xfffeThen I go first!!\xf000븁\x0000
-Eeeh!\xfffeそんなこと いわないで\xf000븀\x0000かんがえなおしてよお！\xf000븁\x0000だって じぶんの\xfffeポケモンが いるんだよ！\xf000븀\x0000しょうぶ しよーよ！！
-Bel: Phewww...\xf000븁\x0000\xf000Ā\x0001\x0000...\xfffeYou sure are gonna be an awesome\xf000븀\x0000trainer, aren't you?\xf000븁\x0000That's how I feel, anyway!\xf000븁\x0000
-Bel: Phewww...\xf000븁\x0000I was kinda in a daze there, \xfffeand wasn't sure what moves I was picking,\xf000븀\x0000but I guess I won...\xf000븁\x0000
-Cheren: ... ... ...\xfffe... ... ...\xf000븁\x0000Bel... Look around, would you?\xf000븁\x0000
-Bel: WAAAH! W-What's all this about?!\xf000븁\x0000
-Pokémon are MIND-BLOWING!! \xfffeAnd to think they're so dinky...!\xf000븁\x0000I'm sure glad I could have a Pokémon!\xfffeOh... sorry, \xf000Ā\x0001\x0000.\xf000븁\x0000
-Cheren: ...There's really nothing to \xfffebe done with you, is there...\xf000븁\x0000Here! I'll recover your wounded Pokémon...\xf000븁\x0000
-Cheren healed Bel's Pokémon!
-And of course, \xf000Ā\x0001\x0000's Pokémon needs to recover, too.\xf000븁\x0000
-Cheren healed \xf000Ā\x0001\x0000's Pokémon!
-Cheren: ポケモンの たいりょく……\xfffeＨＰを へらすことなく\xf000븀\x0000しょうりするのは すごいよ\xf000븁\x0000だけど ポケモンの わざポイント……\xfffeＰＰが へっているからね\xf000븁\x0000
-Bel: Bel: Heyyy! How about you fight \xfffea Pokémon battle, Cheren?\xf000븁\x0000Now that you know how it goes,\xfffeyou can fight like a pro and \xf000븀\x0000not make any of the screwups I did!\xf000븁\x0000
-Cheren: W-Well, of course...!\xf000븁\x0000On top of my knowledge, I won't \xfffehave to worry so much about messing \xf000븀\x0000up the room.\xf000븀\x0000And most importantly...\xfffeonly the two of you getting to enjoy a battle\xf000븀\x0000wouldn't be fair at all.\xf000븁\x0000
-\xf000Ā\x0001\x0000……\xf000븁\x0000へやは よごさないと ちかうから\xfffeぼくとも しょうぶ してくれないか？\xf000븀\x0000よければ はなしかけてよ
-So... I challenge you!\xf000븁\x0000
-Bel: あたしね \xf000Ā\x0001\x0000と\xfffeCherenの ポケモンしょうぶ って\xf000븀\x0000ぜったいに みごたえ あるとおもう！
-Cheren: This will be our first Pokémon battle!
-\xf000ā\x0001\x0001... I'll show them your power!\xf000븁\x0000
-Cheren: I may have come away from my\xfffefirst Pokémon battle with failure, but...\xf000븁\x0000This intense excitement... \xfffeI've finally become a trainer!\xf000븁\x0000
-Cheren: This intense excitement... \xfffeI've finally become a trainer!\xf000븁\x0000...And yet, I suppose we'll have\xfffeto apologize for the state of your\xf000븀\x0000room to your mom.\xf000븁\x0000
-Cheren: この かんどう……\xfffeようやく トレーナーに なれたんだ\xf000븁\x0000……じゃなくて\xfffeへやのこと きみの ママに\xf000븀\x0000あやまらないと いけないね\xf000븁\x0000
-Bel: Oh! Yeah, me too!\xf000븁\x0000
-A Wii! xfffeIt has a remote for a controller!
-A Wii!\xf000븁\x0000It's not broken at all!
-Dad bought\xfffea flat screen TV!
-My Bed!\xf000븁\x0000The clean sheets smell good!
-The bed is a mess...!
-\xf000Ā\x0001\x0000 booted up the PC!\xf000븁\x0000Topic: Pokémon Battles\xf000븁\x0000Fighting requires knowledge to do.\xfffeIf you don't how, just learn it!\xf000븁\x0000Battling answers all your Questions.\xfffeSo just go Battling!
-イッシュずかん かんせいの\xfffeひょうしょうじょう だ！\xf000븁\x0000
-ぜんこくずかん かんせいの\xfffeひょうしょうじょう だ！\xf000븁\x0000
-バトルサブウェイの\xfffeシングル マスターに しょうりした\xf000븀\x0000あかしの トロフィーだ！
-バトルサブウェイの\xfffeダブル マスターに しょうりした\xf000븀\x0000あかしの トロフィーだ！
-バトルサブウェイの\xfffeマルチ マスターを しょうりした\xf000븀\x0000あかしの トロフィーだ！
+\xf000Ā\x0001\x0000 obtained \xfffe\xf000ā\x0001\x0001!
+Bel: Well!\xfffeI choose this Pokémon!\xf000븀\x0000And Cheren gets that one!\xf000븁\x0000
+Cheren: And why are YOU\xfffechoosing my Pokémon...?\xf000븁\x0000Well, not like I didn't want\xfffe\xf000ā\x0001\x0001 from the start anyway.\xf000븁\x0000
+Bel: Everyone's chosen\xfffetheir own Pokémon!\xf000븀\x0000...Which means...\xf000븁\x0000Heyyy!\xfffeLet's have a Pokémon battle!\xf000븁\x0000
+Cheren: ...Uh, Bel?\xfffeOur Pokémon are still weak.\xf000븁\x0000And there's no sense in\xfffea Pokémon battle indoors!\xf000븁\x0000
+Bel: Gosh, it's fiiiiine!\xfffeLike you said, still weak, right?\xf000븀\x0000And we gotta raise 'em somehow,\xfffeso why not fight!\xf000븁\x0000Thus and thus... \xf000Ā\x0001\x0000!\xfffeLet's start out with a Pokémon battle!\xf000븁\x0000
+Heyyy!\xfffeLet's Pokémon battle!\xf000븁\x0000When you're ready, \xf000Ā\x0001\x0000,\xfffecome talk to me!
+...The box is empty.
+Cheren: Hrm... right.\xfffeWould you battle me?\xf000븁\x0000ポケモンを　てにいれて\xfffeはしゃぎたくなる　きもち\xf000븀\x0000わからないでも　ないし\xf000븁\x0000
+Bel: Where are you going?\xfffeC'mon, battle me!\xf000븁\x0000
+ベル『ねえねえ！\xfffeポケモンしょうぶ　する？\xf000븁\x0000
+YAAAY!\xfffeOkay, let's GO!!\xf000븁\x0000
+Whaaa?!\xfffeGeez, don't be like that!\xf000븀\x0000Reconsider, would you?!\xf000븁\x0000だって　じぶんの\xfffeポケモンが　いるんだよ！\xf000븀\x0000しょうぶ　しよーよ！！
+Bel: Phewww...\xf000븁\x0000\xf000Ā\x0001\x0000...\xfffeYou sure are gonna be\xf000븀\x0000an awesome trainer, aren't you?\xf000븁\x0000That's how I feel, anyway!\xf000븁\x0000
+Bel: Phewww...\xf000븁\x0000I was kinda in a daze there,\xfffeand wasn't sure what movesら\xf000븀\x0000I was picking, but I guess I won...\xf000븁\x0000
+Cheren: ... ... ...\xfffe... ... ...\xf000븁\x0000Bel...\xfffeLook around, would you?\xf000븁\x0000
+Bel: WAAAH!\xfffeW-What's all this about?!\xf000븁\x0000
+Pokémon are MIND-BLOWING!!\xfffeAnd to think they're so dinky...!\xf000븁\x0000I'm sure glad\xfffeI could have a Pokémon!\xf000븁\x0000...Oh...\xfffeSorry, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Cheren: ...There's really nothing\xfffeto be done with you, is there...\xf000븁\x0000Here! I'll recover\xfffeyour wounded Pokémon...\xf000븁\x0000
+Cheren recovered\xfffeBel's Pokémon!
+And of course, \xf000Ā\x0001\x0000's Pokémon\xfffeneeds to recover, too.\xf000븁\x0000
+Cheren recovered\xfffe\xf000Ā\x0001\x0000's Pokémon!
+チェレン『ポケモンの　たいりょく……\xfffeＨＰを　へらすことなく\xf000븀\x0000しょうりするのは　すごいよ\xf000븁\x0000だけど　ポケモンの　わざポイント……\xfffeＰＰが　へっているからね\xf000븁\x0000
+Bel: Heyyy! How about you\xfffefight a Pokémon battle, Cheren?\xf000븁\x0000Now that you know how it goes,\xfffeyou can fight like a pro and\xf000븀\x0000not make any of the screwups I did!\xf000븁\x0000
+Cheren: W-Well, of course...!\xf000븁\x0000On top of my knowledge,\xfffeI won't have to worry so much\xf000븀\x0000about messing up the room.\xf000븁\x0000And most importantly...\xfffeonly the two of you getting to enjoy\xf000븀\x0000a battle wouldn't be fair at all.\xf000븁\x0000
+\xf000Ā\x0001\x0000……\xf000븁\x0000へやは　よごさないと　ちかうから\xfffeぼくとも　しょうぶ　してくれないか？\xf000븀\x0000よければ　はなしかけてよ
+チェレン『ちょっと！\xf000븁\x0000
+ベル『あたしね　\xf000Ā\x0001\x0000と\xfffeチェレンの　ポケモンしょうぶ　って\xf000븀\x0000ぜったいに　みごたえ　あるとおもう！
+チェレン『どうかな？\xfffeぼくとも　しょうぶ　してくれるかい
+So...\xfffeI challenge you!\xf000븁\x0000This will be our first Pokémon battle!\xf000븁\x0000\xf000ā\x0001\x0001...\xfffeI'll show them your power!\xf000븁\x0000
+チェレン『……いがいと\xfffeしょうきょくてき　なんだね\xf000븁\x0000だけど　ぼくは　しょうぶしたい！\xfffeだから　おねがいするよ
+Cheren: I may have come away from my\xfffefirst Pokémon battle with failure, but...\xf000븁\x0000This intense excitement...\xfffeI've finally become a trainer!\xf000븁\x0000...And yet, I suppose we'll have to\xfffeapologize for the state of your room\xf000븀\x0000to your mom.\xf000븁\x0000
+Cheren: This intense excitement...\xfffeI've finally become a trainer!\xf000븁\x0000...And yet, I suppose we'll have to\xfffeapologize for the state of your room\xf000븀\x0000to your mom.\xf000븁\x0000
+Bel: Oh!\xfffeYeah, me too!\xf000븁\x0000
+It's a Wii!\xfffeAnd the Wiimote!
+It's a Wii!\xf000븁\x0000And it's not banged up one bit!
+It's the old TV Dad bought!
+It's a bed...!\xf000븁\x0000Mom picked the sheets.\xfffeThey smell really nice!
+The bed is so messy...!
+\xf000Ā\x0001\x0000 checked the PC!\xf000븁\x0000Pokémon Fundamentals\xf000븁\x0000In this world,\xfffepeople live with Pokémon.\xf000븁\x0000Those who fight with Pokémon\xfffeare called Pokémon Trainers.
+It's a certificate signifying\xfffethe completion of the Isshu Dex!\xf000븁\x0000
+It's a certificate signifying\xfffethe completion of the National Dex!\xf000븁\x0000
+A trophy signifying victory over\xfffethe Battle Subway Singles Master!
+A trophy signifying victory over\xfffethe Battle Subway Doubles Master!
+A trophy signifying victory over\xfffethe Battle Subway Multi Master!

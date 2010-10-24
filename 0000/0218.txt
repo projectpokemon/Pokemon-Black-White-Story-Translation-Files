@@ -1,12 +1,12 @@
-Hachiku:\xf000Ā\x0001\x0000!\xf000븁\x0000We're holding off these guys!\xf000븁\x0000Keep on going up!\xf000븁\x0000
+Hachiku:\xf000Ā\x0001\x0000?!\xf000븁\x0000I'll hold off these grunts!\xf000븁\x0000You go on ahead!\xf000븁\x0000
 Hachiku: I can handle them, but hurry up!\xf000븁\x0000Every second counts!
-Cheren: Okay...stay calm.\xf000븁\x0000There's too many\xfffePlasma grunts...\xf000븁\x0000I have to try!\xf000븁\x0000
+Cheren: You seem so calm\xfffeabout all this...\xf000븁\x0000But for Team Plasma to be\xfffehere, of all places...\xf000븁\x0000What a royal pain!\xf000븁\x0000
 Cheren: I'm not sure if I'm strong\xfffeenough to hold them off!
 no data
 Team Plasma: Is this the true strength\xfffeof a gym leader?!
 Team Plasma: Could they be...\xfffestronger than our 7 wise ones?
 Team Plasma: Nobody!\xfffeNobody makes me surrender!
-Team Plasma: We might not even\xfffeachieve our goal now.xf000븀\x0000Why must you interfere!
+Team Plasma: We might not even\xfffeachieve our goal now.\xf000븀\x0000Why must you interfere!
 Team Plasma: I can't believe this!\xfffeHe's only a child!
 Team Plasma: The gym leader\xfffedestroyed me...
 Team Plasma: Some of the best\xfffebattlers are here...\xf000븁\x0000You can't stop us!

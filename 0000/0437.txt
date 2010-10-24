@@ -1,14 +1,14 @@
-Araragi: This is the Pokémon Center!\xfffeAre you feeling tired?\xf000븁\x0000If so, the Pokémon Center is just the\xfffeplace for you!\xf000븁\x0000
-Bel: There you are!\xf000븁\x0000
-Araragi: The Pokémon Center is\xfffea great place!\xf000븁\x0000It's amazing!\xf000븁\x0000You will return here if you get wiped out!\xf000븁\x0000Don't try to lose though, okay?\xfffeYour Pokémon might become upset.\xf000븁\x0000Okay \xf000Ā\x0001\x0000\xfffeTry it out. Heal your Pokémon!\xf000븁\x0000
-Araragi: Hey! \xf000Ā\x0001\x0000\xfffeWhere are you going?？\xf000븁\x0000We aren't done here yet,\xfffecome back here!\xf000븁\x0000
-Araragi: Try out the Pokémon Center\xfffegive your Pokémon to Nurse Joy.
-Bel: \xf000Ā\x0001\x0000,Try it out!
-Araragi: Okay!\xfffeLet's head to the Pokémon Storage!\xf000븁\x0000You can switch out your Pokémon\xfffehere!\xf000븁\x0000
-Araragi: Here it is!\xfffethis is the well known PC!\xf000븁\x0000It's been around for many many years.\xf000븁\x0000We all use this PC.\xf000븁\x0000It is needed by many Pokémon trainers\xfffelike yourself\xf000븁\x0000You can come and pick them up\xfffewhenever you want!\xf000븁\x0000Also, don't forget to bring out your\xfffePokémon, they won't gather any EXP.\xf000븀\x0000Be sure to switch often!\xf000븁\x0000Now what's next?\xf000븁\x0000Ah, yes, the Pokémart\xfffeCome with me!\xf000븁\x0000
-Bel: Wha...\xf000븁\x0000So I can leave my Pokémon here?\xf000븁\x0000...?\xf000븁\x0000
-Araragi: Indeed!\xfffeIt's quite amazing isn't it?\xf000븀\x0000Whenever you have 6 Pokémon\xf000븁\x0000Pokémon caught will automatically\xfffebe transferred to your PC!\xf000븁\x0000Okay, we must continue now, Bel!\xf000븁\x0000
-Araragi: This is\xfffethe Pokémon Mart!\xf000븁\x0000It's very useful when\xfffeyou need supplies.\xf000븁\x0000You can sell stuff here too!\xf000븁\x0000Be sure to restock often!\xf000븁\x0000You can always run out\xfffeof Pokéballs!\xf000븁\x0000
-Araragi: Well!\xf000븁\x0000Thats about all there is here other\xfffethan the Wi-Fi Rooms!\xf000븁\x0000You can trade Pokémon via\xfffea wireless network!\xf000븁\x0000You will need to get the 1st\xfffeGym badge first!\xf000븁\x0000You can also battle people online\xfffeif you have a Friend Code.\xf000븁\x0000Well, I can't go telling you everything\xfffecan I?\xf000븁\x0000I better go outside.\xf000븁\x0000That Team Plasma has been lurking\xfffearound for quite some time!\xf000븁\x0000
-Bel: Well, wasn't that interesting?\xf000븁\x0000I better get some items\xfffeI'm sure I'll need them!\xf000븁\x0000
-You can save your progress by\xfffepressing the X button and tapping SAVE!\xf000븀\x0000It's always important to save!
+Araragi: This is a Pokémon Center!\xfffeAlmost soothing, isn't it?\xf000븁\x0000Now for my guided tour!\xf000븁\x0000
+Bel: Oh, I'm here too!\xf000븁\x0000
+Araragi: The Pokémon Center\xfffeis a wonderful place!\xf000븁\x0000Why's that?\xfffeBecause you can recover your Pokémon!\xf000븀\x0000And it's all free!\xf000븁\x0000These nurses are a trainer's best friend!\xf000븁\x0000Now, \xf000Ā\x0001\x0000,\xfffetry recovering your Pokémon!\xf000븁\x0000
+Araragi: Whoa, whoa, \xf000Ā\x0001\x0000!\xfffeWhere're YOU going?!\xf000븁\x0000Here! Talk to the nurse and\xfffehave her recover your Pokémon!\xf000븁\x0000
+Araragi: You shouldn't be talking to me,\xfffetalk to the helpful lady there!
+Bel: I think you can trust them\xfffewith your Pokémon, \xf000Ā\x0001\x0000.
+Araragi: Okey-doke!\xfffeYour Pokémon are feeling great!\xf000븁\x0000So next I'll explain\xfffethe Pokémon Center's PCs!\xf000븁\x0000
+Araragi: This is a PC!\xfffeAll trainers are bound to use one.\xf000븁\x0000You can leave Pokémon\xfffethat are in your party here.\xf000븁\x0000On the flipside, you can also withdraw\xfffePokémon you've left on the PC.\xf000븁\x0000By the way, whenever you should have\xfffesix Pokémon in your party...\xf000븁\x0000If you catch a new one, the Pokémon\xfffewill automatically be sent to the PC!\xf000븁\x0000Isn't technology grand?!\xfffeAren't you just floored?!\xf000븁\x0000Also, if you look at the Professor's PC,\xfffeI'll do a Pokédex evaluation for you!\xf000븁\x0000
+Bel: Professor...\xf000븁\x0000The screen says "Someone's PC"...\xfffeWhose PC is that...?\xf000븁\x0000
+Araragi: My, Bel!\xfffeGood eye!\xf000븀\x0000That's a very good question.\xf000븁\x0000And one I'd like to answer, but for now,\xfffejust use it without worrying about it!\xf000븁\x0000That "someone" has set up a Pokémon\xfffestorage system on their PC.\xf000븀\x0000I'm sure you'll meet them someday!\xf000븁\x0000Well, next on the list!\xf000븁\x0000
+Araragi: Here's the Friendly Shop!\xf000븁\x0000They'll sell you helpful items.\xf000븁\x0000You can also sell them items\xfffeyou don't need!\xf000븁\x0000Just talk to that young man there!\xfffeGive him a big smile!\xf000븁\x0000
+Araragi: SO, then!\xf000븁\x0000That means I've taught you\xfffethe most basic of trainer basics!\xf000븁\x0000I'll be heading back to Kanoko Town.\xf000븁\x0000But one last thing!\xf000븁\x0000If you go to Sanyou City,\xfffemeet up with the inventor Makomo.\xf000븁\x0000She's an old friend of mine,\xfffeand she'll be a help on your adventure.\xf000븁\x0000And with that, I wish you luck!\xf000븁\x0000May your journey be\xfffean abundant one!\xf000븁\x0000
+Bel: Hmm, what should I buy?\xf000븁\x0000I know Potions and Pokéballs\xfffeare going to be important...\xf000븁\x0000
+Save your gasme to make sure you don't\xfffeforget everything that's happened...\xf000븀\x0000That'll allow you to take breaks.

@@ -1,11 +1,11 @@
-プラズマだん『……くっ つよいな\xf000븁\x0000だが その つよさは\xfffeおまえら トレーナーが\xf000븁\x0000ポケモンを しはいすることで\xfffeじつげん している つよさだよな！？\xf000븁\x0000
-チェレン『……だから きみたちが\xfffeポケモンを じゆうに したい……\xf000븁\x0000そう のぞむなら\xfffeきみたちは そうすれば いい\xf000븁\x0000だけどね ちからに まかせて\xfffeみんなの ポケモンを うばうのは\xf000븀\x0000どうかんがえても まちがっている\xf000븀\x0000それは つよさ じゃない！\xf000븁\x0000
-プラズマだん『おお なかまよ\xfffeここに いたか！\xf000븁\x0000れいの モノが みつかったぞ\xfffeさあ われわれも とうに むかおう！\xf000븁\x0000
-いいか！ プラズマだんは\xfffeポケモンが しはい されている\xf000븀\x0000この せかいを かえるための\xf000븀\x0000ちからを てにいれた！\xf000븁\x0000
-プラズマだん『そうとも！\xf000븁\x0000まちがった せかいを ただすためなら\xfffeちからずくも とうぜん だ！\xf000븁\x0000さて われらの おうさま\xfffeＮさまの もとに つどおう！！\xf000븁\x0000
-チェレン『あいつら……\xfffeなにを てにいれたか しらないけど\xf000븁\x0000わざわざ つよくなってまで\xfffeみんなに めいわくを かけるだなんて\xf000븀\x0000メンドーな れんちゅう だよ……\xf000븁\x0000
-\xf000Ā\x0001\x0000……\xfffeぼくは もうすこし ここにいる\xf000븁\x0000ちょっと かんがえたいんだ\xf000븁\x0000チャンピオンに いわれたこと……\xf000븁\x0000ぼくは つよくなって\xfffeなにを したいのか……？\xf000븁\x0000そもそも ぼくは\xfffeだれの ために つよくなる……？\xf000븁\x0000
-\xf000Ā\x0001\x0000……\xfffeぼくは もうすこし ここにいる\xf000븁\x0000ちょっと かんがえたいんだ\xf000븁\x0000チャンピオンに いわれたこと……\xf000븁\x0000ぼくは つよくなって\xfffeなにを したいのか……？\xf000븁\x0000そもそも ぼくは\xfffeだれの ために つよくなる……？
+Plasma Grunt: Ugh, you're strong...\xf000븁\x0000But that strength only comes\xfffeas a result of\xf000븁\x0000you trainers controlling Pokémon,\xfffedoesn't it?!\xf000븁\x0000
+Cheren: ...So you want to\xfffeliberate Pokémon...\xf000븁\x0000If that's what you desire,\xfffeyou can very well try.\xf000븁\x0000But resorting to force and\xfffestealing everyone's Pokémon\xf000븀\x0000is just wrong, no matter what.\xf000븁\x0000That's not strength!\xf000븁\x0000
+Plasma Grunt: Oh, buddy!\xfffeSo here you were!\xf000븁\x0000We found it! We need\xfffeto head to the tower!\xf000븁\x0000
+Plasma Grunt: Great!\xfffeNow Team Plasma has obtained\xf000븀\x0000the power that will change\xf000븀\x0000this Pokémon-abusing world!\xf000븁\x0000
+Plasma Grunt: That's right!\xf000븁\x0000If a mistaken world needs to be righted,\xfffebrute force is the natural answer!\xf000븁\x0000Now, we'll be off to\xfffeour king, Lord N!!\xf000븁\x0000
+Cheren: I'm... not sure what they might\xfffehave gotten their hands on, but...\xf000븁\x0000They're real pests,\xfffeeven going so far as getting\xf000븀\x0000stronger just to annoy everyone...\xf000븁\x0000
+\xf000Ā\x0001\x0000...I'm going to\xfffestay here a little longer.\xf000븁\x0000I need to think\xfffefor a while.\xf000븁\x0000About what it means\xfffeto be Champion...\xf000븁\x0000What do I want to do\xfffeonce I become strong...?\xf000븁\x0000And who was I doing it for\xfffein the first place...?\xf000븁\x0000
+\xf000Ā\x0001\x0000...I'm going to\xfffestay here a little longer.\xf000븁\x0000I need to think\xfffefor a while.\xf000븁\x0000About what it means\xfffeto be Champion...\xf000븁\x0000What do I want to do\xfffeonce I become strong...?\xf000븁\x0000And who was I doing it for\xfffein the first place...?
 こうやって なんにもないところを\xfffeさがすと いいものが みつかるべよ！
 こうやって なんにもないところを\xfffeさがすと いいものが みつかるべよ！\xf000븁\x0000ほら！ さっきも カセキが\xfffeみつかったからよ もってけよ！\xf000븁\x0000
 また あしたに なれば\xfffeカセキの いっこぐらい みつかるから\xf000븀\x0000よければ あそびに くるべ！

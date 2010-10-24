@@ -1,4 +1,4 @@
-アーティ『あっち！\xf000븁\x0000んぬん ジムの ほうこうだな！？\xf000븁\x0000
+Arti: Thataway!\xf000븁\x0000Hm, wait, isn't that\xfffethe way to the gym?!\xf000븁\x0000
 no data
 no data
 やっと しごとが おわったとき\xf000븁\x0000なげた モンスターボールが\xfffeころころと ３かい ゆれたとき\xf000븁\x0000ぼくの じんせいは いろんな\xfffeよろこびに あふれておるのです！
@@ -11,11 +11,11 @@ no data
 はたらく じょせいは うつくしく\xfffeたたかう ポケモンは ステキなの！
 バトルカンパニーでは\xfffeうでじまんの トレーナーを\xf000븀\x0000かんげい していまーす！
 つぎこそ！ つぎこそは\xfffeヒウンアイスを たべたーい！
-Hiun City\xfffeヒウンは そらとぶくも めでたいくも
-Hiun City\xfffeヒウンは そらとぶくも めでたいくも
+Hiun City\xfffeCity of soaring, joyful clouds!
+Hiun City\xfffeCity of soaring, joyful clouds!
 ↑ Hiun Street\xfffe↓ Cruise Pier
 ↑ Maude Street\xfffe↓ Prime Pier
 ↑ Slim Street\xfffe↓ United Pier
 ↑ Pokémon Gym\xfffe↓ Liberty Pier
-すれちがい ちょうさたい ほんぶ\xfffe……ひとはあるくから すれちがう
+Chance-Upon Survey HQ\xfffe...People walk, and thus chance upon each other
 Battle Company\xfffeAll trainers are welcome!

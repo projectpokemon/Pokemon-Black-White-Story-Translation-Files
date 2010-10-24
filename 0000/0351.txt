@@ -1,21 +1,21 @@
 The Live Caster is ringing.
-\xf000Ā\x0001\x0000's\xfffeLive Caster is connected.\xf000븁\x0000
-Mom: \xf000Ā\x0001\x0000.\xf000븁\x0000
-Finally I found you...\xfffeI got something to give you!\xf000븁\x0000You go way to fast though!\xfffeBefore I know it you'll be even further!\xf000븀\x0000\xfffeWeehw, Here take this!\xf000븁\x0000\xfffeThey're your Running Shoes!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000,\xfffeHere put them on!\xf000븁\x0000
-\xf000Ā\x0001\x0000 received the\xfffe\xf000\xff00\x0001\x0002Running Shoes\xf000\xff00\x0001\x0000!
-Running Shoes\xfffeTo use the Running Shoes hold down B!\xf000븁\x0000\xfffeYou forgot to take them with you so\xfffeI came here to bring them to you!\xf000븁\x0000\xfffeI better get back home I got cleaning\xfffeto do...\xf000븀\x0000\xfffeTake care honey!\xf000븁\x0000\xfffeYou better come home and visit sometime\xfffe or I might have to chase you down!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeI'll miss you, see ya!\xf000븁\x0000
-\xf000Ā\x0001\x0000\xfffeOh, wait!\xf000븀\x0000\xfffeI forgot to tell you something!\xf000븁\x0000\xfffePokemon can learn different TM Moves\xfffeI just heard about it on TV!\xf000븁\x0000\xfffeThere are other moves called HM!\xfffeThey can be very helpful!\xf000븁\x0000\xfffeHowever, you can't delete HM Moves!\xf000븁\x0000I'm going to get going, see ya!\xf000븁\x0000
-Bel: Wait up! \xf000Ā\x0001\x0000!\xf000븁\x0000
-Bel:\xf000Ā\x0001\x0000There you are! \xf000Ā\x0001\x0000!\xf000븁\x0000
-Bel: I see you're heading to the\xfffenext town!\xf000븁\x0000You must think you're going\xfffeto beat the Gym Leader first!\xf000븁\x0000If you do, you're kidding yourself!\xf000븁\x0000
-Bel: Hey!\xf000븁\x0000You do know Gym Leaders are tough!\xfffe\xf000Ā\x0001\x0000\xf000븁\x0000They aren't ordinary trainers!\xfffeYou may be able to beat me!\xf000븀\x0000But they smoked me, I'm going to train!\xf000븁\x0000
-ねーねー\xf000븁\x0000\xfffeいまから すごいことするから\xfffeみててくれない？
-Ah! It's not over!!\xf000븁\x0000
-よぉっ！！
-ねっ！ みてくれた！？\xf000븁\x0000\xfffeだんさを とびおりると\xfffeちかみち できて すごいでしょ！
-えんりょ しなくて いいのにさ！
-Pokémon without energy will faint.\xfffeThat's not the only thing either...\xf000븀\x0000f your Pokemon run out of PP\xfffethey'll struggle and hurt themselves!\xf000븁\x0000I'd watch how you're Pokemon are doing!
-Oh, I'm no Pokémon Trainer!\xf000븁\x0000I just come here for the thrill!
+\xf000Ā\x0001\x0000 connected\xfffeto the Live Caster.\xf000븁\x0000
+Mom: \xf000Ā\x0001\x0000!\xf000븁\x0000
+I finally caught up...\xfffeYou're already this far, huh?\xf000븁\x0000Professor Araragi told me you were\xfffeprobably heading for Sanyou City\xf000븀\x0000\xfffearound now, so...\xf000븁\x0000\xfffeHere's another present from mom!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xfffePut these on!\xf000븁\x0000
+\xf000Ā\x0001\x0000 received\xfffethe \xf000\xff00\x0001\x0002Running Shoes\xf000\xff00\x0001\x0000!
+Wear those Running Shoes, and\xfffeyou can get anywhere in a flash!\xf000븁\x0000\xfffeHere, I'll read these instructions,\xfffeand you listen.\xf000븁\x0000\xfffe"Press the B button\xfffe to use the Running Shoes\xf000븀\x0000\xfffe and run faster than ever before!"\xf000븁\x0000\xfffe"Put on a pair of Running Shoes\xfffe and run your heart out!"\xf000븁\x0000\xfffe...they say.\xf000븁\x0000\xfffeI found them, bought and never used,\xfffewhile I was cleaning up your room.\xf000븀\x0000...I think I should do that more often.\xf000븁\x0000
+You know you're not alone,\xffferight, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeYou've always got friends\xfffein your Pokémon.\xf000븁\x0000\xfffeAnd your mother's always,\xfffealways thinking about you!\xf000븁\x0000\xfffeSo enjoy the journey!\xfffeThat's what matters!\xf000븁\x0000
+Belle: Hey! \xf000Ā\x0001\x0000!\xf000븁\x0000
+Belle: \xf000Ā\x0001\x0000! Hey, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Belle: Heyyy there!\xfffeLet's Pokémon battle!\xf000븁\x0000I caught some new Pokémon\xfffeand got them a little stronger!\xf000븁\x0000Well, let's begin!\xf000븁\x0000
+Belle: Phew...\xf000븁\x0000You sure are strong, \xf000Ā\x0001\x0000,\xfffeand that's the truth!\xf000븁\x0000I'll be sure to train my Pokémon\xfffeso they won't lose, either!\xf000븀\x0000Okay, bye-bye!!\xf000븁\x0000
+Hey, you!\xf000븁\x0000\xfffeI'm gonna do something\xfffetotally awesome, wanna see?
+Alright! Get this!!\xf000븁\x0000
+YEAAAAAHHHHH!!
+Ha! See that?!\xf000븁\x0000\xfffeJumping down ledges as a shortcut\xfffeowns hard, doesn't it?!
+Sheesh, don't be lame!
+When your Pokémon aren't doing well,\xfffeand you don't want to fight...\xf000븀\x0000Make sure you stay on the path!\xf000븁\x0000Pokémon'll only come out of the grass.
+A Pokémon battle with a trainer is a\xfffetrue battle, one that can't be escaped!
 Route 2
 Route 2
-Trainer Tips\xf000븁\x0000\xfffe\xfffeAll Pokémon that are involved in\xfffe a battle earn EXP Points!\xf000븁\x0000\xfffeThe more your Pokémon battle,\xfffethe stronger they will become. 
+Trainer Tips!\xf000븁\x0000\xfffe\xfffePokémon that participate in battle\xfffegain experience points!\xf000븁\x0000\xfffePokémon continuing to fight\xfffemakes them grow continually stronger!

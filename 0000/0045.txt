@@ -1,15 +1,15 @@
-YANAPPU, BAOPPU, and HIYAPPU\xfffeare all Pokémon that evolve\xf000븀\x0000with use of special stones!\xf000븁\x0000Which Pokémon do you\xfffewant to evolve?
-YANAPPU...\xfffeYou'll need a Leaf Stone.\xf000븁\x0000
-BAOPPU...\xfffeYou'll need a Fire Stone.\xf000븁\x0000
-HIYAPPU...\xfffeYou'll need a Water Stone.\xf000븁\x0000
-You may or not know this,\xfffebut I'll tell anyway!\xf000븁\x0000If you evolve your Pokémon,\xfffeit will get stronger, but it will\xf000븀\x0000be harder for it to learn moves.\xf000븁\x0000It's especially hard for Pokémon\xfffethat evolve with stones.\xf000븁\x0000It's good to use a stone after\xfffea Pokémon learns the right moves.\xf000븁\x0000If you need to,\xfffeyou can still use\xf000븀\x0000TMs on evolved Pokémon!
-YANAPPU
-BAOPPU
-HIYAPPU
+Yanapuu, Baoppu, and Hiyappu...\xfffeThese three Pokémon evolve\xf000븀\x0000with the use of special stones!\xf000븁\x0000Which of those Pokémon\xfffedo you want to evolve?
+Yanappu...\xfffeThen you'll need a Leaf Stone.\xf000븁\x0000
+Baoppu...\xfffeThen you'll need a Fire Stone.\xf000븁\x0000
+Hiyappu...\xfffeThen you'll need a Water Stone.\xf000븁\x0000
+I don't know if you already knew this,\xfffebut here's some advice!\xf000븁\x0000If you evolve your Pokémon,\xfffeit'll get stronger, but it'll also be\xf000븀\x0000harder for it to learn moves.\xf000븁\x0000It's especially a problem for\xfffePokémon that evolve with stones.\xf000븁\x0000It's best to use a stone after the\xfffePokémon has learned some good moves.\xf000븁\x0000And as soon as you evolve it,\xfffeperhaps you could use some TMs?\xf000븀\x0000I leave it up to you!
+Yanappu
+Baoppu
+Hiyappu
 Quit
-You pick YANAPPU?
-You pick BAOPPU?
-You pick HIYAPPU?
-Then,\xfffewhich one do you pick?
-No problem.\xf000븁\x0000When you make a decision,\xfffecome talk to me again!
+Yanappu, huh?
+Baoppu, huh?
+Hiyappu, huh?
+Well then...\xfffeYanapuu, Baoppu, and Hiyappu...\xf000븀\x0000Which do you want to evolve?
+Oh, all right.\xf000븁\x0000I know it can be hard to decide.\xfffeWhen you've chosen, talk to me again!
 Make sure hold your\xfffeDS the right way.\xf000븁\x0000If you drop and break it,\xfffeyou're screwed!

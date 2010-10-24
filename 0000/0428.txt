@@ -1,54 +1,54 @@
-Cheren: Hey! It's too dangerous out there!\xfffeWe better not leave yet!\xf000븁\x0000Come with me, the Professor is\xfffewaiting for us!
-Cheren: Hey! Do you happen to know\xfffewhere Bel is?\xf000븁\x0000\xfffeShe should come with us when\xfffevisiting the Professor...\xf000븀\x0000Could you go find her?
-Bel: Well now we're here...\xfffeLet's go inside...
-Cheren: There you are!\xfffeLet's go inside now!\xf000븁\x0000
-Bel: Hold on, \xf000Ā\x0001\x0000!\xfffePlease wait a second!\xf000븁\x0000
-Bel: Hold on, \xf000Ā\x0001\x0000!\xfffePlease wait a second!\xf000븁\x0000
-Mom: Hey guys! How was the\xfffeProfessor doing? What is it?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000Whoa, she gave you a\xfffePokédex? I don't even know\xf000븀\x0000what it is...?\xf000븁\x0000
-Well...\xf000븁\x0000I have to be a mother...\xfffeBut I guess you know that...\xf000븁\x0000Please be careful on your journey!\xfffeI don't want you guys to get hurt!\xf000븁\x0000
-Oh, wait guys! I know something!\xfffeTake this Town Map, it could\xf000븀\x0000come in pretty handy...!\xf000븁\x0000
-Mom: There you go!\xf000븁\x0000
-Cheren: Thank you, really thanks!\xf000븁\x0000
-Mom: And of course one for you!\xf000븁\x0000
-Bel: Thank you!\xf000븁\x0000
-Mom: Well, \xf000Ā\x0001\x0000...\xfffeYour room is cleaned up now,\xf000븀\x0000it was a big mess...!\xf000븁\x0000Well, that's okay, \xf000Ā\x0001\x0000!\xf000븁\x0000
-Mom: Well, I do like Pokémon,\xfffeand I've always wanted one...\xf000븁\x0000But...\xf000븁\x0000I don't like the mess\xfffePokémon create in your room!\xf000븀\x0000That's some pretty good mess!\xf000븁\x0000But still... I just wanted\xfffea Pokémon... I always wanted...\xf000븁\x0000
-My mom and dad didn't want\xfffeme to have a Pokémon...\xf000븁\x0000You're lucky to have one!\xf000븁\x0000Your Pokémon will grow old with\xfffeyou and you will get a bond.\xf000븁\x0000You will have lots of fun when\xfffeyou're exploring Ishu!\xf000븀\x0000But I'll go now, see you later!\xf000븁\x0000
-Cheren: Well, okay!\xfffeSay thanks for the Town Map!\xf000븀\x0000It is handy indeed!\xf000븁\x0000But we have to go. We're\xfffemeeting the Professor at\xf000븀\x0000Route 1, remember? Let's go!\xf000븁\x0000
-Bel: Yeah, that's true \xf000Ā\x0001\x0000!\xfffeLet's go!\xf000븁\x0000
-Bel: \xf000Ā\x0001\x0000, you're just in time!\xfffeWe're going now!\xf000븁\x0000
-Cheren: The Professor should\xfffebe somewhere ahead.\xf000븀\x0000We have to go soon!\xf000븁\x0000
-Bel: Yeah, \xf000Ā\x0001\x0000!\xf000븁\x0000We should go find her!\xfffeLet's go on to Route 1!\xf000븁\x0000
-Cheren: I see her!\xf000븁\x0000
-Cheren: I see her!\xf000븁\x0000
-There we go!\xf000븁\x0000
-Hey there! I just found\xfffesomething out! Wanna hear it?\xf000븁\x0000You can store Pokémon in\xfffea PC at the Pokécenter now!\xf000븀\x0000That's just great, isn't it?
-Do you want to change your language\xfffeto Kanji?\xf000븁\x0000You can change it back later\xfffein the options menu.
-Alright\xfffeHere we go!
-Okay！If you change your mind,\xfffecome and speak to me!
-Hey! Do you have a Pokémon?\xfffeOh oh oh I want Pokémon!\xf000븁\x0000\xfffeI really, really, really want\xfffePokééééééééémon!!!
-Bel: Wow! I'm soo excited!\xfffeMy heart is pounding so hard!\xf000븁\x0000
-Cheren: I'm waiting for the Professor...\xf000븁\x0000
-Konoto Town is known for its community.
-\xf000Ā\x0001\x0000's house.
-Cheren's house.
-Bel's house.
-Professor Araragi's Pokémon Lab.
-Cheren: やあ \xf000Ā\x0001\x0000\xfffeハンサムさんの はなしは おわった？\xf000븁\x0000
-Bel: ……ふたりとも ごめんね\xf000븁\x0000サンヨウシティの ジムリーダーさん\xfffeよびに いってたら\xf000븀\x0000ぜんぶ おわっちゃってて……\xf000븁\x0000
-Cheren: ……それなら\xfffeぼくだって おなじさ\xf000븁\x0000ダークトリニティに すきを つかれ\xfffeゲーチスを のがして しまったし\xf000븁\x0000
-Bel: ……ゲーチス？\xfffeダークトリニティ？\xf000븁\x0000
-Cheren: ……しろでの できごとは\xfffeこんど おしえるよ\xf000븁\x0000それよりもさ ベル\xfffeきみたちは これから どうするの？\xf000븁\x0000
-Bel: あたしね あたしね\xfffeホワイトフォレストに いくつもり！\xf000븁\x0000
-Bel: あたしね あたしね\xfffeブラックシティに いくつもり！\xf000븁\x0000
-Cheren: ああ\xfffeライモンシティから つながる\xf000븀\x0000１６ばんどうろの さきだね\xf000븁\x0000なるほど あちらの ほうなら\xfffeまだ みたことのない ポケモンと\xf000븀\x0000であえるかも しれないね！\xf000븁\x0000
-アララギパパ『お！ これはこれは\xfffeナイス タイミング！\xf000븀\x0000おまえさんたち そろっとるな！\xf000븁\x0000
-つい さきほど\xfffeしりあいから ぜんこくずかんの\xf000븀\x0000データが とどいてな\xf000븁\x0000せっかくだから おまえさんたちの\xfffeポケモンずかんを ぜんこくずかんに\xf000븀\x0000パワーアップ しておこうよ\xf000븁\x0000いやなに おまえさんたちの\xfffeいける ばしょも ふえるだろう？\xf000븁\x0000となれば とうぜん であう\xfffeポケモンも ふえるからねえ\xf000븁\x0000ちょいと ずかんを かしとくれ！\xf000븁\x0000
-ほいよ ベル！\xf000븁\x0000
-おつぎは チェレン！\xf000븁\x0000
-さいごに おまえさん！\xf000븁\x0000
-\xf000Ā\x0001\x0000の ポケモンずかんが\xfffeぜんこくばんに バージョンアップした！
-アララギパパ『これで\xfffeおまえさんたちの ポケモンずかんを\xf000븀\x0000ぜんこくずかんにも きりかえられる\xf000븁\x0000ぜんこくずかんの かんせいは\xfffeちょいと たいへんかも しれぬが\xf000븁\x0000まあ のんびり たのしみつつ\xfffeポケモンと であってくれよ\xf000븁\x0000
-Bel: へえ ぜんこくずかん……\xf000븁\x0000あたしの しらない ポケモンが\xfffeまだまだ たくさん いるんだね\xf000븁\x0000そうだ！ ポケモンずかんを\xfffeパパや ママに みせてあげなきゃ！\xf000븁\x0000ということで ふたりとも\xfffeまた どこかで あおうねえ！！\xf000븁\x0000
-Cheren: たびをしても\xfffeマイペースは かわらないね ベルは\xf000븁\x0000
-ぼくは もういちど\xfffe１ばんどうろから じゅんばんに\xf000븀\x0000めぐっていく つもりさ\xf000븁\x0000きっと また あたらしい\xfffeはっけんが あるだろうし\xf000븁\x0000それに とちゅうで しちけんじんを\xfffeみつけるかも しれないしね\xf000븁\x0000ということで \xf000Ā\x0001\x0000\xfffeどこかで さいかい したら\xf000븀\x0000そのときは しょうぶ しよう！\xf000븁\x0000
+Cheren: \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeI understand you're\xffferaring to go around everywhere\xf000븀\x0000\xfffewith your Pokémon, but...\xf000븁\x0000\xfffeWe have to give our thanks\xfffeto Professor Araragi first.\xf000븁\x0000Here!\xfffeThe lab's this way!\xf000븁\x0000
+Cheren: I know it's too much to ask,\xfffebut could you go to Bel's house?\xf000븁\x0000\xfffeI'm sure she's just as happy-go-lucky\xfffeas she always is, though...\xf000븀\x0000I just call it being slow!
+Bel: ...Keep what you saw earlier\xfffea secret!
+Cheren: Well!\xfffeTime to meet the Professor.\xf000븁\x0000
+Bel: Whoa!\xfffeWait up, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Bel: Heyyy!\xfffeWait up, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Mom: There you are!\xfffeSo how did things go with the Professor?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000She asked you to complete the Pokédex?!\xfffeOh, WOW!!\xf000븁\x0000
+Well, um...\xf000븁\x0000Actually, being your mother,\xfffeI already knew about that...\xf000븁\x0000
+Which is why I brought the three\xfffeof you these Town Maps.\xf000븁\x0000
+Mom: Here, Cheren.\xf000븁\x0000
+Cheren: I'll take good care of it.\xf000븁\x0000
+Mom: Okay, and Bel too.\xf000븁\x0000
+Bel: Th-Thank you sooooo much!\xf000븁\x0000
+Mom: I've got to go\xfffeclean up \xf000Ā\x0001\x0000's room now,\xf000븀\x0000so again, don't you worry about that.\xf000븁\x0000Hey, \xf000Ā\x0001\x0000?\xf000븁\x0000
+Mom: At any rate,\xfffePokémon really are amazing!\xf000븁\x0000Even the cute ones can be hiding\xfffeunbelievable power\xf000븀\x0000and room-wrecking potential!\xf000븁\x0000So long as you're with Pokémon,\xfffeyou can be at ease wherever you go!\xf000븁\x0000
+That's a message from me, but really,\xfffeit's from all your moms and dads!\xf000븁\x0000And it's not just about Pokémon.\xfffeIsshu is a beautiful place all on its own.\xf000븁\x0000So full of things to find...\xfffeI know you'll be stupendous adults!\xf000븀\x0000Now, get going!!\xf000븁\x0000
+Cheren: Using the Town Map,\xfffewe can see where we are...\xf000븀\x0000I'm glad to have this.\xf000븁\x0000Well, off to Route 1?\xfffeThe Professor's waiting!\xf000븁\x0000
+Bel: Ah, hold on!\xfffe\xf000Ā\x0001\x0000, make sure you come quick!\xf000븁\x0000
+Bel: \xf000Ā\x0001\x0000!\xfffeOver here!\xf000븁\x0000
+Cheren: Bel thought that\xfffeif we're going to start a journey,\xf000븀\x0000we ought to all start it\xf000븀\x0000with the same first step.\xf000븁\x0000
+Bel: Hey, \xf000Ā\x0001\x0000!\xf000븁\x0000We're all gonna step\xfffeonto Route 1 together!\xf000븁\x0000
+Cheren: Okay, here goes!\xf000븁\x0000
+Cheren: Where're you going?\xf000븁\x0000
+HEAVE!!\xf000븁\x0000
+The power of science is AMAZING!\xf000븁\x0000These days, you can use, like,\xfffeinfrared rays to do this and that...\xf000븀\x0000And all in the blink of an eye, too!
+Hmm, you like Japanese games, eh?\xfffeThink you could handle things in Japanese?
+では\xfffe話し方を　変えてみるわね
+Yeah, good for fan translations! Though,\xfffeadmittedly, they're rarely in capable hands.\xf000븀\x0000Such is life!
+The world is filled with so many Pokémon\xfffeand so many kinds of people!!\xf000븁\x0000\xfffeJust thinking about that\xfffegives me goosebumps!!
+Bel: AAAH! W-Whoa,\xfffeI'm getting waaaaay too overexcited!!\xf000븁\x0000
+Cheren: Yeah, sure.\xfffeOkay, the Professor's waiting.\xf000븁\x0000
+Kanoko Town\xfffeWhere many points come together!
+\xf000Ā\x0001\x0000's House
+Cheren's House
+Bel's House
+Araragi Pokémon Lab
+Cheren: Hey, \xf000Ā\x0001\x0000.\xfffeYou finished talking with Looker?\xf000븁\x0000
+Bel: ...Sorry, from both of us.\xf000븁\x0000We called the gym leaders of\xfffeSanyou City to come too,\xf000븀\x0000but they were all late...\xf000븁\x0000
+Cheren: ...I have to apologize myself, though.\xf000븁\x0000The Dark Trinity found an opportunity\xfffeto help Getis get away...\xf000븁\x0000
+Bel: ...Getis?\xfffeDark Trinity?\xf000븁\x0000
+Cheren: ...I'll tell you what went on\xfffein the castle later, okay?\xf000븁\x0000Anyway, forget that, Bel.\xfffeWhat are you two going to do now?\xf000븁\x0000
+Bel: I'm, um, I'm...\xfffegonna go to White Forest!\xf000븁\x0000
+Bel: I'm, um, I'm...\xfffegonna go to Black City!\xf000븁\x0000
+Cheren: Ah. That's past Route 16\xfffefrom Raimon City, right?\xf000븁\x0000I see... You just might\xfffefind some Pokémon you've\xf000븀\x0000never seen before over there!\xf000븁\x0000
+Araragi's Dad: Oh!\xfffeNow this is nice timing!\xf000븀\x0000You're all together and everything!\xf000븁\x0000
+I just got the data for the National Dex\xfffefrom an acquaintance!\xf000븁\x0000Since I'm already here,\xfffelet me upgrade your Pokédexes\xf000븀\x0000to the National Dex!\xf000븁\x0000I mean, you're just going to\xfffekeep going places, aren't you?\xf000븁\x0000So you're bound to find more\xfffeand more Pokémon too! Obviously!\xf000븁\x0000Let me have your Pokédexes for a second!\xf000븁\x0000
+Right, Bel!\xf000븁\x0000
+And next, Cheren!\xf000븁\x0000
+And lastly... you!\xf000븁\x0000
+\xf000Ā\x0001\x0000's Pokédex\xfffewas upgraded to the National Dex!
+Araragi's Dad: And with that,\xfffeall your Pokédexes are\xf000븀\x0000updated to the National Dex.\xf000븁\x0000Completing the National Dex maaay be\xfffea bit extreme of a task, but...\xf000븁\x0000Well, keep at it, and keep enjoying\xfffethe thrill of finding Pokémon!\xf000븁\x0000
+Bel: Whoaaa, a National Dex...\xf000븁\x0000There's still a LOT of Pokémon\xfffeI don't know about yet, huh?\xf000븁\x0000Oh yeah! I'll have to show my\xfffePokédex to mom and dad!\xf000븁\x0000That said, I still hope I\xfffemeet you two again somewhere!!\xf000븁\x0000
+Cheren: Even after her long journey,\xfffeBel's still going at her own pace...\xf000븁\x0000
+I'm planning on looking through\xfffeeverything again starting from Route 1.\xf000븁\x0000I'm sure there are new discoveries\xfffeto be made everywhere.\xf000븁\x0000And you never know, I could find some\xfffeof the Seven Sages along the way.\xf000븁\x0000That said, \xf000Ā\x0001\x0000,\xfffeif we meet again somewhere,\xf000븀\x0000you know we'll be battling!\xf000븁\x0000

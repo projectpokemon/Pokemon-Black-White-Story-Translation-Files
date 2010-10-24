@@ -1,35 +1,35 @@
-チェレン『\xf000Ā\x0001\x0000 ストップ！\xf000븁\x0000ボルトバッジを もつもの どうし\xfffeどちらが つよいか たしかめる！\xf000븀\x0000というか かたせてもらうよ\xf000븁\x0000
-チェレン『……どうして？\xfffeどうして きみに かてない？\xf000븁\x0000
-カミツレ『あなたたち\xfffeともだち どうし なんだ……\xf000븁\x0000いいわね\xfffeそうやって おたがい きそいあい\xf000븀\x0000たかめあうのって\xf000븁\x0000
-さ いきましょう\xf000븁\x0000
-？？？『おお！\xfffeカミツレでは ないか！\xf000븁\x0000
-？？？『フェスティバルは よいな！\xfffeじんせいは たのしまねばな！\xf000븁\x0000
-チェレン『……この ひとは？\xf000븁\x0000
-カミツレ『アデクさん\xfffeイッシュちほうの チャンピオンよ\xf000븁\x0000
-チェレン『チャンピオン！？\xf000븁\x0000どうして チャンピオンが\xfffeこんなところで あそんでいるのです？\xf000븁\x0000
-アデク『……きこえたが なんとも\xfffeてきびしい わかもの だな\xf000븁\x0000はじめまして\xfffeわしの なまえは アデク\xf000븁\x0000イッシュ ポケモンリーグの\xfffeチャンピオン だよ\xf000븁\x0000ちなみに あそんでいるのではなく\xfffeたびを しているのだ！\xf000븀\x0000イッシュの すみずみまで しってるぞ\xf000븁\x0000
-チェレン『……じぶんは\xfffeカノコタウン しゅっしんの\xf000븀\x0000チェレンと いいます\xf000븁\x0000トレーナーとしての もくてきは\xfffeチャンピオン ですけど\xf000븁\x0000
-アデク『うむ！ もくてきを もって\xfffeたびすることは すばらしいことだ\xf000븁\x0000それで チャンピオンに なって\xfffeどうする つもりかね？\xf000븁\x0000
-チェレン『……つよさを もとめる\xfffeそれいがいに なにが あるのですか？\xf000븁\x0000いちばん つよい トレーナー\xfffeそれが チャンピオン ですよね\xf000븁\x0000
-アデク『ふむう つよくなる……\xfffeつよくなる か……\xf000븀\x0000それだけが もくてきで いいのかね？\xf000븁\x0000いや もちろん きみの かんがえを\xfffeひてい している わけではない\xf000븁\x0000
-わしは いろんな ひとたちに\xfffeポケモンを すきに なってもらう\xf000븁\x0000そのことも だいじ だと\xfffeかんがえるように なってな\xf000븁\x0000かのじょたちと あそんでみれば\xfffeすこしは わかって もらえるかもな\xf000븁\x0000きみたち ふたりで かのじょたちと\xfffeポケモンしょうぶを してみないか？\xf000븁\x0000
-おーい おまえたち\xfffeちょっと おいで\xf000븁\x0000
-チェレン『……わかりました\xf000븁\x0000じゃ そのまえに……\xf000븁\x0000
-チェレンは\xfffe\xf000Ā\x0001\x0000の ポケモンを\xf000븀\x0000かいふく してくれた！
-チェレン『では いきますよ\xf000븁\x0000
-アデク『おまえたち！ かてなかったが\xfffeいい しょうぶ だったな！\xf000븀\x0000ポケモンも うれしそうだったし\xf000븁\x0000
-さて わかものよ\xf000븁\x0000きみのように\xfffeつよさを もとめる ものがいれば\xf000븁\x0000かれらのように ポケモンと\xfffeいっしょに いるだけで\xf000븀\x0000まんぞくする ものも いる\xf000븁\x0000いろんな ひとが いるのだ\xfffeこたえも いろいろ ある\xf000븁\x0000きみと わしの かんがえる\xfffeチャンピオンが ちがっていても\xf000븀\x0000そういうものだと おもってくれい！\xf000븁\x0000
+Cheren: Stop, \xf000Ā\x0001\x0000!\xf000븁\x0000We've both got the Bolt Badge,\xfffeso I want to see who's stronger!\xf000븀\x0000Well, let's have at it!\xf000븁\x0000
+Cheren: ...Why? Why can't\xfffeI win against you?\xf000븁\x0000
+Kamitsure: So you two\xfffeare friends, then...\xf000븁\x0000How nice... That way,\xfffeyou can boost each\xf000븀\x0000up when needed!\xf000븁\x0000
+Well, let's go.\xf000븁\x0000
+???: Oh!\xfffeIf it isn't Kamitsure!\xf000븁\x0000
+???: Festivals are great!\xfffeGotta have some fun with life!\xf000븁\x0000
+Cheren: ...And this is?\xf000븁\x0000
+Kamitaure: He's Adeku, the\xfffeChampion of the Isshu region.\xf000븁\x0000
+Cheren: Champion?!\xf000븁\x0000And why is the Champion frolicking\xfffein a place like this?\xf000븁\x0000
+Adeku: ...Man, I heard that!\xfffeYou're a harsh lad, ain't ya?\xf000븁\x0000Hey there.\xfffeMy name's Adeku.\xf000븁\x0000Champion of the\xfffeIsshu Pokémon League!\xf000븁\x0000And for your information, I'm not\xfffe"frolicking," I'm questing! Questing\xf000븀\x0000through every nook and cranny of Isshu!\xf000븁\x0000
+Cheren: ...I come from\xfffeKanoko Town, myself.\xf000븀\x0000Call me Cheren.\xf000븁\x0000As a trainer, it's my goal\xfffeto become Champion, but...\xf000븁\x0000
+Adeku: Hm! Adventuring with a goal is\xfffea right admirable thing.\xf000븁\x0000So what do you plan to do\xfffeonce you're Champion, kiddo?\xf000븁\x0000
+Cheren: ...Is there anything to\xfffeit beyond seeking power?\xf000븁\x0000The Champion is the strongest trainer\xfffe,and that's about it, right?\xf000븁\x0000
+Adeku: Hmm, getting stronger...\xfffestronger, huh...? Wonder if that's\xf000븀\x0000really such a good goal to have?\xf000븁\x0000Well, I won't be one to shoot\xfffedown your ideas, of course.\xf000븁\x0000
+Different strokes for different folks,\xfffeso I let people live with Pokémon\xf000븁\x0000how they see fit. I'm always putting\xfffethat first in my thoughts.\xf000븁\x0000But maybe if you tried battling the kids\xfffehere, you'd understand a lil' better.\xf000븁\x0000Would you have a Pokémon battle\xfffewith these two kids?\xf000븁\x0000
+Hey, you!\xfffeC'mere for a sec.\xf000븁\x0000
+Cheren: ...I understand.\xf000븁\x0000Well, first...\xf000븁\x0000
+Cheren healed\xfffe\xf000Ā\x0001\x0000's Pokémon!
+Cheren: Now, let's go!\xf000븁\x0000
+Adeku: Oh, you scamps! You didn't win,\xfffebut it was still a great battle!\xf000븀\x0000Your Pokémon sure look happy, too!\xf000븁\x0000
+Now then, lad.\xf000븁\x0000There's guys like you\xfffewho seek strength...\xf000븁\x0000And there are guys like\xfffethese who are satisfied\xf000븀\x0000just being with Pokémon.\xf000븁\x0000All kinds, I tell you.\xfffeAnd all kinds of answers, too.\xf000븁\x0000We seem to have different ideas of\xfffewhat it means to be Champion,\xf000븀\x0000but keep thinking yours anyway!\xf000븁\x0000
 アデク『ひとと ポケモンの ように\xfffeぜんぜん ちがう そんざいが\xf000븀\x0000おたがいを みとめあって\xf000븀\x0000いっしょに いるのは すばらしいな！
 おじいちゃんはね とても つよいんだ！\xfffeそれにね ポケモンに やさしいよ！
 あたし ポケモンって\xfffeこわいと おもっていたけど\xf000븁\x0000やさしくて あたたかいこと\xfffeおじいちゃんが おしえてくれたの
-カミツレ『……さ いきましょ\xfffeホドモエの はねばしは もうすぐよ\xf000븁\x0000
-チェレン『つよいのが チャンピオン！\xfffeそれいがいの こたえは ないよ\xf000븁\x0000
-チェレン『こっち\xf000븁\x0000
-カミツレ『さてと れんらく\xf000븁\x0000
-わたしです\xfffeはねばし だけど おろしてよ\xf000븁\x0000あなたに ちょうせんしたい って\xfffeトレーナーが いるの\xf000븁\x0000はい\xfffeよろしく\xf000븁\x0000
-さ みてて！\xf000븁\x0000
-カミツレ『テレビのしごとが あるから\xfffeわたし ここで かえるわね\xf000븁\x0000つぎの まちの ジムリーダーは\xfffeクセのある おっさん だけど\xf000븀\x0000あなたたち がんばって\xf000븁\x0000
-チェレン『……ぼくは トレーナーだ\xf000븁\x0000つよくなり しょうりすることで\xfffeぼくの ただしさを しょうめいするよ\xf000븀\x0000チャンピオンに たいしても\xf000븁\x0000
+Kamitsure: ...Well, let's go. The drawbridge\xfffeto Hodomoe is just ahead.\xf000븁\x0000
+Cheren: Being Champion is all about strength!\xfffeThat's all there is to it!\xf000븁\x0000
+Cheren: Over here.\xf000븁\x0000
+Kamitsure: Okay, I'll get in contact.\xf000븁\x0000
+It's me.\xfffeLower the drawbridge.\xf000븁\x0000There's trainers here who\xfffewant to challenge you.\xf000븁\x0000Yeah.\xfffeThanks.\xf000븁\x0000
+Now watch!\xf000븁\x0000
+Kamitsure: I've got a TV stint,\xfffeso I'll be heading back now.\xf000븁\x0000The gym leader in the next town's\xfffea bit of an old-timer,\xf000븀\x0000but just do your best.\xf000븁\x0000
+Cheren: ...I'm a trainer.\xf000븁\x0000Getting stronger and winning is\xfffehow I can prove I'm right.\xf000븀\x0000Even to the Champion.\xf000븁\x0000
 すみませーん\xfffeそこで ストップしてくださーい\xf000븁\x0000
 はねばし なんですけど\xfffeふねが とおる かんけいで\xf000븀\x0000いま あがっていて とおれないのです\xf000븁\x0000ホドモエの ジムリーダーの\xfffeヤーコンさんに たのめ…… ないよね\xf000븁\x0000そうだね ライモンシティの\xfffeジムリーダー カミツレさん だったら\xf000븀\x0000なんとか してくれるかも
 はねばし なんですけど\xfffeふねが とおる かんけいで\xf000븀\x0000いま あがっていて とおれないのです\xf000븁\x0000ホドモエの ジムリーダーの\xfffeヤーコンさんに たのめ…… ないよね\xf000븁\x0000そうだね ライモンシティの\xfffeジムリーダー カミツレさん だったら\xf000븀\x0000なんとか してくれるかも\xf000븁\x0000

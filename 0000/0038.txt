@@ -1,23 +1,23 @@
-いよいよ たべられる！\xfffeならんだかいが あったぜ！\xf000븁\x0000
-これを あじわいたくて はるばる\xfffeカラクサタウンから きちゃいました！\xf000븁\x0000
-ここのー スィーツー！\xfffeチョーにんき なんだよー！！\xf000븁\x0000
-さすが わだいの おみせ！\xfffeこんなに こんでるなんて すごい！\xf000븁\x0000
-Huh? Now\xfffethey're selling Hiun City's\xf000븀\x0000special ice cream.\xf000븁\x0000Are you waiting in line?
-Well then stay\xfffein the line!\xf000븁\x0000It's definitely something\xfffeworth waiting for!\xf000븁\x0000
-そうかー こんでるしな\xf000븁\x0000でも ここだけの はなし\xfffeきょうは すいてるほう なんだよ\xf000븀\x0000いつもは もう うりきれ なんだ\xf000븁\x0000
-うん？ ここでは\xfffeいま ヒウンシティで わだいの\xf000븀\x0000スィーツを かうことが できるんだよ\xf000븁\x0000でも きょうは もう\xfffeぼくで うりきれ みたいだ\xf000븁\x0000
-うん？ ここでは\xfffeいま ヒウンシティで わだいの\xf000븀\x0000スィーツを かうことが できるんだよ\xf000븁\x0000でも きょうは もう\xfffeぼくで うりきれ みたいだ……\xf000븀\x0000また べつのひに きてごらんよ\xf000븁\x0000
-ヒウンシティめいぶつ\xfffeヒウンアイスに なりまーす\xf000븁\x0000１こ １００円 です\xfffeおかいあげに なりますか？
-ええっ ほんとうに かわないんですか？\xfffeそろそろ うりきれちゃいますよ？
-ありがとう ございます！\xf000븁\x0000このキュートな いろと\xfffeナイーブな あじが いいんです！\xf000븁\x0000
-ありがとう ございます！\xf000븁\x0000……あれ あれれ？\xfffeおかねが たりないみたいですね\xf000븀\x0000また きてくださいませ\xf000븁\x0000
-ありがとう ございます！\xf000븁\x0000……あれ あれれ？\xfffeバッグが いっぱいみたいですね\xf000븀\x0000また きてくださいませ\xf000븁\x0000
-せっかく ならんでくれたのに……\xfffeあのう また きてくださいね！\xf000븁\x0000
-ここでは ヒウンシティめいぶつの\xfffeヒウンアイスを うっていまーす！\xf000븁\x0000でも オーナーの かんがえで\xfffeふゆは おやすみ なんです……\xf000븀\x0000あたたかくなったら またきてください！
-かう
+I finally get to eat!\xfffeIt was a long wait, but now I have it!\xf000븁\x0000
+I've come from far-off Karakusa Town\xfffeto experience this flavor!\xf000븁\x0000
+The ice cream here!\xfffeIt's super-DUPER popular!!\xf000븁\x0000
+Au naturel for the famous shop!\xfffeJust look at that crowd! Amazing!\xf000븁\x0000
+Yeah? You can buy\xfffeHiun City's famous ice cream here.\xf000븁\x0000You lining up for it, too?
+Well!\xfffeThere is quite a line, though!\xf000븁\x0000But it's definitely tasty,\xfffeso I say it's worth the wait!\xf000븁\x0000
+Huh, too crowded for you?\xf000븁\x0000Well, just between you and me...\xfffeWhen it's crowded like today,\xf000븀\x0000it's pretty much always sold out.\xf000븁\x0000
+Hm? Here, you can buy\xfffeHiun City's famous Hiun Ice!\xf000븁\x0000But it looks like\xfffethey're already sold out today...\xf000븁\x0000
+Hm? Here, you can buy\xfffeHiun City's famous Hiun Ice!\xf000븁\x0000But it looks like\xfffethey're already sold out today...\xf000븀\x0000Come again another day!\xf000븁\x0000
+Welcome to the spot for\xfffeHiun City's famous Hiun Ice!\xf000븁\x0000Will you buy one\xfffefor a scant $100?
+Huh?! You seriously won't buy?\xfffeBut you know it'll sell out soon!
+Thank you very much!\xf000븁\x0000Enjoy the cute color\xfffeand the pure flavor!\xf000븁\x0000
+Thank you very much!\xf000븁\x0000...Oh, oh, oh?\xfffeYou don't seem to have enough.\xf000븀\x0000Please come again!\xf000븁\x0000
+Thank you very much!\xf000븁\x0000...Oh, oh, oh?\xfffeYour bag seems to be full.\xf000븀\x0000Please come again!\xf000븁\x0000
+And after all that waiting in line...\xfffeWell, um, please come again!\xf000븁\x0000
+Here, we sell Hiun City's\xfffefamous Hiun Ice!\xf000븁\x0000But the owner figured\xfffewe should close shop for winter...\xf000븀\x0000Please come again when it gets warm!
+Buy
 Quit
-Hiun Art Gallery
-Hiun's Special Icees\xfffeWe sell anytime except during Winter.
+Hiun Atelier
+Hiun's Famous Hiun Ice\xfffeOn break for the freezing winter.
 no data
 no data
 no data

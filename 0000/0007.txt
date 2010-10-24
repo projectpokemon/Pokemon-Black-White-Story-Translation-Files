@@ -1,26 +1,26 @@
-……\xfffeWelcome to the Black City ... ...\xf000븁\x0000\xfffeここは ゆめと よくぼう そして\xfffe……よくぼうの まちさ\xf000븁\x0000\xfffeAnd I'm not\xfffeそんな よくぼう うずまく\xf000븀\x0000is the boss of the Black City\xf000븁\x0000
-この まちには\xfffeよくぼうの かたまりのような\xf000븀\x0000いきのいい ヤツらが そろっている……\xf000븁\x0000\xfffe……そうだな そとにいる\xfffeいきのいい ヤツらを\xf000븀\x0000\xfffe\xf000Ȅ\x0001\x0000にん たおしてみな\xf000븁\x0000\xfffeそしたら おまえの\xfffeよくぼうも かなえてやるよ……\xf000븁\x0000
-いま おまえが たおしたにんずうは\xfffe\xf000Ȅ\x0001\x0001にん\xf000븁\x0000\xfffeハンッ\xfffeまあ がんばりな
-おお？\xfffeもう \xf000Ȅ\x0001\x0000にんも たおしたのか……\xf000븁\x0000おまえ……\xfffeいがいに よくぶかい ヤツだな\xf000븀\x0000\xfffeはらのそこが ギラギラしてるぜ\xf000븁\x0000\xfffeきにいった！\xfffeその よくぼう かなえてやるよ\xf000븁\x0000
-\xf000Ā\x0001\x0002は\xfffe\xf000Ȅ\x0001\x0003円を うけとった！
-つぎは \xf000Ȅ\x0001\x0004にんまで\xfffeたおしてみな\xf000븁\x0000\xfffeそして おまえの よくぶかい\xfffeはらのそこ みせてくれよ
-よう！\xfffeおまえは さいこうだな！\xf000븁\x0000\xfffeまさに\xfffeブラック オブ ブラック！\xf000븁\x0000\xfffeこのまちで いちばん\xfffeまっくろな ヤツさ！
-わあー\xfffeねだんが たかいから\xf000븀\x0000きっと すごいもの なんだろう……\xf000븀\x0000あれもほしい これもほしい
-もっと えらくなって\xfffeもっと かせぎたい！
-このまちでは かねがあれば\xfffeなんでも てにはいるぜ！
-この まちには すべてがある！\xfffeなにもかもが ある！
-うーん もっと かねになる\xfffeいい しごとは ないか！？
-この ポケモンは\xfffeいったい いくらで うれるかな……
-ほしいものが すべてある\xfffeおかねさえ あれば！ あれば！！
-ぶんめいの ちからとは\xfffeすごいものだな……\xf000븁\x0000\xfffeひとが ほしいもの すべて\xfffeつくって しまうのだからな
-ひひ！ オレと\xfffeローテーションバトル しようぜ！
-たたかえる ポケモンを\xfffe３びきは ようい しろよな！\xf000븁\x0000ローテーションバトルは ポケモン\xfffe３びきでの あたらしい しょうぶだ！
-へっ！ オレを\xfffeこわがってんな！？
-ローテーションバトルは\xfffeピリピリするぜー！！
-さっき うんよく ここで\xfffeてにいれた ポケモン……\xf000븀\x0000さっそく つかいたいからよ\xf000븀\x0000ローテーションバトル しようぜ
-ローテーションバトルは ポケモン\xfffe３びきでの ポケモンしょうぶ！\xf000븀\x0000３びきは ポケモンを よういしろよ
-おれの うんのつよさ こわがったな
-ふん！ きょうは\xfffeうんが なかっただけなのさ
-ねえ あなた\xfffeトリプルバトル ためさない？
-トレーナーなのに\xfffeじゅんび してなくて？
-ぐうぜんは じゅんびの できていない\xfffeひとを たすけないんですって
+...\xfffeWelcome to Black City... ...\xf000븁\x0000\xfffeThis is a town of dreams, desires, and...\xfffe...well, just desires, really.\xf000븁\x0000\xfffeAnd I'm the boss of Black City,\xfffewho all those desires revolve around.\xf000븁\x0000
+Lively people gather in this city\xfffelike a big ball of desire...\xf000븁\x0000\xfffe...Well, see if you can beat \xf000Ȅ\x0001\x0000\xfffethe lively guys outside.\xf000븁\x0000\xfffeYour own desires\xfffejust might be realized...\xf000븁\x0000
+Looks like right now,\xfffeyou've beaten \xf000Ȅ\x0001\x0001 people...\xf000븁\x0000\xfffeHmph.\xfffeWell, keep at it.
+Oh?\xfffeYou already beat \xf000Ȅ\x0001\x0000 people...?\xf000븁\x0000You must be...\xfffegreedier than I thought.\xf000븀\x0000\xfffeOr at least, deep, deep down...\xf000븁\x0000\xfffeI think I like you!\xfffeSo I'll grant your desire.\xf000븁\x0000
+\xf000Ā\x0001\x0002 received\xfffe$\xf000Ȅ\x0001\x0003!
+Try to beat \xf000Ȅ\x0001\x0004 people next.\xf000븁\x0000\xfffeShow me that\xfffedeep-down greed of yours!
+Yo!\xfffeYou're the BEST!\xf000븁\x0000\xfffeThe baddest of bad!\xf000븁\x0000\xfffeDefinitely the baddest\xfffein this city!
+Whoaaa...\xfffeIt's so pricey, it MUST be good...\xf000븀\x0000I want that, and this, and this...
+Gotta get more famous,\xfffegotta get more money!
+You can get anything in this city...\xfffeprovided you've have the money!
+This town has it all!\xfffeEverything and the kitchen sink!
+Well, if it makes me more money,\xfffeit must be good work, eh?!
+Wonder how much this\xfffePokémon would sell for...?
+Everything you want is here!\xfffeIf you got money! IF!!
+The power of civilization\xfffeis truly astounding...\xf000븁\x0000\xfffePeople can make\xfffeanything they desire.
+Heh heh! C'mon, have a\xfffeRotation Battle with me!
+Go get three Pokémon\xfffethat can fight ready!\xf000븁\x0000Rotation Battles are a new kind of\xfffebattle with three Pokémon!
+Heh! You afraid of me?!
+Rotation Battles\xfffeare TENSE, man!!
+I just got really lucky\xfffeto get my hands on this Pokémon...\xf000븀\x0000I wanna use it right away!\xf000븀\x0000So let's have a Rotation Battle!
+Rotation Battles are Pokémon battles\xfffeinvolving three Pokémon!\xf000븀\x0000So go get three Pokémon!
+Scared I might be on a lucky streak?
+Hmph!\xfffeNever mind, I've got no luck today...
+Hey, you!\xfffeWanna try a Triple Battle?
+I thought you were a trainer...\xfffeShouldn't you be prepared?
+I'm not going to help someone out\xfffejust because they're not ready!
