@@ -1,6 +1,6 @@
-I come to this mall\xffferegularly to shop!\xf000븁\x0000I'm trying to collect\xfffeall of the TMs!
-The 1st floor sells various\xfffemedicines and repellents.\xf000븁\x0000The 2nd floor sells Poké Balls,\xfffeTMs, and mail.\xf000븁\x0000The 3rd floor sells Vitamins for\xfffeEffort Values, and stat increasing\xf000븀\x0000items to be used during battles.\xf000븁\x0000One day I want to be a guide\xfffefor Pokémon Gyms.\xf000븀\x0000I've been practicing for it！
-This mall is good for getting\xfffePokémon supplies.\xf000븀\x0000\xfffeIt's nice for trainers to have.
+﻿I come to the shopping mall\xfffeall the time!\xf000븁\x0000I'm trying to collect\xfffeall the TMs!
+The first floor sells\xfffevarious medicines and repellents.\xf000븁\x0000The second floor sells\xfffeTMs and mail.\xf000븁\x0000The third floor sells items\xfffethat give Effort Values\xf000븀\x0000and items used during battles.\xf000븁\x0000One day, I long to be a guide\xfffeat the Pokémon gyms...\xf000븀\x0000I'm practicing my guiding!
+Even in this mall, you can find people\xfffeto challenge to Pokémon battles.
 あたしが よく かうのは\xfffeポケモンの たいりょくを あげる\xf000븀\x0000マックスアップ という どうぐ\xf000븁\x0000ほかにも いろんな どうぐが\xfffeうっていて めうつり しちゃう！
 no data
 no data
@@ -11,13 +11,13 @@ no data
 no data
 no data
 no data
-A good trainer never fights\xfffewith just brute strength.\xf000븁\x0000It's more about which\xfffetechniques each Pokémon has.\xf000븁\x0000The more time that you put into\xfffeyour Pokémon, the more that\xf000븀\x0000you learn about their techniques.
-かくれんぼ したら\xfffeたのしそうだよね！
-Welcome to the\xfffeR9 Shopping Mall!\xf000븁\x0000It's R9 because\xfffeit's on Route 9.\xf000븁\x0000Make sure that\xfffeyou remember that!
-Have you heard? There's a cave\xfffeout on Route 9.\xf000븁\x0000I don't know\xfffewhat's inside though.
+A good trainer never just\xfffebrute-forces through battles.\xf000븁\x0000It's asking yourself... what moves\xfffeshould my Pokémon fight with?\xf000븁\x0000Or, what's the best time\xfffeto use this item?\xf000븀\x0000There's lots to think about!
+Hide and seek is fun!
+Welcome to the\xfffeShopping Mall R9!\xf000븁\x0000Yes, we're called "R9"\xfffebecause we're on Route 9.\xf000븁\x0000Whatever you do,\xfffeat least remember that!
+Have you heard?\xfffeThere's a cave on Route 9.\xf000븁\x0000No one knows\xfffewhat's inside, though...
 オッス！\xfffeポケモントレーナー！\xf000븁\x0000おまえさん かみなりのいし って\xfffeどうぐ しっているかい？
 さっすがー！ かみなりのいしが\xfffeある ポケモンを しんかさせると\xf000븀\x0000しってるなんて すごいよな\xf000븁\x0000
 じゃあ おしえてやろう！\xf000븁\x0000かみなりのいしを つかうと\xfffeある ポケモンが しんかするのさ！\xf000븁\x0000
 まあ ここで であったのも\xfffeなにかの えんだ！ もってけ！\xf000븁\x0000
 なんでも シビビールって ポケモンが\xfffeかみなりのいしで しんかするってよ！
-R9 Colorful & Wonderful Life\xfffeShopping Mall
+A Colorful and Wonderful Life\xfffeShopping Mall R9
