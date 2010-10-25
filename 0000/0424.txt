@@ -1,10 +1,10 @@
-Welcome!\xfffeHow may I help you?
-Welcome to the TM Shop!\xfffeHow may I help you?
+Welcome!\xfffeWhat do you need?
+Welcome to the TM counter!\xfffeWhat do you need?
 Is there anything else I may do\xfffefor you?
 Please come again!
  
 Buy
 Sell
 Cancel
-Welcome to the Hikikae points corner!\xfffeGain all your points in here!\xf000븁\x0000\xfffeWould you like to earn\xfffesome Battle Points?
-Please save up some points and\xfffecome again!
+Welcome!\xfffeThis is the Point Exchange Corner!\xf000븁\x0000\xfffeWill you exchange\xfffeBP for prizes?
+Collect more BP,\xfffeand do come back again!
