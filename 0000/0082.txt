@@ -1,6 +1,6 @@
 Bel: Heeey!\xfffeAwesome, huh?!\xf000븁\x0000
 Owner: Oh, hello, trainers!\xfffeNice to meet you!\xf000븁\x0000I'm the owner of this\xfffemusical hall.\xf000븁\x0000
-Hmm! I get a good feeling\xfffefrom you trainers!\xf000븁\x0000Putting decorations on\xfffePokémon...\xf000븀\x0000You might call it dress-\xfffeup, but won't you\xf000븀\x0000please give it a try?\xf000븁\x0000Here, I'll even throw in\xfffea free Decoration Case!\xf000븁\x0000
+Hmm! I get a good feeling\xfffefrom you trainers!\xf000븁\x0000Putting decorations on\xfffePokémon... You might\xf000븀\x0000call it dress-up, but won't you\xf000븀\x0000please give it a try?\xf000븁\x0000Here, I'll even throw in\xfffea free Decoration Case!\xf000븁\x0000
 You can put decorations\xfffeon your Pokémon inside\xf000븀\x0000that Decoration Case!\xf000븁\x0000Okay, first, choose a\xfffePokémon!\xf000븁\x0000
 T1おっと！ ざんねん ですが\xfffeきみが いま つれている\xf000븀\x0000T2ポケモンでは ドレスアップできないね\xf000븁\x0000T3こんど べつの ポケモンで\xfffeドレスアップして くださいませ\xf000븁\x0000
 T4なるほど！ なにもつけずに\xfffeポケモンそのままの みりょくを\xf000븀\x0000T5ひょうげん するのですね\xf000븁\x0000T6ただ ミュージカルでは\xfffeドレスアップしたほうが うけますよ\xf000븁\x0000
