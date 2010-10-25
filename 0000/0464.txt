@@ -1,7 +1,7 @@
 It's a vending machine!\xfffeDo you want to buy something?
 \xf000ĉ\x0001\x0000 dropped out!\xf000븁\x0000
-あたりだ！ もういっぽん\xfffe\xf000ĉ\x0001\x0000が でてきた！\xf000븁\x0000
-You do not have enough money!
+Lucky! An extra\xfffe\xf000ĉ\x0001\x0000 dropped out!\xf000븁\x0000
+You don't have enough money!
 You didn't buy anything.
 Do you want to buy anything else?
 Fresh Water\xf000봃\x0001\x0001$200
