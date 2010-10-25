@@ -1,14 +1,14 @@
-ベル『ねっ！\xfffeすっごいでしょ！？\xf000븁\x0000
-やあ きみたち！\xfffeはじめまして！\xf000븁\x0000わたしは この ミュージカルの\xfffeオーナーです よろしく！\xf000븁\x0000
-ふーむ！ なんというか きみたち\xfffeいい かんじの トレーナーですねえ！\xf000븁\x0000ポケモンに グッズを つけて\xfffeきかざってあげることを\xf000븀\x0000ドレスアップと いうのですが\xf000븀\x0000ぜひ やってみて くれませんか？\xf000븁\x0000こちらの グッズケースを\xfffeプレゼント しますから！\xf000븁\x0000
-その グッズケースの なかに\xfffeポケモンを きかざる ための\xf000븀\x0000グッズが はいっています！\xf000븁\x0000では まずは ポケモンを\xfffeえらんで くださいませ！\xf000븁\x0000
-おっと！ ざんねん ですが\xfffeきみが いま つれている\xf000븀\x0000ポケモンでは ドレスアップできないね\xf000븁\x0000こんど べつの ポケモンで\xfffeドレスアップして くださいませ\xf000븁\x0000
-なるほど！ なにもつけずに\xfffeポケモンそのままの みりょくを\xf000븀\x0000ひょうげん するのですね\xf000븁\x0000ただ ミュージカルでは\xfffeドレスアップしたほうが うけますよ\xf000븁\x0000
-いやいや そんなこと いわずに\xfffeえらんでくださいよ！\xf000븁\x0000それそれ きを とりなおして\xfffeポケモンを えらんでくださいませ！\xf000븁\x0000
-それでは さっそく\xfffeレッツ ドレスアップで ございます！\xf000븁\x0000
-おおお！ ふたりとも\xfffeすばらしい コーディネートでしたよ\xf000븀\x0000とても みりょくてき でございます！\xf000븁\x0000
-ドレスアップさえ できれば だれでも\xfffeミュージカルに さんかできます！\xf000븁\x0000きみたちも ミュージカルに\xfffeぜひ さんか してくださいませ！\xf000븁\x0000ミュージカルに ついての せつめいは\xfffeうけつけでも きけますよ\xf000븁\x0000では ぶたいで あえる ひを\xfffeたのしみに しております！\xf000븁\x0000
-ベル『うーん\xfffeどうしようかなー？\xf000븁\x0000ミュージカルも ステキだけど\xfffeほかにも きになる ところ あるし\xf000븁\x0000きーめた！ さきに\xfffeライモンけんぶつ しちゃお\xf000븁\x0000じゃあね \xf000Ā\x0001\x0000！\xf000븁\x0000
+Bel: Heeey!\xfffeAwesome, huh?!\xf000븁\x0000
+Owner: Oh, hello, trainers!\xfffeNice to meet you!\xf000븁\x0000I'm the owner of this\xfffemusical hall.\xf000븁\x0000
+Hmm! I get a good feeling\xfffefrom you trainers!\xf000븁\x0000Putting decorations on\xfffePokémon...\xf000븀\x0000You might call it dress-\xfffeup, but won't you\xf000븀\x0000please give it a try?\xf000븁\x0000Here, I'll even throw in\xfffea free Decoration Case!\xf000븁\x0000
+You can put decorations\xfffeon your Pokémon inside\xf000븀\x0000that Decoration Case!\xf000븁\x0000Okay, first, choose a\xfffePokémon!\xf000븁\x0000
+T1おっと！ ざんねん ですが\xfffeきみが いま つれている\xf000븀\x0000T2ポケモンでは ドレスアップできないね\xf000븁\x0000T3こんど べつの ポケモンで\xfffeドレスアップして くださいませ\xf000븁\x0000
+T4なるほど！ なにもつけずに\xfffeポケモンそのままの みりょくを\xf000븀\x0000T5ひょうげん するのですね\xf000븁\x0000T6ただ ミュージカルでは\xfffeドレスアップしたほうが うけますよ\xf000븁\x0000
+T7いやいや そんなこと いわずに\xfffeえらんでくださいよ！\xf000븁\x0000T8それそれ きを とりなおして\xfffeポケモンを えらんでくださいませ！\xf000븁\x0000
+T9それでは さっそく\xfffeレッツ ドレスアップで ございます！\xf000븁\x0000
+T10おおお！ ふたりとも\xfffeすばらしい コーディネートでしたよ\xf000븀\x0000T11とても みりょくてき でございます！\xf000븁\x0000
+T12ドレスアップさえ できれば だれでも\xfffeミュージカルに さんかできます！\xf000븁\x0000T13きみたちも ミュージカルに\xfffeぜひ さんか してくださいませ！\xf000븁\x0000T14ミュージカルに ついての せつめいは\xfffeうけつけでも きけますよ\xf000븁\x0000T15では ぶたいで あえる ひを\xfffeたのしみに しております！\xf000븁\x0000
+Bel: Hmm... Wonder\xfffewhat we should do?\xf000븁\x0000Musicals sound wonderful\xfffeand all, but there are\xf000븁\x0000other things I'm curious\xfffeabout...\xf000븁\x0000..Okay, decided!\xfffeI NEED to see the\xf000븁\x0000rest of Raimon!\xf000븁\x0000See you, \xf000Ā\x0001\x0000!\xf000븁\x0000
 ぜひぜひ ミュージカルに\xfffeさんか してくださいませ！\xf000븁\x0000ただし！ グッズを きせづらい\xfffeポケモンが いても おゆるしください\xf000븁\x0000だって ポケモンですからね
 ちょっと！ きみ！\xf000븁\x0000おともだちと いっしょに\xfffeミュージカルに さんか しましたね\xf000븁\x0000ミュージカルの あたらしい\xfffeかのうせいを かんじましたよ！\xf000븁\x0000そんな きみに プレゼントです\xfffeえんりょせず うけとってくださいませ\xf000븁\x0000
 では ぶたいで あえる ひを\xfffeたのしみに しておりますよ！
