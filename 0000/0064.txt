@@ -1,6 +1,6 @@
-イッシュちほうで もらえる\xfffeかずかずの ジムバッジ！\xf000븀\x0000せつめいを ききたいかい？
-ほいほい\xfffeしりたくなったら またきなさい
-With the Trio Badge, all Pokémon\xfffeup to level 20 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
+I see you've obtained\xfffea number of Isshu gym badges!\xf000븀\x0000Do you want me to explain them?
+Right, then.\xfffeCome again if you want to know.
+With the Tri Badge, all Pokémon\xfffeup to level 20 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 With the Basic Badge, all Pokémon\xfffeup to level 30 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 With the Beetle Badge, all Pokémon\xfffeup to level 40 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 With the Bolt Badge, all Pokémon\xfffeup to level 50 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
@@ -8,8 +8,8 @@ With the Quake Badge, all Pokémon\xfffeup to level 60 will obey you.\xf000븀\x
 With the Jet Badge, all Pokémon\xfffeup to level 70 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 With the Icicle Badge, all Pokémon\xfffeup to level 80 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 With the Legend Badge, all Pokémon\xfffewill obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
-どの バッジの\xfffeせつめいを ききたい？
-Trio Badge
+What badge do you\xfffewant me to explain?
+Tri Badge
 Basic Badge
 Beetle Badge
 Bolt Badge
@@ -18,5 +18,5 @@ Jet Badge
 Icicle Badge
 Legend Badge
 Quit
-ビルから まちを みおろす……\xfffeそうすると ふるえるよ\xf000븁\x0000だって わがはい\xfffeたかいところ こわいもん……
+Looking over the town from on high...\xfffeIt gives me shivers!\xf000븁\x0000Because I'm really\xfffescared of heights, that is...
 no data
