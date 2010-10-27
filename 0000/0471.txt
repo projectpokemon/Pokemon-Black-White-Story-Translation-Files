@@ -1,35 +1,35 @@
-Welcome to the Pokémon Center\xfffeGlobal Terminal corner!\xf000븁\x0000
-Do you want to enter a Wi-Fi\xfffeConnection option?
-We hope to see you again.
+Welcome to the\xfffeGlobal Terminal!\xf000븁\x0000
+Do you want to use\xfffea Wi-Fi Connection?
+We hope to see you again!
 Do you want to launch Nintendo WFC?
 This way, please.\xf000븁\x0000
-This is the Global Trade\xfffeStation, or GTS for short.\xf000븁\x0000\xfffeWe enable the trading of Pokémon with\xfffepeople worldwide over Nintendo WFC.\xf000븁\x0000
-The Spiky-eared PICHU can't\xfffeenter this Wi-Fi option.
-These Pokémon aren't eligible to\xfffeenter this Wi-Fi option.
-An error occured.
+At the Global Terminal,\xfffeyou can connect to Wi-Fi.\xf000븁\x0000\xfffeYou can then connect with\xfffefar-away, unknown people\xf000븀\x0000\xfffefor trading and battling.\xf000븁\x0000\xfffeFor further details, please ask\xfffethe various sections to explain.\xf000븁\x0000
+We're not open currently!\xfffePlease come back later.
+Some of your Pokémon aren't eligible\xfffeto enter this Wi-Fi option.
+A communication error occured.
 Random Match
-Go to GTS
-Dress-Up Photos
-Battle Videos
-Information
-Quit
-Would you like to make a global\xfffetrade using the GTS?
-This is the Global Trade\xfffeStation, or GTS for short.\xf000븁\x0000\xfffeWe enable the trading of Pokémon with\xfffepeople worldwide over Nintendo WFC.\xf000븁\x0000
 GTS
-GTS ネゴシエーション
+Musical Shots
+Battle Videos
+Info
+Quit
+Would you like to make a\xfffeglobal trade using the GTS?
+At the GTS, you can connect with\xfffefar-away, unknown people\xf000븀\x0000\xfffefor trading and battling.\xf000븁\x0000\xfffeThere are two types of GTS trade:\xfffeGTS and GTS Negotiation.\xf000븁\x0000\xfffeEach changes the way trade works,\xfffeso please take notice of the type.
+GTS
+GTS Negotiation
 Information
 Back
-Do you want a Global Pokémon\xfffeLink Search?
-Exchange
-Information
+Do you want to do a\xfffeGlobal Pokémon Trade?
+Trade
+Info
 Back
 ＧＴＳでは ポケモンを あずけること\xfffeポケモンを さがすことの\xf000븁\x0000\xfffe２つの ほうほうで\xfffeポケモンこうかんを おこないます\xf000븁\x0000
 くわしい せつめいを\xfffeごきぼうですか？
 おきゃくさまが こうかんに だしたい\xfffeポケモンを あずけて いただきます\xf000븁\x0000\xfffeそのときに おきゃくさまが\xfffeほしいポケモンを おたずねします\xf000븁\x0000\xfffeおあずかりしている あいだに\xfffeじょうけんにあう かたが\xf000븀\x0000\xfffeみつかったら こうかんせいりつです\xf000븁\x0000
 わたしどもが おあずかりしている\xfffeたくさんのポケモンの なかから\xf000븁\x0000\xfffeほしいポケモンを\xfffeさがすことも できます\xf000븁\x0000\xfffeそのポケモンと こうかんするときに\xfffeあずけていたかたの ほしいポケモンを\xf000븀\x0000\xfffeかわりに おあずかりします\xf000븁\x0000
-ポケモンを あずけるって？
-ポケモンを さがすって？
-わかった
+Depositing Pokémon?
+Finding Pokémon?
+Okay
 ポケモン グローバル こうかん\xfffeこうしょうを かいし しますか？
 こうしょうを かいし する
 せつめいを きく
@@ -51,7 +51,7 @@ Do you want to enter the online\xfffeDress-up data exchange mode?
 Yes
 Info
 Back
-Do you want to get more Info\xfffeabout how the Global Link works?
+Do you want to get more info\xfffeabout how the Global Link works?
 No, continue
 Yes, please
 Quit
@@ -69,13 +69,13 @@ Single Battle
 Double Battle
 Triple Battle
 Rotation Battle
-シューターバトル
+Shooter Battle
 Back
-Do you want to enter the\xfffe'Single Battle' mode?
-Do you want to enter the\xfffe'Double Battle' mode?
-Do you want to enter the\xfffe'Triple Battle' mode?
-Do you want to enter the\xfffe'Rotation Battle' mode?
-Do you want to enter the\xfffe'シューターバトル' mode?
+Do you want to enter the\xfffeSingle Battle mode?
+Do you want to enter the\xfffeDouble Battle mode?
+Do you want to enter the\xfffeTriple Battle mode?
+Do you want to enter the\xfffeRotation Battle mode?
+Do you want to enter the\xfffeShooter Battle mode?
 Enter Mode
 Information
 Quit

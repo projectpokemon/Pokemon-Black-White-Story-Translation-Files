@@ -12,5 +12,5 @@ Cheren: ...So.\xf000븁\x0000To get to the Raimon City gate,\xfffewe just procee
 おっと！ トレーナー\xfffeすなの いろを よくみてごらん\xf000븁\x0000いろの こい すな\xfffeうすい すな があるだろう？\xf000븁\x0000いろの こい すなには\xfffeポケモンが ひそんでいるんだぞ！
 Route 4
 Route 4
-Trainer Tips\xf000븁\x0000\xfffe\xfffePokémon moves require\xfffesome form of energy.\xf000븁\x0000\xfffeThis energy is called Power Points,\xfffeor PP for short.\xf000븁\x0000\xfffeWhen a move runs out of PP,\xfffeit can no longer be used!\xf000븁\x0000\xfffeIf your Pokémon runs out of PP,\xfffeget to the Pokémon Center right away!
+Trainer Tips!\xf000븁\x0000\xfffe\xfffePokémon moves require\xfffea form of energy called PP...\xf000븁\x0000\xfffeNamely, Power Points,\xfffeand each move has a set amount.\xf000븁\x0000\xfffeWhen a move runs out of PP,\xfffeit can no longer be used!\xf000븁\x0000\xfffeWhen your Pokémon runs out of PP,\xfffeget to a Pokémon Center!
 おつかれの さぎょういんは\xfffeヒウンシティちかくの プレハブへ！

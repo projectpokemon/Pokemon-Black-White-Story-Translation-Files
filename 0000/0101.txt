@@ -56,4 +56,4 @@ Hodomoe Drawbridge
 Welcome to Hodomoe City!
 ホドモエが あらわしているのは\xfffeふねの ほと うずまく みずのこと
 Hodomoe Market
-Hodomoe Pokémon Gym\xfffeLeader: Yacon\xf000븀\x0000\xfffeThe Underground Boss
+Hodomoe Pokémon Gym\xfffeLeader: Yacon\xf000븀\x0000\xfffeBoss of the Underground

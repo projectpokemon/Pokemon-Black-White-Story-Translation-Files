@@ -1,20 +1,20 @@
-Arti: Thataway!\xf000븁\x0000Hm, wait, isn't that the\xfffeway to the gym?!\xf000븁\x0000
-ヘイ トレーナー！\xf000븁\x0000アンタの じつりょく みたいんだ！\xfffeちょいと しょうぶ してくれよ！
-オーケー！\xfffeおどるように ファイトだぜ！\xf000븁\x0000
-なんだよ なんだよ！\xfffeノリが わるいんじゃないの
-なあなあ トレーナー！\xf000븁\x0000アンタの じつりょく みたいんだ！\xfffeちょいと しょうぶ してくれよ！
-オーケー！\xfffeレッツ ダンシング！\xf000븁\x0000
-どうだい！\xfffeバツグンの ステップだろ\xf000븁\x0000でさ なかまが いれば\xfffeもっと グッとくると おもわない？\xf000븁\x0000
-そうだ キミ！\xfffeダンサーに こえ かけてくれない？\xf000븁\x0000ふたり さそって くれれば\xfffeトリオのチームで ダンスできるっしょ！
-オレと おんなじ かっこう！\xfffeそいつは ダンサー！！\xf000븁\x0000
-さびれた ストリートと\xfffeはとばで ダンスしてる ヤツが\xf000븀\x0000いるって ウインドが トークしてた\xf000븁\x0000あっ かぜのウワサ ってこと！\xf000븁\x0000
-こえを かけてくれて サンキュー！\xfffeステップを たしかめあってるのさ！\xf000븁\x0000
-そうかい？ チームくんだら\xfffeすごい ステップ みせるのにさ
-ぼくのダンスに たりなかった\xfffeなかまが できたよ！ うれしいよ！
-ダンサー おどる！\xfffeまわりが よろこぶ！\xf000븀\x0000よろこび ひろがる！\xf000븀\x0000せかいは ハッピー！
-サンキュー！ サイコーの\xfffeチーム たんじょう しちゃった！\xf000븀\x0000これは オレからの きもち！\xf000븁\x0000
-オレたち ダンスで\xfffeメッセージ つたえる！\xf000븁\x0000うれしいことや かなしいこと……\xfffeせかいは こんなにも\xf000븀\x0000かがやいてる ってことを！\xf000븁\x0000
-オーケー！\xfffeレッツ ダンシング！\xf000븁\x0000
-ひとが いる けしき……\xfffeポケモンが いる けしき……\xf000븁\x0000ともに すばらしいのです\xfffeだから えを かくのです\xf000븁\x0000あっ アトリエは\xfffeモードストリートを\xf000븀\x0000すすんだところに ありますよ
+Arty: Thataway!\xf000븁\x0000Hm, wait, isn't that\xfffethe way to the gym?!\xf000븁\x0000
+Heyo, trainer!\xf000븁\x0000I wanna see your skills!\xfffeLet's battle some!
+Okay!\xfffeIt's a dance-off! Er, fight!\xf000븁\x0000
+Whoa, whoa, whoa!\xfffeI was in a great mood!
+Yo, trainer!\xf000븁\x0000I wanna see your skills!\xfffeLet's battle some!
+Okay!\xfffeLet's dance the fight away!\xf000븁\x0000
+How's that?!\xfffeA preemptive step!\xf000븁\x0000When you've got company, don'tcha\xfffethink you can work faster?\xf000븁\x0000
+Right, you there!\xfffeWon't ya hear out a dancer?\xf000븁\x0000If you get me two others,\xfffewe can dance a trio!
+Cool like me!\xfffeThose're the dancers I need!!\xf000븁\x0000
+Wind's on the words that there're\xfffepeople dancin' on the old street\xf000븀\x0000and at the docks!\xf000븁\x0000I mean, word's on the wind!\xf000븁\x0000
+Hey, thank ya for talkin' to me!\xfffeI'm workin' on my moves!\xf000븁\x0000
+Really? I'mma show off some sweet\xfffemoves once the team's together!
+My dance wasn't enough...\xfffeNow I've got others! I'm so happy!
+Dancers dance!\xfffeThey delight those around 'em!\xf000븀\x0000That joy spreads!\xf000븀\x0000And the world's made happy!
+Thankya much! We got\xfffethe best team in the world here!\xf000븀\x0000Take this as gratitude from us!\xf000븁\x0000
+Our dance'll carry\xfffea message!\xf000븁\x0000That in happy or sad times...\xfffethe world can still sparkle!\xf000븁\x0000
+Okay!\xfffeLet's dance the fight away!\xf000븁\x0000
+Sceneries of people...\xfffeSceneries of Pokémon...\xf000븁\x0000They're both magnificent!\xfffeSo I paint.\xf000븁\x0000Ah, there's an atelier\xfffedown on Maude Street.
 Hiun Central Square\xfffe↑ Route 4
-↓ Maude Street\xfffeHiun Icee & Hiun Art Gallery
+↓ Maude Street\xfffeHiun Ice & Hiun Atelier

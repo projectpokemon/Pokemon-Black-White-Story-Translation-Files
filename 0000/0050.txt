@@ -1,5 +1,5 @@
-わたしは かいはつ たんとう！\xf000븁\x0000\xfffeけんがくに きてくれた\xfffeきみに これを あげよう！\xf000븁\x0000
-ピントレンズを もたせると\xfffeポケモンの わざが なんと！\xf000븀\x0000きゅうしょに あたりやすくなります！
-おっ！？ かいしゃけんがく？\xfffeそれとも ポケモン しゅぎょう？\xf000븁\x0000なんにせよ きてくれて うれしいよ\xfffeうれしいから プレゼントだよ！\xf000븁\x0000
-ものすごく うれしいから\xfffeさらに プレゼントだよ！\xf000븁\x0000
-クイックボールは ポケモンと\xfffeであって すぐに なげたほうが\xf000븀\x0000つかまえやすさが アップ！\xf000븁\x0000タイマーボールは ポケモンと\xfffeながく たたかった ほうが\xf000븀\x0000つかまえやすさが アップするんだ！
+I'm in charge of development!\xf000븁\x0000\xfffeI'll give you this\xfffefor coming by to visit!\xf000븁\x0000
+Pokémon holding the Scope Lens\xfffewill be more likely to hit criticals!
+Oh?! You're here to inspect us?\xfffeOr to learn about Pokémon?\xf000븁\x0000Either way, I'm happy you came!\xfffeHere's a present!\xf000븁\x0000
+I'm in such a good mood,\xfffeI'll give you ANOTHER present!\xf000븁\x0000
+Throwing a Quick Ball soon after seeing\xfffea Pokémon ups the capture rate!\xf000븁\x0000The Timer Ball is more effective after\xfffefighting a Pokémon for a long time!

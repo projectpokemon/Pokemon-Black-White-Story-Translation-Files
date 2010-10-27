@@ -47,7 +47,7 @@ Cheren: ...I'm a trainer.\xf000븁\x0000Getting stronger and winning is\xfffehow
 ポケモンも パフォーマーも みんな\xfffeすごい わざの もちぬし なのね！
 だれかを えがおに できるなんて\xfffeすてきな さいのうだと おもうな！\xf000븁\x0000そう！ ポケモンは ステキなの！\xfffeだって アナタを えがおにするもの！
 ろじょうパフォーマンスも\xfffeライモンの みりょく だなや！
-Route 5\xfffe Street Performances
+Route 5\xfffePerformer's Street
 Hodomoe Drawbridge
 Hodomoe Drawbridge
-Trainer Tips\xf000븁\x0000\xfffe\xfffeYour Bag has pockets\xfffefor each type of item.\xf000븁\x0000\xfffeItems automatically get sorted\xfffewhen placed in the bag.\xf000븁\x0000\xfffeIt's easy to find an item\xfffeby looking at the name of the pockets.
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeYour Bag has pockets\xfffefor each type of item.\xf000븁\x0000\xfffeItems automatically get sorted\xfffewhen placed in the bag.\xf000븁\x0000\xfffeIt's easy to find an item by\xfffelooking at the names of the pockets.

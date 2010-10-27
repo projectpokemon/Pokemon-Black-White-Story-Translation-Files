@@ -1,12 +1,12 @@
-Hachiku:\xf000Ā\x0001\x0000?!\xf000븁\x0000I'll hold off these grunts!\xf000븁\x0000You go on ahead!\xf000븁\x0000
-Hachiku: I can handle them, but hurry up!\xf000븁\x0000Every second counts!
-Cheren: You seem so calm\xfffeabout all this...\xf000븁\x0000But for Team Plasma to be\xfffehere, of all places...\xf000븁\x0000What a royal pain!\xf000븁\x0000
-Cheren: I'm not sure if I'm strong\xfffeenough to hold them off!
+Hachiku:\xf000Ā\x0001\x0000?!\xf000븁\x0000I'll holding off these grunts!\xf000븁\x0000You go on ahead!\xf000븁\x0000
+Hachiku: I'll be fine here!\xf000븁\x0000But you need to act fast!
+Cheren: You seem so calm\xfffeabout all this...\xf000븁\x0000But for Team Plasma to be here,\xfffeof all places...\xf000븁\x0000What a royal pain!\xf000븁\x0000
+Cheren: ...Why do they persist?\xfffeWhere's their strength come from?
 no data
-Team Plasma: Is this the true strength\xfffeof a gym leader?!
-Team Plasma: Could they be...\xfffestronger than our 7 wise ones?
-Team Plasma: Nobody!\xfffeNobody makes me surrender!
-Team Plasma: We might not even\xfffeachieve our goal now.\xf000븀\x0000Why must you interfere!
-Team Plasma: I can't believe this!\xfffeHe's only a child!
-Team Plasma: The gym leader\xfffedestroyed me...
-Team Plasma: Some of the best\xfffebattlers are here...\xf000븁\x0000You can't stop us!
+Grunt: ...So this is the\xfffestrength of a gym leader!
+Grunt: This strength...\xfffeIs it the same as the Seven Sages'...?
+Grunt: Nobody!\xfffeNOBODY gets in our way!
+Grunt: Why must you interfere when\xfffeyou don't understand our ultimate goal?!
+Grunt: Unbelievable!\xfffeYou're just a KID!!
+Grunt: ...Yeah.\xfffeThe gym leader totally crushed me...
+Grunt: Our king is above,\xfffeand by now, he should be...!\xf000븁\x0000You can't do a thing!

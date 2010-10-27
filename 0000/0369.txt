@@ -11,4 +11,4 @@ The Live Caster is ringing.
 ひどい あらし…！\xf000븁\x0000\xfffeあの ポケモンの しわざらしい！\xf000븁\x0000
 Route 7
 Tower of Heaven\xfffeWhere righteous souls come to rest
-Trainer Tips\xf000븁\x0000\xfffe\xfffeYour Pokémon will gain\xfffeEXP Points during battles.\xf000븁\x0000\xfffeWeak Pokémon will gain more EXP\xfffethan stronger Pokémon.\xf000븁\x0000\xfffeStrong Pokémon will gain less EXP\xfffethan weaker Pokémon.\xf000븁\x0000\xfffeAs your Pokémon grow stronger\xfffethey will gain EXP much slower.
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeWhen they battle, Pokémon\xfffewill gain EXP Points, but...\xf000븁\x0000\xfffePokémon weaker than their foes\xfffewill gain much more EXP.\xf000븁\x0000\xfffeOn the other hand, when Pokémon are\xfffestronger than their foes...\xf000븁\x0000\xfffeTheir EXP will decrease\xfffebased on their strength.

@@ -3,6 +3,6 @@
 ピッチャー！\xfffeだいいっきゅう なげました！！\xf000븁\x0000
 いま なげつけたのは\xfffeわざマシン５６「なげつける」だ！\xf000븁\x0000どうぐを なげて\xfffeあいてに ダメージを あたえる\xf000븁\x0000しかも なげる どうぐによって\xfffeダメージは かわるんだよ！
 Route 9
-Colorful & Wonderful Life\xfffeShopping Mall
-Trainer Tips\xf000븁\x0000\xfffe\xfffePressing the SELECT button while using\xfffethe PC organizes the boxes.\xf000븁\x0000\xfffeYou can arrange your Pokémon\xfffemuch easier this way!
-Cylinder Bridge\xfffeIsshu's railway bridge
+A Colorful and Wonderful Life\xfffeShopping Mall R9
+Trainer Tips!\xf000븁\x0000\xfffe\xfffePress the Select button while\xfffesorting boxes on the PC...\xf000븁\x0000\xfffeAnd you'll change modes to\xfffeallow for quick Pokémon movement!
+Cylinder Bridge\xfffeIsshu's proud railway bridge

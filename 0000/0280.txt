@@ -13,7 +13,7 @@ Strength made it possible to move\xfffeboulders around.
 The boulder fell down!
 The water is a deep blue...\xfffeWould you like to surf on it?
 \xf000Ă\x0001\x0000 used Surf!\xf000븁\x0000
-つれあるいている ときは\xfffeなみのりを つかえません！
+Waterfall can't be used if you have\xfffesomeone with you.
 Surf can't be used if you have\xfffesomeone with you.
 \xf000Ă\x0001\x0000 used Defog!\xf000븁\x0000
 A deep fog drapes the area...\xfffeWill a Pokémon’s move lift it?
@@ -24,7 +24,7 @@ Rock Climb can't be used if you have\xfffesomeone with you.
 It's a large waterfall.\xfffeWould you like to use Waterfall?
 \xf000Ă\x0001\x0000 used Waterfall!\xf000븁\x0000
 A wall of water is crashing down with\xfffea mighty roar.
-Teleport to \xf000ą\x0001\x0000, \xfffethe last place you or your Pokémon rested?
+Teleport to \xf000ą\x0001\x0000,\xfffethe last place you or your Pokémon rested?
 \xf000Ă\x0001\x0000 used Flash!\xf000븁\x0000
 \xf000Ă\x0001\x0000 used Teleport!\xf000븁\x0000
 \xf000Ă\x0001\x0000 used Dig!\xf000븁\x0000
