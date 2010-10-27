@@ -8,8 +8,8 @@ Plasma Grunt: I can still be\xfffepretty strong in the cold!\xf000븁\x0000
 Plasma Grunt: ...I'm shivering too much\xfffeto win in a place this freezing...
 Plasma Grunt: ...I'm shivering too much\xfffeto win in a place this freezing...\xf000븁\x0000
 Plasma Grunt: I can be reeeeeal\xfffepowerful in the cold!\xf000븁\x0000
-Plasma Grunt: ...We were gathering things\xfffeto transport some stolen Pokémon.\xf000븁\x0000We were assembled in front of the\xfffefreezer in the dead of night...\xf000븁\x0000And that old-timer Yakon\xfffesaw and caught us...
-Plasma Grunt: ...We were gathering things\xfffeto transport some stolen Pokémon.\xf000븁\x0000We were assembled in front of the\xfffefreezer in the dead of night...\xf000븁\x0000And that old-timer Yakon\xfffesaw and caught us...\xf000븁\x0000
+Plasma Grunt: ...We were gathering things\xfffeto transport some stolen Pokémon.\xf000븁\x0000We were assembled in front of the\xfffefreezer in the dead of night...\xf000븁\x0000And that old-timer Yacon\xfffesaw and caught us...
+Plasma Grunt: ...We were gathering things\xfffeto transport some stolen Pokémon.\xf000븁\x0000We were assembled in front of the\xfffefreezer in the dead of night...\xf000븁\x0000And that old-timer Yacon\xfffesaw and caught us...\xf000븁\x0000
 Plasma Grunt: I can be sorta\xfffegood in the cold!\xf000븁\x0000
 Plasma Grunt: ...Pokémon that work with\xfffehumans might look happy,\xf000븁\x0000but they're suffering,\xfffecount on it!\xf000븀\x0000No doubt about it!
 Plasma Grunt: ...Pokémon that work with\xfffehumans might look happy,\xf000븁\x0000but they're suffering,\xfffecount on it!\xf000븀\x0000No doubt about it!\xf000븁\x0000
@@ -20,7 +20,7 @@ Plasma Grunt: ...Yawn... why am\xfffeI feeling kinda sleepy?\xf000븁\x0000
 プラズマだん『ふつうの コンテナと\xfffeれいとうコンテナを まちがえて\xf000븀\x0000にげこむとは…… なさけない
 プラズマだん『……！ オレが\xfffeこんな トレーナーに まけるのか！？
 プラズマだん『クシュン！\xfffeじょせいは さむいところは ダメなのに
-Yakon: Whoa there!\xf000븁\x0000So you were hidin' out in\xfffethis freezin' place, eh?\xf000븁\x0000
+Yacon: Whoa there!\xf000븁\x0000So you were hidin' out in\xfffethis freezin' place, eh?\xf000븁\x0000
 Take these Pokémon thieves\xfffeaway, boys!\xf000븁\x0000
 Worker: Roger!!\xf000븁\x0000
 Here, now!
