@@ -1,12 +1,12 @@
-…… …… ……\xf000븁\x0000…… …… おまえか\xf000븁\x0000
-ゲーチスさまは いない\xf000븁\x0000……しろ から すくいだしたあと\xfffeひとりで どこかに ゆかれた\xf000븁\x0000
-われわれは ゲーチスさまに\xfffeいのちを すくわれて いらい\xf000븀\x0000ちゅうせいを ちかっている\xf000븁\x0000けっして さがすなと\xfffeめいじられた いまも……\xf000븁\x0000
-そして これを おまえに わたせと\xfffeゲーチスさまが そういわれたのだ……\xf000븁\x0000
-わたしからは これを……\xf000븁\x0000
-そして これも……\xf000븁\x0000
-……ゲーチスさまが\xfffeそれらを どこで てにいれたのか？\xf000븀\x0000なにを するつもり だったか？\xf000븀\x0000なぜ おまえに わたすのか？\xf000븀\x0000いまでは たしかめようが ない\xf000븁\x0000……おまえを ためすのか？\xfffe……おまえを りよう するのか？\xf000븁\x0000
-われら ダークトリニティは\xfffeいままでも いまも これからも\xf000븀\x0000ゲーチスさまの ちゅうじつな ぶか\xf000븁\x0000そして ゲーチスさまの\xfffeやぼうは けっして とどまらない！\xf000븁\x0000
-……おまえとは\xfffeもう あうことは ない\xf000븁\x0000さらばだ！\xf000븁\x0000
+﻿... ... ...\xf000븁\x0000... ...You?\xf000븁\x0000
+Lord Getis is gone.\xf000븁\x0000...After escaping from the castle,\xfffehe went somewhere on his own.\xf000븁\x0000
+We vowed to protect\xfffeLord Getis's life.\xf000븁\x0000And now we have been ordered\xfffeto never search for him...\xf000븁\x0000
+Also, Lord Getis said\xfffeto give this to you...\xf000븁\x0000
+Take this from me...\xf000븁\x0000
+And this too...\xf000븁\x0000
+...Where did Lord Getis\xfffeobtain these items?\xf000븀\x0000What was he planning?\xf000븀\x0000Why give them to you?\xf000븀\x0000We have been yet unable\xf000븀\x0000to ascertain these things.\xf000븁\x0000...Is he testing you?\xfffe...Is he using you?\xf000븁\x0000
+We, the Dark Trinity,\xfffehave been, are, and will always be\xf000븀\x0000Lord Getis's devoted.\xf000븁\x0000And Lord Getis's ambitions\xfffecan never be stopped!\xf000븁\x0000
+...We will not\xfffemeet you again.\xf000븁\x0000So long!\xf000븁\x0000
 ワンダーブリッジ めいぶつ\xfffeミネズミショー みていかない？
 オッケー おねえさん\xfffeはりきっちゃうわよー！\xf000븁\x0000
 そっかー…… おもしろさには\xfffeじしんが あるから また きてね！
