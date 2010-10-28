@@ -12,10 +12,10 @@ Right, \xf000Ā\x0001\x0000?\xf000븁\x0000
 Grunt: Uh?\xfffeWhy's the gym leader here?!\xf000븁\x0000I mean sure, after coming all this way,\xfffeit sucks we could only snatch\xf000븀\x0000one lousy Pokémon...\xf000븀\x0000but, um, I think I gotta run...!!\xf000븁\x0000
 Arty: \xf000Ā\x0001\x0000, let's go!\xf000븁\x0000Iris!\xfffeYou stay with this girl.\xf000븁\x0000
 Arty: \xf000Ā\x0001\x0000, let's go!\xf000븁\x0000Iris!\xfffeYou stay with this girl.\xf000븁\x0000
-Iris: I'll serve as Belle's bodyguard!\xfffeDon't worry, missy, I'll chase off anybody\xf000븀\x0000who just LOOKS at you funny!\xf000븁\x0000So YOU, sir, can go\xfffean' chase down those bad guys!\xf000븁\x0000
-Iris: I'll serve as Belle's bodyguard!\xfffeDon't worry, missy, I'll chase off anybody\xf000븀\x0000who just LOOKS at you funny!\xf000븁\x0000So YOU, sir, can go\xfffean' chase down those bad guys!
-Iris: I'll serve as Belle's bodyguard!\xfffeDon't worry, missy, I'll chase off anybody\xf000븀\x0000who just LOOKS at you funny!\xf000븁\x0000Now go an' chase the bad guys...\xfffeother missy!\xf000븁\x0000
-Iris: I'll serve as Belle's bodyguard!\xfffeDon't worry, missy, I'll chase off anybody\xf000븀\x0000who just LOOKS at you funny!\xf000븁\x0000Now go an' chase the bad guys...\xfffeother missy!
+Iris: I'll serve as Belle's bodyguard!\xfffeDon't worry, missy, I'll chase off\xf000븀\x0000anybody who LOOKS at you funny!\xf000븁\x0000So YOU, sir, can go\xfffean' chase down those bad guys!\xf000븁\x0000
+Iris: I'll serve as Belle's bodyguard!\xfffeDon't worry, missy, I'll chase off\xf000븀\x0000anybody who LOOKS at you funny!\xf000븁\x0000So YOU, sir, can go\xfffean' chase down those bad guys!
+Iris: I'll serve as Belle's bodyguard!\xfffeDon't worry, missy, I'll chase off\xf000븀\x0000anybody who LOOKS at you funny!\xf000븁\x0000Now go an' chase the bad guys...\xfffeother missy!\xf000븁\x0000
+Iris: I'll serve as Belle's bodyguard!\xfffeDon't worry, missy, I'll chase off\xf000븀\x0000anybody who LOOKS at you funny!\xf000븁\x0000Now go an' chase the bad guys...\xfffeother missy!
 Belle: ...I'm sorry, Munna...\xf000븁\x0000I'm a trainer who can't even\xfffeprotect her own Pokémon... I...
 Whenever I'm feeling all like,\xfffe"Argh, these guys are SO ANNOYING!",\xf000븀\x0000\xfffeI face the sea and SHOUT!\xf000븁\x0000\xfffe...Of course, it makes everyone\xfffewant to leave me alone.
 That black ship...\xfffeWhat on earth is it?
