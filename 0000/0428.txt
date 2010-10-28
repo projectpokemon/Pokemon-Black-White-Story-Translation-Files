@@ -36,8 +36,8 @@ Bel's House
 Araragi Pokémon Lab
 Cheren: Hey, \xf000Ā\x0001\x0000.\xfffeYou finished talking with Looker?\xf000븁\x0000
 Bel: ...Sorry, from both of us.\xf000븁\x0000We called the gym leaders of\xfffeSanyou City to come too,\xf000븀\x0000but they were all late...\xf000븁\x0000
-Cheren: ...I have to apologize myself, though.\xf000븁\x0000The Dark Trinity found an opportunity\xfffeto help Getis get away...\xf000븁\x0000
-Bel: ...Getis?\xfffeDark Trinity?\xf000븁\x0000
+Cheren: ...I have to apologize myself, though.\xf000븁\x0000The Dark Trinity found an opportunity\xfffeto help Geechisu get away...\xf000븁\x0000
+Bel: ...Geechisu?\xfffeDark Trinity?\xf000븁\x0000
 Cheren: ...I'll tell you what went on\xfffein the castle later, okay?\xf000븁\x0000Anyway, forget that, Bel.\xfffeWhat are you two going to do now?\xf000븁\x0000
 Bel: I'm, um, I'm...\xfffegonna go to White Forest!\xf000븁\x0000
 Bel: I'm, um, I'm...\xfffegonna go to Black City!\xf000븁\x0000
