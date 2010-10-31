@@ -1,5 +1,5 @@
-﻿なにを しているか だって？\xf000븁\x0000たからさがし だよ\xfffeた・か・ら・さ・が・し！\xf000븁\x0000たからさがしは たのしいよ\xfffeたまに すなはまに うまっていてね\xf000븀\x0000さっきも おたからを みつけたんだ\xf000븁\x0000だけど すでに みつけた モノだから\xfffeきみに ゆずってあげるよ\xf000븁\x0000
-I found some treasure earlier.\xf000븁\x0000But I'd already found it,\xfffeso I'll just give it to you.\xf000븁\x0000
+﻿What am I doing?\xf000븁\x0000I'm treasure hunting!\xfffeTREA-SURE HUNT-ING!\xf000븁\x0000Treasure-huting is a blast!\xfffeSometimes stuff is buried in the sand,\xf000븀\x0000like this treasure I found earlier!\xf000븁\x0000But it's something I'd already found,\xfffeso I'll just give it to you!\xf000븁\x0000
+I found some treasure earlier!\xf000븁\x0000But it's something I'd already found,\xfffeso I'll just give it to you!\xf000븁\x0000
 I'll be here treasure hunting tomorrow.\xf000븁\x0000I just might find something, so\xfffestop by if you've got time, okay?
 Route 13
 Route 13
@@ -8,16 +8,16 @@ Wheep-eep... eep...
 Wheen-wheen!
 Wheen! Wheeeeen!
 Wingull happily\xfffetook to the sky!\xf000븁\x0000...Oh?\xfffeIt dropped something.\xf000븁\x0000
-この キャモメね はいたつぶつを\xfffe３つ １３ばんどうろで\xf000븀\x0000なくしちゃった みたいなの\xf000븀\x0000どうにか してあげたいのだけど……
-この キャモメね\xf000븁\x0000はいたつぶつを ３つ \xfffe１３ばんどうろで\xf000븀\x0000なくしちゃった みたいなの\xf000븀\x0000どうにか してあげたいのだけど……\xf000븁\x0000
-あ すごい！\xfffeそれ はいたつぶつ じゃない？\xf000븀\x0000ちょっと みせて あげようよ！\xf000븁\x0000
+This Wingull seems to have dropped\xfffethree things it was delivering\xf000븀\x0000on Route 13...\xf000븀\x0000I want to do something for it, but...
+This Wingull seems to have dropped\xfffethree things it was delivering\xf000븀\x0000on Route 13...\xf000븀\x0000I want to do something for it, but...\xf000븁\x0000
+Oh, wow!\xfffeIsn't that one of the letters?\xf000븀\x0000Let me see that!\xf000븁\x0000
 Two more to go!\xfffeWingull looks happy.
 One more to go!\xfffeWingull looks happy.
 You found them all!\xfffeYou've been a great help to Wingull!\xf000븁\x0000
 Thanks, trainer!\xf000븁\x0000It makes me happy\xfffeto see Pokémon happy!
-はて？\xfffeそらから てがみが おちてきたぞい？
-はいたつぶつ？\xf000븁\x0000はて もしかして これかね\xfffeさっき あたまに おちてきたのじゃよ\xf000븀\x0000キャモメに わたして あげなされ\xf000븁\x0000
-That Wingull was\xfffedoing its best for us!
-なんで わたしの だした\xfffeてがみが そらから ふってくるの……？
-なんで わたしの だした\xfffeてがみが そらから ふってくるの……？\xf000븁\x0000……なーんだ！\xfffeキャモメが おとしちゃったのね\xf000븁\x0000はい！ これ キャモメに わたして！\xfffeこんどは おとさないように ってね！\xf000븁\x0000
-クチベタな わたしは メールに\xfffeたびで かんじた きもちを かくの
+Huh?\xfffeLetters that fell from the sky...?
+Deliveries?\xf000븁\x0000Hm, perhaps you mean this?\xfffeIt fell on my head earlier.\xf000븀\x0000Give it to the Wingull!\xf000븁\x0000
+That Wingull's\xfffedoing its best for us!
+Why did the letter I sent\xfffecome falling from the sky...?
+Why did the letter I sent\xfffecome falling from the sky...?\xf000븁\x0000...Oh!\xfffeSo the Wingull dropped it!\xf000븁\x0000Okay! Give this to the Wingull!\xfffeAnd say to be careful this time!\xf000븁\x0000
+I'm no good at talking,\xfffeso I write about my journey in mail.

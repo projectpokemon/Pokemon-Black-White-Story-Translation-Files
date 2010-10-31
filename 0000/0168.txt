@@ -1,13 +1,13 @@
-アタシ ポケモンのカセキを ２つ\xfffeもっているんだけど おもくって……\xf000븁\x0000よければ あなた どちらか\xfffeすきな カセキを もらってくれない？
-ふたのカセキ なんだ！\xf000븁\x0000それは おおむかしの うみを\xfffeじゆうに およいでいた\xf000븀\x0000ポケモンの カセキ らしいよ！\xf000븁\x0000
-はねのカセキ なんだ！\xf000븁\x0000それは おおむかしの しんりんで\xfffeくらしていた とりポケモンの カセキ\xf000븀\x0000……だけど とべなかったらしいよ\xf000븁\x0000
-あれれ……\xfffeえんりょ しなくて いいのに
-やっぱり カセキが きになる？\xf000븁\x0000\xfffeいいよ！ どちらか\xfffeえらんだ カセキを あげるから！
-シッポウシティの はくぶつかん\xf000븁\x0000\xfffeあそこでなら カセキを ふくげんして\xfffeポケモンに もどせるって はなしよ\xf000븁\x0000\xfffeなんたって アロエさんは\xfffeホネや カセキが だいすき だもんね！
-ふたのカセキ
-はねのカセキ
+I've got two Pokémon fossils here,\xfffebut they're heavy...\xf000븁\x0000Would you take\xfffethe one you prefer?
+The Lid Fossil!\xf000븁\x0000It seems to be the fossil of\xfffean ancient Pokémon\xf000븀\x0000that freely swam the seas!\xf000븁\x0000
+The Wing Fossil!\xf000븁\x0000It seems to be from an ancient\xfffebird Pokémon living in the woods...\xf000븀\x0000...But it couldn't fly.\xf000븁\x0000
+Huh...?\xfffeBut I'm just GIVING these away!
+I knew you'd come crawling back!\xf000븁\x0000\xfffeAlright! So which fossil\xfffedo you want me to give you?
+The museum in Shippo City...\xf000븁\x0000\xfffeThey say you can turn fossils\xfffeback into Pokémon there!\xf000븁\x0000\xfffeI guess that has something to do\xfffewith Aloe's love of bones and fossils!
+Lid Fossil
+Wing Fossil
 Quit
-トレーナー！ このさき\xfffeすなばかりで まだ すすめん！\xf000븁\x0000おっさん がんばって\xfffeすなを とりのぞくので まってくれ！
-トレーナー！ このさき\xfffeすなばかりで まだ すすめん！\xf000븁\x0000おっさん がんばって\xfffeすなを とりのぞくので まってくれ！\xf000븁\x0000
-すなが どんどん おちていって\xfffeしたまで すすめるように なったぞ！
-りゅうさに ついて\xfffeわかったことが ２つ ある！\xf000븁\x0000まんなかは かならず おちる！\xf000븁\x0000はしって とおろうとすると\xfffeすなに のみこまれて おちる！
+Trainer! The area ahead is\xfffetoo sand-filled to proceed!\xf000븁\x0000I'll be working hard to\xffferemove the sand, so just wait!
+Trainer! The area ahead is\xfffetoo sand-filled to proceed!\xf000븁\x0000I'll be working hard to\xffferemove the sand, so just wait!\xf000븁\x0000
+As you sink down into the sand,\xfffeyou can get all the way to the bottom!
+I know two things\xffffeabout quicksand!\xf000븁\x0000You'll always sink\xfffein the very center!\xf000븁\x0000And if you run on it,\xfffethe sand will suck you in!

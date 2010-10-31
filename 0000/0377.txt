@@ -1,20 +1,20 @@
-Bel: \xf000Ā\x0001\x0000!\xf000븁\x0000
-I've been thinking about a\xfffewhole buncha things lately..\xf000븁\x0000What can I do now that I'm\xfffejourneying?\xf000븁\x0000Just what do I wanna do\xfffewith my life?\xf000븁\x0000I aspired to be a\xfffefantastic model like Kamitsure...\xf000븀\x0000And I thought I might want\xf000븁\x0000to be a Pokémon professor\xfffelike Professor Araragi.\xf000븀\x0000But to be that, I need\xfffeto know about Pokémon!\xf000븁\x0000That said, let's battle!\xf000븁\x0000
-Bel: Yep! \xfffe\xf000Ā\x0001\x0000, you sure are awesome!\xf000븁\x0000I was really moved!\xfffeSo take this!\xf000븁\x0000
-Bel: ...I had my precious\xfffePokémon stolen from me by\xf000븀\x0000Team Plasma back in Huin City,\xfffeyou know?\xf000븀\x0000So I TOTALLY understand!\xf000븁\x0000If Team Plasma tries to\xfffeforcibly free Pokémon,\xf000븀\x0000It'll just leave everyone in\xfffetears!\xf000븁\x0000\xf000Ā\x0001\x0000!\xfffeGo stop Team Plasma!\xf000븁\x0000So that people who love\xfffePokémon won't have their\xf000븁\x0000Pokémon taken away from\xfffethem!\xf000븁\x0000That's the truth and the\xfffeideal I think you should\xf000븁\x0000seek, \xf000Ā\x0001\x0000...\xf000븁\x0000
-Bel: Sorry... I know,\xfffethis is kind of an emergency\xf000븁\x0000and all, so it's pretty dumb\xfffethat I'm still saying stuff\xf000븁\x0000like this.\xf000븁\x0000I was really just hoping\xfffeI could just tell you to\xf000븁\x0000relax, \xf000Ā\x0001\x0000,\xfffebut...\xf000븁\x0000...But I know you'll be\xfffealright, \xf000Ā\x0001\x0000.\xf000븀\x0000Yeah! Totally just dandy!\xf000븀\x0000I give you my guarantee!\xf000븁\x0000So, yeah...\xfffeI dunno how to say it\xf000븀\x0000other than...\xfffeBye-bye!\xf000븁\x0000
-プラズマだん『セッカシティの ちかく\xfffeリュウラセンのとう で\xf000븀\x0000なかまが かつどうちゅう らしいな
-プラズマだん『リゾートデザートの\xfffeこだいのしろ で\xf000븀\x0000なかまが かつどうちゅう らしいな
-プラズマだん『セッカシティの ちかく\xfffeリュウラセンのとう で\xf000븀\x0000なかまが かつどうちゅう らしいぞ
-プラズマだん『リゾートデザートの\xfffeこだいのしろ で\xf000븀\x0000なかまが かつどうちゅう らしいぞ
-あたしの パラソルの なかには\xfffeわざマシンが いっぱい なの！\xf000븀\x0000あなたも おひとつ いかが？\xf000븁\x0000
-からげんき！ からげんき！\xfffeどく まひ やけどの ときは\xf000븀\x0000こうげきりょくが ２ばい なの！
-そうね……\xf000븁\x0000いわを みつける\xfffeそして プレゼントする……\xf000븀\x0000それが わたしの シンプルライフ\xf000븀\x0000いいわ あなた……\xf000븁\x0000
-あさに みつけた\xfffeしめったいわ を あげるわ\xf000븁\x0000
-ひるに みつけた\xfffeあついいわ を あげるわ\xf000븁\x0000
-ゆうがたに みつけた\xfffeさらさらいわ を あげるわ\xf000븁\x0000
-よるに みつけた\xfffeつめたいいわ を あげるわ\xf000븁\x0000
-そうね……\xf000븁\x0000いわが すきなら あした……\xfffeできれば べつの じかんたいに\xf000븀\x0000ここに くると いいわ
+Bel: \xf000Ā\x0001\x0000!!\xf000븁\x0000
+I've been thinking about\xfffea whole buncha things lately...\xf000븁\x0000What can I do now that I'm journeying?\xfffeJust what do I wanna do with my life?\xf000븁\x0000I aspired to be a fantastic\xfffemodel like Kamitsure...\xf000븁\x0000And I thought I might want to\xfffebe a Pokémon professor\xf000븀\x0000like Professor Araragi...\xf000븁\x0000But to be that, I need to\xfffeknow all about Pokémon!\xf000븀\x0000That said, let's battle!\xf000븁\x0000
+Bel: Yep!\xfffe\xf000Ā\x0001\x0000, you sure are awesome!\xf000븁\x0000I was really moved!\xfffeSo take this!\xf000븁\x0000
+Bel: ...I had my precious Pokémon\xfffestolen from me by Team Plasma\xf000븀\x0000back in Hiun City, you know?\xf000븀\x0000So I TOTALLY understand!!\xf000븁\x0000If Team Plasma tries\xfffeto forcibly free Pokémon,\xf000븀\x0000it'll just leave everyone in tears!\xf000븁\x0000\xf000Ā\x0001\x0000!\xfffeGo stop Team Plasma!\xf000븁\x0000So that people who love Pokémon\xfffewon't have their Pokémon\xf000븀\x0000taken away from them!\xf000븁\x0000That's the truth and the ideal\xfffeI think you should seek, \xf000Ā\x0001\x0000...\xf000븁\x0000
+Bel: Sorry... I know, this is kind of\xfffean emergency and all,\xfffeso it's pretty dumb\xf000븀\x0000that I'm still saying stuff like this.\xf000븁\x0000I was really hoping I could just\xfffetell you to relax, \xf000Ā\x0001\x0000, but...\xf000븁\x0000...But I know you'll\xfffebe alright, \xf000Ā\x0001\x0000.\xf000븀\x0000Yeah! Totally just dandy!\xf000븀\x0000I give you my guarantee!\xf000븁\x0000So, yeah... I dunno\xfffehow to say it, other than...\xf000븀\x0000Bye-bye!!\xf000븁\x0000
+Grunt: Looks like our guys are at work\xfffeat Dragon-Helix Tower near Sekka City!
+Grunt: Looks like our guys are at work\xfffeat Resort Desert's Ancient Castle!
+Grunt: Lookin' like our guys are at work\xfffeat Dragon-Helix Tower near Sekka City!
+Grunt: Lookin' like our guys are at work\xfffeat Resort Desert's Ancient Castle!
+My parasol is full\xfffeof Technical Machines!\xf000븀\x0000How about you have one?\xf000븁\x0000
+Facade! Facade!\xfffeWhen poisoned, paralyzed, burned,\xf000븀\x0000its power will be doubled!
+Right...\xf000븁\x0000I find rocks\xfffeand give them away...\xf000븀\x0000It's a simple life for me.\xf000븀\x0000So, you...\xf000븁\x0000
+I'll give you a Damp Rock\xfffeI found in the morning.\xf000븁\x0000
+I'll give you a Heat Rock\xfffeI found at noon.\xf000븁\x0000
+I'll give you a Smooth Rock\xfffeI found in the evening.\xf000븁\x0000
+I'll give you a Icy Rock\xfffeI found at night.\xf000븁\x0000
+Right...\xf000븁\x0000If you like rocks, then tomorrow...\xfffeIf you wish, you can come again\xf000븀\x0000at another time of day.
 Route 8
 Route 8
 Trainer Tips!\xf000븁\x0000\xfffe\xfffeIf you want to\xfffeswitch items in your bag...\xf000븁\x0000\xfffeJust press the Select button!\xfffeBam, switched and swapped!

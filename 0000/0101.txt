@@ -1,59 +1,59 @@
-Hmph! You the trainers\xfffeKamitsure was talkin' about?\xf000븁\x0000\xfffeI'm Yacon, gym leader\xfffeof this here town!\xf000븁\x0000\xfffeGuess I gotta welcome ya.\xf000븁\x0000\xfffeAny rate, thanks ta lowerin'\xfffethe bridge, some Team Plasma\xf000븀\x0000grunts we'd caught fled into town!\xf000븁\x0000
-Cheren: ...What a pain.\xf000븁\x0000Well, I'm thankful you let the\xfffebridge down for us... er,\xf000븀\x0000but that's unrelated, isn't it?\xf000븁\x0000
-Yacon: No way, son.\xf000븁\x0000\xfffeIt was important that ya came here...\xfffesure, it meant lettin' Team Plasma\xf000븀\x0000into town, but so be it.\xf000븁\x0000\xfffeI was just thinkin' this to myself, but\xfffey'oughta search out Team Plasma too. Yer\xf000븀\x0000\xfffesome real go-getter trainers, ain't ya?\xf000븁\x0000
+???: Hmph! You the trainers\xfffeKamitsure was talkin' about?\xf000븁\x0000\xfffeI'm Yacon, gym leader\xfffeof this here town!\xf000븁\x0000\xfffeGuess I gotta welcome ya.\xf000븁\x0000\xfffeAny rate, thanks ta lowerin' the bridge,\xfffesome Plasma grunts we'd caught\xf000븀\x0000fled into town!\xf000븁\x0000
+Cheren: ...What a pain.\xf000븁\x0000Well, I'm thankful you\xfffelet the bridge down for us...\xf000븀\x0000er, but that's unrelated, isn't it?\xf000븁\x0000
+Yacon: No way, son.\xf000븁\x0000\xfffeIt was important that ya came here...\xfffesure, it meant lettin' Team Plasma\xf000븀\x0000into town, but so be it.\xf000븁\x0000\xfffeI was just thinkin' this to myself,\xfffebut y'oughta search out Plasma too.\xf000븀\x0000\xfffeYer real go-getter trainers, ain't ya?\xf000븁\x0000
 Right...\xf000븁\x0000\xfffeOnce ya find Team Plasma,\xfffecome challenge me at the gym!\xf000븀\x0000\xfffeLife's a give and take!\xf000븁\x0000
-Cheren: Understood.\xf000븁\x0000He didn't have to tell us so,\xfffebut we'll search for Team Plasma.\xf000븁\x0000They're a tedious lot to beat again and\xfffeagain, but guess it makes us stronger...\xf000븁\x0000
+Cheren: Understood.\xf000븁\x0000He didn't have to tell us so,\xfffebut we'll search for Team Plasma.\xf000븁\x0000They're a tedious lot to beat\xfffeagain and again, but at least\xf000븀\x0000it makes us stronger, I suppose...\xf000븁\x0000
 \xf000Ā\x0001\x0000!\xfffeI'll go on ahead.\xf000븁\x0000
-Geechisu: Hello,\xfffeMr. Yacon.\xf000븁\x0000\xfffeI am Geechisu\xfffeof Team Plasma.\xf000븁\x0000\xfffeI see you've taken care\xfffeof some of my own.\xf000븁\x0000
-Yacon: Oh, no need ta thank me.\xf000븁\x0000\xfffeYer members were stealin'\xfffePokémon, after all.\xf000븁\x0000
-Geechisu: Oh? I think there's\xfffebeen a misunderstanding.\xf000븁\x0000\xfffeWe are merely freeing Pokémon\xfffefrom evil people.\xf000븁\x0000
-Yacon: You really goin' with that?\xf000븁\x0000Honestly, I ain't too\xfffegood with words...\xf000븁\x0000And on the other hand,\xfffeyou're pretty fancy with 'em...\xf000븀\x0000but they reek of a liar.\xf000븁\x0000So what d'ya mean ta say?\xf000븁\x0000
-Geechisu: Team Plasma has\xfffean interest in\xf000븀\x0000\xfffeHodomoe City.\xf000븁\x0000\xfffeThere are many people who are\xfffeonly to be found here...\xf000븁\x0000
-Yacon: ...Not sure if that's\xfffea lie or truth, but...\xf000븁\x0000It's always best ta come to a victory\xfffewithout havin' to fight it.\xf000븁\x0000Hmph! Awright. Take 'em\xfffeback, fine!\xf000븁\x0000
-Geechisu: Just as I expected from the one\xfffethey call King of the Hills...\xf000븁\x0000A magnificent\xfffedecision-maker, indeed.\xf000븁\x0000\xfffeNow... Allow me to speak\xfffewith that Sage there...\xf000븁\x0000
+Geechisu: Hello, Mr. Yacon.\xf000븁\x0000\xfffeI am Geechisu\xfffeof Team Plasma.\xf000븁\x0000\xfffeI see you've taken care of\xfffesome of my own.\xf000븁\x0000
+Yacon: Oh, no need ta thank me.\xf000븁\x0000\xfffeYer members were\xfffestealin' Pokémon, after all.\xf000븁\x0000
+Geechisu: Oh? I think there's been\xfffea misunderstanding.\xf000븁\x0000\xfffeWe are merely freeing\xfffePokémon from evil people.\xf000븁\x0000
+Yacon: You really goin' with that?\xf000븁\x0000Honestly, I ain't too good\xfffewith words...\xf000븁\x0000And on the other hand,\xfffeyou're pretty fancy with 'em...\xf000븀\x0000but they reek of a liar.\xf000븁\x0000So what d'ya mean ta say?\xf000븁\x0000
+Geechisu: Team Plasma has\xfffean interest in Hodomoe City.\xf000븁\x0000\xfffeThere are many people who are\xfffeonly to be found here...\xf000븁\x0000
+Yacon: ...Not sure if that's\xfffea lie or truth, but...\xf000븁\x0000It's always best ta come to a\xfffevictory without havin' to fight it.\xf000븁\x0000Hmph! Awright.\xfffeTake 'em back, fine!\xf000븁\x0000
+Geechisu: Just as I expected from the\xfffeone they call King of the Hills...\xf000븁\x0000A magnificent decision-maker, indeed.\xf000븁\x0000\xfffeNow... Allow me to speak\xfffewith that Sage there...\xf000븁\x0000
 Vio: Lord Geechisu...\xfffeThank you so very much...\xf000븁\x0000
-Geechisu: Oh, it's fine.\xf000븁\x0000We're working for the king together...\xfffeAre we not both Sages?\xf000븁\x0000Well then, everyone.\xfffeWhatever day we\xf000븀\x0000might meet again...\xf000븁\x0000
-Yacon: You found them rotten Team\xfffePlasma guys and all, but..\xf000븁\x0000\xfffeWell, gotta pull myself together.\xfffeLet's get ta our Pokémon battle!\xf000븀\x0000Don't make me wait, now!\xf000븁\x0000
+Geechisu: Oh, it's fine.\xf000븁\x0000We're working for the king together...\xfffeAre we not both Sages?\xf000븁\x0000Well then, everyone.\xfffeWhatever day we might meet again...\xf000븁\x0000
+Yacon: You found them rotten\xfffeTeam Plasma guys and all, but ugh...\xf000븁\x0000\xfffeWell, gotta pull myself together.\xfffeLet's get ta our Pokémon battle!\xf000븀\x0000Don't make me wait, now!\xf000븁\x0000
 Cheren: ...Are both of them looking\xfffeto prevent quarrel in the town?\xf000븁\x0000Either way, I don't feel that Geechisu\xfffefellow to be any ordinary person.\xf000븁\x0000...Well, I'll be\xfffetraining my Pokémon.\xf000븁\x0000I don't want to lose\xfffeto Yacon one bit!\xf000븁\x0000I'll take the gym badge\xfffeafter a flawless victory!\xf000븁\x0000
-はねばしを あげたり さげたりすると\xfffeみんなが ちゅうもく するんだよね\xf000븁\x0000……で その すきに\xfffeプラズマだんに にげられたのさ\xf000븁\x0000はしのほうでは みなかったから\xfffeまちの どこかに いるんだろうけど
-ジムリーダーの ヤーコンさまですが\xfffeただいま とりこみちゅう でして\xf000븀\x0000\xfffeまた のちほど いらしてください
+When the drawbridge raises or lowers,\xfffeeverybody takes notice!\xf000븁\x0000...Which is what gave Team Plasma\xfffethe chance to run.\xf000븁\x0000They weren't seen near the bridge,\xfffeso they're somewhere in town...
+Mr. Yacon is the gym leader,\xfffebut he's in the midst of business.\xf000븀\x0000\xfffeCome back again later.
 Bel: Heyyy!\xfffe\xf000Ā\x0001\x0000!!\xf000븁\x0000
 Bel: Heyyy!\xfffe\xf000Ā\x0001\x0000!!\xf000븁\x0000
-Um, did you maybe\xfffego to the gym?\xf000븁\x0000Whoooooa! That's the Hodomoe gym badge!\xf000븀\x0000Niceness! That's so awesome!!\xf000븁\x0000
+Um, did you maybe\xfffego to the gym?\xf000븁\x0000Whoooooa!\xfffeThat's the Hodomoe gym badge!\xf000븀\x0000Niceness! That's so awesome!!\xf000븁\x0000
 Oh, no, no!\xfffeI'm just admiring!\xf000븁\x0000I'm a trainer too, you know!\xfffeAnd at times like this, we battle!\xf000븁\x0000
-Bel: It's been a while since I had a\xfffePokémon battle with you, \xf000Ā\x0001\x0000,\xf000븀\x0000but you've gotten REALLY strong!\xf000븁\x0000I'm still not that strong, so I can't put\xfffeit into words all that well, but...\xf000븁\x0000I think you really understand the\xfffefeelings of your Pokémon, \xf000Ā\x0001\x0000!\xf000븁\x0000Oh yeah! You should\xfffehave this HM, too!\xf000븁\x0000
-Bel: Papa gave me that\xfffeafter... you know!\xf000븁\x0000So I'll always be able to come\xfffeback right away and whenever!\xf000븀\x0000Or so he said, anyway...\xf000븁\x0000Oh yeah, I guess I'll have\xfffeto give it to Cheren too...\xf000븁\x0000See you,\xfffe\xf000Ā\x0001\x0000！ Bye-bye!!\xf000븁\x0000
-どうですか\xfffeこの まち じまんの はねばし\xf000븁\x0000\xfffeあの うつくしい すがたから\xfffeべつめい リザードンばし とも\xf000븀\x0000\xfffeよばれて いるんですよ
-ねえねえ トレーナーさん\xf000븁\x0000\xfffeポケモンリーグ してんのう と\xfffeたたかったことは ある？\xf000븁\x0000ジムバッジを ８こ もってないと\xfffeたたかえないんだよ？
-うみ……\xf000븁\x0000\xfffeわたしが ここで こぼした なみだは\xfffeアサギシティまで ながれるのかしら
-プラズマだんの やつらに\xfffeむりやり ポケモンしょうぶを\xf000븀\x0000\xfffeいどまれたあげく まけて\xf000븀\x0000\xfffeポケモン うばわれちゃったよ……
-かてたのは ポケモンの おかげ\xfffeまけたのは じぶんの せい……\xf000븁\x0000いつも そうおもっている\xfffeうぬぼれると すぐ ダメになるもんな
-オレが ウロウロしている りゆう\xf000븁\x0000それは ウロウロしたいからだ！\xf000븁\x0000あーあ！ ポケモンが\xfffeなみのりの わざを つかえりゃ\xf000븀\x0000みずのうえを すすめるのによ！
-れいとうコンテナの ちかくで\xfffeポケモンを つかまえたり\xf000븀\x0000きたえている こどもも おるよ
-かみなりの ポケモン\xfffeかぜの ポケモン\xf000븁\x0000どっちも きまぐれ\xfffeあちこち いったり きたりさ
-うみの むこうにも\xfffeいろんな ひとや\xf000븀\x0000いろんな ポケモンが いるのよね
-６ばんどうろに いる ジイさんが\xfffeでんせつの ポケモンを さがしている\xf000븁\x0000きになるなら あうと いい
-はしって すごいよな！\xf000븁\x0000\xfffeだって はしは せかいを\xfffeつなぐ シンボル なんだから！\xf000븁\x0000って ５ばんどうろの\xfffeヤツも おなじこと いってただろ！？
-オレは…… こいする おとこ\xfffeそのなも チャールズ\xf000븁\x0000ほれた おんなの きをひきたくて\xfffeあたらしい スタイルの\xf000븀\x0000ポケモンしょうぶを まなんだのさ\xf000븁\x0000そのなも トリプルバトル！\xfffeどんな しょうぶか しりたいか？
-……まいったぜ！ あいての\xfffeきをひくのは ほんと むずかしいな
-トリプルバトルとは\xfffeポケモンを ３びきずつ だして\xf000븀\x0000たたかう ポケモンしょうぶ さ！\xf000븁\x0000ルールは かんたん！\xf000븁\x0000あいての ポケモンを\xfffeすべて ひんしに するだけ……\xf000븁\x0000ざっと いじょうが\xfffeトリプルバトルの あらましさ\xf000븁\x0000
-オレは…… こいする おとこ\xfffeそのなも チャールズ\xf000븁\x0000どうだ！ おまえも トレーナーなら\xfffeやらないか トリプルバトルを？
-いい こころがけ だな\xf000븁\x0000だけど オレは こいする おとこ\xfffeそのなも チャールズ\xf000븁\x0000いつだって フルスロットルだぜ！\xf000븁\x0000
-もえあがった きもちに\xfffeみずを さして すまない……\xf000븁\x0000トリプルバトルには\xfffeたたかえる ポケモンが\xf000븀\x0000３びき ひつよう なんだよ
-オレは…… こいする おとこ\xfffeそのなも チャールズ\xf000븁\x0000そんなオレから アドバイス……\xf000븁\x0000チャレンジこそが じんせい なんだぜ
-……ふっ ざまあねえな\xfffeおしえるつもりが おそわるとはな\xf000븁\x0000それにしても おまえには\xfffeみどころが ある\xf000븁\x0000じぶんの ポケモンへの りかいがなきゃ\xfffeトリプルバトルは かてないからな\xf000븁\x0000もっと トリプルバトルが したけりゃ\xfffeソウリュウシティに いきな……
-オレは…… こいする おとこ\xfffeそのなも チャールズ\xf000븁\x0000バイクにのって かぜになるのが\xfffeにあう ツミな おとこさ
-オレは…… こいする おとこ\xfffeそのなも チャールズ\xf000븁\x0000ほれた おんなの きをひきたくて\xfffeあたらしい スタイルの\xf000븀\x0000ポケモンしょうぶを まなんだのさ\xf000븁\x0000そのなも ローテーションバトル！\xfffeどんな しょうぶか しりたいか？
-……まいったぜ！ あいての\xfffeきをひくのは ほんと むずかしいな
-ローテーションバトルとは\xfffeポケモンを ３びきずつ だして\xf000븀\x0000たたかう ポケモンしょうぶ さ！\xf000븁\x0000そして だした ポケモンは\xfffeまえに１ひき！ うしろに２ひきの\xf000븀\x0000ポジションで セットされる\xf000븁\x0000この ポジションは １ターンごとに\xfffeかわるというのが ポイント……\xf000븁\x0000ざっと いじょうが\xfffeローテーションバトルの あらましさ\xf000븁\x0000
-オレは…… こいする おとこ\xfffeそのなも チャールズ\xf000븁\x0000どうだ！ おまえも トレーナーなら\xfffeやらないか ローテーションバトルを？
-いい こころがけ だな\xf000븁\x0000だけど オレは こいする おとこ\xfffeそのなも チャールズ\xf000븁\x0000いつだって フルスロットルだぜ！\xf000븁\x0000
-もえあがった きもちに\xfffeみずを さして すまない……\xf000븁\x0000ローテーションバトルには\xfffeたたかえる ポケモンが\xf000븀\x0000３びき ひつよう なんだよ
-オレは…… こいする おとこ\xfffeそのなも チャールズ\xf000븁\x0000そんなオレから アドバイス……\xf000븁\x0000チャレンジこそが じんせい なんだぜ
-……ふっ ざまあねえな\xfffeおしえるつもりが おそわるとはな\xf000븁\x0000それにしても おまえには\xfffeみどころが ある\xf000븁\x0000じぶんの ポケモンへの りかいがなきゃ\xfffeローテーションバトルは かてないからな\xf000븁\x0000ローテーションバトルが したけりゃ\xfffeソウリュウシティに いきな……
-オレは…… こいする おとこ\xfffeそのなも チャールズ\xf000븁\x0000バイクにのって かぜになるのが\xfffeにあう ツミな おとこさ
+Bel: It's been a while since I had a\xfffePokémon battle with you, \xf000Ā\x0001\x0000,\xf000븀\x0000but you've gotten REALLY strong!\xf000븁\x0000I'm still not that strong, so I can't\xfffeput it into words all that well, but...\xf000븁\x0000I think you really understand the\xfffefeelings of your Pokémon, \xf000Ā\x0001\x0000!\xf000븁\x0000Oh yeah! You should\xfffehave this HM, too!\xf000븁\x0000
+Bel: Dad gave me that after...\xfffeyou know!\xf000븁\x0000So I'll always be able to come\xfffeback right away and whenever!\xf000븀\x0000Or so he said, anyway...\xf000븁\x0000Oh yeah, I guess I'll have to\xfffegive it to Cheren too...\xf000븁\x0000See you, \xf000Ā\x0001\x0000!\xfffeBye-bye!!\xf000븁\x0000
+What do you think of\xfffethe town's famous drawbridge?\xf000븁\x0000\xfffeIt's also known as Charizard Bridge\xfffefor its beautiful figure.
+Hey, trainer!\xf000븁\x0000\xfffeHave you fought the\xfffePokémon League's Elite Four?\xf000븁\x0000You can't fight them unless\xfffeyou have eight gym badges, right?
+By way of the sea...\xf000븁\x0000\xfffeMight the tears I shed here\xffffeflow all the way to Olivine City...?
+I was forced to battle Team Plasma,\xfffeI lost, and they stole my Pokémon...
+When you win, it's thanks to Pokémon...\xfffeWhen you lose, it's your own fault...\xf000븁\x0000Always thinking that way\xfffeis sure to turn ugly fast!
+Hey, I have a reason for loitering!\xf000븁\x0000It's 'cause I wanna loiter!\xf000븁\x0000Oh! And Pokémon using surf\xfffewill let ya proceed across water!
+There are kids around the freezer storage\xfffecatching and training Pokémon!
+The lightning Pokémon\xfffeand the wind Pokémon...\xf000븁\x0000Both appear wherever they want\xfffeat their own whims.
+There are so many people\xfffeand so many Pokémon beyond the sea!
+There's an old man on Route 6\xfffelooking for a legendary Pokémon...\xf000븁\x0000If you're curious,\xfffeyou should meet him!
+Bridges are marvels!\xf000븁\x0000\xfffeThat's why bridges are a symbol\xfffeof the world being connected!\xf000븁\x0000...Wait, you're telling me a guy\xfffeon Route 5 said the same thing?!
+I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000I've been studying\xffffea new style of Pokémon battle\xf000븀\x0000to make women swoon!\xf000븁\x0000And its name is the Triple Battle!\xfffeWant to know about it?
+...I give! It's truly difficult\xfffemaking an opponent swoon...
+A Triple Battle is a Pokémon battle\xfffewhere three Pokémon are sent out!\xf000븁\x0000The rules are simple!\xf000븁\x0000Just make all the\xfffeopponent's Pokémon faint...\xf000븁\x0000That's all there really is\xfffeto Triple Battles, roughly!\xf000븁\x0000
+I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000So, trainer! You wanna do it?\xfffe...Uh! A Triple Battle, I mean?!
+You've got dedication!\xf000븁\x0000But I am a man in love!\xfffeMy name is Charles!\xf000븁\x0000I'm always at full throttle!\xf000븁\x0000
+Sorry to rain on your\xfffeburning feelings, but...\xf000븁\x0000A Triple Battle needs three\xfffePokémon that can fight!
+I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000Here's some advice from me...\xf000븁\x0000Challenges are life!
+...Heh, what a mess! I was\xfffegonna tell you, but I got told!\xf000븁\x0000Still, you've definitely\xfffegot some promise.\xf000븁\x0000You gotta understand your Pokémon,\xfffeor you can't win a Triple Battle!\xf000븁\x0000If you wanna do more Triple Battles,\xfffeget to Souryuu City...
+I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000I love to ride a bike and become\xfffethe wind! Is that such a crime?
+I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000I've been studying\xffffea new style of Pokémon battle\xf000븀\x0000to make women swoon!\xf000븁\x0000And its name is the Rotation Battle!\xfffeWant to know about it?
+...I give! It's truly difficult\xfffemaking an opponent swoon...
+A Rotation Battle is a Pokémon battle\xfffewhere three Pokémon are sent out!\xf000븁\x0000And there's one set into the\xfffefront position, and two in the back!\xf000븁\x0000Their positions can be changed\xfffeat the cost of a turn...\xf000븁\x0000That's all there really is\xfffeto Rotation Battles, roughly!\xf000븁\x0000
+I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000So, trainer! You wanna do it?\xfffe...Uh! A Rotation Battle, I mean?!
+You've got dedication!\xf000븁\x0000But I am a man in love!\xfffeMy name is Charles!\xf000븁\x0000I'm always at full throttle!\xf000븁\x0000
+Sorry to rain on your\xfffeburning feelings, but...\xf000븁\x0000A Rotation Battle needs three\xfffePokémon that can fight!
+I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000Here's some advice from me...\xf000븁\x0000Challenges are life!
+...Heh, what a mess! I was\xfffegonna tell you, but I got told!\xf000븁\x0000Still, you've definitely\xfffegot some promise.\xf000븁\x0000You gotta understand your Pokémon,\xfffeor you can't win a Rotation Battle!\xf000븁\x0000If you wanna do more Rotation Battles,\xfffeget to Souryuu City...
+I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000I love to ride a bike and become\xfffethe wind! Is that such a crime?
 Hodomoe Drawbridge
 Welcome to Hodomoe City!
-ホドモエが あらわしているのは\xfffeふねの ほと うずまく みずのこと
+Hodomoe City, home of\xfffeships' sails and whirling water
 Hodomoe Market
 Hodomoe Pokémon Gym\xfffeLeader: Yacon\xf000븀\x0000\xfffeBoss of the Underground

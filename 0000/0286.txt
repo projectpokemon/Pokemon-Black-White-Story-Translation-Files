@@ -1,10 +1,10 @@
-ポケモンミュージカルへ ようこそ！\xf000븁\x0000こちらでは おひとりさま からでも\xfffeミュージカルに さんかできます\xf000븁\x0000ミュージカルに さんかされますか？
-それでは こちらへ どうぞ！\xf000븁\x0000
-それでは また おこしください
-さんかする えんもくを\xfffeえらんでください
-それでは さんかする\xfffeポケモンを えらんでください\xf000븁\x0000
-\xf000Ā\x0001\x0000さん！\xf000븁\x0000\xf000Ā\x0001\x0000さん！\xf000븁\x0000\xf000Ā\x0001\x0000さん！\xf000븁\x0000かんげきの あまり\xfffeことばが でてこないです……
-ポケモン まぶしいほど\xfffeかがやいていました！\xf000븁\x0000\xf000Ā\x0001\x0000さんの センス\xfffeあたしも まねして いきたいです！
+Welcome to the Pokémon Musical!\xf000븁\x0000Here you can take part\xfffein musicals on your own.\xf000븁\x0000Will you take part in a musical?
+This way, please!\xf000븁\x0000
+We hope to see you again!
+Please select a show\xfffeto participate in.
+Now, choose a Pokémon\xfffeto enter into the show.\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000\xf000Ā\x0001\x0000!\xf000븁\x0000\xf000Ā\x0001\x0000!\xf000븁\x0000It doesn't have\xfffemuch oomph to it...
+Your Pokémon\xffffewere dazzling!\xf000븁\x0000I wish I could imitate\xfffeyour sense, \xf000Ā\x0001\x0000!
 また みにきますね\xfffe\xf000Ā\x0001\x0000さん\xf000븁\x0000だって じんせい かわるほど\xfffeすばらしかったんですもの
 \xf000Ā\x0001\x0000さん！ さっきの\xfffeミュージカル さいこう でした！\xf000븁\x0000なんだか げんきが わいてくるんです\xfffeこれからも がんばってください！
 よかったよ……\xfffeアンタ すごいよ……\xf000븁\x0000ゆめや きぼうが つまっていて\xfffeオレも もういちど やまにのぼるよ！
@@ -24,22 +24,22 @@
 あなたの ぶたい……\xfffeおもわず みとれて しまうわ\xf000븁\x0000まるで なにか ふしぎな\xfffeチカラが あるみたい……\xf000븁\x0000これ…… かつやく できるように\xfffeおまじない しておいたから\xf000븁\x0000
 \xf000Ā\x0001\x0000さんの ぶたいは\xfffeとても げいじゅつてき ですな！\xf000븁\x0000げいじゅつかの わたくしが\xfffeいうのだから まちがいありませんよ！\xf000븁\x0000よろしければ このグッズ\xfffeうけとって くだされ！\xf000븁\x0000
 ほんとうはこのキャラはいません。
-\xf000\xff00\x0001\x0002\xf000Ċ\x0001\x0001\xf000\xff00\x0001\x0000を もらった！
-\xf000Ā\x0001\x0000は\xfffe\xf000Ċ\x0001\x0001を\xf000븀\x0000\xf000\xff00\x0001\x0002グッズケース\xf000\xff00\x0001\x0000の なかに しまった！
-\xf000Ā\x0001\x0000は\xfffe\xf000Ċ\x0001\x0001を\xf000븀\x0000\xf000\xff00\x0001\x0002グッズケース\xf000\xff00\x0001\x0000の なかに しまった！\xf000븁\x0000
-Ｓｔａｒｄｏｍ！
-もりでおさんぽ
-イブニングパーティ
-じょうねつのライモン
+Received \xf000\xff00\x0001\x0002\xf000Ċ\x0001\x0001\xf000\xff00\x0001\x0000!
+\xf000Ā\x0001\x0000 put the\xfffe\xf000Ċ\x0001\x0001 in the \xf000\xff00\x0001\x0002Goods Case\xf000\xff00\x0001\x0000!
+\xf000Ā\x0001\x0000 put the\xfffe\xf000Ċ\x0001\x0001 in the \xf000\xff00\x0001\x0002Goods Case\xf000\xff00\x0001\x0000!\xf000븁\x0000
+Stardom!
+Forest Stroll
+Evening Party
+Passionate Raimon
 \xf000Ģ\x0001\x0000
 Quit
 Yes
 No
-せつめいをきく
-リーダーになる
-グループにはいる
+Explanation
+Be Leader
+Enter Group
 Quit
-けってい
+Confirm
 つごうの わるくなった\xfffeメンバーが います\xf000븁\x0000もういちど さいしょから\xfffeつうしんを やりなおして ください
 ポケモンミュージカルへ ようこそ！\xf000븁\x0000こちらでは おともだちと\xfffeミュージカルに さんかできます！\xf000븁\x0000ミュージカルに さんかされますか？
 おきゃくさまの てもちに\xfffeさんか かのうな ポケモンが いません！\xf000븁\x0000ミュージカルに さんか かのうな\xfffeポケモンを つれて\xf000븀\x0000もういちど おこしください\xf000븁\x0000

@@ -1,53 +1,53 @@
-Cheren: Stop, \xf000Ā\x0001\x0000!\xf000븁\x0000We've both got the Bolt Badge,\xfffeso I want to see who's stronger!\xf000븀\x0000Well, let's have at it!\xf000븁\x0000
-Cheren: ...Why? Why can't\xfffeI win against you?\xf000븁\x0000
-Kamitsure: So you two\xfffeare friends, then...\xf000븁\x0000How nice... That way,\xfffeyou can boost each\xf000븀\x0000up when needed!\xf000븁\x0000
+Cheren: Halt, \xf000Ā\x0001\x0000!\xf000븁\x0000We've both got the Bolt Badge, so I\xfffewant to see which of us is stronger!\xf000븀\x0000Well, let's have at it!\xf000븁\x0000
+Cheren: ...Why?\xfffeWhy can't I win against you?\xf000븁\x0000
+Kamitsure: So you two\xfffeare friends, then...\xf000븁\x0000How nice... That way, you can boost\xfffeeach other up when needed.\xf000븁\x0000
 Well, let's go.\xf000븁\x0000
 ???: Oh!\xfffeIf it isn't Kamitsure!\xf000븁\x0000
 ???: Festivals are great!\xfffeGotta have some fun with life!\xf000븁\x0000
 Cheren: ...And this is?\xf000븁\x0000
-Kamitaure: He's Adeku, the\xfffeChampion of the Isshu region.\xf000븁\x0000
-Cheren: Champion?!\xf000븁\x0000And why is the Champion frolicking\xfffein a place like this?\xf000븁\x0000
-Adeku: ...Man, I heard that!\xfffeYou're a harsh lad, ain't ya?\xf000븁\x0000Hey there.\xfffeMy name's Adeku.\xf000븁\x0000Champion of the\xfffeIsshu Pokémon League!\xf000븁\x0000And for your information, I'm not\xfffe"frolicking," I'm questing! Questing\xf000븀\x0000through every nook and cranny of Isshu!\xf000븁\x0000
+Kamitsure: He's Adeku, the Champion\xfffeof the Isshu region.\xf000븁\x0000
+Cheren: He's the Champion?!\xf000븁\x0000And why is the Champion frolicking\xfffein a place like this?\xf000븁\x0000
+Adeku: ...Man, I heard that!\xfffeYou're a harsh lad, ain't ya?\xf000븁\x0000Hey there.\xfffeMy name's Adeku.\xf000븁\x0000Champion of the\xfffeIsshu Pokémon League!\xf000븁\x0000And for your information,\xfffeI'm not "frolicking,"\xf000븀\x0000I'm questing!\xf000븁\x0000Questing through every\xfffenook and cranny of Isshu!\xf000븁\x0000
 Cheren: ...I come from\xfffeKanoko Town, myself.\xf000븀\x0000Call me Cheren.\xf000븁\x0000As a trainer, it's my goal\xfffeto become Champion, but...\xf000븁\x0000
-Adeku: Hm! Adventuring with a goal is\xfffea right admirable thing.\xf000븁\x0000So what do you plan to do\xfffeonce you're Champion, kiddo?\xf000븁\x0000
-Cheren: ...Is there anything to\xfffeit beyond seeking power?\xf000븁\x0000The Champion is the strongest trainer\xfffe,and that's about it, right?\xf000븁\x0000
-Adeku: Hmm, getting stronger...\xfffestronger, huh...? Wonder if that's\xf000븀\x0000really such a good goal to have?\xf000븁\x0000Well, I won't be one to shoot\xfffedown your ideas, of course.\xf000븁\x0000
-Different strokes for different folks,\xfffeso I let people live with Pokémon\xf000븁\x0000how they see fit. I'm always putting\xfffethat first in my thoughts.\xf000븁\x0000But maybe if you tried battling the kids\xfffehere, you'd understand a lil' better.\xf000븁\x0000Would you have a Pokémon battle\xfffewith these two kids?\xf000븁\x0000
+Adeku: Hm! Adventuring with a goal's\xfffea right admirable thing.\xf000븁\x0000So what do you plan to do\xfffeonce you're Champion, kiddo?\xf000븁\x0000
+Cheren: ...Is there anything to it\xfffebeyond seeking power?\xf000븁\x0000The Champion is the strongest trainer...\xfffeand that's about it, right?\xf000븁\x0000
+Adeku: Hmm, getting stronger...\xfffestronger, huh...?\xf000븁\x0000Wonder if that's really\xfffesuch a good goal to have?\xf000븁\x0000Well, I won't be one to shoot down\xfffeyour ideas, of course.\xf000븁\x0000
+Different strokes for different folks,\xfffeso I let people live with Pokémon\xf000븀\x0000how they see fit.\xf000븁\x0000I'm always putting that\xfffefirst in my thoughts.\xf000븁\x0000But maybe if you tried\xfffeplaying with the kids here,\xf000븀\x0000you'd understand a lil' better.\xf000븁\x0000Would you two have a Pokémon\xfffebattle with these two kids?\xf000븁\x0000
 Hey, you!\xfffeC'mere for a sec.\xf000븁\x0000
 Cheren: ...I understand.\xf000븁\x0000Well, first...\xf000븁\x0000
-Cheren healed\xfffe\xf000Ā\x0001\x0000's Pokémon!
+Cheren recovered\xfffe\xfffe\xf000Ā\x0001\x0000's Pokémon!
 Cheren: Now, let's go!\xf000븁\x0000
 Adeku: Oh, you scamps! You didn't win,\xfffebut it was still a great battle!\xf000븀\x0000Your Pokémon sure look happy, too!\xf000븁\x0000
-Now then, lad.\xf000븁\x0000There's guys like you\xfffewho seek strength...\xf000븁\x0000And there are guys like\xfffethese who are satisfied\xf000븀\x0000just being with Pokémon.\xf000븁\x0000All kinds, I tell you.\xfffeAnd all kinds of answers, too.\xf000븁\x0000We seem to have different ideas of\xfffewhat it means to be Champion,\xf000븀\x0000but keep thinking yours anyway!\xf000븁\x0000
+Now then, lad.\xf000븁\x0000There's guys like you\xfffewho seek strength...\xf000븁\x0000And there are guys like these\xfffewho are satisfied\xf000븀\x0000just being with Pokémon.\xf000븁\x0000All kinds, I tell you.\xfffeAnd all kinds of answers, too.\xf000븁\x0000We seem to have different ideas\xfffeof what it means to be Champion,\xf000븀\x0000but keep thinking yours anyway!\xf000븁\x0000
 Adeku: Even totally different beings\xfffelike people and Pokémon\xf000븀\x0000can appreciate each other\xf000븀\x0000and be together... It's splendid!
 Uncle Adeku's real strong!\xfffeAnd he's so kind to his Pokémon, too!
 I used to think\xfffePokémon were pretty scary...\xf000븁\x0000But then Uncle Adeku taught me\xfffethat they're gentle and caring!
-Kamitsure: ...Well, let's go. The drawbridge\xfffeto Hodomoe is just ahead.\xf000븁\x0000
-Cheren: Being Champion is all about strength!\xfffeThat's all there is to it!\xf000븁\x0000
+Kamitsure: ...Well, let's go.\xfffeThe Hodomoe Drawbridge is just ahead.\xf000븁\x0000
+Cheren: The Champion is all about strength!\xfffeThat's the only answer there can be...!\xf000븁\x0000
 Cheren: Over here.\xf000븁\x0000
 Kamitsure: Okay, I'll get in contact.\xf000븁\x0000
-It's me.\xfffeLower the drawbridge.\xf000븁\x0000There's trainers here who\xfffewant to challenge you.\xf000븁\x0000Yeah.\xfffeThanks.\xf000븁\x0000
-Now watch!\xf000븁\x0000
+It's me.\xfffeLower the drawbridge.\xf000븁\x0000There's trainers here\xfffewho want to challenge you.\xf000븁\x0000Yeah.\xfffeThanks.\xf000븁\x0000
+Now, watch!\xf000븁\x0000
 Kamitsure: I've got a TV stint,\xfffeso I'll be heading back now.\xf000븁\x0000The gym leader in the next town's\xfffea bit of an old-timer,\xf000븀\x0000but just do your best.\xf000븁\x0000
-Cheren: ...I'm a trainer.\xf000븁\x0000Getting stronger and winning is\xfffehow I can prove I'm right.\xf000븀\x0000Even to the Champion.\xf000븁\x0000
-すみませーん\xfffeそこで ストップしてくださーい\xf000븁\x0000
-はねばし なんですけど\xfffeふねが とおる かんけいで\xf000븀\x0000いま あがっていて とおれないのです\xf000븁\x0000ホドモエの ジムリーダーの\xfffeヤーコンさんに たのめ…… ないよね\xf000븁\x0000そうだね ライモンシティの\xfffeジムリーダー カミツレさん だったら\xf000븀\x0000なんとか してくれるかも
-はねばし なんですけど\xfffeふねが とおる かんけいで\xf000븀\x0000いま あがっていて とおれないのです\xf000븁\x0000ホドモエの ジムリーダーの\xfffeヤーコンさんに たのめ…… ないよね\xf000븁\x0000そうだね ライモンシティの\xfffeジムリーダー カミツレさん だったら\xf000븀\x0000なんとか してくれるかも\xf000븁\x0000
-どんな はしも\xfffeわたれないと ダメだよね！\xf000븁\x0000\xfffeだって はしは せかいを\xfffeつなぐ シンボル なんだから！
-ひびけっ！ おれの メロディー！\xfffeたたかえっ！ おれの ポケモン！\xf000븁\x0000
-しょうぶを して わかったよ\xf000븁\x0000オマエ サイコーだぜ！\xfffeこれを もっていけ！\xf000븁\x0000
-\xf000Ċ\x0001\x0000を もらった！
-\xf000Ā\x0001\x0001は\xfffe\xf000Ċ\x0001\x0000を\xf000븀\x0000グッズケースの なかに しまった！
-グッズの エレキギターを\xfffeポケモンに もたせたければ\xf000븁\x0000ミュージカルホールに いってみな！\xfffeきっと サイコーだぜ！
-チェレン『……つよいだけが\xfffeゆいいつの そんざいかち\xf000븁\x0000そう おもいこんでいた ぼくは\xfffeここで アデクさんと であった\xf000븁\x0000
-……ポケモンしょうぶに\xfffeかつことだけが すべてじゃない\xf000븁\x0000それを おしえてもらってから\xfffeいろんな ものが みえてきたよ\xf000븁\x0000
-みんな つよいよね\xf000븁\x0000ひとも ポケモンも\xfffeそれぞれの つよさを もっている\xf000븁\x0000ゆめを かなえる つよさや\xfffeなにかを まもる つよさ……\xf000븁\x0000
-こう おもえるように なったのは\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000きみや ベル…… それに\xf000븀\x0000アデクさんたちの おかげ なんだね\xf000븁\x0000……Ｎも おなじ ものを\xfffeみることが できたら いいのにな\xf000븁\x0000
-ぼくは チャンピオンロードで\xfffeじぶんじしんと むきあう\xf000븁\x0000じぶんに なにが できるのか\xfffeなにものに なれるのか……\xf000븁\x0000よければ きみも きてくれよ\xfffeポケモンしょうぶを したいからね\xf000븁\x0000
-ポケモンも パフォーマーも みんな\xfffeすごい わざの もちぬし なのね！
-だれかを えがおに できるなんて\xfffeすてきな さいのうだと おもうな！\xf000븁\x0000そう！ ポケモンは ステキなの！\xfffeだって アナタを えがおにするもの！
-ろじょうパフォーマンスも\xfffeライモンの みりょく だなや！
+Cheren: ...I'm a trainer.\xf000븁\x0000Getting stronger and winning\xfffeis how I can prove I'm right.\xf000븀\x0000Even to the Champion.\xf000븁\x0000
+Excuse meee!\xfffeStop there, pleeease!\xf000븁\x0000
+The drawbridge is currently\xffferaised for the passage of ships,\xf000븀\x0000so you can't go through.\xf000븁\x0000And Hodomoe's gym leader, Mr. Yacon...\xfffecan't exactly be requested to lower it.\xf000븁\x0000Well, if you had Raimon City's\xfffegym leader, Miss Kamitsure,\xf000븀\x0000maybe you could do something.
+The drawbridge is currently\xffferaised for the passage of ships,\xf000븀\x0000so you can't go through.\xf000븁\x0000And Hodomoe's gym leader, Mr. Yacon...\xfffecan't exactly be requested to lower it.\xf000븁\x0000Well, if you had Raimon City's\xfffegym leader, Miss Kamitsure,\xf000븀\x0000maybe you could do something.\xf000븁\x0000
+Whatever the bridge,\xfffeit's no good if you can't cross!\xf000븁\x0000\xfffeThat's why bridges are a symbol\xfffeof the world being connected!
+ECHO, my melody\xfffeFIGHT, my Pokémon!\xf000븁\x0000
+I learned from that battle...\xf000븁\x0000I learned you're the BEST!\xfffeTake this with you!\xf000븁\x0000
+Received \xf000Ċ\x0001\x0000!
+\xf000Ā\x0001\x0001 put the\xfffe\xf000Ċ\x0001\x0000 in the Goods Case!
+Put that Electric Guitar accessory on a\xfffePokémon and go to the Musical Hall!\xf000븀\x0000You'll be the best around!
+Cheren: ...Strength was the\xfffesole value of my existence.\xf000븁\x0000When I met Adeku here,\xfffeof that I was convinced.\xf000븁\x0000
+...But winning in Pokémon\xfffebattles isn't everything.\xf000븁\x0000Ever since I've been shown that,\xfffeI've seen so much more.\xf000븁\x0000
+In a way, everyone is strong...\xf000븁\x0000People and Pokémon possess\xfffetheir own unique strengths.\xf000븁\x0000Strength to make dreams come true,\xfffestrength to protect things...\xf000븁\x0000
+I've come to think that\xfffebecause of you, \xf000Ā\x0001\x0000.\xf000븀\x0000Thanks to you and Bel...\xf000븀\x0000and Adeku, and all the rest.\xf000븁\x0000...It would have been nice if\xfffeN could have seen the same thing.\xf000븁\x0000
+I'm going to take a look\xfffeat myself on Victory Road.\xf000븁\x0000What can I accomplish,\xfffeand what should I become...?\xf000븁\x0000If you want, you can come too. I'd like\xfffeto have Pokémon battles with you.\xf000븁\x0000
+Pokémon and performers\xfffeboth have sweet moves!
+It's a fantastic ability to be able\xfffeto put a smile on someone's face!\xf000븁\x0000Yeah! Pokémon are fantastic!\xfffeBecause they make you smile!
+Even the street performers\xfffeadd to Raimon's charm!
 Route 5\xfffePerformer's Street
 Hodomoe Drawbridge
 Hodomoe Drawbridge
-Trainer Tips!\xf000븁\x0000\xfffe\xfffeYour Bag has pockets\xfffefor each type of item.\xf000븁\x0000\xfffeItems automatically get sorted\xfffewhen placed in the bag.\xf000븁\x0000\xfffeIt's easy to find an item by\xfffelooking at the names of the pockets.
+Trainer Tips!\xf000븁\x0000\xfffe\xfffeYour Bag has pockets\xfffefor each type of item.\xf000븁\x0000\xfffeItems automatically get sorted\xfffewhen placed in the bag.\xf000븁\x0000\xfffeIt's easy to find an item\xfffeby looking at the name of the pockets.
