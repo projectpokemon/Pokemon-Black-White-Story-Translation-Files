@@ -10,4 +10,4 @@ Quit
 Trainer! The area ahead is\xfffetoo sand-filled to proceed!\xf000븁\x0000I'll be working hard to\xffferemove the sand, so just wait!
 Trainer! The area ahead is\xfffetoo sand-filled to proceed!\xf000븁\x0000I'll be working hard to\xffferemove the sand, so just wait!\xf000븁\x0000
 As you sink down into the sand,\xfffeyou can get all the way to the bottom!
-I know two things\xffffeabout quicksand!\xf000븁\x0000You'll always sink\xfffein the very center!\xf000븁\x0000And if you run on it,\xfffethe sand will suck you in!
+I know two things\xfffeabout quicksand!\xf000븁\x0000You'll always sink\xfffein the very center!\xf000븁\x0000And if you run on it,\xfffethe sand will suck you in!
