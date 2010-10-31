@@ -1,32 +1,32 @@
 Bel: Heeey!\xfffeAwesome, huh?!\xf000븁\x0000
-Owner: Oh, hello, trainers!\xfffeNice to meet you!\xf000븁\x0000I'm the owner of this\xfffemusical hall.\xf000븁\x0000
-Hmm! I get a good feeling\xfffefrom you trainers!\xf000븁\x0000Putting decorations on\xfffePokémon... You might\xf000븀\x0000call it dress-up, but won't you\xf000븀\x0000please give it a try?\xf000븁\x0000Here, I'll even throw in\xfffea free Decoration Case!\xf000븁\x0000
-You can put decorations\xfffeon your Pokémon inside\xf000븀\x0000that Decoration Case!\xf000븁\x0000Okay, first, choose a\xfffePokémon!\xf000븁\x0000
-T1おっと！ ざんねん ですが\xfffeきみが いま つれている\xf000븀\x0000T2ポケモンでは ドレスアップできないね\xf000븁\x0000T3こんど べつの ポケモンで\xfffeドレスアップして くださいませ\xf000븁\x0000
-T4なるほど！ なにもつけずに\xfffeポケモンそのままの みりょくを\xf000븀\x0000T5ひょうげん するのですね\xf000븁\x0000T6ただ ミュージカルでは\xfffeドレスアップしたほうが うけますよ\xf000븁\x0000
-T7いやいや そんなこと いわずに\xfffeえらんでくださいよ！\xf000븁\x0000T8それそれ きを とりなおして\xfffeポケモンを えらんでくださいませ！\xf000븁\x0000
-Now..\xfffelet's dress them up!\xf000븁\x0000
-Oh! The two of you are so\xfffewell-coordinated!\xf000븀\x0000It 's positively charming!\xf000븁\x0000
-Once you've dressed someone up,\xfffethey can be entered into a\xf000븁\x0000musical!\xf000븁\x0000Please, I implore you to\xfffeenter a musical!\xf000븁\x0000Go to the receptionist for\xfffean explanation on musicals.\xf000븁\x0000Well, I look forward to\xfffeseeing you on stage!\xf000븁\x0000
-Bel: Hmm... Wonder\xfffewhat we should do?\xf000븁\x0000Musicals sound wonderful\xfffeand all, but there are\xf000븁\x0000other things I'm curious\xfffeabout...\xf000븁\x0000..Okay, decided!\xfffeI NEED to see the rest of Raimon!\xf000븁\x0000See you, \xf000Ā\x0001\x0000!\xf000븁\x0000
-ぜひぜひ ミュージカルに\xfffeさんか してくださいませ！\xf000븁\x0000ただし！ グッズを きせづらい\xfffeポケモンが いても おゆるしください\xf000븁\x0000だって ポケモンですからね
-ちょっと！ きみ！\xf000븁\x0000おともだちと いっしょに\xfffeミュージカルに さんか しましたね\xf000븁\x0000ミュージカルの あたらしい\xfffeかのうせいを かんじましたよ！\xf000븁\x0000そんな きみに プレゼントです\xfffeえんりょせず うけとってくださいませ\xf000븁\x0000
-では ぶたいで あえる ひを\xfffeたのしみに しておりますよ！
-いつも さんか してくれて\xfffeオーナーとして うれしいです！\xf000븁\x0000きたいの スタイリストとして\xfffeかなり ちゅうもく されていますね\xf000븁\x0000もちろん わたしも きみに\xfffeちゅうもく しておりますよ\xf000븁\x0000これは そんな わたしの きもちです\xfffeえんりょせず うけとってくださいませ\xf000븁\x0000
-では ぶたいで あえる ひを\xfffeたのしみに しておりますよ！\xf000븁\x0000って まえにも おなじ せりふを\xfffeいった きが いたします……\xf000븁\x0000いいんです\xfffeわたしは オーナーですからね
-いつも さんか してくれて\xfffeオーナーとして うれしいですよ！\xf000븁\x0000ちかごろでは きみのことを\xfffeトップスタイリスト なんて よぶ\xf000븀\x0000かんきゃくも いるようですね\xf000븁\x0000もっとも…… きみの さいのうを\xfffeみぬいた わたしも すごいですよね？\xf000븁\x0000これは かんしゃの きもちです\xfffeえんりょせず うけとってくださいませ\xf000븁\x0000
-これからも ぜひぜひ\xfffeミュージカルを たのしんでください！
-ハッピー バースデイ！！\xf000븁\x0000わたしからは この ハッピーな\xfffeグッズを きみに プレゼントです！\xf000븁\x0000オーナーの わたしが\xfffeわたすのは ケーキ！\xf000븁\x0000もちろん グッズですから\xfffeポケモンに つけることも できます！\xf000븁\x0000ちなみに きょうが きみの\xfffeたんじょうび じゃなくても\xf000븀\x0000わたしは あやまったりしませんよ！\xf000븁\x0000だって\xfffeわたしは オーナーですからね\xf000븁\x0000
-もっともっと みりょくてきに\xfffeポケモンを きかざりたいから\xf000븁\x0000ほかの ひとの ドレスアップも\xfffeけんきゅう してるのさ！
-おつかれっ！ きみの\xfffeポケモンの かつやく みてたよ！\xf000븁\x0000ぜんたいてきに\xfffeとても \xf000ģ\x0001\x0000！\xf000븁\x0000アクセントで \xf000ģ\x0001\x0001な グッズを\xfffeつけていて よかったと おもうな！\xf000븁\x0000\xf000ģ\x0001\x0002さは ひかえめ だったね\xf000븁\x0000よし！ ぼくも まけないよ！！
-ずもっ！！
+Oh, hello, trainers!\xf000븁\x0000I'm the owner of this musical hall.\xfffeNice to meet you!\xf000븁\x0000
+Hmm! I get a good feeling\xfffefrom you trainers!\xf000븁\x0000Putting decorations on Pokémon...\xfffeYou might call it "dress-up,"\xf000븀\x0000but won't you please give it a try?\xf000븁\x0000Here, I'll even give you\xfffea free Goods Case!\xf000븁\x0000
+You can put decorations for your\xfffePokémon inside that Goods Case!\xf000븁\x0000Okay, first,\xfffechoose a Pokémon!\xf000븁\x0000
+Oops! I'm sorry, but\xfffeunfortunately, you can't dress up\xf000븀\x0000any of those Pokémon!\xf000븁\x0000Come by another time to\xfffedress up some different Pokémon!\xf000븁\x0000
+I see! I suppose you could\xfffeput nothing on a Pokémon\xf000븀\x0000and present its bare charn...\xf000븁\x0000But dressing them up is typically\xfffemore effective in musicals!\xf000븁\x0000
+No, I insist!\xfffePlease, choose one!\xf000븁\x0000Please reconsider and\xfffepick a Pokémon!\xf000븁\x0000
+Now, let's\xfffedress them up!\xf000븁\x0000
+Ohhh! The two of you\xfffeare so well-coordinated!\xf000븀\x0000It's positively charming!\xf000븁\x0000
+Once you've dressed someone up,\xfffethey can be entered into a musical!\xf000븁\x0000Please, I implore you\xfffeto enter a musical!\xf000븁\x0000Go to the receptionist for an\xfffeexplanation on musicals.\xf000븁\x0000Well, I look forward to\xfffeseeing you on the stage!\xf000븁\x0000
+Bel: Hmm...\xfffeWonder what should we do?\xf000븁\x0000Musicals sound wonderful and all,\xfffebut there are other things\xf000븀\x0000I'm curious about...\xf000븁\x0000...Okay, decided! I NEED to\xfffesee the rest of Raimon!\xf000븁\x0000See you, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Please, do take part\xfffein a musical!\xf000븁\x0000However! Please note that there are\xfffePokémon that are hard to accessorize.\xf000븁\x0000They are Pokémon, after all!
+Hold on! You there!\xf000븁\x0000So you've entered into\xfffea musical with a friend!\xf000븁\x0000That allows you new possibilities\xfffein the realm of musicals!\xf000븁\x0000Let me give you a present.\xfffeGo on, take it!\xf000븁\x0000
+Well, I look forward to\xfffeseeing you on the stage!
+As the owner, I'm exceptionally\xfffeglad for all your participation!\xf000븁\x0000You've caught the attention\xfffof aspiring stylists!\xf000븁\x0000And of course, you've caught\xfffemy attention as well!\xf000븁\x0000Let me show you how I feel.\xfffeGo on, take it!\xf000븁\x0000
+Well, I look forward to\xfffeseeing you on the stage!\xf000븁\x0000Hm, I feel like I've\xfffesaid that one before...\xf000븁\x0000But who cares!\xfffeFor I am the owner!
+As the owner, I'm exceptionally\xfffeglad for all your participation!\xf000븁\x0000Lately the audience has been\xfffeyou calling our "top stylist!"\xf000븁\x0000Of course... I'm no slouch either\xfffefor seeing your talent, am I right?\xf000븁\x0000Let me show you my thanks.\xfffeGo on, take it!\xf000븁\x0000
+I emplore you to\xfffecontinue enjoying musicals!
+HAPPY BIRTHDAY!!\xf000븁\x0000Here's a birthday present,\xfffea happy accessory from me to you!\xf000븁\x0000I, the owner,\xfffegive you this cake!\xf000븁\x0000Of course, it's an accessory,\xfffeso you can put it on your Pokémon!\xf000븁\x0000By the way, I make no apology\xfffeif it isn't actually your birthday!\xf000븁\x0000For I am...\xfffethe owner!\xf000븁\x0000
+I want to adorn my Pokémon\xfffeyet more and more charmingly, so...\xf000븁\x0000I study how other people\xfffedress up their Pokémon!
+Well done!\xfffeI saw your Pokémon out there!\xf000븁\x0000The whole thing\xfffewas so very \xf000ģ\x0001\x0000!\xf000븁\x0000I think it's great that you focused\xfffeon \xf000ģ\x0001\x0001 accessories!\xf000븁\x0000Not so much \xf000ģ\x0001\x0002, though...\xf000븁\x0000Right! I won't stand down!!
+ZUMOOO!!
 ドレスアップ するなら\xfffeミュージカルの えんもくに\xf000븀\x0000あっているかが ポ・イ・ン・ト！\xf000븁\x0000あっていれば かんきゃくの\xfffeハートを わしづかみ！\xf000븀\x0000まちがいなく ちゅうもく されるわ！\xf000븁\x0000せっかく ステージに あがるなら\xfffeめだたないと もったいないもの！
-ポケモンの グッズには\xfffeそれぞれ イメージが あるです\xf000븁\x0000クール キュート エレガント\xfffeそして ユニーク\xf000븁\x0000どういう イメージにするか\xfffeかんがえて ドレスアップするのも\xf000븀\x0000ありだと おもいますです
-じぶんで いうのも なんだけど\xfffeおかねもち なのね あたしたち\xf000븁\x0000で おかねもち といえば ミュージカル\xfffeいわゆる たしなみって やつね
-すばらしい！ ポケモンを\xfffeみりょくてきに ドレスアップできる\xf000븀\x0000トレーナーは じつに すばらしい！
-きみの ポケモンは すばらしいね\xfffeいつも みているんだよ\xf000븁\x0000これからも わたしたちを\xfffeたのしませてくれると うれしいな
-きみが さんかする えんもくは\xfffeすべて みさせて もらっている！\xf000븁\x0000おかねもちの わたしから みても\xfffeじつに すばらしい！\xf000븀\x0000ごくじょうの エンターテイメントだ！
-ぜんかい ほぞんした\xfffeミュージカルショットが ある！\xf000븁\x0000
+Pokémon accessories\xfffehave varying styles...\xf000븁\x0000Cool, cute, elegant, and unique.\xf000븁\x0000Certainly you'll want to think\xfffewhich style you're going for!
+We've said it ourselves,\xfffebut we are rich and wealthy!\xf000븁\x0000Being wealthy, we are obviously\xfffequite fond of all musicals!
+In-CREDIBLE! Trainers that can\xfffedress up their Pokémon charmingly\xf000븀\x0000are INCREDIBLE!
+Your Pokémon are fantastic!\xfffeI'm always paying attention to them!\xf000븁\x0000I'd be happy if you could\xfffekeep entertaining us!
+I've seen every show\xfffeyou've participated in!\xf000븁\x0000Take it from a wealthy watcher,\xfffeyou're truly something else!\xf000븀\x0000A first-rate entertainer!
+There are Musical Shots\xfffethat record the previous show!\xf000븁\x0000
 ここには さんかした えんもくの\xfffeミュージカルショットを\xf000븀\x0000かざることが できます
 あたしねー\xfffeキュートな ポケモンが いると\xf000븀\x0000くぎづけに なっちゃう！
 この ミュージカルホールだが\xfffeもともとは ひとが えんじていたんだ\xf000븁\x0000だけどね あるとき うっかり\xfffeポケモンが ステージの うえにあがり\xf000븀\x0000ひとの まねを しだしたんだよね\xf000븁\x0000それが おおもりあがり で\xfffeじゃあ！ ってことで ポケモンだけの\xf000븀\x0000ミュージカルを はじめたんだよね

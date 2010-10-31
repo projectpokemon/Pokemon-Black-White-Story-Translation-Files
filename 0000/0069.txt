@@ -7,7 +7,7 @@ N: \xf000븉\x0001\x0001I'm just fine.\xf000븁\x0000My followers,\xfffewho coll
 \xf000븉\x0001\x0001I see...\xfffeThat's a shame.\xf000븁\x0000Now then...\xfffeThis is the future I have seen...\xf000븁\x0000Even if I cannot win against\xfffeyou here, I shall fight you\xf000븀\x0000for the sake of Team Plasma!\xf000븉\x0001\x0000\xf000븁\x0000
 N: \xf000븉\x0001\x0001...You are strong.\xf000븁\x0000But there is a future\xfffeI must change.\xf000븀\x0000And so...!\xf000븉\x0001\x0000\xf000븁\x0000
 I shall surpass the Champion.\xf000븁\x0000I will become\xfffean undefeatable opponent.\xf000븁\x0000And I will liberate Pokémon\xfffefrom all trainers!\xf000븁\x0000But you wish to be\xfffetogether with Pokémon...!\xf000븁\x0000If that is your desire,\xfffethen collect all the gym badges\xf000븀\x0000and come to the Pokémon League!\xf000븁\x0000Once there, try to stop me!\xf000븁\x0000
-\xf000븉\x0001\x0001If you do not feel as strongly...\xf000븀\x0000you shall not stop me.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001If you do not feel as strongly...\xfffeyou shall not stop me.\xf000븉\x0001\x0000\xf000븁\x0000
 Go, go, roller coasteeeeer!\xfffeYou spinnin', spinnin' roller coaster!
 Round and round the Ferris wheel goes!\xfffeHow high it reaches, nobody knows!
 No matter how old I am,\xfffeamusement parks make my heart dance...

@@ -1,12 +1,12 @@
-Is \xf000ā\x0001\x0000\xfffe your favorite Pokémon?
-Is that Egg\xfffeyour favorite?
-I knew it! I knew it!\xfffeI knew I was right!
-What!?\xf000ā\x0001\x0000\xfffe isn't your favorite!?
-What!? That Egg\xfffeisn't your favorite!?
-I can tell everyone's\xfffefavorite Pokémon!
-When I'm tired, I need a break!\xfffeIt's the same thing with Pokémon.
-Do you need to heal your Pokémon?\xfffeOh, I'm sorry!\xf000븁\x0000
-Do you know about Geonet?
-You! Are you using Geonet!?\xfffeYou batter be...\xf000븀\x0000You should try the GTS.\xf000븁\x0000さTalk to the girl next\xfffeto the giant globe.\xf000븀\x0000You can trade Pokémon online!\xf000븁\x0000You'll regret not\xfffeusing it! It's awesome!
-Oh! You know about Geonet!\xfffeThat's great!\xf000븁\x0000Make sure you go\xfffeand register your location!\xf000븁\x0000That way your friends\xfffecan use Geonet to\xf000븀\x0000see where you're from!
-There's a globe on the 2nd\xfffefloor of every Pokémon Center.\xf000븁\x0000It's called Geonet.\xf000븁\x0000You can use it to register\xfffeyour location and see where your\xf000븀\x0000friends around the world live!
+I presume \xf000ā\x0001\x0000\xfffeis your favorite Pokémon?
+I presume that Egg\xfffeis your favorite Pokémon?
+I knew it! I knew it!\xfffeI presumed the correct presumption!
+Whaaat?! \xf000ā\x0001\x0000\xfffeISN'T your favorite?!
+Whaaat?! That Egg\xfffeISN'T your favorite?!
+I want to know\xfffeeveryone's favorite Pokémon!
+When you're tired, you rest!\xfffeIt's the same for people and Pokémon.
+Do ya need to heal your Pokémon?\xfffeOh, I'm sooo sorry!\xf000븁\x0000
+Do ya know about Geonet?
+You! You're using the Geonet?!\xfffeAwesomeness!\xf000븀\x0000Just a between-ya-and-me...\xf000븁\x0000The latest in technology\xfffewill let ya trade Pokémon\xf000븀\x0000with people from REALLY far away!\xf000븁\x0000...I thought I was being had,\xfffebut I tried it, and I was amazed!
+Oh! Ya do know about Geonet!\xfffeAren't ya cool!\xf000븁\x0000But I'll tell ya how to be\xfffesuper-duper-cooler-than-ice!\xf000븁\x0000When ya check the Geonet, ya can\xffferecord exactly where ya live!
+Ya see the globe on the\xfffesecond floor of the Pokémon Center?\xf000븁\x0000That's called the Geonet.\xf000븁\x0000When ya check the Geonet, ya can\xffferecord exactly where ya live!

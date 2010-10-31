@@ -19,9 +19,9 @@ Cheren healed\xfffe\xf000Ā\x0001\x0000's Pokémon!
 Cheren: Now, let's go!\xf000븁\x0000
 Adeku: Oh, you scamps! You didn't win,\xfffebut it was still a great battle!\xf000븀\x0000Your Pokémon sure look happy, too!\xf000븁\x0000
 Now then, lad.\xf000븁\x0000There's guys like you\xfffewho seek strength...\xf000븁\x0000And there are guys like\xfffethese who are satisfied\xf000븀\x0000just being with Pokémon.\xf000븁\x0000All kinds, I tell you.\xfffeAnd all kinds of answers, too.\xf000븁\x0000We seem to have different ideas of\xfffewhat it means to be Champion,\xf000븀\x0000but keep thinking yours anyway!\xf000븁\x0000
-アデク『ひとと ポケモンの ように\xfffeぜんぜん ちがう そんざいが\xf000븀\x0000おたがいを みとめあって\xf000븀\x0000いっしょに いるのは すばらしいな！
-おじいちゃんはね とても つよいんだ！\xfffeそれにね ポケモンに やさしいよ！
-あたし ポケモンって\xfffeこわいと おもっていたけど\xf000븁\x0000やさしくて あたたかいこと\xfffeおじいちゃんが おしえてくれたの
+Adeku: Even totally different beings\xfffelike people and Pokémon\xf000븀\x0000can appreciate each other\xf000븀\x0000and be together... It's splendid!
+Uncle Adeku's real strong!\xfffeAnd he's so kind to his Pokémon, too!
+I used to think\xfffePokémon were pretty scary...\xf000븁\x0000But then Uncle Adeku taught me\xfffethat they're gentle and caring!
 Kamitsure: ...Well, let's go. The drawbridge\xfffeto Hodomoe is just ahead.\xf000븁\x0000
 Cheren: Being Champion is all about strength!\xfffeThat's all there is to it!\xf000븁\x0000
 Cheren: Over here.\xf000븁\x0000

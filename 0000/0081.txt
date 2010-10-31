@@ -1,32 +1,32 @@
-\xf000Ā\x0001\x0000は バトルポイントを\xfffe\xf000ȁ\x0001\x0001ＢＰ てにいれた！
-せいせきを レポートに かきますので\xfffeおまちください
-ごあんないする まえに\xfffeレポートを かきます
-おめでとう ございます！\xfffeみごと ７にんぬき たっせいです！\xf000븁\x0000\xfffe７にんぬきを たっせい しましたので\xfffeバトルポイントを しんてい します！\xf000븁\x0000
-おめでとう ございます！\xf000븁\x0000\xfffe７れんしょうを たっせいし\xfffeみごと サブウェイマスターを\xf000븀\x0000\xfffeたおしましたので バトルポイントを\xf000븀\x0000\xfffeしんてい いたします\xf000븁\x0000
-そして \xf000Ā\x0001\x0000さまは\xfffeスーパーシングルトレインに チャレンジ\xf000븀\x0000\xfffeする けんりを かくとく しました！\xf000븁\x0000
-そして \xf000Ā\x0001\x0000さまは\xfffeスーパーダブルトレインに チャレンジ\xf000븀\x0000\xfffeする けんりを かくとく しました！\xf000븁\x0000
-そして \xf000Ā\x0001\x0000さまは\xfffeスーパーマルチトレインに チャレンジ\xf000븀\x0000\xfffeする けんりを かくとく しました！\xf000븁\x0000
+\xf000Ā\x0001\x0000 obtained\xfffe\xf000ȁ\x0001\x0001 Battle Points!
+Saving results.\xfffePlease wait.
+Before being led,\xfffeyou must first write a report.
+Congratulations!\xfffeみごと ７にんぬき たっせいです！\xf000븁\x0000\xfffe７にんぬきを たっせい しましたので\xfffeバトルポイントを しんてい します！\xf000븁\x0000
+Congratulations!\xf000븁\x0000\xfffe７れんしょうを たっせいし\xfffeみごと サブウェイマスターを\xf000븀\x0000\xfffeたおしましたので バトルポイントを\xf000븀\x0000\xfffeしんてい いたします\xf000븁\x0000
+And \xf000Ā\x0001\x0000 acquired the privilege\xfffeof challenging the Super Single Train!\xf000븁\x0000
+And \xf000Ā\x0001\x0000 acquired the privilege\xfffeof challenging the Super Double Train!\xf000븁\x0000
+And \xf000Ā\x0001\x0000 acquired the privilege\xfffeof challenging the Super Multi Train!\xf000븁\x0000
 また きねんに\xfffeトロフィーを さしあげます\xf000븀\x0000ごじたくに おかざり ください！
 それでは ごゆっくり どうぞ\xf000븁\x0000\xfffeつづけて チャレンジしたい ばあいや\xfffeいったん ライモンシティに もどる\xf000븀\x0000\xfffeばあいは おこえを かけてください
 シングルトレインは ここで\xfffeしゅうてんと なります\xf000븁\x0000\xfffeライモンシティに もどる ばあいは\xfffeまた おこえを かけてください\xf000븁\x0000\xfffeそれでは ごゆっくり どうぞ
 ダブルトレインは ここで\xfffeしゅうてんと なります\xf000븁\x0000\xfffeライモンシティに もどる ばあいは\xfffeまた おこえを かけてください\xf000븁\x0000\xfffeそれでは ごゆっくり どうぞ
 マルチトレインは ここで\xfffeしゅうてんと なります\xf000븁\x0000\xfffeライモンシティに もどる ばあいは\xfffeまた おこえを かけてください\xf000븁\x0000\xfffeそれでは ごゆっくり どうぞ
-ライモンシティに もどりますか？
-では ライモンシティへ もどります\xf000븁\x0000
-どうなさいますか？
-つづけてチャレンジ
-ライモンシティにもどる
-まだここにいる
-おともだちの\xfffeせんたくを まっています……
-ライモンシティにもどるが\xfffeえらばれたので ちょうせんを\xf000븀\x0000\xfffeいったん ちゅうだんします
-そして \xf000Ā\x0001\x0000さまは\xfffeランク\xf000ȁ\x0001\x0001に なりました！\xf000븁\x0000
-こんかいの せいせきを Ｗｉ－Ｆｉ\xfffeコネクションに おくりますか？
-まだまだ さきは ながいけど\xfffeがんばろう！
-まだまだ さきは ながいけど\xfffeがんばろうね！
-やっと ここまで これたね\xf000븁\x0000どんどん あいてが つよくなるけど\xfffeまけずに がんばろう！
-やっと ここまで これたね\xf000븁\x0000どんどん あいてが つよくなるけど\xfffeまけずに がんばろう！
-ついに ここまで きてしまったね\xf000븁\x0000……もしかして ぼくたち\xfffeベスト パートナー！？
-ついに ここまで きてしまったね\xf000븁\x0000……もしかして わたしたち\xfffeベスト パートナー！？
+Return to Raimon City?
+Returning to Raimon City.\xf000븁\x0000
+What will you do?
+Continue challenge
+Return to Raimon City
+Stay here
+Waiting for your\xfffefriend's selection...
+You've chosen to return to Raimon City, so\xfffethe challenge will be temporarily ended.
+And \xf000Ā\x0001\x0000 ranked up\xfffeto Rank \xf000ȁ\x0001\x0001!\xf000븁\x0000
+Send these results\xfffeto Nintendo WFC?
+There's still a ways to go,\xfffebut good luck!
+There's still a ways to go,\xfffebut go for it!
+You've made it this far!\xf000븁\x0000Your opponents get stronger,\xfffebut don't give up, and don't lose!
+You've made it this far!\xf000븁\x0000Your opponents get stronger,\xfffebut don't give up, and don't lose!
+You've made it at last!\xf000븁\x0000...Perhaps you could be\xfffeour best partner?!
+You've made it at last!\xf000븁\x0000...Perhaps you could be\xfffeour best partner?!
 Ｗｉ－Ｆｉトレインは ここで\xfffeしゅうてんと なります\xf000븁\x0000\xfffeライモンシティに もどる ばあいは\xfffeまた おこえを かけてください\xf000븁\x0000\xfffeそれでは ごゆっくり どうぞ
 チャレンジが ちゅうだん されました
 チャレンジを ちゅうだん しました
@@ -116,4 +116,4 @@
 オレも アンタも １００れんしょう\xfffeオレもヒマだが アンタも ヒマねえ\xf000븁\x0000そんな オレと どうるいの アンタに\xfffeおちかづきの きねんだ とっとけよ\xf000븁\x0000
 そいつは きちょうな きのみらしいが\xfffeオレは ツマミに するくらいしか\xf000븀\x0000つかいかた わかんねえからな
 イッシュちほうの ろせんずだ\xf000븁\x0000
-つうしん たいきちゅう…
+Connection waiting...

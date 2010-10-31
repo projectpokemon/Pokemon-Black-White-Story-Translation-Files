@@ -1,14 +1,14 @@
-Jaro: You're the strong trainer that\xfffecame to the Dragon Spiral Tower.\xf000븁\x0000
-そなたは あの レシラムと\xfffeこころを かよいあわせているか？\xf000븁\x0000
-そなたは あの\xfffeレシラムを トモダチと せぬのか？\xf000븁\x0000
-そなたは あの ゼクロムと\xfffeこころを かよいあわせているか？\xf000븁\x0000
-そなたは あの\xfffeゼクロムを トモダチと せぬのか？\xf000븁\x0000
-この せかいに じぶんを\xfffeりかいしてくれる ものがいれば\xf000븁\x0000てんのはて ちのはてと\xfffeはなれていようとも\xf000븀\x0000となりに いるようなものである……\xf000븀\x0000そういう ことばが ある\xf000븁\x0000Ｎさまと ポケモンのように\xfffeそなたも そなたの ポケモンと\xf000븀\x0000りかいしあうのだ\xf000븁\x0000そのために これを\xf000븁\x0000
-ジャロ『……イッシュ でんせつは\xfffeポケモンと ひとの ちからを あわせ\xf000븀\x0000あたらしい せかいを つくった！\xf000븁\x0000ただ それだけの シンプルで\xfffeゆえに ちからづよい メッセージだな\xf000븁\x0000せかいを かえるのが えいゆうなら\xfffeひとは だれでも えいゆうに なれる\xf000븁\x0000それぞれを かえれば\xfffeせかいは かわるのだからな\xf000븁\x0000
-ハンサム『さてと……\xfffeプラズマだんに ついて\xf000븁\x0000こくさいけいさつの わたしに\xfffeいろいろ おしえてもらおう！\xf000븁\x0000
-ジャロ『かまわんよ\xf000븁\x0000プラズマだんは わたしを かえたが\xfffeせかいは かえられなかった……\xf000븀\x0000そなたたちが どうするか たのしみだ\xf000븁\x0000
-ハンサム『ありがとう\xf000븁\x0000これで ゲーチスを のぞき\xfffeのこる しちけんじんは\xf000븀\x0000あと \xf000Ȁ\x0001\x0000にんか……\xf000븁\x0000かれらが なにを かんがえ\xfffeのぞんでいたか しりたいものだ……\xf000븀\x0000では また あおう！\xf000븁\x0000
-ハンサム『ありがとう！\xf000븁\x0000さて \xf000Ā\x0001\x0000……\xfffeきみに つたえることが ある\xf000븁\x0000ここより はるか とおいところで\xfffeＮらしき じんぶつが\xf000븀\x0000ドラゴンポケモンと いるのを\xf000븀\x0000みたという じょうほうが あった\xf000븁\x0000わたしは じょうほうが ただしいか\xfffeたしかめに いくつもりだよ\xf000븀\x0000では また いつか あおう！\xf000븁\x0000
+Jaro: You're the powerful Pokémon trainer\xfffewho came to Dragon-Helix Tower!\xf000븁\x0000
+Did you join your heart\xfffewith Reshiram?\xf000븁\x0000
+Did you become friends\xfffewith Reshiram?\xf000븁\x0000
+Did you join your heart\xfffewith Zekrom?\xf000븁\x0000
+Did you become friends\xfffewith Zekrom?\xf000븁\x0000
+In this world, as long as\xfffeyou understand yourself...\xf000븁\x0000You can make the heavens,\xfffethe ends of the earth,\xf000븀\x0000the furthest things seem\xf000븀\x0000to be right beside you...\xf000븀\x0000That's what they say.\xf000븁\x0000Like Lord N and his Pokémon,\xfffeyou and your Pokémon\xf000븀\x0000have a mutual understanding.\xf000븁\x0000Thus, take this.\xf000븁\x0000
+Jaro: ...The legend of Isshu is that of\xfffea new world's creation through the\xf000븀\x0000combined forces of man and Pokémon!\xf000븁\x0000That simple fact carries\xfffea reassuring message.\xf000븁\x0000If those that change the world are\xfffeheroes, then anyone can be a hero.\xf000븁\x0000Through everyone's respective changes,\xfffethe whole world can gradually change.\xf000븁\x0000
+Looker: Alright, then...\xfffeI'm an international policeman,\xf000븁\x0000so tell me what you know\xfffeabout Team Plasma!\xf000븁\x0000
+Jaro: Well, I don't mind.\xf000븁\x0000Team Plasma changed me,\xfffebut the world refused to change...\xf000븀\x0000I'm expectant of what you all\xf000븀\x0000will do with it.\xf000븁\x0000
+Looker: Thanks!\xf000븁\x0000Besides Geechisu, I guess this leaves\xfffe\xf000븀\x0000\xf000Ȁ\x0001\x0000 of the Seven Sages remaining...\xf000븁\x0000I want to know what they were\xfffethinking and hoping for...\xf000븀\x0000Well, see you again!\xf000븁\x0000
+Looker: Thanks!\xf000븁\x0000Okay, \xf000Ā\x0001\x0000...\xfffeThere's something I need to tell you.\xf000븁\x0000I've heard intel that, somewhere\xfffereally far away from here,\xf000븀\x0000there's been sighting of an N-ish person\xf000븀\x0000with a dragon Pokémon.\xf000븁\x0000I'm going to go and see\xfffeif it's really true!\xf000븀\x0000Well, see you again someday!\xf000븁\x0000
 Route 14
 Trainer Tips!\xf000븁\x0000\xfffe\xfffeYou can have up to\xfffe24 boxes in your PC!\xf000븁\x0000\xfffeIn other words,\xfffeyou can store up to 720 Pokémon!
 Trainer Tips!\xf000븁\x0000\xfffe\xfffeWhen you changing the title\xfffeon your trainer card...\xf000븁\x0000\xfffeYour appearance to others in the\xfffeUnion Room and Chance-Upon Log\xf000븁\x0000\xfffewill be based on your title!\xf000븁\x0000\xfffeChange your introduction and character\xfffeto appeal to your personality!

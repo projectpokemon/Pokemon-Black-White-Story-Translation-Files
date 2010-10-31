@@ -1,17 +1,17 @@
-ただいま \xf000ȃ\x0001\x0000れんしょう！\xf000븁\x0000\xfffeつぎは \xf000Ȁ\x0001\x0001りょうめと なります\xfffeたいせんを つづけますか？
-つづける
-きろくする
-やすむ
-リタイア
-ちょうせんを ちゅうし しますか？
-レポートを かいて\xfffeちゅうだん しますか？
-レポートに かきこんでいます\xfffeでんげんを きらないでください
-すでにある バトルビデオを けして\xfffeいまの しょうぶを きろくしますか？
-おともだちの せんたくを\xfffeまっています
-ごあんないする まえに\xfffeレポートを かきます
-リタイアが えらばれたので\xfffeちょうせんを ちゅうし します
-バトルビデオを きろくちゅうです\xfffeでんげんを きらないで ください！
-\xf000Ā\x0001\x0000の たたかいが\xfffeきろく されました
-こんかいの たたかいを\xfffeバトルビデオに きろくしますか？
-つうしん たいきちゅう
+You're at \xf000ȃ\x0001\x0000!\xf000븁\x0000\xfffeNext up is \xf000Ȁ\x0001\x0001.\xfffeContinue battling?
+Continue
+Record
+Stop
+Retire
+End your challenge?
+Write a report\xfffeand take a break?
+Writing a report.\xfffePlease don't turn off the power.
+Delete the existing Battle Video\xfffeand record this battle?
+Waiting for your\xfffefriend's selection.
+Before being led,\xfffeyou must first write a report.
+You've chosen to retire,\xfffeso your challenge will be ended.
+Saving a Battle Video.\xfffePlease don't turn off the power!
+Recorded the battle\xfffewith \xf000Ā\x0001\x0000.
+Record a Battle Video\xfffefor this battle?
+Connection waiting.
 test
