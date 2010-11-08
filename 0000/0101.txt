@@ -28,14 +28,14 @@ Hey, trainer!\xf000븁\x0000\xfffeHave you fought the\xfffePokémon League's Eli
 By way of the sea...\xf000븁\x0000\xfffeMight the tears I shed here\xfffeflow all the way to Olivine City...?
 I was forced to battle Team Plasma,\xfffeI lost, and they stole my Pokémon...
 When you win, it's thanks to Pokémon...\xfffeWhen you lose, it's your own fault...\xf000븁\x0000Always thinking that way\xfffeis sure to turn ugly fast!
-Hey, I have a reason for loitering!\xf000븁\x0000It's 'cause I wanna loiter!\xf000븁\x0000Oh! And Pokémon using surf\xfffewill let ya proceed across water!
+Hey, I have a reason for loitering!\xf000븁\x0000It's 'cause I wanna loiter!\xf000븁\x0000Oh! And Pokémon using Surf\xfffewill let ya proceed across water!
 There are kids around the freezer storage\xfffecatching and training Pokémon!
 The lightning Pokémon\xfffeand the wind Pokémon...\xf000븁\x0000Both appear wherever they want\xfffeat their own whims.
 There are so many people\xfffeand so many Pokémon beyond the sea!
 There's an old man on Route 6\xfffelooking for a legendary Pokémon...\xf000븁\x0000If you're curious,\xfffeyou should meet him!
 Bridges are marvels!\xf000븁\x0000\xfffeThat's why bridges are a symbol\xfffeof the world being connected!\xf000븁\x0000...Wait, you're telling me a guy\xfffeon Route 5 said the same thing?!
 I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000I've been studying\xfffea new style of Pokémon battle\xf000븀\x0000to make women swoon!\xf000븁\x0000And its name is the Triple Battle!\xfffeWant to know about it?
-...I give! It's truly difficult\xfffemaking an opponent swoon...
+...Very well! It's truly difficult\xfffemaking an opponent swoon...
 A Triple Battle is a Pokémon battle\xfffewhere three Pokémon are sent out!\xf000븁\x0000The rules are simple!\xf000븁\x0000Just make all the\xfffeopponent's Pokémon faint...\xf000븁\x0000That's all there really is\xfffeto Triple Battles, roughly!\xf000븁\x0000
 I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000So, trainer! You wanna do it?\xfffe...Uh! A Triple Battle, I mean?!
 You've got dedication!\xf000븁\x0000But I am a man in love!\xfffeMy name is Charles!\xf000븁\x0000I'm always at full throttle!\xf000븁\x0000
@@ -44,7 +44,7 @@ I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000Here's some advice
 ...Heh, what a mess! I was\xfffegonna tell you, but I got told!\xf000븁\x0000Still, you've definitely\xfffegot some promise.\xf000븁\x0000You gotta understand your Pokémon,\xfffeor you can't win a Triple Battle!\xf000븁\x0000If you wanna do more Triple Battles,\xfffeget to Souryuu City...
 I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000I love to ride a bike and become\xfffethe wind! Is that such a crime?
 I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000I've been studying\xfffea new style of Pokémon battle\xf000븀\x0000to make women swoon!\xf000븁\x0000And its name is the Rotation Battle!\xfffeWant to know about it?
-...I give! It's truly difficult\xfffemaking an opponent swoon...
+...Very well! It's truly difficult\xfffemaking an opponent swoon...
 A Rotation Battle is a Pokémon battle\xfffewhere three Pokémon are sent out!\xf000븁\x0000And there's one set into the\xfffefront position, and two in the back!\xf000븁\x0000Their positions can be changed\xfffeat the cost of a turn...\xf000븁\x0000That's all there really is\xfffeto Rotation Battles, roughly!\xf000븁\x0000
 I... am a man in love.\xfffeMy name is Charles.\xf000븁\x0000So, trainer! You wanna do it?\xfffe...Uh! A Rotation Battle, I mean?!
 You've got dedication!\xf000븁\x0000But I am a man in love!\xfffeMy name is Charles!\xf000븁\x0000I'm always at full throttle!\xf000븁\x0000

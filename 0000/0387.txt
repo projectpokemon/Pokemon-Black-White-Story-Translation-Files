@@ -3,7 +3,7 @@ Shaga and Professor Araragi told us...\xfffeyou're heading to the Pokémon Leagu
 Cheren: If it's Adeku...\xfffeif it's the Champion fighting...\xf000븁\x0000Then I believe it'll turn out\xffferight in the end, but...\xf000븁\x0000If the worst should happen,\xfffeyou'll have to battle\xf000븀\x0000Team Plasma's boss, N...\xf000븁\x0000So I want to test you!\xfffeTo see just how strong you are!\xf000븁\x0000
 Cheren: You don't have to hide it.\xf000븁\x0000If the worst should happen,\xfffeyou'll have to battle\xf000븀\x0000Team Plasma's boss, N...\xf000븁\x0000So I want to test you!\xfffeTo see just how strong you are!\xf000븁\x0000
 Cheren: ...You're just too good.\xf000븁\x0000That's honestly what I think.\xf000븁\x0000...Well, I suppose I've got to\xfffemake your Pokémon better now.\xf000븁\x0000
-Cheren recovered\xfffe\xf000Ā\x0001\x0000's Pokémon!
+Cheren healed\xfffe\xf000Ā\x0001\x0000's Pokémon!
 Cheren: ...Neither Bel nor I\xfffeare any match for you now.\xf000븁\x0000If we can be any aid\xfffein the battle with N...\xf000븁\x0000
 Bel: \xf000Ā\x0001\x0000!\xf000븁\x0000It's all I can do for you, but...\xfffehave this, from me!\xf000븁\x0000
 Bel: Despite everything, it's been delightful!\xfffeEverybody and everything!\xf000븁\x0000

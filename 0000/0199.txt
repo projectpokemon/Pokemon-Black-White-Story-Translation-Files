@@ -1,8 +1,8 @@
-ここ？\xf000븁\x0000れいとうコンテナ だーよ\xf000븁\x0000なかに さぎょういん とか\xfffeやせいの ポケモンが おるだーよ！
-プラズマだんを さがさせているのも\xfffeヤーコンさん なんだかんだで\xf000븀\x0000おまえらのこと みとめてるだーよ
-Cheren: \xf000Ā\x0001\x0000...\xf000븁\x0000You don't think Team Plasma could\xfffebe in there, do you...?\xf000븁\x0000...I hate cold places, but I suppose\xfffewe'll have to check.\xf000븀\x0000What a pain...
-Cheren: ...\xf000Ā\x0001\x0000,would you hurry up\xfffeand look inside?
-そこの かなあみの すきまから\xfffeれいとうコンテナに いけるべ
-すこしの にもつは ポケモンで\xfffeたくさんの にもつは ふねで\xf000븁\x0000どんな ことにも\xfffeベストな やりかたが あるものさ
-ヘルメットは しょうげきから\xfffeまもってくれる だいじな どうぐ！\xf000븁\x0000きみの ポケモンにも\xfffeもたせると いいだろう！\xf000븁\x0000
-ゴツゴツメットは ふしぎな どうぐ\xfffeポケモンに もたせておくと\xf000븁\x0000だげきわざを うけたとき\xfffeあいてにも ダメージを あたえるぞ\xf000븁\x0000……だげきわざ ってのは\xfffeちょくせつ なぐったりする わざだぞ！
+This?\xf000븁\x0000This is the freezer storage!\xf000븁\x0000There are workers\xfffeand wild Pokémon inside!
+If he told you to search\xfffefor Team Plasma, Mr. Yacon\xf000븀\x0000must think pretty highly of you!
+Cheren: \xf000Ā\x0001\x0000...\xf000븁\x0000You don't think Team Plasma\xfffecould be in there, do you...?\xf000븁\x0000...I hate cold places, but\xfffeI suppose we'll have to check.\xf000븀\x0000What a pain...
+Cheren: ...\xf000Ā\x0001\x0000, would you\xfffehurry up and look inside?
+Go through the hole in that fence\xfffeto get to the freezer storage.
+Only a little cargo, use Pokémon.\xfffeA lot of cargo, use ships!\xf000븁\x0000Whatever you're dealing with,\xfffethere's a best way to deal with it!
+A helmet is an valuable tool\xfffefor protecting yourself from impacts!\xf000븁\x0000Your Pokémon should\xfffewear them, too!\xf000븁\x0000
+The Rugged Helmet is a\xfffewondrous item that, when held...\xf000븁\x0000Deals damage to the opponent\xfffewhenever it lands a blow!\xf000븁\x0000..."Landing a blow" being\xfffeany move that strikes directly!

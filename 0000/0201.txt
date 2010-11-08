@@ -7,7 +7,7 @@ Cheren: \xf000Ā\x0001\x0000, you handle\xfffethe Plasma grunts over there!
 Grunt: I can still be\xfffepretty strong in the cold!\xf000븁\x0000
 Grunt: ...I'm shivering too much\xfffeto win in a place this freezing...
 Grunt: ...I'm shivering too much\xfffeto win in a place this freezing...\xf000븁\x0000
-Grunt: I can be reeeeeal powerful in the cold!\xf000븁\x0000
+Grunt: I can be reeeeeal powerful\xfffein the cold!\xf000븁\x0000
 Grunt: ...We were getting things together\xfffeto transport some stolen Pokémon.\xf000븁\x0000We were assembled in front of\xfffethe freezer in the dead of night...\xf000븁\x0000And that old-timer Yacon\xfffesaw and caught us...
 Grunt: ...We were getting things together\xfffeto transport some stolen Pokémon.\xf000븁\x0000We were assembled in front of\xfffethe freezer in the dead of night...\xf000븁\x0000And that old-timer Yacon\xfffesaw and caught us...\xf000븁\x0000
 Grunt: I can be sorta good\xfffein the cold!\xf000븁\x0000

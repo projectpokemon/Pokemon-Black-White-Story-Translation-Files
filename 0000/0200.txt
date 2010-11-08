@@ -4,7 +4,7 @@ Cheren: ...?\xf000븁\x0000\xf000Ā\x0001\x0000,\xfffeis someone inside?
 Well... then should we go?
 But isn't that the only place\xfffewe haven't explored in this freezer?
 Well?\xfffeAren't you going to investigate?
-It's fun to play in the freezer,\xf000븁\x0000but some parts are frozen over,\xfffemaking you slip around!
+It's fun to play in the freezer...\xf000븁\x0000but some parts are frozen over,\xfffemaking you slip around!
 no data
 no data
 no data

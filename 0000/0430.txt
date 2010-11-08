@@ -41,9 +41,9 @@ Cheren: ... ... ...\xfffe... ... ...\xf000븁\x0000Bel...\xfffeLook around, woul
 Bel: WAAAH!\xfffeW-What's all this about?!\xf000븁\x0000
 Pokémon are MIND-BLOWING!!\xfffeAnd to think they're so dinky...!\xf000븁\x0000I'm sure glad\xfffeI could have a Pokémon!\xf000븁\x0000...Oh...\xfffeSorry, \xf000Ā\x0001\x0000.\xf000븁\x0000
 Cheren: ...There's really nothing\xfffeto be done with you, is there...\xf000븁\x0000Here! I'll recover\xfffeyour wounded Pokémon...\xf000븁\x0000
-Cheren recovered\xfffeBel's Pokémon!
+Cheren healed\xfffeBel's Pokémon!
 And of course, \xf000Ā\x0001\x0000's Pokémon\xfffeneeds to recover, too.\xf000븁\x0000
-Cheren recovered\xfffe\xf000Ā\x0001\x0000's Pokémon!
+Cheren healed\xfffe\xf000Ā\x0001\x0000's Pokémon!
 Cheren: A victory accomplished without\xfffereducing the Pokémon's HP... astounding!\xf000븁\x0000Rather, it was because the\xfffePokémon ran out of PP...\xf000븁\x0000
 Bel: Heyyy! How about you\xfffefight a Pokémon battle, Cheren?\xf000븁\x0000Now that you know how it goes,\xfffeyou can fight like a pro and\xf000븀\x0000not make any of the screwups I did!\xf000븁\x0000
 Cheren: W-Well, of course...!\xf000븁\x0000On top of my knowledge,\xfffeI won't have to worry so much\xf000븀\x0000about messing up the room.\xf000븁\x0000And most importantly...\xfffeonly the two of you getting to enjoy\xf000븀\x0000a battle wouldn't be fair at all.\xf000븁\x0000
