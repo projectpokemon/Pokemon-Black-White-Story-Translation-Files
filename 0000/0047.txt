@@ -1,104 +1,104 @@
-no data
+﻿no data
 no data
 \xf000ȃ\x0001\x0000, \xf000ȃ\x0001\x0001, \xf000ȃ\x0001\x0002, \xf000ȃ\x0001\x0003\xfffe\xf000ȃ\x0001\x0004
 \xf000ē\x0001\x0000
 Yes
 No
-みんなが すきなものは？\xfffeいま はやっているものは？\xf000븁\x0000そんな ぎもんを\xfffeキミは かんじたことは ないか？\xf000븁\x0000ここは すれちがい\xfffeちょうさたいほんぶ\xf000븁\x0000キミの ような まよえる こひつじに\xfffeしんじつを おしえる ばしょだ\xf000븁\x0000……キミは いいめを しているな\xfffeたんきゅうしん あふれる めだ\xf000븁\x0000……よろしい！ キミを とくべつに\xfffeちょうさたいいんに にんめいしよう！\xf000븁\x0000
-\xf000Ā\x0001\x0001は\xfffeちょうさたいいんに にんめいされた！\xf000븁\x0000
-たいいんの しごとは ただひとつ！\xfffeちょうさいらいを ちょうさすることだ\xf000븁\x0000まず わたしから\xfffeちょうさいらいを うける\xf000븁\x0000そして ちょうさレーダーで \xfffeしらべたい ちょうさを えらぶ\xf000븁\x0000あとは たくさんの ひとと\xfffeすれちがえば レーダーが\xf000븀\x0000じょうほうを あつめてくれる\xf000븁\x0000もちろん ちょうさに たいして\xfffeほうしゅうも よういしている\xf000븁\x0000\xf000Ā\x0001\x0001たいいん！ キミの\xfffeかつやくを きたいしているぞ！\xf000븁\x0000
-よくきたな \xf000Ā\x0001\x0001たいいん\xfffeげんきに ちょうさを しているか？\xf000븁\x0000
-キミは すべての いらいを\xfffeおえている\xf000븁\x0000これからは じぶんの しりたいことを\xfffeすきなだけ しらべてくれたまえ
-さて きょうは どうする？
-いらいを うける
-いらいの ほうこく
-なんでもないです
-いらいの かくにん
-ちょうさいらいを うけるんだな？\xf000븁\x0000まずは ちょうさほうほうを\xfffeえらんでくれ
-じかんちょうさ
-にんずうちょうさ
+What does everyone like?\xfffeWhat's the current fashion?\xf000븁\x0000Do you ask yourself\xfffethose kinds of questions?\xf000븁\x0000Well, here at the\xfffeChance-Upon Survey HQ...\xf000븁\x0000We show the truth\xfffeto lost lambs like you!\xf000븁\x0000...You've got good eyes.\xfffeEyes filled with inquiries!\xf000븁\x0000...Very well! I'll make you\xfffea special surveyer!\xf000븁\x0000
+\xf000Ā\x0001\x0001 was appointed\xfffeas a surveyer!\xf000븁\x0000
+Surveyers have only one job!\xfffeConducting requested surveys!\xf000븁\x0000First, take a survey\xffferequest from me.\xf000븁\x0000Then, use the Survey Radar\xfffeto select a survey to conduct.\xf000븁\x0000Lastly, pass by many people,\xfffeand the Radar will pick up info!\xf000븁\x0000Of course, you'll be rewarded\xfffefor your surveying!\xf000븁\x0000Surveyer \xf000Ā\x0001\x0001!\xfffeI look forward to your work!\xf000븁\x0000
+There you are, Surveyer \xf000Ā\x0001\x0001!\xfffeIs your surveying going well?\xf000븁\x0000
+You've finished\xfffeall the requests!\xf000븁\x0000Now just check up on\xfffewhat you yourself want to know!
+So, what will it be today?
+Take Request
+Report Request
+It's nothing
+Confirm Request
+Take a survey request?\xf000븁\x0000First, choose a\xfffemethod of surveying!
+Timed Survey
+Numbered Survey
 Quit
-じかんちょうさだな？\xf000븁\x0000していされた じかんないで\xfffeデータを あつめる ちょうさだ\xf000븁\x0000
-にんずうちょうさだな？\xf000븁\x0000していされた にんずうぶんの\xfffeデータを あつめる ちょうさだ\xf000븁\x0000
-ちょうさを おこなう\xfffeいらいを えらんでくれ
-わかった\xf000븁\x0000いらいを うけたくなったら\xfffeまたきてくれ
-キミは すでに\xfffeちょうさいらいを うけているぞ！\xf000븀\x0000がんばって ちょうさして きてくれ\xf000븁\x0000それとも うけている\xfffeいらいを キャンセルするか？
-ちょうさちゅうの データも\xfffeすべて しらべなおすことになるが……\xf000븀\x0000キャンセルして いいのか？
-わかった……\xf000븁\x0000いらいを うけたくなったら\xfffeまたきてくれ
-では ひきつづき\xfffeちょうさを つづけてくれ
-ブラックと ホワイト おおいのは？
-えらんだ さいしょの ポケモンは？
-いちばん おおい プレイじかんは？
-おとこと おんな おおいのは？
-いちばん おおい しごとは？
-いちばん おおい しゅみは？
-たいせんと こうかん にんきなのは？
-すきな ポケモンは？
-すきな ポケモンの タイプは？
-とかいと いなか すみたいのは？
-だいじに しているものに ついて
-ひとの みりょくに ついて
-きせつに ついて
-げいじゅつに ついて
-いちばん すきな おんがくは？
-えいぞうに ついて
-いちばん すきな がっこうの じかんは？
-べんきょうに ついて
-いちばん にんきの スポーツは？
-きゅうじつに ついて
-いちばん なりたいものは？
-いちばん にんきの ジムリーダーは？
-ポケモンの おもしろい ところは？
+A timed survey?\xf000븁\x0000That will collect data\xfffewithin a certain timespan.\xf000븁\x0000
+A numbered survey?\xf000븁\x0000That will collect data\xfffefrom a certain number of people.\xf000븁\x0000
+Choose a survey\xfffeto conduct!
+Got it!\xf000븁\x0000When you want to take\xfffea request, come again!
+You're already taking\xfffea survey request!\xf000븀\x0000Do the survey and come back!\xf000븁\x0000Or do you want to cancel\xfffethe survey you're taking?
+All data obtained during the survey\xfffewill have to be redone...\xf000븀\x0000Will you really cancel?
+Gotcha...\xf000븁\x0000When you want to take a request,\xfffecome again.
+Then keep on surveying,\xfffeif you please!
+More Black or White?
+Most-picked first Pokémon?
+Longest playtime?
+More men or women?
+Most popular job?
+Most popular hobby?
+Battle or trade more popular?
+Favorite Pokémon?
+Favorite Pokémon type?
+City or rural more desirable?
+About most important things
+About people's charms
+About seasons
+About art
+Favorite music?
+About movies
+Favorite school period?
+Favorite subject?
+Most popular sport?
+About holidays
+What's most desirable to be?
+Most popular gym leader?
+Most interesting part of Pokémon?
 Quit
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000２じかん いじょう ちょうさして\xfffeブラックと ホワイト\xf000븀\x0000どちらが おおいかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000わたしも ポケモンを\xfffeはじめようと おもってね\xf000븀\x0000にんきのあるほうを しりたいんだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある ポケモンはかせ からの\xfffeいらい だな\xf000븁\x0000２じかん いじょう ちょうさして\xfffeいちばん えらばれた\xf000븀\x0000さいしょの ポケモンを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeけんきゅうに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある ははおや からの\xfffeいらい だな\xf000븁\x0000４じかん いじょう ちょうさして\xfffeいちばん おおい プレイじかんを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeこどもの プレイじかんと\xf000븀\x0000くらべたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある しんぶんしゃ からの\xfffeいらい だな\xf000븁\x0000４じかん いじょう ちょうさして\xfffeおとこと おんな\xf000븀\x0000どっちが おおいかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeあすの ちょうかんに したいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある ざっしきしゃ からの\xfffeいらい だな\xf000븁\x0000４じかん いじょう ちょうさして\xfffeいちばん おおい しごとを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeとくしゅうきじに したいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある レジャーかいしゃ からの\xfffeいらい だな\xf000븁\x0000４じかん いじょう ちょうさして\xfffeいちばん おおい しゅみを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeきかくの さんこうに したいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000８じかん いじょう ちょうさして\xfffeたいせんと こうかん\xf000븀\x0000どっちが にんきかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000さいきん ポケモンに はまっていてね\xfffeみんなの あそびかたを しりたいんだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある しょうじょ からの\xfffeいらい だな\xf000븁\x0000８じかん いじょう ちょうさして\xfffeどんな ポケモンが\xf000븀\x0000いちばん にんきが あるかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしゅくだい として\xf000븀\x0000ていしゅつ したいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある トレーナー からの\xfffeいらい だな\xf000븁\x0000８じかん いじょう ちょうさして\xfffeいちばん にんきのある\xf000븀\x0000ポケモンの タイプを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeたいせんに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある ふどうさんや からの\xfffeいらい だな\xf000븁\x0000８じかん いじょう ちょうさして\xfffeとかいと いなか\xf000븀\x0000どっちに すみたいかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしごとに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000１２じかん いじょう ちょうさして\xfffeじかんと おかね どっちが\xf000븀\x0000ほしいかと\xf000븀\x0000いちばん だいじに おもっている\xf000븀\x0000ものを しらべてくる ちょうさだ\xf000븁\x0000みんな なにが\xfffeいちばん だいじなのか……\xf000븀\x0000それを しりたくてな……\xf000븁\x0000え？\xfffeりゆうは いえんな\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000１２じかん いじょう ちょうさして\xfffeあたまが いいと\xf000븀\x0000うんどうが できる\xf000븀\x0000どっちが にんきかと\xf000븁\x0000がいけんと なかみ どっちが\xfffeもとめられているかと\xf000븁\x0000いちばん にんきのある\xfffeにんげんの タイプを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000え？\xfffeなにか あったのか？\xf000븁\x0000べ べつに なにもない……\xfffeきにするな！\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000１２じかん いじょう ちょうさして\xfffeいちばん すきな きせつと\xf000븀\x0000いちばん すきな たべものを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000きせつに あわせて おいしいものを\xfffeごちそう したいだろう？\xf000븁\x0000だれに？\xfffeそれは ひみつだ！\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある げいじゅつか からの\xfffeいらいだな\xf000븁\x0000１２じかん いじょう ちょうさして\xfffeいちばん すきな いろと\xf000븀\x0000いちばん すきな おんがくを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeさくひんに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある アイドルかしゅ からの\xfffeいらい だな\xf000븁\x0000１６じかん いじょう ちょうさして\xfffeいちばん すきな おんがくを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしんきょくに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000１６じかん いじょう ちょうさして\xfffeいちばん すきな ＴＶばんぐみと\xf000븀\x0000いちばん すきな えいがを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000わだいが ほうふな\xfffeおとこに なりたいからな\xf000븀\x0000いまの はやりを しりたいんだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある がくせい からの いらいだな\xf000븁\x0000１６じかん いじょう ちょうさして\xfffeいちばん すきな がっこうの じかんを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeがっこうせいかつに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある せんせい からの\xfffeいらいだな\xf000븁\x0000１６じかん いじょう ちょうさして\xfffeいちばん すきな べんきょうと\xf000븀\x0000いちばん にがてな べんきょうを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeじゅぎょうに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある スポーツせんしゅ からの\xfffeいらい だな\xf000븁\x0000２０じかん いじょう ちょうさして\xfffeいちばん にんきのある スポーツを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしあいに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000２０じかん いじょう ちょうさして\xfffeいちばん にんきのある\xf000븀\x0000きゅうじつの すごしかたと\xf000븁\x0000いちばん にんきのある あそびばを\xfffeしらべてくる ちょうさだ\xf000븁\x0000じつは つぎの しゅうまつに\xfffeデートの よていでな\xf000븁\x0000はやりの ばしょを\xfffeしらべておきたいんだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある ポケモンファン からの\xfffeいらい だな\xf000븁\x0000２０じかん いじょう ちょうさして\xfffeいちばん なりたいものを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeポケモンの せんでんに\xf000븀\x0000やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある ジムリーダー からの\xfffeいらいだな\xf000븁\x0000２４じかん いじょう ちょうさして\xfffeいちばん にんきのある\xf000븀\x0000ジムリーダーを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeジムうんえいに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000２４じかん いじょう ちょうさして\xfffeいちばん だとおもう\xf000븀\x0000ポケモンの おもしろい ところを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000……おとなになると いろいろ ある\xf000븁\x0000わたしは こんご\xfffeポケモン ひとすじに いきる！\xf000븁\x0000ポケモンの おもしろさを\xfffeけんきゅう するのだ！\xf000븁\x0000
-……ん？\xf000븁\x0000すでに こんなに おおくのひとと \xfffeすれちがっているなんて！\xf000븁\x0000さすがは \xf000Ā\x0001\x0001たいいんだ\xf000븁\x0000これなら いまの データで \xfffeじゅうぶんだ\xf000븁\x0000このまま ちょうさないようを\xfffeわたしに ほうこくしてくれ！\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000５にん いじょうと すれちがって\xfffeブラックと ホワイト\xf000븀\x0000どちらが おおいかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000わたしも ポケモンを\xfffeはじめようと おもってね\xf000븀\x0000にんきのある ほうを しりたいんだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある ポケモンはかせ からの\xfffeいらいだな\xf000븁\x0000５にん いじょうと すれちがって\xfffeいちばん えらばれた\xf000븀\x0000さいしょの ポケモンを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeけんきゅうに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある ははおや からの\xfffeいらいだな\xf000븁\x0000１０にん いじょうと すれちがって\xfffeいちばん おおい プレイじかんを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeこどもの プレイじかんと\xf000븀\x0000くらべたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある しんぶんしゃ からの\xfffeいらいだな\xf000븁\x0000１０にん いじょうと すれちがって\xfffeおとこと おんな\xf000븀\x0000どっちが おおいかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeあすの ちょうかんに したいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある ざっしきしゃ からの\xfffeいらいだな\xf000븁\x0000１０にん いじょうと すれちがって\xfffeいちばん おおい しごとを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeとくしゅうきじに したいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある レジャーかいしゃ からの\xfffeいらいだな\xf000븁\x0000１０にん いじょうと すれちがって\xfffeいちばん おおい しゅみを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeきかくの さんこうに したいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000２０にん いじょうと すれちがって\xfffeたいせんと こうかん\xf000븀\x0000どっちが にんきかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000さいきん ポケモンに はまっていてね\xfffeみんなの あそびかたを しりたいんだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある しょうじょ からの\xfffeいらいだな\xf000븁\x0000２０にん いじょうと すれちがって\xfffeどんな ポケモンが\xf000븀\x0000いちばん にんきが あるかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしゅくだい として\xf000븀\x0000ていしゅつ したいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある トレーナー からの\xfffeいらいだな\xf000븁\x0000２０にん いじょうと すれちがって\xfffeいちばん にんきのある\xf000븀\x0000ポケモンの タイプを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeたいせんに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある ふどうさんや からの\xfffeいらいだな\xf000븁\x0000２０にん いじょうと すれちがって\xfffeとかいと いなか\xf000븀\x0000どっちに すみたいかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしごとに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000３０にん いじょうと すれちがって\xfffeじかんと おかね どっちが\xf000븀\x0000ほしいかと\xf000븀\x0000いちばん だいじに おもっている\xf000븀\x0000ものを しらべてくる ちょうさだ\xf000븁\x0000みんな なにが\xfffeいちばん だいじなのか……\xf000븀\x0000それを しりたくてな……\xf000븁\x0000え？\xfffeりゆうは いえんな\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000３０にん いじょうと すれちがって\xfffeあたまが いいと\xf000븀\x0000うんどうが できる\xf000븀\x0000どっちが にんきかと\xf000븁\x0000がいけんと なかみ どっちが\xfffeもとめられているかと\xf000븁\x0000いちばん にんきのある\xfffeにんげんの タイプを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000え？\xfffeなにか あったのか？\xf000븁\x0000べ べつに なにもない……\xfffeきにするな\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000３０にん いじょうと すれちがって\xfffeいちばん すきな きせつと\xf000븀\x0000いちばん すきな たべものを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000きせつに あわせて おいしいものを\xfffeごちそう したいだろう？\xf000븁\x0000だれに？\xfffeそれは ひみつだ！\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある げいじゅつか からの\xfffeいらいだな\xf000븁\x0000３０にん いじょうと すれちがって\xfffeいちばん すきな いろと\xf000븀\x0000いちばん すきな おんがくを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeさくひんに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある アイドルかしゅ からの\xfffeいらいだな\xf000븁\x0000４０にん いじょうと すれちがって\xfffeいちばん すきな おんがくを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしんきょくに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000４０にん いじょうと すれちがって\xfffeいちばん すきな ＴＶばんぐみと\xf000븀\x0000いちばん すきな えいがを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000わだいが ほうふな\xfffeおとこに なりたいからな\xf000븀\x0000いまの はやりを しりたいんだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある がくせい からの\xfffeいらいだな\xf000븁\x0000４０にん いじょうと すれちがって\xfffeいちばん すきな がっこうの じかんを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeがっこうせいかつに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある せんせい からの\xfffeいらいだな\xf000븁\x0000４０にん いじょうと すれちがって\xfffeいちばん すきな べんきょうと\xf000븀\x0000いちばん にがてな べんきょうを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeじゅぎょうに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある スポーツせんしゅ からの\xfffeいらいだな\xf000븁\x0000５０にん いじょうと すれちがって\xfffeいちばん にんきのある スポーツを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしあいに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000５０にん いじょうと すれちがって\xfffeいちばん にんきのある\xf000븀\x0000きゅうじつの すごしかたと\xf000븁\x0000いちばん にんきのある あそびばを\xfffeしらべてくる ちょうさだ\xf000븁\x0000じつは つぎの しゅうまつに\xfffeデートの よていでな\xf000븁\x0000はやりの ばしょを\xfffeしらべておきたいんだ\xf000븁\x0000
-このちょさは……\xf000븁\x0000とある ポケモンファン からの\xfffeいらいだな\xf000븁\x0000５０にん いじょうと すれちがって\xfffeいちばん なりたいものを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeポケモンの せんでんに\xf000븀\x0000やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000とある ジムリーダー からの\xfffeいらいだな\xf000븁\x0000１００にん いじょうと すれちがって\xfffeいちばん にんきのある\xf000븀\x0000ジムリーダーを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeジムうんえいに やくだてたいそうだ\xf000븁\x0000
-この ちょうさは……\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000１００にん いじょうと すれちがって\xfffeいちばんだと おもう\xf000븀\x0000ポケモンの おもしろい ところを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000……おとなになると いろいろ ある\xf000븁\x0000わたしは こんご\xfffeポケモン ひとすじに いきる！\xf000븁\x0000ポケモンの おもしろさを\xfffeけんきゅう するのだ！\xf000븁\x0000
-……ん？\xf000븁\x0000すでに このちょうさに ひつような\xfffeデータを しらべているじゃないか！\xf000븁\x0000さすがは \xf000Ā\x0001\x0001たいいんだ\xf000븁\x0000このまま ちょうさないようを\xfffeわたしに ほうこくしてくれ！\xf000븁\x0000
-この ちょうさいらいを\xfffeうけるのか？
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000２じかん いじょう ちょうさして\xfffeブラックと ホワイト\xf000븀\x0000どちらが おおいかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000わたしも ポケモンを\xfffeはじめようと おもってね\xf000븀\x0000にんきのあるほうを しりたいんだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある ポケモンはかせ からの\xfffeいらい だな\xf000븁\x0000２じかん いじょう ちょうさして\xfffeいちばん えらばれた\xf000븀\x0000さいしょの ポケモンを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeけんきゅうに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある ははおや からの\xfffeいらい だな\xf000븁\x0000４じかん いじょう ちょうさして\xfffeいちばん おおい プレイじかんを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeこどもの プレイじかんと\xf000븀\x0000くらべたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある しんぶんしゃ からの\xfffeいらい だな\xf000븁\x0000４じかん いじょう ちょうさして\xfffeおとこと おんな\xf000븀\x0000どっちが おおいかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeあすの ちょうかんに したいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある ざっしきしゃ からの\xfffeいらい だな\xf000븁\x0000４じかん いじょう ちょうさして\xfffeいちばん おおい しごとを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeとくしゅうきじに したいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある レジャーかいしゃ からの\xfffeいらい だな\xf000븁\x0000４じかん いじょう ちょうさして\xfffeいちばん おおい しゅみを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeきかくの さんこうに したいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000８じかん いじょう ちょうさして\xfffeたいせんと こうかん\xf000븀\x0000どっちが にんきかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000さいきん ポケモンに はまっていてね\xfffeみんなの あそびかたを しりたいんだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある しょうじょ からの\xfffeいらい だな\xf000븁\x0000８じかん いじょう ちょうさして\xfffeどんな ポケモンが\xf000븀\x0000いちばん にんきが あるかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしゅくだい として\xf000븀\x0000ていしゅつ したいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある トレーナー からの\xfffeいらい だな\xf000븁\x0000８じかん いじょう ちょうさして\xfffeいちばん にんきのある\xf000븀\x0000ポケモンの タイプを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeたいせんに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある ふどうさんや からの\xfffeいらい だな\xf000븁\x0000８じかん いじょう ちょうさして\xfffeとかいと いなか\xf000븀\x0000どっちに すみたいかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしごとに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000１２じかん いじょう ちょうさして\xfffeじかんと おかね どっちが\xf000븀\x0000ほしいかと\xf000븀\x0000いちばん だいじに おもっている\xf000븀\x0000ものを しらべてくる ちょうさだ\xf000븁\x0000みんな なにが\xfffeいちばん だいじなのか……\xf000븀\x0000それを しりたくてな……\xf000븁\x0000え？\xfffeりゆうは いえんな\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000１２じかん いじょう ちょうさして\xfffeあたまが いいと\xf000븀\x0000うんどうが できる\xf000븀\x0000どっちが にんきかと\xf000븁\x0000がいけんと なかみ どっちが\xfffeもとめられているかと\xf000븁\x0000いちばん にんきのある\xfffeにんげんの タイプを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000え？\xfffeなにか あったのか？\xf000븁\x0000べ べつに なにもない……\xfffeきにするな！\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000１２じかん いじょう ちょうさして\xfffeいちばん すきな きせつと\xf000븀\x0000いちばん すきな たべものを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000きせつに あわせて おいしいものを\xfffeごちそう したいだろう？\xf000븁\x0000だれに？\xfffeそれは ひみつだ！\xf000븁\x0000
+This survey is...\xf000븁\x0000とある げいじゅつか からの\xfffeいらいだな\xf000븁\x0000１２じかん いじょう ちょうさして\xfffeいちばん すきな いろと\xf000븀\x0000いちばん すきな おんがくを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeさくひんに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある アイドルかしゅ からの\xfffeいらい だな\xf000븁\x0000１６じかん いじょう ちょうさして\xfffeいちばん すきな おんがくを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしんきょくに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000１６じかん いじょう ちょうさして\xfffeいちばん すきな ＴＶばんぐみと\xf000븀\x0000いちばん すきな えいがを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000わだいが ほうふな\xfffeおとこに なりたいからな\xf000븀\x0000いまの はやりを しりたいんだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある がくせい からの いらいだな\xf000븁\x0000１６じかん いじょう ちょうさして\xfffeいちばん すきな がっこうの じかんを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeがっこうせいかつに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある せんせい からの\xfffeいらいだな\xf000븁\x0000１６じかん いじょう ちょうさして\xfffeいちばん すきな べんきょうと\xf000븀\x0000いちばん にがてな べんきょうを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeじゅぎょうに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある スポーツせんしゅ からの\xfffeいらい だな\xf000븁\x0000２０じかん いじょう ちょうさして\xfffeいちばん にんきのある スポーツを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしあいに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000２０じかん いじょう ちょうさして\xfffeいちばん にんきのある\xf000븀\x0000きゅうじつの すごしかたと\xf000븁\x0000いちばん にんきのある あそびばを\xfffeしらべてくる ちょうさだ\xf000븁\x0000じつは つぎの しゅうまつに\xfffeデートの よていでな\xf000븁\x0000はやりの ばしょを\xfffeしらべておきたいんだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある ポケモンファン からの\xfffeいらい だな\xf000븁\x0000２０じかん いじょう ちょうさして\xfffeいちばん なりたいものを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeポケモンの せんでんに\xf000븀\x0000やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある ジムリーダー からの\xfffeいらいだな\xf000븁\x0000２４じかん いじょう ちょうさして\xfffeいちばん にんきのある\xf000븀\x0000ジムリーダーを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeジムうんえいに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000２４じかん いじょう ちょうさして\xfffeいちばん だとおもう\xf000븀\x0000ポケモンの おもしろい ところを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000……おとなになると いろいろ ある\xf000븁\x0000わたしは こんご\xfffeポケモン ひとすじに いきる！\xf000븁\x0000ポケモンの おもしろさを\xfffeけんきゅう するのだ！\xf000븁\x0000
+...Hm?\xf000븁\x0000すでに こんなに おおくのひとと \xfffeすれちがっているなんて！\xf000븁\x0000さすがは \xf000Ā\x0001\x0001たいいんだ\xf000븁\x0000これなら いまの データで \xfffeじゅうぶんだ\xf000븁\x0000このまま ちょうさないようを\xfffeわたしに ほうこくしてくれ！\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000５にん いじょうと すれちがって\xfffeブラックと ホワイト\xf000븀\x0000どちらが おおいかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000わたしも ポケモンを\xfffeはじめようと おもってね\xf000븀\x0000にんきのある ほうを しりたいんだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある ポケモンはかせ からの\xfffeいらいだな\xf000븁\x0000５にん いじょうと すれちがって\xfffeいちばん えらばれた\xf000븀\x0000さいしょの ポケモンを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeけんきゅうに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある ははおや からの\xfffeいらいだな\xf000븁\x0000１０にん いじょうと すれちがって\xfffeいちばん おおい プレイじかんを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeこどもの プレイじかんと\xf000븀\x0000くらべたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある しんぶんしゃ からの\xfffeいらいだな\xf000븁\x0000１０にん いじょうと すれちがって\xfffeおとこと おんな\xf000븀\x0000どっちが おおいかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeあすの ちょうかんに したいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある ざっしきしゃ からの\xfffeいらいだな\xf000븁\x0000１０にん いじょうと すれちがって\xfffeいちばん おおい しごとを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeとくしゅうきじに したいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある レジャーかいしゃ からの\xfffeいらいだな\xf000븁\x0000１０にん いじょうと すれちがって\xfffeいちばん おおい しゅみを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeきかくの さんこうに したいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000２０にん いじょうと すれちがって\xfffeたいせんと こうかん\xf000븀\x0000どっちが にんきかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000さいきん ポケモンに はまっていてね\xfffeみんなの あそびかたを しりたいんだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある しょうじょ からの\xfffeいらいだな\xf000븁\x0000２０にん いじょうと すれちがって\xfffeどんな ポケモンが\xf000븀\x0000いちばん にんきが あるかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしゅくだい として\xf000븀\x0000ていしゅつ したいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある トレーナー からの\xfffeいらいだな\xf000븁\x0000２０にん いじょうと すれちがって\xfffeいちばん にんきのある\xf000븀\x0000ポケモンの タイプを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeたいせんに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある ふどうさんや からの\xfffeいらいだな\xf000븁\x0000２０にん いじょうと すれちがって\xfffeとかいと いなか\xf000븀\x0000どっちに すみたいかを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしごとに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000３０にん いじょうと すれちがって\xfffeじかんと おかね どっちが\xf000븀\x0000ほしいかと\xf000븀\x0000いちばん だいじに おもっている\xf000븀\x0000ものを しらべてくる ちょうさだ\xf000븁\x0000みんな なにが\xfffeいちばん だいじなのか……\xf000븀\x0000それを しりたくてな……\xf000븁\x0000え？\xfffeりゆうは いえんな\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000３０にん いじょうと すれちがって\xfffeあたまが いいと\xf000븀\x0000うんどうが できる\xf000븀\x0000どっちが にんきかと\xf000븁\x0000がいけんと なかみ どっちが\xfffeもとめられているかと\xf000븁\x0000いちばん にんきのある\xfffeにんげんの タイプを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000え？\xfffeなにか あったのか？\xf000븁\x0000べ べつに なにもない……\xfffeきにするな\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000３０にん いじょうと すれちがって\xfffeいちばん すきな きせつと\xf000븀\x0000いちばん すきな たべものを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000きせつに あわせて おいしいものを\xfffeごちそう したいだろう？\xf000븁\x0000だれに？\xfffeそれは ひみつだ！\xf000븁\x0000
+This survey is...\xf000븁\x0000とある げいじゅつか からの\xfffeいらいだな\xf000븁\x0000３０にん いじょうと すれちがって\xfffeいちばん すきな いろと\xf000븀\x0000いちばん すきな おんがくを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeさくひんに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある アイドルかしゅ からの\xfffeいらいだな\xf000븁\x0000４０にん いじょうと すれちがって\xfffeいちばん すきな おんがくを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしんきょくに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000４０にん いじょうと すれちがって\xfffeいちばん すきな ＴＶばんぐみと\xf000븀\x0000いちばん すきな えいがを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000わだいが ほうふな\xfffeおとこに なりたいからな\xf000븀\x0000いまの はやりを しりたいんだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある がくせい からの\xfffeいらいだな\xf000븁\x0000４０にん いじょうと すれちがって\xfffeいちばん すきな がっこうの じかんを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeがっこうせいかつに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある せんせい からの\xfffeいらいだな\xf000븁\x0000４０にん いじょうと すれちがって\xfffeいちばん すきな べんきょうと\xf000븀\x0000いちばん にがてな べんきょうを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeじゅぎょうに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある スポーツせんしゅ からの\xfffeいらいだな\xf000븁\x0000５０にん いじょうと すれちがって\xfffeいちばん にんきのある スポーツを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeしあいに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000５０にん いじょうと すれちがって\xfffeいちばん にんきのある\xf000븀\x0000きゅうじつの すごしかたと\xf000븁\x0000いちばん にんきのある あそびばを\xfffeしらべてくる ちょうさだ\xf000븁\x0000じつは つぎの しゅうまつに\xfffeデートの よていでな\xf000븁\x0000はやりの ばしょを\xfffeしらべておきたいんだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある ポケモンファン からの\xfffeいらいだな\xf000븁\x0000５０にん いじょうと すれちがって\xfffeいちばん なりたいものを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeポケモンの せんでんに\xf000븀\x0000やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000とある ジムリーダー からの\xfffeいらいだな\xf000븁\x0000１００にん いじょうと すれちがって\xfffeいちばん にんきのある\xf000븀\x0000ジムリーダーを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000ちょうさの けっかを\xfffeジムうんえいに やくだてたいそうだ\xf000븁\x0000
+This survey is...\xf000븁\x0000わたし からの いらいだな\xf000븁\x0000１００にん いじょうと すれちがって\xfffeいちばんだと おもう\xf000븀\x0000ポケモンの おもしろい ところを\xf000븀\x0000しらべてくる ちょうさだ\xf000븁\x0000……おとなになると いろいろ ある\xf000븁\x0000わたしは こんご\xfffeポケモン ひとすじに いきる！\xf000븁\x0000ポケモンの おもしろさを\xfffeけんきゅう するのだ！\xf000븁\x0000
+...Hm?\xf000븁\x0000すでに このちょうさに ひつような\xfffeデータを しらべているじゃないか！\xf000븁\x0000さすがは \xf000Ā\x0001\x0001たいいんだ\xf000븁\x0000このまま ちょうさないようを\xfffeわたしに ほうこくしてくれ！\xf000븁\x0000
+Take this survey request?
 \xf000Ā\x0001\x0001は\xfffe『ブラックと ホワイト\xf000븀\x0000おおいのは？』の\xf000븀\x0000ちょうさ いらいを うけた！\xf000븁\x0000
 \xf000Ā\x0001\x0001は\xfffe『えらんだ さいしょの\xf000븀\x0000ポケモンは？』の\xf000븀\x0000ちょうさ いらいを うけた！\xf000븁\x0000
 \xf000Ā\x0001\x0001は\xfffe『いちばん おおい\xf000븀\x0000プレイじかんは？』の\xf000븀\x0000ちょうさ いらいを うけた！\xf000븁\x0000
@@ -194,7 +194,7 @@ Quit
 まだ 『いちばん なりたい\xfffeものは？』の\xf000븀\x0000ちょうさが おわっていないぞ\xf000븁\x0000あと \xf000Ȃ\x0001\x0001にんの\xfffeちょうさが ひつようだ\xf000븁\x0000がんばって ちょうさを\xfffeつづけてくれ\xf000븁\x0000それとも うけている\xfffeいらいを キャンセルするか？
 まだ 『いちばん にんきの\xfffeジムリーダーは？』の\xf000븀\x0000ちょうさが おわっていないぞ\xf000븁\x0000あと \xf000Ȃ\x0001\x0001にんの\xfffeちょうさが ひつようだ\xf000븁\x0000がんばって ちょうさを\xfffeつづけてくれ\xf000븁\x0000それとも うけている\xfffeいらいを キャンセルするか？
 まだ 『ポケモンの\xfffeおもしろい ところは？』の\xf000븀\x0000ちょうさが おわっていないぞ\xf000븁\x0000あと \xf000Ȃ\x0001\x0001にんの\xfffeちょうさが ひつようだ\xf000븁\x0000がんばって ちょうさを\xfffeつづけてくれ\xf000븁\x0000それとも うけている\xfffeいらいを キャンセルするか？
-ちょうさいらいは うけていないようだ\xf000븁\x0000いらいを うけたくなったら\xfffeまたきてくれ
+You don't seem to have\xfffeany survey requests.\xf000븁\x0000When you want to take a request,\xfffecome again!
 『ブラックと ホワイト\xfffeおおいのは？』の ちょうさを\xf000븀\x0000たいちょうに ほうこくした！\xf000븁\x0000
 『えらんだ さいしょの\xfffeポケモンは？』の ちょうさを\xf000븀\x0000たいちょうに ほうこくした！\xf000븁\x0000
 『いちばん おおい\xfffeプレイじかんは？』の ちょうさを\xf000븀\x0000たいちょうに ほうこくした！\xf000븁\x0000
@@ -257,100 +257,101 @@ Quit
 つぎの ちょうさも\xfffeきたい しているぞ！\xf000븀\x0000\xf000Ā\x0001\x0001たいいん！
 ……これで すべての\xfffeちょうさいらいが しゅうりょうした\xf000븁\x0000\xf000Ā\x0001\x0001たいいん よくやった！\xf000븁\x0000わたしは もうれつに\xfffeかんどうしている！\xf000븁\x0000これは わたしのきもちだ\xfffeうけとってくれ\xf000븁\x0000
 これからは じぶんの しりたいことを\xfffeすきなだけ しらべてくれたまえ\xf000븁\x0000こんごも キミの かつやくに\xfffeきたいしているぞ！
-そうか……\xf000븁\x0000たいちょうも さびしいから\xfffeたまには かおを みせにきてくれ
-ここは すれちがい\xfffeちょうさたいほんぶよ\xf000븁\x0000にゅうたいきぼうなら\xfffeたいちょうに はなしかけてね
-おつかれさま \xf000Ā\x0001\x0001たいいん\xfffeちゃんと ちょうさしてる？\xf000븁\x0000
+I see...\xf000븁\x0000Your leader gets lonely too,\xfffeso come by from time to time!
+This is the\xfffeChance-Upon Survey HQ!\xf000븁\x0000If you want to enlist,\xfffetalk to the leader!
+Thanks for coming by, Surveyer \xf000Ā\x0001\x0001!\xfffeAre you conducting surveys?\xf000븁\x0000
 しんきたいいんの アナタ！\xfffeちょっと まって！\xf000븁\x0000
-じつは アナタに ちょっと\xfffeたのみたいことが あるの\xf000븁\x0000いま たいいんの みんなに\xfffeアンケートを おねがいしているのよ\xf000븁\x0000アナタも アンケートに\xfffeきょうりょくしてね\xf000븁\x0000
-またアナタに アンケートを\xfffeおねがいしたいんだけど……\xf000븀\x0000いいかな？
-しょうがないわね\xf000븁\x0000そのきになったら\xfffeこえを かけてね
-あら？ もう ぜんぶのアンケートに\xfffeこたえてくれたみたいね\xf000븁\x0000こたえた アンケートを\xfffeもういちど こたえる？
-それじゃ こたえる アンケートを\xfffeえらんでくれる？
-どんなひとが いるか
-すきな ポケモン
-みんなの りそう
-すきな ひと
-みんなの このみ
-みんなの しゅみ
-がっこうせいかつ
-どんな あそびが すきか
-ポケモン
-この アンケートで いいのね？
-アンケートは なんども \xfffeこたえられるから\xf000븀\x0000こたえを かえたくなったら\xf000븀\x0000いってね
-それじゃ はじめるわよ\xfffeこんかいの アンケートは……\xf000븁\x0000『どんなひとが いるか』に\xfffeついてよ\xf000븁\x0000
-それじゃ はじめるわよ\xfffeこんかいの アンケートは……\xf000븁\x0000『すきな ポケモン』に ついてよ\xf000븁\x0000
-それじゃ はじめるわよ\xfffeこんかいの アンケートは……\xf000븁\x0000『みんなの りそう』に ついてよ\xf000븁\x0000
-それじゃ はじめるわよ\xfffeこんかいの アンケートは……\xf000븁\x0000『すきな ひと』に ついてよ\xf000븁\x0000
-それじゃ はじめるわよ\xfffeこんかいの アンケートは……\xf000븁\x0000『みんなの このみ』に ついてよ\xf000븁\x0000
-それじゃ はじめるわよ\xfffeこんかいの アンケートは……\xf000븁\x0000『みんなの しゅみ』に ついてよ\xf000븁\x0000
-それじゃ はじめるわよ\xfffeこんかいの アンケートは……\xf000븁\x0000『がっこうせいかつ』に ついてよ\xf000븁\x0000
-それじゃ はじめるわよ\xfffeこんかいの アンケートは……\xf000븁\x0000『どんな あそびが すきか』に\xfffeついてよ\xf000븁\x0000
-それじゃ はじめるわよ\xfffeこんかいの アンケートは……\xf000븁\x0000『ポケモン』に ついてよ\xf000븁\x0000
-『アナタの しゅみは？』
-『アナタは たいせんと こうかん\xfffeどっちが すき？』
-『アナタは とかいと いなか\xfffeすむなら どっち？』
-『アナタが あいてを えらぶなら\xfffeどっち？』
-『アナタが すきな きせつは？』
-『アナタが すきな おんがくは？』
-『アナタが すきな\xfffeがっこうの じかんは？』
-『アナタが あそびに いくなら\xfffeどこ？』
-『アナタが おもう\xfffeポケモンの おもしろいところは？』
-『アナタの おしごとは？』
-『アナタが すきな ポケモンは？』
-『アナタが ほしいのは どっち？』
-『アナタが あいてに\xfffeもとめるものは？』
-『アナタが すきな たべものは？』
-『アナタが すきな\xfffeTVばんぐみは？』
-『アナタが すきな\xfffeべんきょうは？』
-『アナタは きゅうじつは\xfffeなにしてる？』
-『アナタが もし なれるなら？』
+There's actually a little\xfffesomething I want to ask...\xf000븁\x0000I'm doing questionnaires\xfffewith all the members!\xf000븁\x0000Would you help me\xfffewith these questionnaires?\xf000븁\x0000
+I wanted to ask you\xfffeto answer more questionnaires...\xf000븀\x0000Is that alright?
+Oh, alright...\xf000븁\x0000If you ever want to,\xfffecome tell me!
+Oh? It seems you already\xfffeanswered all the questionnaires.\xf000븁\x0000Would you like to answer\xfffeone of them again?
+Well, which questionnaire\xfffedo you choose?
+What Kind of Person?
+Favorite Pokémon
+Everyone's Ideals
+Favorite People
+Everyone's Preference
+Everyone's Hobbies
+School Life
+What Do You Play?
+Pokémon
+Is this questionnaire fine?
+Come by anytime you want to\xfffeanswer a questionnaire\xf000븀\x0000or change your answers!
+Okay, let's get started!\xfffeThis questionnaire is called...\xf000븁\x0000"What Kind of Person?"!\xf000븁\x0000
+Okay, let's get started!\xfffeThis questionnaire is called...\xf000븁\x0000"Favorite Pokémon"!\xf000븁\x0000
+Okay, let's get started!\xfffeThis questionnaire is called...\xf000븁\x0000"Everyone's Ideals"!\xf000븁\x0000
+Okay, let's get started!\xfffeThis questionnaire is called...\xf000븁\x0000"Favorite People"!\xf000븁\x0000
+Okay, let's get started!\xfffeThis questionnaire is called...\xf000븁\x0000"Everyone's Preference"!\xf000븁\x0000
+Okay, let's get started!\xfffeThis questionnaire is called...\xf000븁\x0000"Everyone's Hobbies"!\xf000븁\x0000
+Okay, let's get started!\xfffeThis questionnaire is called...\xf000븁\x0000"School Life"!\xf000븁\x0000
+Okay, let's get started!\xfffeThis questionnaire is called...\xf000븁\x0000"What Do You Play?"!\xf000븁\x0000
+Okay, let's get started!\xfffeThis questionnaire is called...\xf000븁\x0000"Pokémon"!\xf000븁\x0000
+"What's your hobby?"
+"Do you prefer to battle\xfffeor trade Pokémon?"
+"Do you prefer to live\xfffein the city or the country?"
+"Which kind of partner\xfffewould you choose?"
+"What's your favorite season?"
+"What's your favorite\xfffekind of music?
+"What's your favorite\xfffeschool period?"
+"Where do you go\xfffewhen you go out to play?"
+"What do you think is\xfffemost interesting about Pokémon?"
+"What's your job?"
+"What's your favorite kind of Pokémon?"
+"Which do you want?"
+"What do you look for\xfffein a partner?"
+"What's your favorite\xfffekind of food?"
+"What are your favorite\xfffegenre of TV programs?"
+"What's your favorite subject?"
+"What do you do\xfffeon your days off?"
+"What would you want to be?"
 
-『アナタが すきな\xfffeポケモンの タイプは？』
-『アナタが だいじなのは？』
-『アナタが すきな\xfffeにんげんの タイプは？』
-『アナタの すきな いろは？』
-『アナタが すきな えいがは？』
-『アナタが にがてな\xfffeべんきょうは？』
-『アナタが すきな スポーツは？』
-『アナタが すきな\xfffeジムリーダーは？』
-なるほど なるほど……\xfffeそうなのね\xf000븁\x0000つぎは……\xf000븁\x0000
-なるほど なるほど……\xfffeそうなのね\xf000븁\x0000……はい これで おしまい！\xf000븁\x0000ありがとう \xfffeいいアンケートが とれたわ\xf000븁\x0000
-そうだ このアンケートようし\xfffeアナタにも あげるわ\xf000븁\x0000
-ちょうさレーダーに\xfffe『どんなひとが いるかの\xf000븀\x0000ちょうさ』が ふえた！\xf000븁\x0000
-ちょうさレーダーに\xfffe『すきなポケモンの ちょうさ』が\xf000븀\x0000ふえた！\xf000븁\x0000
-ちょうさレーダーに\xfffe『みんなの りそうを ちょうさ』が\xf000븀\x0000ふえた！\xf000븁\x0000
-ちょうさレーダーに\xfffe『すきなひとの ちょうさ』が\xf000븀\x0000ふえた！\xf000븁\x0000
-ちょうさレーダーに\xfffe『みんなの このみを ちょうさ』が\xf000븀\x0000ふえた！\xf000븁\x0000
-ちょうさレーダーに\xfffe『みんなの しゅみを ちょうさ』が\xf000븀\x0000ふえた！\xf000븁\x0000
-ちょうさレーダーに\xfffe『がっこうせいかつを ちょうさ』が\xf000븀\x0000ふえた！\xf000븁\x0000
-ちょうさレーダーに\xfffe『どんな あそびが すきか\xf000븀\x0000ちょうさ』が ふえた！\xf000븁\x0000
-ちょうさレーダーに\xfffe『ポケモンのことを\xf000븀\x0000くわしく ちょうさ』が ふえた！\xf000븁\x0000
-それと…… これは アンケートに\xfffeこたえてくれた おれいよ\xf000븁\x0000
-これで アンケートは\xfffeぜんぶ おわり\xf000븁\x0000アナタのことが わかって\xfffeたのしかったわ\xf000븁\x0000
-アンケートは なんども\xfffeこたえられるから\xf000븀\x0000こたえを かえたくなったら\xf000븀\x0000いってね
-これで のこりの アンケートは……\xfffeあと \xf000Ȁ\x0001\x0001こね\xf000븁\x0000
-ほかの アンケートにも \xfffeこたえたくなったら こえをかけてね
-せっかくだから このまま\xfffeほかの アンケートも やらない？
-こんにちは！\xfffeあいさつって だいじだよね\xf000븁\x0000
-よかったら\xfffeキミの すきな あいさつを\xf000븀\x0000ボクに おしえてくれないかな？
-よかったら\xfffeまたキミの すきな あいさつを\xf000븀\x0000おしえてくれないかな？
-よろしく！
-それじゃ またこんどね\xf000븁\x0000いつでも げんきな\xfffeあいさつを しようね！
-うん！ いい あいさつだね！\xfffeげんきが でるよ！\xf000븁\x0000またきがるに あいさつしてね！\xfffeまってるよ
-こんにちは\xfffeかんしゃの きもちを\xf000븀\x0000わすれていない？\xf000븁\x0000
-あら モンスターボールを\xfffeおとしたわよ\xf000븀\x0000はい どうぞ\xf000븁\x0000
-\xf000Ā\x0001\x0001は\xfffeおとした モンスターボールを\xf000븀\x0000うけとった\xf000븁\x0000
-…… ……\xfffe…… ……\xf000븁\x0000こら！ まちなさい！\xf000븁\x0000おせわになったひとには\xfffeかんしゃする！\xf000븁\x0000ささいなことだけど だいじなことよ\xf000븁\x0000さあ あなたの かんしゃの きもちを\xfffeおしえてもらえるかしら？
-よかったら またあなたの\xfffeかんしゃの きもちを\xf000븀\x0000おしえてくれるかしら？
-ありがとう！
-それじゃ またこんどね\xf000븁\x0000かんしゃの きもちは\xfffeわすれちゃ ダメよ
-すてきな ことばね\xfffeこころが あたたかくなるわ\xf000븁\x0000だれかが あなたを\xfffeたすけてくれたときは\xf000븀\x0000かんしゃの きもちを つたえてあげて\xf000븁\x0000そのきもちは きっと あいてに \xfffeつたわるはずよ
-たいいんランクって しってる？\xf000븁\x0000なんどか ちょうさいらいを\xfffeたっせいすると\xf000븀\x0000ランクが アップするんだ！\xf000븁\x0000ランクが アップすると\xfffeみんなから そんけいされるし\xf000븁\x0000いいものが もらえる\xfffeいらいを うけられるらしいよ！
-たいいんランクって しってる？\xf000븁\x0000あ Ｂランクの\xfffe\xf000Ā\x0001\x0001たいいん\xf000븁\x0000Ｂランクまで アップしたんだ\xfffeがんばってるみたいだね\xf000븁\x0000ランクが あがったら\xfffeあたらしい いらいも ふえるから\xf000븀\x0000たいちょうに はなしてみるといいよ
-たいいんランクって しってる？\xf000븁\x0000あ Ａランクの\xfffe\xf000Ā\x0001\x0001たいいん\xf000븁\x0000もうＡランクたいいん なんだね\xfffeすごいな……\xf000븀\x0000オレも がんばって\xf000븀\x0000ちょうさしないと！\xf000븁\x0000Ａランクの いらいは\xfffeむずかしいらしいから\xf000븀\x0000がんばって ちょうさしてね！
-たいいんランクって しってる？\xf000븁\x0000……って Ｓランクの\xfffe\xf000Ā\x0001\x0001たいいん！\xf000븁\x0000あとすこしで さいこうの\xfffeＳＳランクたいいん ですね！\xf000븁\x0000オレ おうえんしています！\xfffeがんばってください！！
-たいいんランクって しってる？\xf000븁\x0000……って ＳＳランクの\xfffe\xf000Ā\x0001\x0001たいいん！\xf000븁\x0000しつれいしました！\xf000븁\x0000オレも すこしでも ランクが\xfffeあがるように がんばります！
-じぶんの じょうほうを\xfffeしりたいときは\xf000븀\x0000おくの かべにある\xf000븀\x0000えんグラフを しらべてごらん\xf000븁\x0000あそこには たいいんじょうほうが\xfffeかかれているんだ\xf000븁\x0000もちろん キミのことも\xfffeちょうさずみさ！
+"What's your favorite Pokémon type?"
+"What's important to you?"
+"What's your favorite\xfffekind of person?"
+"What's your favorite color?"
+"What's your favorite\xfffegenre of movies?"
+"What's your least\xfffefavorite subject?"
+"What's your favorite sport?"
+"What's your favorite gym leader?"
+I see, I see...\xfffeAlright!\xf000븁\x0000Next...\xf000븁\x0000
+I see, I see...\xfffeAlright!\xf000븁\x0000...Okay, that's the end!\xf000븁\x0000Thanks!\xfffeThat was a good questionnaire!\xf000븁\x0000
+Okay, I'll give you the form\xfffefor this questionnaire!\xf000븁\x0000
+"What Kind of Person? Survey"\xfffeadded to the Survey Radar!\xf000븁\x0000
+"Favorite Pokémon Survey"\xfffeadded to the Survey Radar!\xf000븁\x0000
+"Everyone's Ideals Survey"\xfffeadded to the Survey Radar!\xf000븁\x0000
+"Favorite People Survey"\xfffeadded to the Survey Radar!\xf000븁\x0000
+"Everyone's Preference Survey"\xfffeadded to the Survey Radar!\xf000븁\x0000
+"Everyone's Hobbies Survey"\xfffeadded to the Survey Radar!\xf000븁\x0000
+"School Life Survey"\xfffeadded to the Survey Radar!\xf000븁\x0000
+"What Do You Play? Survey"\xfffeadded to the Survey Radar!\xf000븁\x0000
+"Pokémon Specifics Survey"\xfffeadded to the Survey Radar!\xf000븁\x0000
+And... here's a reward for\xfffeanswering my questionnaires!\xf000븁\x0000
+That's makes all the\xfffequestionnaires complete!\xf000븁\x0000Now I know you pretty well!\xfffeAnd it was fun, too!\xf000븁\x0000
+Come by anytime you want to\xfffeanswer a questionnaire\xf000븀\x0000or change your answers!
+That makes the number of remaining\xfffequestionnaires... \xf000Ȁ\x0001\x0001!\xf000븁\x0000
+If you want to answer any other\xfffequestionnaires, tell me!
+While we're here, would you\xfffedo another questionnaire?
+Good day!\xfffeGreetings are important!\xf000븁\x0000
+Would you tell me\xfffeyour preferred greeting?
+Would you tell me\xfffeyour preferred greeting?
+Hello!
+Well, see you later!\xf000븁\x0000And always give\xfffean enthusiastic greeting!
+Right! A great greeting!\xfffeFull of energy!\xf000븁\x0000Greet me cheerfully again!\xfffeI'll be waiting!
+Good day!\xfffeYou don't forget to show people\xf000븀\x0000when you're thankful, right?\xf000븁\x0000
+Oops, you dropped a Pokéball!\xfffeRight, here you are!\xf000븁\x0000
+\xf000Ā\x0001\x0001 took\xfffethe dropped Pokéball.\xf000븁\x0000
+... ...\xfffe... ...\xf000븁\x0000Hey! Wait!\xf000븁\x0000You should thank people\xfffewho help you!\xf000븁\x0000It's kind of a trivial thing,\xfffebut it's important!\xf000븁\x0000So, will you tell me\xfffehow you say thanks?
+Would you tell me\xfffehow you say thanks?ex
+
+Thanks!
+Well, see you later!\xf000븁\x0000And don't you forget\xfffeto show thanks!
+What a wonderful way of putting it!\xfffeIt warms the heart!\xf000븁\x0000Whenever anyone helps you,\xfffetell them your gratitude!\xf000븁\x0000You should always\xfffelet them know!
+Do you know about Surveyer Ranks?\xf000븁\x0000Fulfill a lot of requests,\xfffeand your rank goes up!\xf000븁\x0000A higher rank will make\xfffeeveryone respect you.\xf000븁\x0000And you might get requests\xfffethat net you good stuff!
+Do you know about Surveyer Ranks?\xf000븁\x0000Ah, you're B Rank\xfffeSurveyer \xf000Ā\x0001\x0001!\xf000븁\x0000You've done pretty well\xfffeto get up to B Rank.\xf000븁\x0000When you raise in rank,\xfffeyou get new requests,\xf000븀\x0000so talk to the leader!
+Do you know about Surveyer Ranks?\xf000븁\x0000Ah, you're A Rank\xfffeSurveyer \xf000Ā\x0001\x0001!\xf000븁\x0000A Rank Surveyer already?\xfffeAmazing...\xf000븀\x0000I'll try hard, too!\xf000븀\x0000Gotta survey!\xf000븁\x0000A Rank requests\xfffeare pretty difficult,\xf000븀\x0000so good luck conducting!
+Do you know about Surveyer Ranks?\xf000븁\x0000...S Rank\xfffeSurveyer \xf000Ā\x0001\x0001!\xf000븁\x0000Just a little more, and you'll be\xfffeat the max rank of SS!\xf000븁\x0000I support you!\xfffeGood luck!!
+Do you know about Surveyer Ranks?\xf000븁\x0000...SS Rank\xfffeSurveyer \xf000Ā\x0001\x0001!\xf000븁\x0000I apologize for my rudeness!\xf000븁\x0000I'll try my hardest\xfffeto raise my rank, too!
+When you want to know\xfffeyour own surveying progress,\xf000븀\x0000check the pie chart on the wall.\xf000븁\x0000All your info as a surveyer\xfffeis displayed there.\xf000븁\x0000Of course, we keep track of\xfffenot just surveys, but you!
 アンケートには もうこたえた？\xf000븁\x0000じぶんが どんな ひとなのか\xfffeこれぐらいは こたえたほうが いいよ
 ちょうさレーダーの\xfffeちょうさこうもくが ふえなくて\xf000븀\x0000こまってないかな？\xf000븁\x0000ちょうさこうもくを ふやしたいなら\xfffeほんぶで たくさん アンケートに\xf000븀\x0000こたえると いいよ
 Ｓランクたいいんなら ぜんぶの\xfffeアンケートに こたえているよね？\xf000븁\x0000キミの しりたいことは\xfffeみんなが しりたいこと！\xf000븁\x0000アンケートには せっきょくてきに\xfffeこたえてあげてね
@@ -370,8 +371,8 @@ Quit
 どうも！ おつかれさまです\xfffe\xf000Ā\x0001\x0001たいいん\xf000븁\x0000たいちょうの いらいは\xfffeぜんぶ たっせい しましたか？\xf000븁\x0000いらいを ぜんぶ たっせいすると\xfffeいいものが もらえるらしいですよ！
 あ \xf000Ā\x0001\x0001たいいん！\xfffeおあいできて こうえいです！\xf000븁\x0000どうしよう～\xfffe\xf000Ā\x0001\x0001たいいんに\xf000븀\x0000はなしかけられちゃった！
 たいいん ぼしゅうちゅう！\xfffeしょうさいは たいちょうまで！
-\xf000Ā\x0001\x0000\xfffeたいいんランク Ｃランクたいいん\xfffeすれちがい にんずう \xf000Ȅ\x0001\x0001にん\xfffeおれい かいすう    \xf000Ȅ\x0001\x0002かい
-\xf000Ā\x0001\x0000\xfffeたいいんランク Ｂランクたいいん\xfffeすれちがい にんずう \xf000Ȅ\x0001\x0001にん\xfffeおれい かいすう    \xf000Ȅ\x0001\x0002かい
-\xf000Ā\x0001\x0000\xfffeたいいんランク Ａランクたいいん\xfffeすれちがい にんずう \xf000Ȅ\x0001\x0001にん\xfffeおれい かいすう    \xf000Ȅ\x0001\x0002かい
-\xf000Ā\x0001\x0000\xfffeたいいんランク Ｓランクたいいん\xfffeすれちがい にんずう \xf000Ȅ\x0001\x0001にん\xfffeおれい かいすう    \xf000Ȅ\x0001\x0002かい
-\xf000Ā\x0001\x0000\xfffeたいいんランク ＳＳランクたいいん\xfffeすれちがい にんずう \xf000Ȅ\x0001\x0001にん\xfffeおれい かいすう    \xf000Ȅ\x0001\x0002かい
+\xf000Ā\x0001\x0000\xfffeRank C Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count:      \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeRank B Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count:      \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeRank A Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count:      \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeRank S Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count:      \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeRank SS Surveyer\xfffeChance-Upon Count: \xf000Ȅ\x0001\x0001\xfffeGratitude Count:      \xf000Ȅ\x0001\x0002

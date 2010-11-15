@@ -1,25 +1,25 @@
-ポケモンを げんきにする\xfffeふしぎな かんぽうやく あるよ\xf000븁\x0000
-がいこくから とりよせた\xfffeかんぽうやくは ききめ バッチリ！\xf000븁\x0000だけど ちょっぴり にがいから\xfffeポケモン いやがっちゃうみたいなの
-いらっしゃいませ！\xfffeさんちちょくそう でーす！\xf000븁\x0000\xfffeモーモーミルク いっぽん ５００円\xfffeたびのおともに いかがですか？
-モーモーミルク どうぞ！\xf000븁\x0000
-あらららら！\xfffeバッグが いっぱいですね！
-あらららら！\xfffeおかねが たりないですね！
-また こんど\xfffeかってくださいね！\xf000븁\x0000\xfffeちなみに うちの モーモーミルクは\xfffeさんち ちょくそう\xf000븀\x0000しぼりたて しんせん なんですよ！
-１ダース １２ほんの\xfffeモーモーミルク どうぞです！\xf000븁\x0000
-１ほん
-１ダース
-いらない
-……ごめんね\xf000븁\x0000チャールズって ヤツが\xfffeぜーんぶ かってっちゃったの
-あなたー よくきたー！\xfffeいいもの ほしいかー？
-だったら レベル３０いじょうの\xfffeポケモン みせてくれー！\xf000븁\x0000
-おー！ もーれつ！\xf000븁\x0000あなた すごいねー！\xf000븁\x0000これ もってけー！\xf000븁\x0000
-おー！ まだまだ これからー！\xf000븁\x0000ポケモン きたえたら\xfffeまた ここに くると いいー！
-あなたー ひかえめー！\xfffeいいもの ほしがれば いいのにー！
-あなたー よくきたー！\xfffeたつじんのおび つかいこなせー！\xf000븁\x0000たつじんのおび もっていると\xfffeこうかバツグンの ときに\xf000븀\x0000ちょっと いりょく あがるー！
-なんでも ゆにゅう して\xfffeいつでも モノが そろっている\xf000븀\x0000きっと べんりな まちが あるわ
-きせつを だいじにする\xfffeゆったりとした まちが あるの\xf000븁\x0000その まちから いろいろ\xfffeゆしゅつ しているんだって！
-きせつごとの やさいを\xfffeみているだけでも たのしくなっちゃう\xf000븁\x0000\xfffeだって きせつが かわると\xfffeやさいの いろあいも かわるのよ！
-いつ きても\xfffeあらゆる きせつの やさいが\xf000븀\x0000\xfffeそろっているのって すごいよね
-ホドモエから はこばれた にもつが\xfffeどこかの まちに とどく……\xf000븁\x0000\xfffeせかいって こうやって\xfffeどこかに つながっているんだよな
-どこかの まちから はこばれた\xfffeにもつが ホドモエに とどく……\xf000븁\x0000\xfffeせかいって こうやって\xfffeどこかに つながっているんだよな
-ぼく もとプラズマだん です\xfffeいろんな おこうを もっています\xf000븁\x0000
+﻿We have miraculous medicines\xfffethat can make Pokémon healthy!\xf000븁\x0000
+The medicines sent from overseas\xfffeare incredibly effective!\xf000븁\x0000But a little bitter, so\xfffePokémon don't like them much...
+Welcome!\xfffeDirect produce delivery!\xf000븁\x0000\xfffeHow about a $500 bottle of\xfffeMoomoo Milk for the long journey?
+Here's your Moomoo Milk!\xf000븁\x0000
+OhohohoHO!\xfffeYour bag is full!
+OhohohoHO!\xfffeYou don't have enough money!
+Come buy\xfffefrom us again!\xf000븁\x0000\xfffeBy the way, our Moomoo Milk\xfffeis freshly squeezed!
+Here's your dozen!\xfffeTwelve bottles of Moomoo Milk!\xf000븁\x0000
+One
+A dozen
+Nope
+...Sorry.\xf000븁\x0000That Charles guy\xfffebought me out...
+Youuu! Listen up!\xfffeYou want some good stuff?
+Then show me a Pokémon\xfffeover Level 30!\xf000븁\x0000
+Ohhh! Intense!\xf000븁\x0000You're amazing!\xf000븁\x0000Take this!\xf000븁\x0000
+Ohhh! Still a ways!\xf000븁\x0000Train your Pokémon\xfffeand come back again!
+How humble of you!\xfffeBut I'm certainly willing, you know!
+Youuu! Listen up!\xfffeMaster the Expert Belt!\xf000븁\x0000Holding the Expert Belt increases\xfffethe power of super-effective hits!
+Import everything, and\xfffeeverything comes together!\xf000븀\x0000What a convenient town!
+There's a relaxed town that pays\xfffeclose attention to the seasons...\xf000븁\x0000And said town\xfffeexports lots of goods!
+Just looking at the vegetables\xfffeof each season is fun for me!\xf000븁\x0000\xfffeWith the change of seasons,\xfffethe vegetables change hue!
+Whenever you come, they've got\xfffevegetables from every season...\xf000븀\x0000\xfffeThat's just completely amazing!
+Cargo from Hodomoe is sent\xfffeoff to some other town...\xf000븁\x0000\xfffeSuch is how the whole\xfffeworld is connected!
+Cargo from some other town\xfffeis sent off to Hodomoe...\xf000븁\x0000\xfffeSuch is how the whole\xfffeworld is connected!
+I'm a former Plasma grunt.\xfffeI've got all sorts of stuff.\xf000븁\x0000

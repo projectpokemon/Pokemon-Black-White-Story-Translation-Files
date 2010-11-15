@@ -1,11 +1,11 @@
-Further into the museum,\xfffea Pokémon gym awaits challengers...\xf000븀\x0000Atmospheric, don't you think?\xf000븁\x0000\xfffeThat said, take this!\xf000븁\x0000
+﻿Further into the museum,\xfffea Pokémon gym awaits challengers...\xf000븀\x0000Atmospheric, don't you think?\xf000븁\x0000\xfffeThat said, take this!\xf000븁\x0000
 This gym is full of trainers\xfffethat use normal-type Pokémon.\xf000븁\x0000And just between us...\xfffeNormal-type is weak to fighting.\xf000븁\x0000And you're sure to find some fighting-type\xfffePokémon near Yaguruma Forest, so...\xf000븁\x0000Now, let me explain the gym itself!\xf000븁\x0000To proceed through this gym, you\xfffemust answer questions hidden in books.\xf000븁\x0000By the way, the first book to look for\xfffeis "Hello, My Pokémon."\xf000븁\x0000When you're not sure where a book is,\xfffelisten to what everyone has to say!\xf000븁\x0000
 This gym is full of trainers\xfffethat use normal-type Pokémon.\xf000븁\x0000And just between us...\xfffeNormal-type is weak to fighting.\xf000븁\x0000And you're sure to find some fighting-type\xfffePokémon near Yaguruma Forest, so...\xf000븁\x0000Now, let me explain the gym itself!\xf000븁\x0000To proceed through this gym, you\xfffemust answer questions hidden in books.\xf000븁\x0000By the way, the first book to look for\xfffeis "Hello, My Pokémon."\xf000븁\x0000When you're not sure where a book is,\xfffelisten to what everyone has to say!
 I always like to compare the\xfffeexpressions of trainers before and after\xf000븁\x0000\xfffethey get the gym badge!
 Did you hear? Some weirdos\xfffecame rushing into the museum...\xf000븁\x0000\xfffeOh! The gym badge!!\xfffeCongratulations!\xf000븁\x0000\xfffeBut... the museum!\xfffeOh, what to do?!
-Shippou Pokémon Gym\xf000븁\x0000\xfffeLeader: Aloe\xfffeCertified Trainers!
-Shippou Pokémon Gym\xf000븁\x0000\xfffeLeader: Aloe\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
-Shippou Pokémon Gym\xf000븁\x0000\xfffeLeader: Aloe\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBel
+Shippou Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Aloe!
+Shippou Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Aloe!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
+Shippou Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Aloe!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBelle
 Hm?\xfffeLooking for a book?\xf000븁\x0000...Er, I believe "Hello, My Pokémon" is\xfffeon the bookshelf nearest the entrance.\xf000븁\x0000
 Good day, trainer!\xf000븁\x0000So you found a note and are\xfffelooking for a Pokémon book, huh?\xf000븁\x0000Oho! Well, actually, I'm reading\xfffea book on Pokémon too.\xf000븁\x0000...Er, this one's\xfffeabout Pokabu.\xf000븁\x0000Wasn't the first Pokémon\xfffeyou met in this gym a Pokabu?
 Oho! That's too bad!\xf000븁\x0000The first Pokémon you met here\xfffewasn't a Pokabu!\xf000븁\x0000Try to remember which Pokémon\xfffeyou fought at the gym's entrance.\xf000븁\x0000A hint: check the shelves\xfffeto the left!\xf000븁\x0000
@@ -50,10 +50,10 @@ Writings on the creation\xfffeand proper use of Potions.\xf000븁\x0000It also t
 Writings concerning locomotives.\xf000븁\x0000They run on steam power provided\xfffeby the flames burning inside them,\xf000븀\x0000letting out smoke on the way!\xf000븁\x0000
 Writings on the proper timing\xfffeof Pokémon switching.\xf000븁\x0000"Switch Pokémon before the situation\xfffeshould look to turn dire!"
 Sums up the design\xfffeof a Pokémon Center.\xf000븁\x0000It also details a day\xfffein the life of a nurse.
-Writings on the anatomy of Minezumi.\xf000븁\x0000Minezumi communicate with their tails.\xfffeA tail standing up on end signals\xf000븀\x0000that they've spotted an enemy.\xf000븁\x0000
-Writings on the anatomy of Tsutarja.\xf000븁\x0000If their tails point to the sun\xfffewhile in direct sunlight, it means\xf000븀\x0000they're in the midst of photosynthesis.
-Writings on the anatomy of Mijumaru.\xf000븁\x0000The extremely hard shell\xfffethat forms over Mijumaru's navel\xf000븀\x0000can be used as a tool.
-Writings on the anatomy of Pokabu.\xf000븁\x0000Flames burn within them\xfffeand blaze out their nostrils,\xf000븀\x0000but when they're not feeling well,\xf000븀\x0000only smoke can come out.
+Writings on the anatomy of Minezumis.\xf000븁\x0000Minezumis communicate with their tails.\xfffeA tail standing up on end signals\xf000븀\x0000that they've spotted an enemy.\xf000븁\x0000
+Writings on the anatomy of Tsutarjas.\xf000븁\x0000If their tails point to the sun\xfffewhile in direct sunlight, it means\xf000븀\x0000they're in the midst of photosynthesis.
+Writings on the anatomy of Mijumarus.\xf000븁\x0000The extremely hard shell\xfffethat forms over Mijumaru's navel\xf000븀\x0000can be used as a tool.
+Writings on the anatomy of Pokabus.\xf000븁\x0000Flames burn within them\xfffeand blaze out their nostrils,\xf000븀\x0000but when they're not feeling well,\xf000븀\x0000only smoke can come out.
 It's a book on how to draw,\xfffefilled with drawings of Pokémon.\xf000븁\x0000They're cutesy and easy to draw!
 A fairytale about a boy who meets a\xfffePokémon for the first time in his life.\xf000븁\x0000He takes a little brown\xfffePokémon along with him.\xf000븁\x0000
 The story of a youth who goes on \xfffea grand adventure with his Pokémon.\xf000븁\x0000He's also journeying\xfffewith a boy and a girl.

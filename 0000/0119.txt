@@ -1,4 +1,4 @@
-Your heart seems\xfffesuitably prepared\xf000븀\x0000to challenge a gym leader.\xf000븁\x0000Now, come!\xf000븁\x0000
+﻿Your heart seems\xfffesuitably prepared\xf000븀\x0000to challenge a gym leader.\xf000븁\x0000Now, come!\xf000븁\x0000
 You possess a strong heart!\xfffeHave this!\xf000븁\x0000
 \xf000Ā\x0001\x0000 received\xfffethe Icicle Badge from Hachiku!\xf000븁\x0000
 Seven badges...\xf000븁\x0000I see. Now, Pokémon up to Level 80\xfffewill hear out your every order.\xf000븁\x0000Take this TM, packed\xfffewith my thoughts!\xf000븁\x0000
@@ -9,6 +9,6 @@ Hachiku: Long ago, Adeku spoke to me\xfffewhen I was wounded and downhearted.\xf
 Here, take this\xfffeFresh Water!\xf000븁\x0000
 Fire melts ice, or you can\xfffesmash it with fighting.\xf000븁\x0000\xfffeOr maybe you can crack it\xfffewith rock and steel!
 Hachiku is a man of few words.\xfffeIt's infectious.
-Sekka Pokémon Gym\xf000븁\x0000\xfffeLeader: Hachiku\xfffeCertified Trainers!
-Sekka Pokémon Gym\xf000븁\x0000\xfffeLeader: Hachiku\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
-Sekka Pokémon Gym\xf000븁\x0000\xfffeLeader: Hachiku\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBel
+Sekka Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Hachiku!
+Sekka Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Hachiku!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
+Sekka Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Hachiku!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBelle

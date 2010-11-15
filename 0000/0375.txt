@@ -1,9 +1,9 @@
-おぬし！ ポケモンの\xfffe\xf000ā\x0001\x0000は つかまえたか？\xf000븁\x0000もし つかまえているなら\xfffeわしの \xf000ā\x0001\x0001と\xfffeおぬしの \xf000ā\x0001\x0000を\xf000븀\x0000こうかん しないか？
-うむ！ それでは\xfffeポケモンこうかん かいし！\xf000븁\x0000
-おお！ おお！ なんとも\xfffeキュートな ポケモン だ！\xf000븁\x0000おぬしも \xf000ā\x0001\x0001を\xfffeたいせつに してくれよ
-おいおい！\xf000븁\x0000わしが こうかん してほしいのは\xfffe\xf000ā\x0001\x0000だぞ……？
-そうか…… きが かわったら\xfffeまた はなしかけてくれい！
-ポケモンこうかん することで\xfffeトレーナーは しりあいに なれるな！
-ポケモンの メガドレインとか\xfffeギガドレインって わざ だいすき！\xf000븁\x0000あいての たいりょくが へって\xfffeこっちの たいりょくは ふえるのよ！
-ぷっふふー
-ちゅりゅりゅ♪
+﻿You there! Have you\xfffecaught a \xfffe\xf000ā\x0001\x0000?\xf000븁\x0000If you have, would you trade\xfffeyour \xf000ā\x0001\x0000 for my \xf000ā\x0001\x0001?
+Right! Then let's\xfffetrade our Pokémon!\xf000븁\x0000
+Ohhh! Ohhh!\xfffeWhat a cute Pokémon!\xf000븁\x0000You treat \xf000ā\x0001\x0001 well, too!
+Hey, hey!\xf000븁\x0000Didn't I say I wanted to trade\xfffefor a \xf000ā\x0001\x0000...?
+Okay... you change your mind,\xfffecome tell me!
+Trading Pokémon lets\xfffetrainers make acquaintance!
+I love the moves\xfffeMega Drain and Giga Drain!\xf000븁\x0000They bring the foe's HP down\xfffeand my own up!
+Floofoofoo!
+Churyuryu! ♪

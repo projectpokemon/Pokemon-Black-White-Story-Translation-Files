@@ -1,21 +1,21 @@
-Araragi: Hiiiii, \xf000Ā\x0001\x0000!!\xf000븁\x0000To walk down all roads with a Pokémon!\xfffeThat's the joy of a trainer!\xf000븁\x0000Meaning! I need to tell you about\xfffethe most important place for a trainer,\xf000븀\x0000so come on in!\xf000븁\x0000
+﻿Araragi: Hiiiii, \xf000Ā\x0001\x0000!!\xf000븁\x0000To walk down all roads with a Pokémon!\xfffeThat's the joy of a trainer!\xf000븁\x0000Meaning! I need to tell you about\xfffethe most important place for a trainer,\xf000븀\x0000so come on in!\xf000븁\x0000
 Everyone... this is going to be\xfffean important speech.\xf000븁\x0000Please wait a while longer.
 Ahem...\xfffeWe're in the midst of preparations.\xf000븁\x0000Please wait a while longer.
 Ahem...\xfffeWe're in the midst of preparations.\xf000븁\x0000Please wait a while longer.\xf000븁\x0000
 no data
-Cheren: The Professor's waiting in front\xfffeof the Pokémon Center, isn't she?\xf000븁\x0000I'll be fine.\xfffeI already know about Pokémon Centers.\xf000븁\x0000I just want to get fighting! Actual\xfffebattle is crucial to getting stronger.
+Cheren: The Professor's waiting in front\xfffeof the Pokémon Center, isn't she?\xf000븁\x0000I'll be fine.\xfffeI already know about Pokémon Centers.\xf000븁\x0000I just want to get fighting!\xfffeActual battle is crucial to getting stronger.
 Something looks to be\xfffegoing on in the plaza!\xf000븁\x0000
 Hm, should we check it out?\xf000븁\x0000
 Cheren: \xf000Ā\x0001\x0000!\xfffeCome see this!\xf000븁\x0000
-I am Geechisu...\xf000븁\x0000Geechisu of Team Plasma.\xf000븁\x0000What I have to tell you all today\xfffeconcerns the liberatation of Pokémon.
+I am Geechisu...\xf000븁\x0000Getis of Team Plasma.\xf000븁\x0000What I have to tell you all today\xfffeconcerns the liberatation of Pokémon.
 Huh?
 What?
 Geechisu: We humans have lived\xfffetogether with Pokémon.\xf000븁\x0000We require things from each other,\xfffeand consider some partners...\xf000븁\x0000All would seem to think\xfffethis is the case, in fact.\xf000븁\x0000Yet, is it really true?\xf000븁\x0000We humans all entertain\xfffeonly that same thought...\xf000븁\x0000Has there never been the consideration\xfffethat it might not be?\xf000븁\x0000
 Trainers order Pokémon\xfffeto do whatever they please...\xf000븁\x0000They work them hard under the\xfffeguise of being partners...\xf000븁\x0000What if that were to be prevented by\xfffesomeone to clearly divide them?
 Gasp!
 Uh...
-What?
-Geechisu: Don't you agree, everyone?\xf000븁\x0000Pokémon are creatures whose\xfffesheer potential is limited by humans.\xf000븁\x0000We are beings who feel they must\xfffestudy a great many things.\xf000븁\x0000But what should we humans do to be\xfffeambassadors to the oppressed Pokémon?
+Wha?
+Geechisu: Don't you agree, everyone?\xf000븁\x0000Pokémon are creatures whose sheer\xfffepotential is limited by humans.\xf000븁\x0000We are beings who feel they must\xfffestudy a great many things.\xf000븁\x0000But what should we humans do to be\xfffeambassador to the oppressed Pokémon?
 Wha?
 Liberate?
 Geechisu: Correct!\xfffeWe must liberate the Pokémon!!\xf000븁\x0000And once we do, humans and Pokémon\xfffewill for the first time\xf000븀\x0000stand as equals.\xf000븁\x0000Everyone, please do consider\xfffewhat must be done\xf000븀\x0000to properly get along with Pokémon.\xf000븁\x0000And thus, I, Geechisu,\xfffeconclude my speech.\xf000븁\x0000Thank you for your attention.\xf000븁\x0000
@@ -28,7 +28,7 @@ Cheren: ...Well, I'm Cheren,\xfffeand this is \xf000Ā\x0001\x0000.\xf000븁\x00
 N: \xf000븉\x0001\x0001The Pokédex, hm...?\xf000븁\x0000That would require a great many Pokémon\xfffeto be imprisoned in Pokéballs...\xf000븁\x0000I, too, am a trainer,\xfffebut I am always doubting.\xf000븁\x0000Am I making my Pokémon\xfffehappy, I ask...?\xf000븉\x0001\x0000\xf000븁\x0000
 \xf000븉\x0001\x0001Hm. \xf000Ā\x0001\x0000, was it?\xf000븁\x0000Let me hear more of\xfffeyour Pokémon's voices!\xf000븉\x0001\x0000\xf000븁\x0000
 N: \xf000븉\x0001\x0001Restrained to imprisonment\xfffein Pokéballs...\xf000븁\x0000Pokémon cannot be perfect creatures.\xf000븁\x0000For the sake of my friends, the Pokémon,\xfffethe world must be changed.\xf000븉\x0001\x0000\xf000븁\x0000
-Cheren: ...What a weirdo.\xf000븁\x0000But don't worry, it's all right.\xf000븁\x0000Trainers and Pokémon\xfffealways help each other out!\xf000븁\x0000Well, I'll go on ahead.\xf000븁\x0000Off to the next town... I want to\xfffefight with Sanyou City's gym leader.\xf000븁\x0000You should battle through\xfffethe gym leaders, too.\xf000븁\x0000The best way for trainers to get stronger\xfffeis to challenge the gyms across the land.\xf000븁\x0000
+Cheren: ...What a weirdo.\xf000븁\x0000But don't worry, it's all right.\xf000븁\x0000Trainers and Pokémon\xfffealways help each other out!\xf000븁\x0000Well, I'll go on ahead.\xf000븁\x0000Off to the next town... I want to\xfffefight Sanyou City's gym leader.\xf000븁\x0000You should battle through\xfffethe gym leaders, too.\xf000븁\x0000The best way for trainers to get stronger\xfffeis to challenge the gym leaders\xf000븀\x0000across the land.\xf000븁\x0000
 Oh?\xf000븁\x0000You know, you and your Pokémon\xfffelook vaguely similar somehow!
 Let this old man\xfffetell you some good advice.\xf000븁\x0000Listening? You can have six Pokémon\xfffein your party at once!
 Pokémon strive to the limits\xfffeof their power for people's sake.\xf000븁\x0000And people love Pokémon in return.\xf000븁\x0000It's a mutual relationship!\xfffeThat's what I think.

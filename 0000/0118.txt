@@ -1,4 +1,4 @@
-Araragi: Oh, \xf000Ā\x0001\x0000!\xfffeHow's that \xf000ā\x0001\x0001 doing?\xf000븁\x0000
+﻿Araragi: Oh, \xf000Ā\x0001\x0000!\xfffeHow's that \xf000ā\x0001\x0001 doing?\xf000븁\x0000
 Wow! \xf000ā\x0001\x0001 here\xfffeseems really attached to you!\xf000븁\x0000
 I see... you've trained\xfffethis \xf000ā\x0001\x0001 rather severely...\xf000븁\x0000
 The Pokédex is important and all,\xfffebut times of togetherness like these\xf000븀\x0000\xfffeare so much moreso!\xf000븁\x0000\xfffeBy the by, do you know\xfffeabout Dragon-Helix Tower?
@@ -8,7 +8,7 @@ Right! Then listen to a smidgen of\xfffewhat this old coot has to say.\xf000븁\
 Right! Then listen to a smidgen of\xfffewhat this old coot has to say.\xf000븁\x0000\xfffeDragon-Helix Tower is said to be the\xfffeoldest structure in the Isshu region.\xf000븁\x0000\xfffeMost importantly, it's also where\xfffethe legendary Pokémon was born.\xf000븁\x0000\xfffeAnd lastly...\xfffewhere it now slumbers!\xf000븁\x0000
 It's just past\xfffeSekka City here...\xf000븁\x0000\xfffeI don't know any details\xfffebeyond that, though.\xf000븁\x0000\xfffeAt any rate, someone's\xfffegone inside the tower...\xf000븁\x0000
 My daughter's\xfffeinvestigating in there, too.\xf000븁\x0000\xfffeThere are some things\xfffeshe knows nothing about...\xf000븀\x0000She finds them romantic, in a way.\xf000븁\x0000\xfffeThat said, old coot here is going to go\xfffesightseeing at Dragon-Helix Tower!\xf000븀\x0000\xfffeSee you!\xf000븁\x0000
-Cheren: ...\xf000Ā\x0001\x0000.\xf000븁\x0000Bel and I were talking,\xfffeand... have I... changed at all?\xf000븀\x0000Since we set out from Kanoko Town?\xf000븁\x0000What do I want to do?\xfffeWhat SHOULD I do?\xf000븀\x0000I've been thinking those over...\xf000븁\x0000And when I look at myself, I can't\xfffethink of any answers to them...\xf000븁\x0000Have I really gotten strong...?\xfffeOr is it just my Pokémon?\xf000븀\x0000I don't know anymore...\xf000븁\x0000
+Cheren: ...\xf000Ā\x0001\x0000.\xf000븁\x0000Belle and I were talking,\xfffeand... have I... changed at all?\xf000븀\x0000Since we set out from Kanoko Town?\xf000븁\x0000What do I want to do?\xfffeWhat SHOULD I do?\xf000븀\x0000I've been thinking those over...\xf000븁\x0000And when I look at myself, I can't\xfffethink of any answers to them...\xf000븁\x0000Have I really gotten strong...?\xfffeOr is it just my Pokémon?\xf000븀\x0000I don't know anymore...\xf000븁\x0000
 Bel: Aw, that's our Cheren...\xfffeeven when he's got\xf000븀\x0000his two best buddies here for him!\xf000븁\x0000\xf000Ā\x0001\x0000! I'm gonna be going over\xfffeto the Pokémon Fan Club now.\xf000븁\x0000I'm searching for what I want\xfffeto do... and what I CAN do!\xf000븁\x0000
 Hachiku: Who's there?\xf000븁\x0000
 Bel: Who's... who?\xf000븁\x0000I'm Bel, and\xfffethis is Cheren...\xf000븁\x0000

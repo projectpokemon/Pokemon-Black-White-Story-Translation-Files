@@ -1,4 +1,4 @@
-Hello there!\xfffeI am but a humble maid!\xf000븁\x0000The master here, who is magnanimous\xfffein more ways than one,\xf000븀\x0000is searching for gourmet ingredients!\xf000븁\x0000
+﻿Hello there!\xfffeI am but a humble maid!\xf000븁\x0000The master here, who is magnanimous\xfffein more ways than one,\xf000븀\x0000is searching for gourmet ingredients!\xf000븁\x0000
 Sniff, sniff... sniff, snort...\xf000븁\x0000\xfffeI smell a most gourmet smell\xfffewafting from your bag...\xf000븁\x0000Would you show me the\xfffesource of that delicious smell?\xf000븁\x0000
 Wah! A magnifique smell!\xf000븁\x0000\xfffeIn fact, that seems to be none other\xfffethan the fabled \xf000ĉ\x0001\x0000!!\xf000븁\x0000Would you give it\xfffeto me for $\xf000ȇ\x0001\x0001?!
 Handed over \xf000ĉ\x0001\x0000\xfffeand received $\xf000ȇ\x0001\x0001!
@@ -6,28 +6,28 @@ Merci, thank you muchly!!\xf000븁\x0000\xfffeWith this, the master shall create
 Mmm, this is not quite\xfffewhat I was hoping for...\xf000븁\x0000\xfffeSuch a smell is unlikely\xfffeto satisfy the master...
 Hrmph! Oh, very well...\xf000븁\x0000Should you find any gourmet ingredients,\xfffedo tell me about it!
 Sniff, sniff... sniff, snort...\xf000븁\x0000\xfffeMmm, alas, your bag gives not\xfffethe faintest of gourmet smells...\xf000븁\x0000Should you find any gourmet ingredients,\xfffedo tell me about it!
-イシシ　イシシ　イシシシ……\xfffeワシ　こうぶつが　だいこうぶつなの\xf000븁\x0000あ　これ　わらうところじゃ\xf000븁\x0000\xfffeそれは　まあ　ともかく\xf000븁\x0000\xfffeワシ　めずらしい　こうぶつになら\xfffeおかねは　まるで　おしくないし\xf000븁\x0000
-ワシの いしを グラつかせるような\xfffeせくしいな いしとか もってないの？\xf000븁\x0000
-イシ イシシシ！\xf000븁\x0000\xfffe\xf000ĉ\x0001\x0000か グラグラくるの！\xfffeそれ \xf000ȇ\x0001\x0001円で\xf000븀\x0000ワシに ゆずってもらえんかのー？
-\xf000ĉ\x0001\x0000 を わたして\xfffe\xf000ȇ\x0001\x0001円を もらった！
-イシ！ イシシシ！\xfffeこうしょう せいりつじゃな！\xf000븁\x0000やー こうぶつは ええの たまらんの
-え？ なんじゃ コレ？\xf000븁\x0000こんな うわついた いしじゃ\xfffeワシのいしは グラついたりしないのー
-うーん ワシのいしは いしのごとく\xfffeかわらんし いつか ゆずってほしいのー
-ワシの いしを グラつかせるような\xfffeせくしいな いしとか もってないの？\xf000븁\x0000うーん もってないようだね\xfffeざんねんだねー またきてよ？
-オレ ごらんのとおり\xfffeすごーく リッチな だいふごう！\xf000븁\x0000で しゅみは みてわかるように\xfffeめずらしい どうぐあつめ！\xf000븁\x0000ちなみに この いしょうも\xfffeすごく リッチで めずらしいのが\xf000븀\x0000きみには わかるかね？ かね？\xf000븁\x0000
-だいふごうの オレが\xfffeたいきんを はらってでも ほしくなる……\xf000븁\x0000そんな めずらしい どうぐ\xfffeもってないかね？ かね？\xf000븁\x0000
-\xf000ĉ\x0001\x0000か！！\xfffeそれを \xf000ȇ\x0001\x0001円で\xf000븀\x0000ゆずってくれないかね？ かね？
-\xf000ĉ\x0001\x0000 を わたして\xfffe\xf000ȇ\x0001\x0001円を もらった！
-いいものが てにはいったよ！\xfffeすごいと おもわんかね？ かね？
-これは ちょっと ちがうなー\xfffeきみも そうおもわんかね？ かね？
-きがかわったら めずらしい どうぐ\xfffeゆずって くれないかね？ かね？
-って それは\xfffeこだいのおうかん！\xf000븁\x0000かいていいせきの いちばん おくに\xfffeねむるという めずらしい おたから！\xf000븁\x0000きみが たいせつに しておくのも\xfffeあり だとおもうが\xf000븁\x0000それを \xf000ȇ\x0001\x0001円で\xfffeゆずってくれないかね？ かね？
-だいふごうの オレが\xfffeたいきんを はらってでも ほしくなる……\xf000븁\x0000そんな めずらしい どうぐ\xfffeもってないかね？ かね？\xf000븁\x0000ムムム……！ めずらしい\xfffeどうぐは もってないね！ ね！
-やあ とつぜんだが きみに\xfffeウマい はなしを もちかけるよ！\xf000븁\x0000このあたりに いしころや いわに\xfffeかくれてる ポケモンが いるだろ？\xf000븁\x0000あいつら からだを いわに\xfffeかくしてるだけ じゃなく\xf000븀\x0000いかしたブツも いっしょに\xf000븀\x0000かくしもってるんだなー これが！\xf000븁\x0000そこでだ……\xf000븁\x0000もし きみが その いかしたブツを\xfffeてにいれたら わたしの ところへ\xf000븀\x0000もって きてくれないか？\xf000븁\x0000どこよりも だれよりも たかーく\xfffeかいとって あげるからさ……\xf000븁\x0000
-どうだい？\xfffeいかしたブツが あるなら\xf000븀\x0000みせて くれないかな？\xf000븁\x0000
-イイね ったら イイねえ……\xfffe\xf000ĉ\x0001\x0000じゃない……\xf000븁\x0000それ だったら そうだね……\xfffe\xf000ȇ\x0001\x0001円で\xf000븀\x0000かいとって あげるよ？
-\xf000ĉ\x0001\x0000 を わたして\xfffe\xf000ȇ\x0001\x0001円を もらった！
-ありがとう……\xf000븁\x0000これを もっと たかい ねだんで\xfffeマニアに うりつければ……\xf000븁\x0000ハハハハ……\xfffeいやあ ビジネスって すばらしいね
-わるいけど ダメだねぇ……\xfffeこいつは かいとれないねぇ……
-いかしたブツを みつけたら\xfffeわたしの ところへ おいで！\xf000븁\x0000どこよりも だれよりも たかーく\xfffeかいとって あげるからさ……
-どうだい？\xfffeいかしたブツが あるなら……\xf000븁\x0000って バッグのなかに ないようだね\xfffeしょうがない！\xf000븀\x0000また こんど もってきてよ！
+Rock-pebble-gravel...\xfffeMy favorite foods are minerals!\xf000븁\x0000What, you find that funny?\xf000븁\x0000\xfffeWell, whatever, anyway...\xf000븁\x0000\xfffeIf you have a rare mineral, I'd be\xfffewilling to part with my money.\xf000븁\x0000
+Do you have any of those\xfffevoluptuous rocks I so love?\xf000븁\x0000
+Sniff-sniffle-pebble!\xf000븁\x0000\xfffe\xf000ĉ\x0001\x0000 is in the air!\xfffeWill you give me that\xf000븀\x0000for $\xf000ȇ\x0001\x0001?
+Handed over \xf000ĉ\x0001\x0000\xfffeand received $\xf000ȇ\x0001\x0001!
+Stone! Rock!\xfffeNegotiations complete!\xf000븁\x0000Ah, I can't get enough\xfffeof these minerals!
+Huh? What's that?\xf000븁\x0000Such a rock as that\xfffedoes not strike my fancy...
+Oh, my heart longs for rocks!\xfffeI hope you give me some someday...
+Do you have any of those\xfffevoluptuous rocks I so love?\xf000븁\x0000Hmm, you don't seem to...\xfffeToo bad... come again later?
+As you can obviously tell,\xfffeI'm a VERY wealthy man!\xf000븁\x0000So my hobby is collecting\xfffeitems I deem rare!\xf000븁\x0000By the way, you surely recognize how\xfffeimpressively rich my clothing looks,\xf000븀\x0000don't you? You money?\xf000븁\x0000
+Being as rich as I am,\xfffeI'll pay anything if I want something...\xf000븁\x0000So, present me an item\xfffeI would deem rare! You money?\xf000븁\x0000
+\xf000ĉ\x0001\x0000!!\xfffeI'll give you $\xf000ȇ\x0001\x0001\xf000븀\x0000if you give me that! You money?
+Handed over \xf000ĉ\x0001\x0000\xfffeand received $\xf000ȇ\x0001\x0001!
+I've come upon something good!\xfffeDon't you think it's great? You money?
+This isn't quite it... if you\xfffeknow what I mean? You money?
+If you change your mind,\xfffeget me some rare items! You money?
+That's an\xfffeAncient Crown!\xf000븁\x0000The treasure said to lie at the\xfffevery bottom of the undersea ruins!\xf000븁\x0000I'm sure you're being\xfffecareful with it, but...\xf000븁\x0000I'll give you $\xf000ȇ\x0001\x0001\xfffeif you give me that! You money?
+Being as rich as I am,\xfffeI'll pay anything if I want something...\xf000븁\x0000So, present me an item\xfffeI would deem rare! You money?\xf000븁\x0000Hmm...! You don't have money\xffferare items! I mean, any!
+Hey! Out of the blue,\xfffebut I got some tasty gossip!\xf000븁\x0000You know the hermit Pokémon that live\xfffein rocks and stones around here?\xf000븁\x0000They aren't just hiding\xfffethemselves with those rocks,\xf000븀\x0000they've got some valuable stuff!\xf000븁\x0000Therefore...\xf000븁\x0000If you find one holding\xfffeanything particularly rare,\xf000븀\x0000would you bring it to me?\xf000븁\x0000Wherever or whoever, people\xfffewill buy it for a high price...\xf000븁\x0000
+How about it?\xfffeIf you have any rare stuff...\xf000븀\x0000Would you show me?\xf000븁\x0000
+Very good, very good...\xfffeA \xf000ĉ\x0001\x0000...\xf000븁\x0000In that case...\xfffeI'll buy it for $\xf000ȇ\x0001\x0001, deal?
+Handed over \xf000ĉ\x0001\x0000\xfffeand received $\xf000ȇ\x0001\x0001!
+Thank you...\xf000븁\x0000I can sell this off to some item\xfffemaniacs at an even higher price...\xf000븁\x0000Hahahaha...\xfffeAh, the wonders of business!
+Sorry, but no dice...\xfffeI can't buy that...
+If you find any rare stuff,\xfffebring it to me!\xf000븁\x0000Wherever or whoever, people\xfffewill buy it for a high price...
+How about it?\xfffeIf you have any rare stuff...\xf000븁\x0000Oh, but you don't seem to have\xfffeany on you. Nothing to be done!\xf000븀\x0000Come back with some!

@@ -1,4 +1,4 @@
-Hey! I'm the super-strong\xfffegym leader Iris!\xf000븁\x0000\xfffeHeyo! What're your Pokémon?\xfffeHow do you fight 'em?!\xf000븁\x0000\xfffeI really REALLY wanna know!\xfffeSo let's get STARTED!\xf000븁\x0000
+﻿Hey! I'm the super-strong\xfffegym leader Iris!\xf000븁\x0000\xfffeHeyo! What're your Pokémon?\xfffeHow do you fight 'em?!\xf000븁\x0000\xfffeI really REALLY wanna know!\xfffeSo let's get STARTED!\xf000븁\x0000
 Hoo-hah!\xf000븁\x0000\xfffe... ... ...\xfffe... ... ...\xf000븁\x0000\xfffeWHOA-HOOOOOH!\xf000븁\x0000\xfffeYou have made one Iris\xfffeSO HAPPY to have fought you,\xf000븀\x0000\xfffeyou strong trainer you!!\xf000븁\x0000
 \xf000Ā\x0001\x0000 received\xfffethe Legend Badge from Iris!\xf000븁\x0000
 Eight gym badges!\xfffeDang that's awesome!\xf000븁\x0000Every Pokémon and their grandma\xfffewill listen to any request you make!\xf000븁\x0000Hey-hey!\xfffeI'll give you this TM too!\xf000븁\x0000
@@ -11,16 +11,16 @@ Magnificent!\xf000븁\x0000\xfffeI'm grateful I could both\xfffemeet and battle 
 \xf000Ā\x0001\x0000 received\xfffethe Legend Badge from Shaga!\xf000븁\x0000
 Hm! You've obtained\xfffeall the Isshu gym badges?\xf000븁\x0000Now, any Pokémon\xfffewill follow your orders!\xf000븁\x0000Take this as well.\xf000븁\x0000\xfffeIt's a favorite TM of mine,\xfffenamed Dragon Tail.\xf000븁\x0000
 Dragon Tail is an attack\xfffethat deals damage to a Pokémon\xf000븀\x0000and returns it to its Pokéball.\xf000븁\x0000Essentially, it forces the opponent\xfffeto switch to another Pokémon.\xf000븁\x0000
-...I have a request for you.\xf000븁\x0000アI want you to go after Adeku,\xfffetoward the Pokémon League.\xf000븁\x0000The Pokémon League is\xfffebeyond Route 10 from Souryuu City...\xf000븁\x0000But you'll have to pass\xfffeVictory Road to get there.\xf000븁\x0000I know Adeku's strength, but\xfffeI am unsure about this man N...
+...I have a request for you.\xf000븁\x0000I want you to go after Adeku,\xfffetoward the Pokémon League.\xf000븁\x0000The Pokémon League is\xfffebeyond Route 10 from Souryuu City...\xf000븁\x0000But you'll have to pass\xfffeVictory Road to get there.\xf000븁\x0000I know Adeku's strength, but\xfffeI am unsure about this man N...
 Pokémon and people do not\xfffeage from the flow of time...\xf000븁\x0000They age with the exhausting of the\xfffeenergy brimming in their hearts.\xf000븁\x0000One's heart may be energized by\xfffethe truth, ideals, or dreams...\xf000븁\x0000But what one hopes and lives for\xfffeis always different.
 You've come!\xfffeA warm welcome to you!\xf000븁\x0000However, uh...\xfffeI just washed my hands!\xf000븁\x0000
 Whether you pull back\xfffeor proceed is up to you.\xf000븁\x0000However, if you proceed,\xfffemake sure you are ready!\xf000븁\x0000Going forth with lackluster feelings\xfffeis disrespectful to your Pokémon!
 Welcome! This is Isshu's greatest trial\xfffefor the greatest trainers!\xf000븀\x0000I'm talking about Souryuu Gym!\xf000븁\x0000First off, here,\xfffetake this Fresh Water!\xf000븁\x0000
 I'll quickly explain the tricks\xfffeand traps of Souryuu Gym!\xf000븁\x0000This gym has paths resembling\xfffea dragon's back, neck, and head.\xf000븁\x0000But if you press the switches\xfffeon the dragon's arms,\xf000븀\x0000your destination will change!\xf000븁\x0000Be sure to watch how\xfffethe dragon's neck moves!
 You beat the gym leader?!\xfffeWhoa, amazing!\xf000븁\x0000Oh, so, about the bill for all those\xfffeFresh Waters I've provided you with...\xf000븀\x0000Are you going to pay up soon?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000Kidding!\xfffeI'm just kidding!\xf000븁\x0000No, but really,\xfffemajor congratulations!!
-Souryuu Pokémon Gym\xf000븁\x0000\xfffeLeader: Iris\xfffeCertified Trainers!
-Souryuu Pokémon Gym\xf000븁\x0000\xfffeLeader: Iris\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
-Souryuu Pokémon Gym\xf000븁\x0000\xfffeLeader: Iris\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBel
-Souryuu Pokémon Gym\xf000븁\x0000\xfffeLeader: Shaga\xfffeCertified Trainers!
-Souryuu Pokémon Gym\xf000븁\x0000\xfffeLeader: Shaga\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
-Souryuu Pokémon Gym\xf000븁\x0000\xfffeLeader: Shaga\xfffeCertified Trainers!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBel
+Souryuu Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Iris!
+Souryuu Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Iris!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
+Souryuu Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Iris!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBelle
+Souryuu Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Shaga!
+Souryuu Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Shaga!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
+Souryuu Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Shaga!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBelle

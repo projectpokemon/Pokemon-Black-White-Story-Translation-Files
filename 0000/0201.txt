@@ -1,4 +1,4 @@
-Vio: You pansies...\xf000븁\x0000Bundle me up all you want,\xfffeI don't care about the cold...\xf000븁\x0000
+﻿Vio: You pansies...\xf000븁\x0000Bundle me up all you want,\xfffeI don't care about the cold...\xf000븁\x0000
 Cheren: ...Yeesh,\xfffethey were really hidden deep.\xf000븁\x0000\xfffeSuch a bother to do this in the cold...\xfffecould we possibly lead them outside?\xf000븁\x0000
 Vio: We're holding onto Pokémon\xfffethat are friends of the king.\xf000븁\x0000\xfffeYou won't bring\xfffeharm to them here!\xf000븁\x0000\xfffeYou, give those brats a beating!\xf000븁\x0000
 Grunt: Understood, Sage!\xf000븁\x0000\xfffeAlright, we're your opponents!\xf000븁\x0000
@@ -19,7 +19,7 @@ Grunt: ...Yawn... why am I\xfffefeeling kinda sleepy?\xf000븁\x0000
 Grunt: A-CHOO!\xfffeUh... as in, I'm sneezing AT YOU, foe!
 Grunt: The difference between a\xffferegular container and a freezer is...\xf000븀\x0000pretty significant when you're running.
 Grunt: ...! Am I really losing\xfffeto a trainer like THIS?!
-Grunt: Achooooo!\xfffeWomen aren't built for this cold...
+Grunt: Ashooooo!\xfffeWomen aren't built for this cold...
 Yacon: Whoa there!\xf000븁\x0000So you were hidin' out in\xfffethis freezin' place, eh?\xf000븁\x0000
 Take these Pokémon\xfffethieves away, boys!\xf000븁\x0000
 Worker: Roger!!\xf000븁\x0000
@@ -34,7 +34,7 @@ Feeling that you are alive\xfffethrough both joyous times\xf000븀\x0000and pain
 I've been living here\xfffeand shivering away...\xf000븁\x0000
 ...Pokémon and humans both living\xfffeclose and depending on each other...\xf000븀\x0000perhaps that's what I feel living is.\xf000븁\x0000Then is releasing Pokémon\xfffenot so necessary after all...?\xf000븁\x0000In telling you these things, I've realized\xfffenew questions I should consider...\xf000븁\x0000As something of a\xfffethank you, take this.\xf000븁\x0000
 Vio: Lord N said... that he\xfffewanted Pokémon to be made perfect.\xf000븁\x0000But even relating with humans\xfffeas they now do, perhaps Pokémon\xf000븀\x0000strive to be perfect regardless...\xf000븁\x0000
-Looker: Alright, then...\xfffeI'm an international policeman,\xf000븁\x0000so tell me what you know\xfffeabout Team Plasma!\xf000븁\x0000
+Looker: Alright, then...\xfffeI'm an international policeman!\xf000븁\x0000So tell me what you know\xfffeabout Team Plasma!\xf000븁\x0000
 Vio: It's too cold here...\xfffeI think I've shivered enough.\xf000븁\x0000If you give me some time to think,\xfffeI'll try to tell you something helpful.\xf000븀\x0000Okay, let's go.\xf000븁\x0000
-Looker: Thanks!\xf000븁\x0000Besides Geechisu, I guess this leaves\xfffe\xf000븀\x0000\xf000Ȁ\x0001\x0000 of the Seven Sages remaining...\xf000븁\x0000I want to know what they were\xfffethinking and hoping for...\xf000븀\x0000Well, see you again!\xf000븁\x0000
+Looker: Thanks!\xf000븁\x0000Besides Geechisu, I guess this leaves\xfffe\xf000Ȁ\x0001\x0000 of the Seven Sages remaining...\xf000븁\x0000I want to know what they were\xfffethinking and hoping for...\xf000븀\x0000Well, see you again!\xf000븁\x0000
 Looker: Thanks!\xf000븁\x0000Okay, \xf000Ā\x0001\x0000...\xfffeThere's something I need to tell you.\xf000븁\x0000I've heard intel that, somewhere\xfffereally far away from here,\xf000븀\x0000there's been sighting of an N-ish person\xf000븀\x0000with a dragon Pokémon.\xf000븁\x0000I'm going to go and see\xfffeif it's really true!\xf000븀\x0000Well, see you again someday!\xf000븁\x0000

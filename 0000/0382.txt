@@ -1,7 +1,7 @@
-I come to the shopping mall\xfffeall the time!\xf000븁\x0000I'm trying to collect\xfffeall the TMs!
+﻿I come to the shopping mall\xfffeall the time!\xf000븁\x0000I'm trying to collect\xfffeall the TMs!
 The first floor sells\xfffevarious medicines and repellents.\xf000븁\x0000The second floor sells\xfffeTMs and mail.\xf000븁\x0000The third floor sells items\xfffethat give Effort Values\xf000븀\x0000and items used during battles.\xf000븁\x0000One day, I long to be a guide\xfffeat the Pokémon gyms...\xf000븀\x0000I'm practicing my guiding!
 Even in this mall, you can find people\xfffeto challenge to Pokémon battles.
-あたしが よく かうのは\xfffeポケモンの たいりょくを あげる\xf000븀\x0000マックスアップ という どうぐ\xf000븁\x0000ほかにも いろんな どうぐが\xfffeうっていて めうつり しちゃう！
+I typically buy HP Ups\xfffeto increase my Pokémon's health.\xf000븁\x0000But there's so much else\xfffeto buy that I get distracted!
 no data
 no data
 no data
@@ -15,9 +15,9 @@ A good trainer never just\xfffebrute-forces through battles.\xf000븁\x0000It's 
 Hide and seek is fun!
 Welcome to the\xfffeShopping Mall R9!\xf000븁\x0000Yes, we're called "R9"\xfffebecause we're on Route 9.\xf000븁\x0000Whatever you do,\xfffeat least remember that!
 Have you heard?\xfffeThere's a cave on Route 9.\xf000븁\x0000No one knows\xfffewhat's inside, though...
-オッス！\xfffeポケモントレーナー！\xf000븁\x0000おまえさん かみなりのいし って\xfffeどうぐ しっているかい？
-さっすがー！ かみなりのいしが\xfffeある ポケモンを しんかさせると\xf000븀\x0000しってるなんて すごいよな\xf000븁\x0000
-じゃあ おしえてやろう！\xf000븁\x0000かみなりのいしを つかうと\xfffeある ポケモンが しんかするのさ！\xf000븁\x0000
-まあ ここで であったのも\xfffeなにかの えんだ！ もってけ！\xf000븁\x0000
-なんでも シビビールって ポケモンが\xfffeかみなりのいしで しんかするってよ！
+Yo!\xfffePokémon trainer!\xf000븁\x0000You heard of an item\xfffecalled a Thunderstone?
+Right on! I'm impressed you knew\xfffethere are some Pokémon\xf000븀\x0000that evolve by Thunderstone!\xf000븁\x0000
+Then I'll inform you!\xf000븁\x0000Using a Thunderstone\xfffecan evolve some Pokémon!\xf000븁\x0000
+Well, I think our meeting really\xfffemeant something! Take one!\xf000븁\x0000
+By the by, the Pokémon Shibibiru\xfffeevolves by Thunderstone!
 A Colorful and Wonderful Life\xfffeShopping Mall R9

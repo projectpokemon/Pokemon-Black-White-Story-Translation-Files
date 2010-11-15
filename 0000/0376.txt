@@ -1,23 +1,23 @@
-やさいを たっぷり にこんで\xfffeおいしい スープを つくるんじゃー
-りょうりを している ときは\xfffeおしゃべりが とまるからな\xf000븀\x0000\xfffeわしも らくちん なんじゃよ
-わけえ からってな\xfffeつめてー あめに うたれとったら\xf000븀\x0000\xfffeカゼさんに なっちまうぞー\xf000븁\x0000\xfffeスープでも のむかー？\xfffeくちに あうか わからんがのー
-それで ええのじゃー\xfffeわかい うちは えんりょなんか\xf000븀\x0000\xfffeするもんじゃ ねえぞー\xf000븁\x0000
-そう いわんと すこし のめばええー\xf000븁\x0000\xfffeばあちゃんの はなしに\xfffeすこし つきあって くれんかのー\xf000븁\x0000
-イッシュちほう にはなー\xfffeこんな らいうを おこす\xf000븀\x0000\xfffeボルトロス って なまえの\xf000븀\x0000\xfffeポケモンさんが おるんじゃよー\xf000븁\x0000\xfffeこのちほうを ぐるぐる とびまわって\xfffeすんげー かぜと かみなりを\xf000븀\x0000\xfffeごろんごろん ならすんじゃー\xf000븁\x0000
-イッシュちほう にはなー\xfffeこんな おおあらしを おこす\xf000븀\x0000\xfffeトルネロス って なまえの\xf000븀\x0000\xfffeポケモンさんが おるんじゃよー\xf000븁\x0000\xfffeこのちほうを ぐるぐる とびまわって\xfffeすんげー かぜと あめを\xf000븀\x0000\xfffeざんざか ふらしているんじゃー\xf000븁\x0000
-ほれ のんでみなさいー\xfffeあったまるぞー\xf000븁\x0000
-やさいが たっぷりの スープ！\xfffeとっても おいしい！\xf000븁\x0000
-だいじに そだてとった さくもつが\xfffeおおあめで ダメに なるんよー\xf000븁\x0000\xfffeほんとに こまった ポケモンじゃー\xf000븁\x0000
-つかまえようと おもってもなー\xfffeあっちこっち とびまわっとって\xf000븀\x0000\xfffeみつけたー おもっても\xf000븀\x0000\xfffeすぐに にげて しまうんじゃー\xf000븁\x0000
-１にち かけて イッシュちほうを\xfffeぐるっと １しゅう するんじゃー\xf000븁\x0000\xfffeあさは みなみの とち\xfffeよるは きたの とちに いるんじゃと\xf000븁\x0000\xfffeこのあたりは ゆうがた ごろに\xfffeやってくるんじゃよー
-どこぞの だれかが\xfffeポケモンさんを こらしめたようじゃー\xf000븁\x0000\xfffeもしかしたら\xfffeあの ポケモンさんかのー？
-わしが ムッキムキの びだんし\xfffeばあさんも ピッチピチの むすめっこ\xf000븀\x0000\xfffeそんな じだいの はなしじゃ\xf000븁\x0000\xfffeすぐ ちかくで ある ポケモンが\xfffeらいうを おこして わるさする\xf000븀\x0000\xfffeボルトロスを こらしめたんじゃ\xf000븁\x0000\xfffeそれから ３０ねんほどは\xfffeボルトロスも おとなしかったんじゃが\xf000븀\x0000\xfffeこのあたりに かくれておったんじゃな
-わしが ムッキムキの びだんし\xfffeばあさんも ピッチピチの むすめっこ\xf000븀\x0000\xfffeそんな じだいの はなしじゃ\xf000븁\x0000\xfffeすぐ ちかくで ある ポケモンが\xfffeおおあらしを おこして わるさする\xf000븀\x0000\xfffeトルネロスを こらしめたんじゃ\xf000븁\x0000\xfffeそれから ３０ねんほどは\xfffeトルネロスも おとなしかったんじゃが\xf000븀\x0000\xfffeこのあたりに かくれておったんじゃな
-あらしに なっとる みちに いけば\xfffeくさむらで とびだしてくるじゃろう
-わるさを していた ボルトロスを\xfffeこらしめる ポケモンが いるんじゃ\xf000븁\x0000\xfffeたしか… １４ばんどうろ あたりに\xfffeその ポケモンを まつった ほこらが\xf000븀\x0000\xfffeあったと きいたことが あるのう…
-わるさを していた トルネロスを\xfffeこらしめる ポケモンが いるんじゃ\xf000븁\x0000\xfffeたしか… １４ばんどうろ あたりに\xfffeその ポケモンを まつった ほこらが\xf000븀\x0000\xfffeあったと きいたことが あるのう…
-あら あなたの ポケモン…\xf000븁\x0000\xfffeつかれている みたいね\xfffeひとやすみして いきなさいな！\xf000븁\x0000
-いっぽんばしを あるくのって\xfffeおもったより つかれるでしょ？
-ばあちゃんの ごはんは\xfffeやさい ばっかり なんだもん！
+﻿I cook together vegetables\xfffeto make delicious soup!
+When I'm cooking,\xfffeI don't have to talk...\xf000븀\x0000\xfffeIt's an easy life for me!
+Since I was very young,\xfffeI've been struck by cold rain\xf000븀\x0000\xfffeand that blasted wind...\xf000븁\x0000\xfffeWant some soup?\xfffeIt'll warm you up!
+You sure? You're too young\xfffeto be so modest!\xf000븁\x0000
+Go on, drink a little!\xf000븁\x0000\xfffeI'll tell you some of\xfffegranny's old stories...\xf000븁\x0000
+There's a Pokémon in Isshu that\xfffecauses thunderstorms like these\xf000븀\x0000\xfffenamed Voltolos...\xf000븁\x0000\xfffeIt flies around, making the sky rumble\xfffewith dreadful wind and thunder!\xf000븁\x0000
+There's a Pokémon in Isshu that\xfffecauses great storms like these\xf000븀\x0000\xfffenamed Tornelos...\xf000븁\x0000\xfffeIt flies around, letting dreadful\xfffewind and rain on the land!\xf000븁\x0000
+Come now, drink up!\xf000븁\x0000
+It's soup filled with veggies!\xfffeIt's very tasty!\xf000븁\x0000
+Rainstorms ruin my\xfffecarefully-grown crops!\xf000븁\x0000\xfffeSuch a bothersome Pokémon!\xf000븁\x0000
+When I think I've caught it,\xfffeit flies off to who knows where!\xf000븀\x0000\xfffeWhen I think I've found it,\xf000븀\x0000\xfffeit runs away immediately...\xf000븁\x0000
+It takes one day for it to\xfffemake one lap around Isshu.\xf000븁\x0000\xfffeSouth towns in the morning,\xfffenorth ones at night...\xf000븁\x0000\xfffeSo it comes here\xfffearound evening!
+It seems somebody out there\xfffetold that Pokémon what for!\xf000븁\x0000\xfffeCould it have been\xfffethat other Pokémon?
+I, a handsome man,\xfffeand granny, a lively lady!\xf000븀\x0000\xfffeThat's how it used to be...\xf000븁\x0000\xfffeAnd we punished that Pokémon prankster\xfffeVoltolos for causing thunderstorms.\xf000븁\x0000\xfffeFor nearly thirty years since,\xfffeVoltolos has been docile,\xf000븀\x0000\xfffebut it seems it was hiding here...
+I, a handsome man,\xfffeand granny, a lively lady!\xf000븀\x0000\xfffeThat's how it used to be...\xf000븁\x0000\xfffeAnd we punished that Pokémon prankster\xfffeTornelos for causing great storms.\xf000븁\x0000\xfffeFor nearly thirty years since,\xfffeTornelos has been docile,\xf000븀\x0000\xfffebut it seems it was hiding here...
+When walking on a stormy route,\xfffeit might come out of the grass.
+There's a Pokémon that punishes\xfffeVoltolos for its mischief...\xf000븁\x0000\xfffeI believe it's said... that Pokémon\xffferesides in a shrine near Route 14...
+There's a Pokémon that punishes\xfffeTornelos for its mischief...\xf000븁\x0000\xfffeI believe it's said... that Pokémon\xffferesides in a shrine near Route 14...
+Oh, your Pokémon...\xf000븁\x0000\xfffeThey seem a bit tired.\xfffeLet them have some rest!\xf000븁\x0000
+Walking along the thin bridges\xfffeis more tiring than you thought, huh?
+Granny's meals\xfffeare all vegetables!
 You know the electronic news tickers?\xf000븁\x0000\xfffeWhen thunder is\xfffecrashing down somewhere,\xf000븀\x0000\xfffethe news tickers will tell you where!
-You know the electronic news tickers?\xf000븁\x0000\xfffeWhen the wind is\xfffewhooooo-ing and whoosh-ing,\xf000븀\x0000\xfffethe news tickers will tell you where!
+You know the electronic news tickers?\xf000븁\x0000\xfffeWhen the wind is\xfffewhooing and whooshing,\xf000븀\x0000\xfffethe news tickers will tell you where!

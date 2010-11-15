@@ -1,14 +1,14 @@
-The Live Caster is ringing.
+﻿The Live Caster is ringing.
 \xf000Ā\x0001\x0000 connected\xfffeto the Live Caster.\xf000븁\x0000
-あの いっぽんばし……\xf000븁\x0000うえで じっと していると\xfffeおちちゃうから たちどまらないでね！
-むむ！ この わたしに\xfffeはなしかけるとは……\xf000븁\x0000なかなかの トレーナーね\xfffeあなた きにいったわ！\xf000븀\x0000わざマシンを うけとりなさい！\xf000븁\x0000
-チャージビームは つかった\xfffeポケモンの とくこうを\xf000븀\x0000たまに あげることが あるの\xf000븁\x0000うまくいけば どんどん\xfffeいりょくが あがっていくのよ！
-ありゃりゃー\xfffeポケモンさんが やってきおったのうー\xf000븁\x0000
-おやおや あんた\xfffeくさむら なんかに\xf000븀\x0000\xfffeはいったら いかんぞー\xf000븀\x0000\xfffeポケモンさんに どつかれるでー\xf000븁\x0000
-こんな あめかぜの なかで\xfffeたちばなしも なんじゃろなー\xf000븁\x0000\xfffeなーんも ない いえじゃが\xfffeちと よっていきなさいなー\xf000븁\x0000
-しゅるばばばーっ！！
-ばりゅるるるるーっ！！
-ひどい あらし…！\xf000븁\x0000\xfffeあの ポケモンの しわざらしい！\xf000븁\x0000
+These thin bridges...\xf000븁\x0000Stop on them for too long,\xfffeand you'll fall! So keep moving!
+Hm! So you took time out of\xfffeyour day to talk to me, of all people...\xf000븁\x0000An admirable trainer!\xfffeI'm so pleased with you!\xf000븀\x0000Take this Technical Machine!\xf000븁\x0000
+Pokémon that use Charge Beam will\xfffesometimes have special attack raised.\xf000븁\x0000If all goes well, you can\xfffesteadily increase your power!
+Wah-wah-wah!\xfffeThe Pokémon's come!\xf000븁\x0000
+Hey, you there!\xfffeDon't go into the grass!\xf000븀\x0000\xfffeThe Pokémon might get you!\xf000븁\x0000
+Why stand around\xfffein driving rain like this?\xf000븁\x0000\xfffeStop for a while\xfffein my house here!\xf000븁\x0000
+Shuru-bababa!!
+Baryu-rurururu!!
+What an awful storm...!\xf000븁\x0000\xfffeIt must be the work\xfffeof that Pokémon!\xf000븁\x0000
 Route 7
 Tower of Heaven\xfffeWhere righteous souls come to rest
 Trainer Tips!\xf000븁\x0000\xfffe\xfffeWhen they battle, Pokémon\xfffewill gain EXP Points, but...\xf000븁\x0000\xfffePokémon weaker than their foes\xfffewill gain much more EXP.\xf000븁\x0000\xfffeOn the other hand, when Pokémon are\xfffestronger than their foes...\xf000븁\x0000\xfffeTheir EXP will decrease\xfffebased on their strength.

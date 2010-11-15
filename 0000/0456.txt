@@ -1,54 +1,54 @@
-???: Oh...?\xf000븁\x0000
-You...\xf000븁\x0000You have a strong bond with\xfffeyour Pokémon...\xf000븀\x0000... Very strong.\xf000븁\x0000Who am I?\xf000븁\x0000... ... ... ... ...\xfffe... ... ... ... ...\xf000븁\x0000I am the Sinnoh Champion.\xfffeWhat's your name? \xf000Ā\x0001\x0000?\xf000븁\x0000Okay. I want to test you.\xf000븁\x0000My name is Cynthia.\xfffeI'm the true Sinnoh Champion.\xf000븁\x0000
-Well... I was one time.\xfffeI was beaten by a boy with a\xf000븀\x0000very strong bond with his Pokémon.\xf000븁\x0000Hmmm...\xfffeMaybe you have it too...\xf000븁\x0000
-... ... ... ... ...\xfffe... ... ... ... ...\xf000븀\x0000You...\xf000븁\x0000I want to battle you.\xf000븁\x0000I want to see if this region has\xfffethis true bond with Pokémon too.\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000Come on, \xf000Ā\x0001\x0000!\xfffeBattle me! Here and now!
-Hmmm...\xfffeI think your Pokémon have the power.\xf000븁\x0000The bond between Trainer and Pokémon\xfffeis the most important thing.\xf000븁\x0000How is your bond with your Pokémon?\xfffeWe'll see. Give me all your might!\xf000븁\x0000
-Well... Too bad.\xfffeMaybe you'll think otherwise some day.\xf000븁\x0000Come back if you do!\xfffeI'll be here to battle you!
-Cynthia: Oh...?\xfffeYou again...\xf000븁\x0000Have you... Maybe changed\xfffeyour mind?\xf000븀\x0000... ... ...\xfffe... ... ...\xf000븀\x0000Do you want to battle me this time?
-Cynthia: Hmmm...\xfffeSo you have a strong bond...\xf000븁\x0000... ... This is what I expected.\xf000븁\x0000You are one of the strongest\xfffePokémon Trainers...\xf000븁\x0000Hmmm...\xfffeI wish you good luck...\xf000븁\x0000Good luck with the upcoming \xfffeand especially though challenges.\xf000븁\x0000From what I have seen, I think\xfffethat you'll win those easily.\xf000븁\x0000Just... Keep believing in\xfffeyourself and in your Pokémon!
-Cynthia: こちらにはね\xfffeはると なつに くるの\xf000븁\x0000シンオウでも しらべること とか\xfffeいろいろ あるから ね\xf000븁\x0000また あいにきてくれると うれしいな\xfffeステキな ポケモントレーナーさん！
-Cynthia: あら きてくれたのね！\xf000븁\x0000さっそく なんだけど\xfffeあたしの ポケモンたちが\xf000븁\x0000きみの ポケモンと\xfffeしょうぶ したがってるんだけど……\xf000븀\x0000おあいて してくれるかな？
-Cynthia: ありがとう！\xfffeぜんりょくで きみと むきあいます！\xf000븁\x0000
-Cynthia: あら ざんねんね……\xf000븁\x0000サザナミタウンって\xfffeなつは バカンスきぶんで\xf000븀\x0000しょうぶのこと わすれちゃうけど\xf000븁\x0000はるは きぶんを もりあげたくて\xfffeしょうぶ したくなるのよね
-Cynthia: あたしの ポケモンたちが\xf000븁\x0000きみの ポケモンと\xfffeしょうぶ したがってるんだけど……\xf000븀\x0000おあいて してくれるかな？
-Cynthia: なんだか おもいだしちゃった\xf000븁\x0000もっともっと いろんな ところで\xfffeいろんな ひと いろんな ポケモンに\xf000븀\x0000であってほしい って\xf000븁\x0000あなたに そっくりの トレーナーに\xfffeつたえたことが あるの\xf000븁\x0000あたしも とおく イッシュまで きて\xfffeほんとうに よかったと おもってるの\xf000븁\x0000だって きみに あえて\xfffeあたしの せかいは ひろがったから！
-Cynthia: ……ポケモンも ひとも\xfffeその いのちを かがやかせるには\xf000븁\x0000ぜんしんぜんれいで\xfffeつよい あいてに いどむことなの\xf000븁\x0000だから あたしも きみと\xfffeたたかいたいけど いいかしら？
-Cynthia: おたがいの いとおしい\xfffeポケモンを つうじて\xf000븀\x0000きみのこと もっと しるつもりよ！\xf000븁\x0000
-Cynthia: ……ちょっと がっかり\xf000븁\x0000きみとなら これまでよりも\xfffeたかい ステージでの\xf000븀\x0000たたかいが できそうなのに！\xf000븁\x0000そう もっともっと\xfffeいのちを かがやかせられるはず……
-Cynthia: Who knows?\xf000븁\x0000いのちを かがやかせるため\xfffeあたしも きみと ぜんりょくで\xf000븀\x0000たたかいたいけど いいかしら？
-Cynthia: あいてが トレーナーなら \xfffeしょうぶすれば どんなひとか わかる\xf000븁\x0000どんな ポケモンに\xfffeどんな わざを おぼえさせているのか\xf000븀\x0000どうぐは なにを もたせているのか\xf000븀\x0000そのとき ことばは いらないの……\xf000븁\x0000だから きみ！ あたしのことを\xfffeもっと しりたければ\xf000븀\x0000ぜひ シンオウちほうに きてね！
-Cattleya: なんでも おもいどおりに\xfffeなってしまうのは ふこうの はじまり\xf000븁\x0000できないことが あって\xfffeできることが ある\xf000븀\x0000それをしることが だいじですって\xf000븁\x0000むかし そういうことを いう\xfffeうるさい にんげんが いたの……
-Cattleya: ……どうしても\xfffeシロナさんには かてない\xf000븁\x0000いぜんの アタクシなら\xfffeいかりを ばくはつ させていたかも\xf000븁\x0000だけど いまは おちついて\xfffeたいせんを みなおし どうすれば\xf000븀\x0000つよくなれるか かんがえられるの
-Cattleya: ……アナタ\xfffeバトルキャッスルは ごぞんじ？\xf000븁\x0000ジョウトや シンオウに あるから\xfffeよければ ちょうせん なさって
-Cattleya: ……ここ\xfffeアタクシの べっそう なの\xf000븁\x0000せかいかくちに あるから\xfffeシロナさんに つかってもらっています\xf000븁\x0000アナタも えんりょせずに\xfffeあそびに いらしてね
-Cattleya: ……つかいこなせない\xfffeちょうのうりょく なら\xf000븀\x0000ないほうが まし なのよね
-Shikimi: しょうせつを かくとき……\xfffeたくさん インプット してないと\xf000븀\x0000アウトプット できないんですよ\xf000븁\x0000トレーナーも おなじです\xf000븁\x0000わんさと しょうぶして\xfffeいろんな ことを まなんで\xf000븀\x0000じっせんで ためして つよくなれます
-Shikimi: にじいろのはね……\xfffeぎんいろのはね……\xf000븀\x0000そうぞうりょくを かきたてられます！
-Shikimi: ……やぶれたせかい\xfffeそこに ただ１ぴきで いた ポケモン\xf000븀\x0000なんて げんそうてきな こうけい！
-Shikimi: ……いくら しゅざいしても\xfffeちっとも わかりません\xf000븁\x0000シロナさんって おいくつ かしら？\xfffeアナタ どう おもいます？
-Shikimi: ……アタシの マフラーとか\xfffeある ポケモンを イメージしてます\xf000븁\x0000アナタ わかりますか？\xfffeイマジネーションは だいじですよ？
-Cynthia: いまよりも\xfffeつよくなるために ひつようなこと？\xf000븁\x0000それは ずっとずっと \xfffeポケモンを すきで いることかな\xf000븁\x0000じぶんが そうだったから\xfffeこんなことしか いえないけど……
-Cynthia: すうねんに いちど\xfffeかくちほうの チャンピオンが つどい\xf000븀\x0000だれが さいきょうなのか きそう！\xf000븁\x0000そんな あつまりが あると\xfffeおもしろいと おもわない？
-Cynthia: ここで くらしたいけれど\xfffeそうすると けんきゅうしりょうが\xf000븀\x0000やまのように つみかさなるのよね……\xf000븁\x0000そうよ！ シロナ！\xfffeこんどこそ かたづけるのよ！
-Cynthia: もんだいが あります\xf000븁\x0000しろい みずぎと\xfffeくろい みずぎ……\xf000븀\x0000どちらが あたしに にあうかしら？
-Cynthia: ……うーん\xf000븁\x0000むずかしいわね\xf000븁\x0000あれこれ よくばっちゃって\xfffeたくさんの みずぎを もってきたら\xf000븀\x0000どれに するか えらべないの……
-Iris: ねえねえ\xfffeシロナさんの ガブリアス みた？\xf000븁\x0000すっごく キュートなの！！
-Iris: こんどねー\xfffeシャガおじーちゃんと いっしょに\xf000븀\x0000ゆうらんせんに のるんだよ！\xf000븁\x0000ヒウンシティは ひとばっかりだけど\xfffeおじーちゃんと いっしょだから\xf000븀\x0000アイリス だいじょーぶ！！
-Iris: ときどきね\xfffeうまれた むらのこと おもいだすけど\xf000븀\x0000あたし ぜんぜん へいき！\xf000븁\x0000だって いろんな ポケモンや\xfffeみんなに あえたもん！
-Iris: うみだよー！！
-Iris: うみが きれいだから\xfffeずっとずっと もぐっていたら\xf000븀\x0000みんなに しんぱい されちゃった！
-Furou: カミツレちゃんとは\xfffeなかよし だけど\xf000븀\x0000ポケモンしょうぶは べつよ！\xf000븁\x0000だいじなのは やっぱり\xfffeでんき たいさく なの！
-Furou: あれる あめの なか\xfffeあまぐもを つきぬけたときに\xf000븀\x0000はじめて みえる こうけい……\xf000븁\x0000いつか アナタにも みせてあげたいな
-Furou: ……いま かんがえていたの\xf000븁\x0000みずぎって みせるもの なの？\xfffeそれとも かくすもの なの？
-Furou: はるか とおくの シンオウも\xfffeかもつきを つかえば ひとっとび！\xf000븁\x0000アタシは ポケモンの そらをとぶも\xfffeきもちよくて だいすき だけど
-Furou: ふう……\xfffeうみで およぐのって きもちいいね！
-Chamomile: ……ポケモンの みりょくを\xfffeひきだすには ひきだす がわにも\xf000븀\x0000みりょくが ないと むずかしいわね
-Chamomile: ……ライモンシティはね\xfffeでんきタイプ ポケモンの\xf000븀\x0000はつでんする エネルギーで うごくの\xf000븁\x0000……ウソよ
-Chamomile: なやんでばかりは\xfffeからだと こころに よくないの\xf000븁\x0000そんなときは しこうかいろを\xfffeわざと ショートさせて\xf000븀\x0000きぶんを いっしん させないと
-Chamomile: はなさなくても……\xfffeはなせなくても…… トレーナーには\xf000븀\x0000ポケモンが いて わたしの かわりに\xf000븀\x0000きもちを つたえてくれるの
-Chamomile: いってしまえば\xfffeみずぎなんて ただの ぬの でしょ？
-Aloe: カセキって すごくないかい？\xf000븁\x0000しんで なにも いえないはずなのに\xfffeいきていた じだいのことを\xf000븀\x0000あたしらに おしえてくれるんだ\xf000븁\x0000ふふふ いまのは アララギの\xfffeむすめの うけうり だけどさ！
-Aloe: わざマシンは\xfffeなんどでも つかえるんだろ？\xf000븁\x0000いろんな ポケモンに\xfffeかたきうちの わざを おしえれば\xf000븁\x0000いつかは ぴったりの\xfffeポケモンが みつかるはずさ！
-Aloe: あたしが ちいさいころさ\xf000븁\x0000こうざんで いしを ほっていた\xfffeおやじは いつも\xf000븀\x0000ホネを もってかえってきたよ\xf000븁\x0000こどもごころに ホネの みりょくに\xfffeやられて きづけば けんきゅうかさ！
-Aloe: こないだ ベルって こが\xfffeポケモンのことを ききに きたよ\xf000븁\x0000すきなことを しりたいって きもち\xfffeつきること ないんだよね
-Aloe: シロナは ゆうめいな\xfffeこうこがくしゃ だからね\xf000븁\x0000おなじ けんきゅうしゃ どうし\xfffeアカデミックな はなしを してるのさ
+﻿???: Oh...?\xf000븁\x0000
+How... familiar...\xf000븁\x0000I never expected to meet a trainer\xfffewith the same eyes as that one,\xf000븀\x0000and especially not in a place like this...\xf000븁\x0000What's your name...?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000\xf000Ā\x0001\x0000, then.\xfffeI'll be sure to remember it!\xf000븁\x0000I am Cynthia.\xf000븁\x0000I'm just a curious Pokémon trainer\xfffeinvestigating the myths of Pokémon.\xf000븁\x0000
+There are underwater ruins\xfffehere in Sazanami Town, you know.\xf000븁\x0000As such, I borrowed a villa\xfffefrom an acquaintance of mine.\xf000븁\x0000
+Now, in order to make a deep\xfffeacquaintance with a fellow trainer...\xf000븁\x0000I would like us to have\xfffea bout with our Pokémon...\xf000븀\x0000Would you be my opponent?
+Before I send out my Pokémon,\xfffemy chest always throbs...\xf000븁\x0000It is filled with the joyous feelings\xfffeof the Pokémon inside their Pokéballs.\xf000븁\x0000So, what manner of trainer are you?\xf000븁\x0000
+Ohoho.\xfffeA... most composed decision.\xf000븁\x0000When you are prepared, I would be\xfffedelighted if you return and say so!
+Cynthia: Oh?\xfffeSo you've made your preparations.\xf000븁\x0000I would like us to have\xfffea bout with our Pokémon...\xf000븀\x0000Would you be my opponent?
+Cynthia: How admirable!\xfffeThat was a magnificent battle.\xf000븁\x0000...Yes, familiar indeed.\xf000븁\x0000Like that trainer\xfffethat faced down Giratina...\xf000븁\x0000Hm. I won't bore you\xfffewith my own story.\xf000븁\x0000I also have much\xfffeto investigate in Sinnoh\xf000븀\x0000come spring and summer...\xf000븁\x0000I would be overjoyed if you\xfffewould come see me again,\xf000븀\x0000most wonderful of Pokémon trainers!
+Cynthia: I also have much\xfffeto investigate in Sinnoh\xf000븁\x0000come spring and summer...\xf000븁\x0000I would be overjoyed if you\xfffewould come see me again,\xf000븀\x0000most wonderful of Pokémon trainers!
+Cynthia: Oh, you came!\xf000븁\x0000I may seem hurried, but I wish\xfffeto battle my Pokémon against yours...\xf000븀\x0000Would you be my opponent?
+Cynthia: Thank you!\xfffeNow, I shall face you with all my might!\xf000븁\x0000
+Cynthia: Ah, that's a shame...\xf000븁\x0000In summer, the vibes of vacation\xfffehere in Sazanami Town\xf000븀\x0000make me forgot all about battling...\xf000븁\x0000But in spring, my feelings surmount,\xfffeand I grow a desire to battle.
+Cynthia: I wish to battle\xfffemy Pokémon against yours...\xf000븀\x0000Would you be my opponent?
+Cynthia: It brings back memories...\xf000븁\x0000In going to more and more places,\xfffeI want to meet all kinds of people\xf000븀\x0000and all kinds of Pokémon...\xf000븁\x0000That's something I've said both to you,\xfffeand to a trainer just like you.\xf000븁\x0000I certainly think it great\xfffethat I traveled to distant Isshu.\xf000븁\x0000For in meeting you,\xfffemy world has expanded!
+Cynthia: ...Pokémon and people\xfffecan have their lives brightened \xf000븁\x0000when they challenge a powerful opponent\xfffewith utter devotion.\xf000븁\x0000So, I, too would like to\xfffebattle with you. Do you accept?
+Cynthia: Via each of our beloved Pokémon,\xfffeI shall know more about you!\xf000븁\x0000
+Cynthia: ...I'm a bit let down.\xf000븁\x0000After all, my battling with you\xfffewas of the highest caliber!\xf000븁\x0000Both our lives should be\xfffeever brightened as such...
+Cynthia: How about it?\xf000븁\x0000I would like you battle you\xfffewith all my might, so that it may\xf000븀\x0000brighten up my life. Do you accept?
+Cynthia: When you oppose a trainer, \xfffebattle allows you to understand\xf000븀\x0000what manner of person they are.\xf000븁\x0000What Pokémon do they use,\xfffeand what moves do they know?\xf000븀\x0000What items do they possess?\xf000븀\x0000Words are meaningless then...\xf000븁\x0000So! If you wish to know more about me,\xfffeI implore you to come to the Sinnoh region!
+Cattleya: Things always turning out the way\xfffeyou like is a precedent to unhappiness.\xf000븁\x0000There are things I can\xfffeand cannot do.\xf000븀\x0000Recognizing that is key.\xf000븁\x0000There was an annoying person\xfffewho said that long ago...
+Cattleya: ...No matter what,\xfffeI can't defeat Cynthia.\xf000븁\x0000Perhaps in the past,\xfffeI would have exploded with rage.\xf000븁\x0000But now, I calmly\xfffereview the battle, and consider\xf000븀\x0000how I can become stronger.
+Cattleya: ...Are you familiar with\xfffethe Battle Castles?\xf000븁\x0000One exists in Johto and Sinnoh,\xfffeso if you like, go and challenge them.
+Cattleya: ...This is a villa of mine.\xf000븁\x0000I have them all over the world,\xfffeso I allow Cynthia to use this one.\xf000븁\x0000You're free to play here\xfffeif you wish, as well.
+Cattleya: ...If one's psychic ability\xfffewere truly uncontrollable,\xf000븀\x0000one would be better off without it.
+Shikimi: When writing a story...\xfffethere must be many inputs,\xf000븀\x0000or there can be no output.\xf000븁\x0000Trainers work the same way.\xf000븁\x0000They must battle much,\xfffestudy a variety of things, and\xf000븀\x0000test things out to become stronger.
+Shikimi: The Rainbow Wing...\xfffeThe Silver Wing...\xf000븀\x0000They stir up my imagination!
+Shikimi: ...That Pokémon in the Distortion World\xfffeis such a fantastic spectacle!
+Shikimi: ...No matter how much data I collect,\xfffeI haven't a clue.\xf000븁\x0000How old is Cynthia, I wonder?\xfffeWhat do you think?
+Shikimi: ...My muffler can give people the\xfffeimpression of looking like a Pokémon.\xf000븁\x0000Understand?\xfffeImagination is the key, isn't it?
+Cynthia: What is necessary to\xfffebecome stronger from here on?\xf000븁\x0000Might it be an ever-continued \xfffecoexistence with Pokémon?\xf000븁\x0000That is the way I have always been,\xfffeso I can state it to be nothing else...
+Cynthia: Once every couple years,\xfffethe Champions of the various regions\xf000븀\x0000should get together and decide\xf000븀\x0000who is the strongest of all!\xf000븁\x0000Don't you think such an gathering\xfffewould be amusing?
+Cynthia: I'd like to live here,\xfffebut if I did, my research data\xf000븀\x0000would stack as high as a mountain...\xf000븁\x0000That's right! Cynthia! This time,\xfffeyou shall settle things for good!
+Cynthia: I have a problem.\xf000븁\x0000A white swimsuit or\xfffea black swimsuit...\xf000븀\x0000which one better suits me, I wonder?
+Cynthia: ...Hm.\xf000븁\x0000It's difficult...\xf000븁\x0000I have so many swimsuits I want\xfffeto wear, it's impossible to choose one...
+Iris: Hey, hey!\xfffeHave you seen Cynthia's Garchomp?\xf000븁\x0000It's SUPER CUUUUUTE!!
+Iris: I'm gonna go on a cruise\xfffewith uncle Shaga soon!\xf000븁\x0000Hiun City's packed with people,\xfffebut I'll be with gramps,\xf000븀\x0000so Iris'll be a-okay!
+Iris: Sometimes I remember\xfffethe village I was born in...\xf000븀\x0000but I don't care a bit!\xf000븁\x0000'Cause leaving has let me meet\xfffeall these people and Pokémon and everybody!
+Iris: We're on a BEACH!!
+Iris: The ocean is pretty,\xfffeso I always like to dive real deep...\xf000븀\x0000but everybody always worries about me!
+Fuuro: I'm good friends with\xfffeCamille and all, but...\xf000븀\x0000Pokémon battles are kinda different!\xf000븁\x0000It's absolutely crucial I make plans\xfffeto counter electric-types!
+Fuuro: Shooting through rainclouds\xfffein stormy weather\xf000븀\x0000is quite the spectacle...\xf000븁\x0000I'd like to show it to you someday!
+Fuuro: ...I was thinking just now.\xf000븁\x0000Are swimsuits meant to be revealing?\xfffeOr else, to be concealing?
+Fuuro: People can even fly to\xfffefar-off Sinnoh with a cargo plane!\xf000븁\x0000I personally love the feeling of\xfffehaving a Pokémon use Fly, though...
+Fuuro: Whew...\xfffeSwimming in the sea feels great!
+Kamitsure: ...Showing off a Pokémon's charm\xfffeoften takes away the charm.\xf000븀\x0000It's difficult.
+Kamitsure: ...Raimon City actually runs on\xfffeenergy provided by electric-type Pokémon.\xf000븁\x0000...Not really.
+Kamitsure: Constant worry is bad\xfffefor both the body and mind.\xf000븁\x0000At times like that, you have\xfffeto short-circuit your thoughts\xf000븀\x0000to restore your proper mood.
+Kamitsure: Without speaking...\xfffeWithout comprehensible language...\xf000븀\x0000Pokémon can convey my feelings\xf000븀\x0000to trainers in place of me.
+Kamitsure: When you get right down to it,\xfffeisn't a swimsuit just a piece of cloth?
+Aloe: Aren't fossils just amazing?\xf000븁\x0000Being dead, they shouldn't be able\xfffeto say a thing, yet they tell us\xf000븀\x0000all about the age they lived in.\xf000븁\x0000Hahaha... that's a line from\xfffeAraragi's lil' girl, though, 'course!
+Aloe: You can use TMs indefinitely, y'know?\xf000븁\x0000If you teach Vengeance to a bunch of\xfffePokémon, someday you should find\xf000븀\x0000just the right Pokémon for it!
+Aloe: When I was little...\xf000븁\x0000My pops dug for rocks in the mountains,\xfffeand always used to bring back bones.\xf000븁\x0000My childish fascination for the things\xfffeis what made me become a researcher!
+Aloe: That Bel girl came to ask me\xfffeabout Pokémon the other day.\xf000븁\x0000When you want to know more about\xfffestuff you like, you never wear out!
+Aloe: Cynthia's a famous\xfffearchaeologist, so, y'know!\xf000븁\x0000We fellow researchers like to talk\xfffeamongst each other, all academic-like!

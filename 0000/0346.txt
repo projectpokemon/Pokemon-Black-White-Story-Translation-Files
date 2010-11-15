@@ -1,4 +1,4 @@
-Um...\xfffeWho did you say I was again?\xf000븁\x0000...\xfffe...\xf000븁\x0000Oh, yes, I remember now!\xfffeI'm the Move Deleter!\xf000븁\x0000
+﻿Um...\xfffeWho did you say I was again?\xf000븁\x0000...\xfffe...\xf000븁\x0000Oh, yes, I remember now!\xfffeI'm the Move Deleter!\xf000븁\x0000
 You've come to make me force your\xfffePokémon to forget some moves?
 Which Pokémon should forget a move?\xf000븁\x0000
 Remember me if there are moves that\xfffeneed to be forgotten!
@@ -7,49 +7,49 @@ What? That's an Egg.\xfffeAn Egg should have no moves.\xf000븁\x0000
 OK, then.\xfffeWhich move should be forgotten?\xf000븁\x0000
 Hm! The move \xf000ć\x0001\x0000?\xfffeShould that move be forgotten?
 It worked perfectly!\xf000븁\x0000Your Pokémon has forgotten the move\xfffe\xf000ć\x0001\x0000 completely.
-\xf000Ă\x0001\x0000に\xfffeどの わざを おぼえさせる？
-\xf000ć\x0001\x0001 を\xfffeおぼえさせますか？
-\xf000Ă\x0001\x0000に わざを\xfffeおぼえさせるのを あきらめますか？
-\xf000Ă\x0001\x0000は あたらしく\xfffe\xf000ć\x0001\x0001を おぼえた！
-\xf000Ă\x0001\x0000は あたらしく\xfffe\xf000ć\x0001\x0001を おぼえたい……\xf000븁\x0000しかし \xf000Ă\x0001\x0000は わざを ４つ\xfffeおぼえるので せいいっぱいだ！\xf000븁\x0000\xf000ć\x0001\x0001の かわりに\xfffeほかの わざを わすれさせますか？
-１\xf000븂\x0001\x0014 ２の\xf000븂\x0001\x0014…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014 ポカン！\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븁\x0000\xf000Ă\x0001\x0000は \xf000ć\x0001\x0001の\xfffeつかいかたを きれいにわすれた！\xf000븁\x0000そして……！\xf000븁\x0000
-\xf000Ă\x0001\x0000は あたらしく\xfffe\xf000ć\x0001\x0001を おぼえた！\xf000븁\x0000
-それでは…… \xf000ć\x0001\x0001を\xfffeおぼえるのを あきらめますか？
-\xf000Ă\x0001\x0000は \xf000ć\x0001\x0001を\xfffeおぼえずに おわった！\xf000븁\x0000
-\xf000Ā\x0001\x0002は おれいに\xfffeハートのウロコを １まい あげた！\xf000븁\x0000
-\xf000ć\x0001\x0000を\xfffeわすれさせて よろしいですね？
-What move should I teach\xfffeto \xf000Ă\x0001\x0000?\xf000븁\x0000
-Teach it \xf000ć\x0001\x0001? 
-\xf000Ă\x0001\x0000に わざを\xfffeおもいださせるのを あきらめますか？
-\xf000Ă\x0001\x0000 remembered\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
-\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0001を おもいだしたい…\xf000븁\x0000しかし \xf000Ă\x0001\x0000は わざを ４つ\xfffeおぼえるので せいいっぱいだ！\xf000븁\x0000\xf000ć\x0001\x0001の かわりに\xfffeほかの わざを わすれさせますか？
-１\xf000븂\x0001\x0014 ２の\xf000븂\x0001\x0014…\xf000븂\x0001\x0014…\xf000븂\x0001\x0014 ポカン！\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븁\x0000\xf000Ă\x0001\x0000は \xf000ć\x0001\x0001の\xfffeつかいかたを きれいにわすれた！\xf000븁\x0000そして……！\xf000븁\x0000
-\xf000Ă\x0001\x0000は わすれていた\xfffe\xf000ć\x0001\x0001を おもいだした！\xf000븁\x0000
-それでは…… \xf000ć\x0001\x0001を\xfffeおもいだすのを あきらめますか？
-\xf000Ă\x0001\x0000は \xf000ć\x0001\x0001を\xfffeおもいださずに おわった！\xf000븁\x0000
-\xf000Ā\x0001\x0000は おれいに\xfffeハートのウロコを １まい あげた！
-\xf000ć\x0001\x0000を\xfffeわすれさせて よろしいですね？
-みんな あたしの ことを \xfffeメモリアルガール と よぶの\xf000븁\x0000ポケモンが せいちょうして おぼえる\xfffeわざを すべて しっていてね\xf000븁\x0000その わざを ポケモンに\xfffeおもいださせることが できるのよ！\xf000븁\x0000ハートのウロコと いう\xfffeどうぐを くれたら あなたの\xf000븀\x0000ポケモンに わざを おもいださせるわ\xf000븁\x0000
+Teach which move\xfffeto \xf000Ă\x0001\x0000?
+Teach the move\xfffe\xf000ć\x0001\x0001?
+Give up on teaching a move\xfffeto \xf000Ă\x0001\x0000?
+\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!
+\xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000However, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000Should a move be deleted and\xfffereplaced with \xf000ć\x0001\x0001?
+1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 and...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof!\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000And...\xf000븁\x0000
+\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
+Give up on learning\xfffe\xf000ć\x0001\x0001?
+\xf000Ă\x0001\x0000 didn't learn\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
+\xf000Ā\x0001\x0002 gave a\xfffeHeart Scale as thanks!
+Delete the move\xfffe\xf000ć\x0001\x0000?
+What move should I teach\xfffeto \xf000Ă\x0001\x0000?
+Teach it \xf000ć\x0001\x0001?
+Give up on reteaching\xfffe\xf000Ă\x0001\x0000 a move?
+\xf000Ă\x0001\x0000 remembered\xfffe\xf000ć\x0001\x0001!\xf000븅\x0001\x0004\xf000븅\x0001\x0005\xf000븇\x0000\xf000븁\x0000
+\xf000Ă\x0001\x0000 wants to remember\xfffethe move \xf000ć\x0001\x0001...\xf000븁\x0000However, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000Should a move be deleted and\xfffereplaced with \xf000ć\x0001\x0001?
+1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 and...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof!\xf000븅\x0001\x0003\xf000븆\x0001\x0002\xf000븇\x0000\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000And...\xf000븁\x0000
+\xf000Ă\x0001\x0000 relearned\xfffethe forgotten move \xf000ć\x0001\x0001!\xf000븅\x0001\x0004\xf000븅\x0001\x0005\xf000븇\x0000\xf000븁\x0000
+Give up on relearning\xfffe\xf000ć\x0001\x0001?
+\xf000Ă\x0001\x0000 didn't relearn\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
+\xf000Ā\x0001\x0000 gave a\xfffeHeart Scale as thanks!
+Delete the move\xfffe\xf000ć\x0001\x0000?
+Everyone calls me\xfffethe Memorial Girl!\xf000븁\x0000I know all the moves your\xfffePokémon learns from leveling up...\xf000븁\x0000I can make them learn\xfffeany of those moves!\xf000븁\x0000Just give me a Heart Scale\xfffeand I'll make your Pokémon\xf000븀\x0000remember a move!\xf000븁\x0000
 You want to teach one of\xfffeyour Pokémon a move?
 Which Pokémon needs tutoring?\xf000븁\x0000
 If any of your Pokémon needs to learn a\xfffemove, come back with a Heart Scale!
 Don't you think it'd be tough for\xfffean Egg to learn a move?
 Sorry... There isn't any move\xfffeI can teach that Pokémon.
-ぶんるい
-いりょく
-めいちゅう
+Category
+Power
+Accuracy
 PP
-たたかうわざ
-アピールポイント
-コンテストわざ
+Battle Move
+Appeal point(s)
+Contest Move
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 \xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
-Quit
-ーーー
-もどる
-おぼえる
-どのわざを おぼえさせる？
+Stop
+－－－
+Return
+Learn
+Remember which move?
 \xf000Ă\x0001\x0000
 Ｌｖ．\xf000Ȃ\x0001\x0000
-おぼえている わざ
+Learned Move

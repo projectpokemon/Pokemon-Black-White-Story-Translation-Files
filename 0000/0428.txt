@@ -1,4 +1,4 @@
-Cheren: \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeI understand you're\xffferaring to go around everywhere\xf000븀\x0000\xfffewith your Pokémon, but...\xf000븁\x0000\xfffeWe have to give our thanks\xfffeto Professor Araragi first.\xf000븁\x0000Here!\xfffeThe lab's this way!\xf000븁\x0000
+﻿Cheren: \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeI understand you're\xffferaring to go around everywhere\xf000븀\x0000\xfffewith your Pokémon, but...\xf000븁\x0000\xfffeWe have to give our thanks\xfffeto Professor Araragi first.\xf000븁\x0000Here!\xfffeThe lab's this way!\xf000븁\x0000
 Cheren: I know it's too much to ask,\xfffebut could you go to Bel's house?\xf000븁\x0000\xfffeI'm sure she's just as happy-go-lucky\xfffeas she always is, though...\xf000븀\x0000I just call it being slow!
 Bel: ...Keep what you saw earlier\xfffea secret!
 Cheren: Well!\xfffeTime to meet the Professor.\xf000븁\x0000
@@ -36,19 +36,19 @@ Bel's House
 Araragi Pokémon Lab
 Cheren: Hey, \xf000Ā\x0001\x0000.\xfffeYou finished talking with Looker?\xf000븁\x0000
 Bel: ...Sorry, from both of us.\xf000븁\x0000We called the gym leaders of\xfffeSanyou City to come too,\xf000븀\x0000but they were all late...\xf000븁\x0000
-Cheren: ...I have to apologize myself, though.\xf000븁\x0000The Dark Trinity found an opportunity\xfffeto help Geechisu get away...\xf000븁\x0000
+Cheren: ...I have to apologize\xfffemyself, though.\xf000븁\x0000The Dark Trinity found an opportunity\xfffeto help Geechisu get away...\xf000븁\x0000
 Bel: ...Geechisu?\xfffeDark Trinity?\xf000븁\x0000
 Cheren: ...I'll tell you what went on\xfffein the castle later, okay?\xf000븁\x0000Anyway, forget that, Bel.\xfffeWhat are you two going to do now?\xf000븁\x0000
 Bel: I'm, um, I'm...\xfffegonna go to White Forest!\xf000븁\x0000
 Bel: I'm, um, I'm...\xfffegonna go to Black City!\xf000븁\x0000
 Cheren: Ah. That's past Route 16\xfffefrom Raimon City, right?\xf000븁\x0000I see... You just might\xfffefind some Pokémon you've\xf000븀\x0000never seen before over there!\xf000븁\x0000
 Araragi's Dad: Oh!\xfffeNow this is nice timing!\xf000븀\x0000You're all together and everything!\xf000븁\x0000
-I just got the data for the National Dex\xfffefrom an acquaintance!\xf000븁\x0000Since I'm already here,\xfffelet me upgrade your Pokédexes\xf000븀\x0000to the National Dex!\xf000븁\x0000I mean, you're just going to\xfffekeep going places, aren't you?\xf000븁\x0000So you're bound to find more\xfffeand more Pokémon too! Obviously!\xf000븁\x0000Let me have your Pokédexes for a second!\xf000븁\x0000
+I just got the data for the National Dex\xfffefrom an acquaintance!\xf000븁\x0000Since I'm already here,\xfffelet me upgrade your Pokédexes\xf000븀\x0000to the National Dex!\xf000븁\x0000I mean, you're just going to\xfffekeep going places, aren't you?\xf000븁\x0000So you're bound to find more\xfffeand more Pokémon too! Obviously!\xf000븁\x0000Let me have your Pokédexes\xfffefor a second!\xf000븁\x0000
 Right, Bel!\xf000븁\x0000
 And next, Cheren!\xf000븁\x0000
 And lastly... you!\xf000븁\x0000
 \xf000Ā\x0001\x0000's Pokédex\xfffewas upgraded to the National Dex!
-Araragi's Dad: And with that,\xfffeall your Pokédexes are\xf000븀\x0000updated to the National Dex.\xf000븁\x0000Completing the National Dex maaay be\xfffea bit extreme of a task, but...\xf000븁\x0000Well, keep at it, and keep enjoying\xfffethe thrill of finding Pokémon!\xf000븁\x0000
+Araragi's Dad: And with that,\xfffeall your Pokédexes are updated\xf000븀\x0000to the National Dex.\xf000븁\x0000Completing the National Dex maaay be\xfffea bit extreme of a task, but...\xf000븁\x0000Well, keep at it, and keep enjoying\xfffethe thrill of finding Pokémon!\xf000븁\x0000
 Bel: Whoaaa, a National Dex...\xf000븁\x0000There's still a LOT of Pokémon\xfffeI don't know about yet, huh?\xf000븁\x0000Oh yeah! I'll have to show my\xfffePokédex to mom and dad!\xf000븁\x0000That said, I still hope I\xfffemeet you two again somewhere!!\xf000븁\x0000
-Cheren: Even after her long journey,\xfffeBel's still going at her own pace...\xf000븁\x0000
+Cheren: Even after her long journey,\xfffeBelle's still going at her own pace...\xf000븁\x0000
 I'm planning on looking through\xfffeeverything again starting from Route 1.\xf000븁\x0000I'm sure there are new discoveries\xfffeto be made everywhere.\xf000븁\x0000And you never know, I could find some\xfffeof the Seven Sages along the way.\xf000븁\x0000That said, \xf000Ā\x0001\x0000,\xfffeif we meet again somewhere,\xf000븀\x0000you know we'll be battling!\xf000븁\x0000

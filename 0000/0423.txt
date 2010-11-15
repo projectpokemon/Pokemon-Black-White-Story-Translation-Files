@@ -1,4 +1,4 @@
-Welcome!\xfffeWhat do you need?
+﻿Welcome!\xfffeWhat do you need?
 Please come again!
 Is there anything else\xfffeI may do for you?
 You don’t have enough money!\xf000븁\x0000

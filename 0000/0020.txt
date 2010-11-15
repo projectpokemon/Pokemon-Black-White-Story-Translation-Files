@@ -1,5 +1,5 @@
-Cheren: Pokémon that are poisoned\xfffewill steadily lose health as they fight.\xf000븁\x0000Yet it only occurs\xfffewhile they're fighting...\xf000븁\x0000
-Oh, hi \xf000Ā\x0001\x0000.\xf000븁\x0000Did you come looking\xfffefor the gym leader?
+﻿Cheren: Pokémon that are poisoned\xfffewill steadily lose health as they fight.\xf000븁\x0000Yet it only occurs\xfffewhile they're fighting...\xf000븁\x0000
+Oh, hi, \xf000Ā\x0001\x0000.\xf000븁\x0000Did you come looking\xfffefor the gym leader?
 He was here talking about\xfffePokémon types a while ago...\xf000븁\x0000I guess you just missed him?\xf000븁\x0000
 The best way to become a stronger\xfffetrainer is through real practice.\xf000븁\x0000As such, challenging the gym leaders\xfffeis pretty much your best option...\xf000븁\x0000
 Anyway, \xf000Ā\x0001\x0000,\xfffewould you battle with me?\xf000븁\x0000I want to test\xfffehow important items are.
@@ -10,7 +10,7 @@ Cheren: Yes, I see now\xfffethat item usage is key.\xf000븁\x0000Okay, \xf000Ā
 Cheren: If you give Pokémon\xfffea berry to hold...\xf000븁\x0000They'll eat it themselves whenever\xfffethey're running low on health in battle.\xf000븁\x0000Although they can't use items\xfffepeople would use, like Potions...\xf000븁\x0000Well, do your best!\xf000븁\x0000
 I love Pokémon, which is why\xfffeI want to know more about them.\xf000븁\x0000\xfffeThe Trainer's School exists\xfffeto fulfill that desire!
 Pokémon have mysterious powers\xfffeknown as Abilities.\xf000븁\x0000Abilities can have\xfffevarious kinds of effects...\xf000븁\x0000Many of the effects Abilities have\xfffecan be seen during battle!
-There's a technique known as\xfffeEvolution Cancelling.\xf000븀\x0000Hear me? I'll read from this book.\xf000븁\x0000"While Pokémon are evolving,\xfffepressing the B button\xf000븀\x0000 will, surprisingly, abort the evolution."
+There's a technique known as\xfffeEvolution Cancelling.\xf000븀\x0000Hear me? I'll read from this book.\xf000븁\x0000"While Pokémon are evolving,\xfffepressing the B button\xf000븀\x0000will, surprisingly, abort the evolution."
 There are moves that can only be\xfffelearned through the use of TMs.\xf000븁\x0000\xfffeTMs can be used indefinitely,\xfffeso you should use them all the time.\xf000븁\x0000\xfffeIf a move turns out to be useless,\xfffejust replace it with another TM!
 If you want, I can quiz you on\xfffestatus effects! How about it?
 Then here's the question!\xf000븁\x0000Which of the following items is\xfffeused to heal a poisoned Pokémon?
@@ -21,7 +21,7 @@ Ding-ding-ding!\xf000븁\x0000You're correct!\xfffeNow for the next question!\xf
 Which item is used to heal a burn... uh...\xf000븁\x0000...Well, yeah, it's Burn Heal, duh.\xf000븁\x0000Which of the following items is\xfffeused to wake up a sleeping Pokémon?
 Ding-ding-ding! DingdingdingDING!!\xf000븁\x0000You totally aced it!\xf000븁\x0000For knowing your stuff about statuses,\xfffelet me give you this present!\xf000븁\x0000
 A Full Heal, as you might guess,\xfffecan heal any and all status effects!
-If you want a quiz,\xfffejust come back and ask me!
+If you want a quiz,\xfffejust come back and tell me!
 BZZZZZT!\xf000븁\x0000Sorry... That's wrong!\xfffeBut come take the challenge again!
 The blackboard is filled with\xfffeinformation about status effects\xf000븁\x0000\xfffethat can come up during battle.\xf000븁\x0000
 Which will you look at?

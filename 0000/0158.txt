@@ -1,22 +1,22 @@
-Test Message
+﻿Test Message
 $\xf000ȅ\x0001\x0002
 Would you like to save the game?
 There is already a saved file.\xfffeIs it OK to overwrite it?
 Saving...\xfffeDon't turn off the power.
 \xf000ă\x0001\x0000 saved the game!
-ちゅうい！！\xf000븁\x0000『つづきから はじめる』で\xfffeぼうけん していた\xf000븀\x0000レポートが かかれています！\xf000븁\x0000そち
-The game couldn't be saved.\xf000븁\x0000
-There is already another\xfffesave file,\xf000븀\x0000so a new one could not be written!\xf000븁\x0000Please check the instruction manual\xfffefor further information.
-There is already another\xfffesave file,\xf000븀\x0000so a new one could not be written!\xf000븁\x0000Please check the instruction manual\xfffefor further information.\xf000븁\x0000
-Saving a lot of data.\xfffePlease don't turn off the power.
+ちゅうい！！\xf000븁\x0000『つづきから はじめる』で\xfffeぼうけん していた\xf000븀\x0000レポートが かかれています！\xf000븁\x0000そちらで プレイしていた ぼうけんや\xfffeすべての ポケモン どうぐ などが\xf000븀\x0000きえてしまいます……\xf000븁\x0000ほんとうに\xfffeうえから かいても いいですか？
+The report couldn't be written.\xf000븁\x0000
+There is already another\xfffePokémon report written,\xf000븀\x0000so a new one could not be written!\xf000븁\x0000Please check the instruction manual\xfffefor further information.
+There is already another\xfffePokémon report written,\xf000븀\x0000so a new one could not be written!\xf000븁\x0000Please check the instruction manual\xfffefor further information.\xf000븁\x0000
+Writing a long report.\xfffePlease don't turn off the power.
 Writing a save game...\xfffeDon't turn off the power.
 Writing a save game...\xfffeDon't turn off the power.
 Writing a save game...\xfffeDon't turn off the power.
 しんにゅう しているときや\xfffeしんにゅう されているときは\xf000븀\x0000レポートが かけません！
 だれかと せつぞくちゅうの ようですが\xfffeせつだんして よろしいですか？
 つうしんを せつだん します\xfffeしばらく おまちください
-Mom: \xf000Ā\x0001\x0000!\xfffeWelcome home.\xf000븁\x0000Things were looking bad there...\xfffeHow about you rest a while...?\xf000븁\x0000... ... ...\xfffe... ... ...
-Mom: Oho!\xf000븁\x0000Looks like you and your Pokémon\xfffeare feeling great!\xf000븁\x0000\xfffeRight! I heard this\xfffefrom the Professor before...\xf000븁\x0000\xfffeWhenever your Pokémon is\xfffeout of health... er, HP...\xf000븁\x0000Be sure to get it healed\xfffeat a Pokémon Center, alright?\xf000븁\x0000\xfffeWhen you're out adventuring far away,\xfffeit helps to buy essentials\xf000븀\x0000like Potions from the Friendly Shop.\xf000븁\x0000\xfffeWell, I'm backing you up!\xf000븁\x0000\xfffeBe careful!\xfffeAnd be on your way!
+Mother: \xf000Ā\x0001\x0000!\xfffeWelcome home.\xf000븁\x0000Things were looking bad there...\xfffeHow about you rest a while...?\xf000븁\x0000... ... ...\xfffe... ... ...
+Mother: Oho!\xf000븁\x0000Looks like you and your Pokémon\xfffeare feeling great!\xf000븁\x0000\xfffeRight! I heard this\xfffefrom the Professor before...\xf000븁\x0000\xfffeWhenever your Pokémon is\xfffeout of health... er, HP...\xf000븁\x0000Be sure to get it healed\xfffeat a Pokémon Center, alright?\xf000븁\x0000\xfffeWhen you're out adventuring far away,\xfffeit helps to buy essentials\xf000븀\x0000like Potions from the Friendly Shop.\xf000븁\x0000\xfffeWell, I'm backing you up!\xf000븁\x0000\xfffeBe careful!\xfffeAnd be on your way!
 First, let's restore your Pokémon\xfffeto full health.
 When your Pokémon's health,\xfffeor HP, is reduced to zero,\xf000븀\x0000\xfffebe sure to bring them here.\xf000븁\x0000\xfffeWhenever you're going out\xfffeany significant distance,\xf000븁\x0000\xfffewe recommend buying\xfffePotions from the Friendly Shop.\xf000븁\x0000\xfffeWell, good luck, and take care!
 There! All happy and healthy!\xf000븁\x0000\xfffeGood luck and take care!

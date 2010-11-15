@@ -1,4 +1,4 @@
-Scenery delights, battles excite!\xfffeWelcome to the S.S. Royal Isshu!\xf000븁\x0000\xfffeIt'll be $1000\xfffeto board.\xf000븀\x0000\xfffeWill you be boarding?
+﻿Scenery delights, battles excite!\xfffeWelcome to the S.S. Royal Isshu!\xf000븁\x0000\xfffeIt'll be $1000\xfffeto board.\xf000븀\x0000\xfffeWill you be boarding?
 The S.S. Royal Isshu is a cruise ship\xfffethat departs once every evening.\xf000븁\x0000
 The S.S. Royal Isshu only\xfffecruises during the evening.\xf000븀\x0000\xfffeWe await your coming another time.
 Oh? You don't have enough money!\xfffeWe await your coming another time.

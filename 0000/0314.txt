@@ -1,15 +1,15 @@
-\xf000Ā\x0001\x0000 booted up the PC.\xf000븁\x0000
+﻿\xf000Ā\x0001\x0000 booted up the PC.\xf000븁\x0000
 Which PC should be accessed?
 Someone's PC
-Shouro's PC
+Shorea's PC
 \xf000Ā\x0001\x0000's PC
 Prof. Araragi's PC
 Hall of Fame
 View Help
 Switch Off
-Accessed Dr. Araragi's PC.\xf000븁\x0000
+Accessed Prof. Araragi's PC.\xf000븁\x0000
 Hall of Fame\xfffewas corrupted!\xf000븁\x0000\xfffeHall of Fame has\xfffebeen fixed!\xf000븁\x0000
-Congratulations!\xf000븁\x0000\xfffeWallpapers have been\xfffeadded for clearing\xfffefor the first time!\xf000븁\x0000
+Congratulations!\xf000븁\x0000\xfffeWallpapers have been\xfffeadded for beating\xfffethe game the first time!\xf000븁\x0000
 Congratulations!\xf000븁\x0000\xfffeWallpapers have been\xfffeadded for winning\xfffethe championship!\xf000븁\x0000
 The Pokémon Storage System\xfffewas accessed.\xf000븁\x0000
 Deposit Pokémon

@@ -1,4 +1,4 @@
-Adeku: ...Oh, \xf000Ā\x0001\x0000? Over here.\xf000븁\x0000
+﻿Adeku: ...Oh, \xf000Ā\x0001\x0000? Over here.\xf000븁\x0000
 That lying Geechisu...\xf000븁\x0000\xfffeHe's desparately trying to fool\xfffeeveryone with his phony speeches.\xf000븁\x0000
 Geechisu: It is so!\xf000븁\x0000\xfffeThrough Lord N, we have joined\xfffeforces with the legendary Pokémon!\xf000븁\x0000\xfffeA brand new land shall be created!\xf000븁\x0000\xfffeThis shall be a reliving of\xfffethe legendary hero's construction\xf000븀\x0000\xfffeof our Isshu!
 Hero?
@@ -8,8 +8,8 @@ Pokémon are creatures whose sheer\xfffepotential is limited by humans.\xf000븁
 We are beings who feel they must\xfffestudy a great many things.\xf000븁\x0000
 If we wish to see their\xfffetrue magnificence, we should\xf000븀\x0000\xfffeliberate them from our control!
 Liberate?
-The Pokémon?
-Create a new land, together\xfffewith we of Team Plasma!\xf000븁\x0000\xfffeFor a new land where Pokémon,\xfffepeople, all shall be free...\xf000븀\x0000\xfffeEveryone, please let your Pokémon go!\xf000븁\x0000\xfffeand thus, I, Geechisu,\xfffeconclude my speech.\xf000븁\x0000\xfffeThank you for your attention.\xf000븁\x0000
+Pokémon?
+Create a new land, together\xfffewith we of Team Plasma!\xf000븁\x0000\xfffeFor a new land where Pokémon,\xfffepeople, all shall be free...\xf000븀\x0000\xfffeEveryone, please let your Pokémon go!\xf000븁\x0000\xfffeAnd thus, I, Geechisu,\xfffeconclude my speech.\xf000븁\x0000\xfffeThank you for your attention.\xf000븁\x0000
 Old Man: Hm, so we...\xf000븁\x0000We've been torturing Pokémon...?\xf000븁\x0000
 Woman: Ooogh...\xf000븁\x0000Should I give up my Pokémon\xfffelike Team Plasma says...?\xf000븁\x0000
 Woman: ...But that's...!\xf000븁\x0000I can't! I'd be so lonely\xfffewithout my Pokémon!\xf000븁\x0000
@@ -17,19 +17,19 @@ Iris: Man! Now THAT\xfffewas a weirdo speech!\xf000븁\x0000
 If Pokémon wanted nothing\xfffeto do with people, they would\xf000븀\x0000\xfffewillfully free themselves...\xf000븁\x0000\xfffeIf they despised Pokéballs, their\xfffefeelings on the matter would not\xf000븀\x0000\xfffeand could not be held back.\xf000븁\x0000
 Adeku: Shall we go, \xf000Ā\x0001\x0000? \xf000븁\x0000
 Adeku: Long time no see, Iris, Shaga.\xf000븁\x0000
-Iris: Oh! Uncle Adeku and\xf000븀\x0000the good sir from before!\xf000븁\x0000
-Iris: Oh! Uncle Adeku and\xf000븀\x0000the missy from before!\xf000븁\x0000
-Shaga: ...What is it?\xf000븁\x0000\xfffeWhat could the Champion who\xfffeleft the Pokémon League to\xf000븀\x0000\xfffewander the land want from me?\xf000븁\x0000
+Iris: Oh! Uncle Adeku and\xfffethe mister from before!\xf000븁\x0000
+Iris: Oh! Uncle Adeku and\xfffethe missy from before!\xf000븁\x0000
+Shaga: ...What is it?\xf000븁\x0000\xfffeWhat could the Champion who\xfffeleft the Pokémon League\xf000븀\x0000\xfffeto wander the land want from me?\xf000븁\x0000
 Adeku: Frankly...!\xf000븁\x0000I want you to tell me about the\xfffelegendary dragon Pokémon!\xf000븁\x0000
 Iris: Y'mean Reshiram? Or maybe Zekrom?\xfffeAlso that's kinda sudden, so what's up?\xf000븁\x0000
 Iris: Y'mean Zekrom? Or maybe Reshiram?\xfffeAlso that's kinda sudden, so what's up?\xf000븁\x0000
-Shaga: That shady Geechisu man who\xfffewas just making that speech\xf000븀\x0000mentioned them.\xf000븁\x0000And that a character named N\xfffehas revived Zekrom...\xf000븁\x0000
 Shaga: That shady Geechisu man who\xfffewas just making that speech\xf000븀\x0000mentioned them.\xf000븁\x0000And that a character named N\xfffehas revived Reshiram...\xf000븁\x0000
-Adeku: Right!\xf000븁\x0000That trainer N told White here to\xfffesearch for another dragon Pokémon\xf000븀\x0000or something.\xf000븁\x0000
-Shaga: ...I don't follow.\xf000븁\x0000Is this N planning to have the\xfffetwo dragon Pokémon fight to\xf000븀\x0000prove his own convictions?\xf000븁\x0000
+Shaga: That shady Geechisu man who\xfffewas just making that speech\xf000븀\x0000mentioned them.\xf000븁\x0000And that a character named N\xfffehas revived Zekrom...\xf000븁\x0000
+Adeku: Right!\xf000븁\x0000That trainer N told \xf000Ā\x0001\x0000 here to\xfffesearch for another dragon Pokémon\xf000븀\x0000or something.\xf000븁\x0000
+Shaga: ...I don't follow.\xf000븁\x0000Is this N planning to have the\xfffetwo dragon Pokémon fight\xf000븀\x0000to prove his own convictions?\xf000븁\x0000
 Iris: Huhhh?!\xf000븁\x0000He's already made friends with\xfffethe dragon Pokémon?!\xf000븁\x0000
 Adeku: Correct, Iris.\xf000븁\x0000Fighting with Pokémon is done\xfffeboth for fellow trainers...\xf000븁\x0000And for trainers and Pokémon\xfffeto understand each other.\xf000븁\x0000
-Well then... I'll head\xfffefor the Pokémon League!\xf000븁\x0000No, in this case, it would\xfffebe returning, wouldn't it...?\xf000븁\x0000I'll beat N, of course!\xf000븁\x0000I'll teach him how wonderful this\xfffeworld where we can live in\xf000븀\x0000harmony with Pokémon is!\xf000븁\x0000And, \xf000Ā\x0001\x0000! As the Champion,\xfffeI'll be waiting for you!\xf000븁\x0000So once you have the Souryuu gym\xfffebadge, come to the League.\xf000븁\x0000Of course, the Souryuu gym\xfffeleader is tough!\xf000븁\x0000
+Well then... I'll head\xfffefor the Pokémon League!\xf000븁\x0000No, in this case, it would\xfffebe returning, wouldn't it...?\xf000븁\x0000I'll beat N, of course!\xf000븁\x0000I'll teach him how wonderful this\xfffeworld where we can live in harmony\xf000븀\x0000with Pokémon is!\xf000븁\x0000And, \xf000Ā\x0001\x0000! As the Champion,\xfffeI'll be waiting for you!\xf000븁\x0000So once you have the Souryuu gym\xfffebadge, come to the League.\xf000븁\x0000Of course, the Souryuu gym\xfffeleader is tough!\xf000븁\x0000
 Well, I'm leaving it to you,\xfffeShaga, Iris!\xf000븁\x0000
 Iris: ...Aww, he left...\xf000븁\x0000\xfffeAre things gonna be okay? He\xfffelooked a little frightened there.\xf000븁\x0000
 Shaga: ...Don't worry, Iris.\xf000븁\x0000\xfffeHe's the strongest trainer\xfffein Isshu, remember.\xf000븁\x0000
@@ -39,8 +39,8 @@ Iris: The tale of Zekrom and Reshiram\xfffeis a tale of two Pokémon!\xf000븀\x
 Iris: And that way!\xf000븁\x0000
 Iris: Just a lil' more!!\xf000븁\x0000
 Iris: It's here!\xf000븁\x0000
-A challenger?\xf000븁\x0000\xfffeI apologize.\xfffeThe gym leader is\xf000븀\x0000\xfffeat home at the moment.
-Releasing all Pokémon...\xfffeTrainers and gym leaders both\xf000븀\x0000ceasing to exist...\xf000븁\x0000The world would certainly change,\xfffefor better or for worse...
+A challenger?\xf000븁\x0000\xfffeI apologize. The gym leader is\xfffeat home at the moment.
+Releasing all Pokémon...\xfffeTrainers and gym leaders\xf000븀\x0000both ceasing to exist...\xf000븁\x0000The world would certainly change,\xfffefor better or for worse...
 The thoughts of all the people\xfffein this town never change...\xf000븀\x0000they only accumulate.
 This town is in a state\xfffeof constant change!\xf000븁\x0000And when it changes, if the people\xfffeget a chance to contribute\xf000븀\x0000their thoughts, that's just great!
 ...I remember the days I trained\xfffewith my Pokémon to become strong.\xf000븁\x0000But if it's to make my\xfffebeloved Pokémon perfect...\xf000븀\x0000then perhaps I could release it...
@@ -60,21 +60,21 @@ When you seek the ideal...\xfffeWell, it's different for all people...\xf000븀\
 When you seek the truth...\xfffeWell, it's different for all people...\xf000븀\x0000And different for all Pokémon.\xf000븁\x0000This town places importance on change,\xfffeso it seems to seek the truth...
 This melody is filled\xfffewith the hopes of ancient peoples...\xf000븀\x0000to revive them in the present!
 This melody is filled\xfffewith our hopes...\xf000븀\x0000to be sent into the future!
-Araragi: ...Hiiiii! Did Iris toughen you up?\xf000븁\x0000
-Araragi: ...Hiiiii! Did Shaga toughen you up?\xf000븁\x0000
+Araragi: ...Hiiiii! Did Iris\xfffetoughen you up?\xf000븁\x0000
+Araragi: ...Hiiiii! Did Shaga\xfffetoughen you up?\xf000븁\x0000
 Oh, I come bearing a report on methods\xfffeto revive the legendary Zekrom.\xf000븁\x0000Telling it to you over the Live\xfffeCaster seemed pretty inexcusable...\xf000븁\x0000So, we came to a conclusion...\xf000븁\x0000But we still don't really\xfffeknow anything, unfortunately.\xf000븁\x0000
 Oh, I come bearing a report on methods\xfffeto revive the legendary Reshiram.\xf000븁\x0000Telling it to you over the Live\xfffeCaster seemed pretty inexcusable...\xf000븁\x0000So, we came to a conclusion...\xf000븁\x0000But we still don't really\xfffeknow anything, unfortunately.\xf000븁\x0000
-We're sure that the\xfffePokémon will awaken if\xf000븀\x0000it recognizes somebody's strength...\xf000븁\x0000And aren't you more\xfffeimpressive than anybody?!\xf000븁\x0000You've collected all eight Isshu\xfffegym badges, haven't you?\xf000븁\x0000You're a real bruiser now!\xf000븁\x0000You may not realize it yourself,\xfffebut you've changed hugely since\xf000븀\x0000you set out from Kanoko!\xf000븁\x0000Now, as for where a Pokémon trainer\xfffeWho's done visiting all the gyms\xf000븀\x0000is to go next...\xf000븁\x0000Allow me to guide you!\xf000븁\x0000
+We're sure that the\xfffePokémon will awaken if it\xf000븀\x0000recognizes somebody's strength...\xf000븁\x0000And aren't you more\xfffeimpressive than anybody?!\xf000븁\x0000You've collected all eight Isshu\xfffegym badges, haven't you?\xf000븁\x0000You're a real bruiser now!\xf000븁\x0000You may not realize it yourself,\xfffebut you've changed hugely\xf000븀\x0000since you set out from Kanoko!\xf000븁\x0000Now, as for where a Pokémon trainer\xfffewho's done visiting all the gyms\xf000븀\x0000is to go next...\xf000븁\x0000Allow me to guide you!\xf000븁\x0000
 Araragi: If you pass through this gate\xfffeand go through Route 10,\xf000븀\x0000there'll be badge-checking gates.\xf000븁\x0000Cross Victory Road beyond those,\xfffeand you're finally at\xf000븀\x0000the Pokémon League!\xf000븁\x0000
-I remember back when I was leading\xfffeyou around Karakusa's Pokémon Center...\xf000븁\x0000Hey, \xf000Ā\x0001\x0000, do you regret having\xfffejourneyed with your Pokémon at all?
+I remember back when I was leading you\xfffearound Karakusa's Pokémon Center...\xf000븁\x0000Hey, \xf000Ā\x0001\x0000, do you regret having\xfffejourneyed with your Pokémon at all?
 Araragi: Oh! Alright, that's fine!\xfffeNo need to go into the details, now.\xf000븁\x0000But still, I'm very glad you three\xfffechose to go journeying with Pokémon!\xf000븁\x0000
 Araragi: Well, thank you!\xfffeThat's the best reply I could expect!\xf000븁\x0000And I, too, am very glad I\xfffegifted you three those Pokémon!\xf000븁\x0000Because once again, it's given\xfffeway to more fantastic meetings\xf000븀\x0000between people and Pokémon!\xf000븁\x0000
 \xf000Ā\x0001\x0000, take this present of mine!\xf000븁\x0000
-Araragi: That Master Ball is the\xfffeultimate Pokéball, always bound\xf000븀\x0000to catch any Pokémon!\xf000븁\x0000This may be the only real assistance\xfffeI can give you, but...\xf000븁\x0000\xf000Ā\x0001\x0000, keep being \xf000Ā\x0001\x0000!\xfffeAnd whatever happens,\xf000븀\x0000keep your bearings, and\xf000븀\x0000sally forth with your Pokémon!\xf000븁\x0000Seeeee yaaaaa!!\xf000븁\x0000
+Araragi: That Master Ball is the\xfffeultimate Pokéball, always bound\xf000븀\x0000to catch any Pokémon!\xf000븁\x0000This may be the only real assistance\xfffeI can give you, but...\xf000븁\x0000\xf000Ā\x0001\x0000, keep being \xf000Ā\x0001\x0000!\xfffeAnd whatever happens,\xf000븀\x0000keep your bearings,\xf000븀\x0000and sally forth with your Pokémon!\xf000븁\x0000Seeeee yaaaaa!!\xf000븁\x0000
 Souryuu City\xfffeWhere past and future entwine!
 Shaga's House
 Battle Mansion\xfffeTriple Battling galore!
 Battle Mansion\xfffeRotation Battling galore!
-Trainer Tips\xf000븁\x0000\xfffe\xfffeMayor Shaga will teach trainers\xfffehe has recognized as strong\xf000븀\x0000the most powerful dragon-type move!\xf000븁\x0000\xfffeGo to Mayor Shaga's house\xfffefor further details!
+Trainer Tips\xf000븁\x0000\xfffeMayor Shaga will teach trainers\xfffehe has recognized as strong\xf000븀\x0000the most powerful dragon-type move!\xf000븁\x0000\xfffeGo to Mayor Shaga's house\xfffefor further details!
 Souryuu Pokémon Gym\xfffeLeader: Iris\xf000븀\x0000\xfffeDaughter of the Dragonheart
 Souryuu Pokémon Gym\xfffeLeader: Shaga\xf000븀\x0000\xfffeThe Spartan Mayor

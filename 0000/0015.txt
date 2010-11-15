@@ -1,11 +1,11 @@
-Now to introduce myself.\xf000븁\x0000I'm Makomo.\xfffeAs you can see, I'm a researcher.\xf000븁\x0000As for what I research,\xfffeit's all about trainers!\xf000븁\x0000Professor Araragi has been a friend\xfffeof mine since our college days.\xf000븁\x0000So she asked me\xfffeto help you guys out!\xf000븁\x0000
-That said, let me\xf000븁\x0000start by backing you up\xfffewith this Hidden Machine!\xf000븁\x0000
+﻿Now to introduce myself.\xf000븁\x0000I'm Makomo.\xfffeAs you can see, I'm a researcher.\xf000븁\x0000As for what I research,\xfffeit's all about trainers!\xf000븁\x0000Professor Araragi has been a friend\xfffeof mine since our college days.\xf000븁\x0000So she asked me\xfffeto help you guys out!\xf000븁\x0000
+That said!\xf000븁\x0000I'll start by backing you up\xfffewith this Hidden Machine!\xf000븁\x0000
 no data
 no data
 no data
-There are moves that Pokémon can\xfffelearn to use even outside of battle!\xf000븁\x0000That Hidden Machine, Cut,\xfffeallows you to learn a move\xf000븀\x0000that can cut through some trees.\xf000븁\x0000Furthermore, HMs, like Technical\xfffeMachines, can be used indefinitely!\xf000븀\x0000Isn't it great!\xf000븁\x0000...Only thing is, once an HM is learned,\xfffeit's tough to forget.\xf000븁\x0000
-...So, rather than me assist you,\xfffecan I ask you to do something for me?\xf000븁\x0000Um, on the edge of Sanyou City,\xfffethere's a place called the Dream Lot.\xf000븁\x0000I want some Dream Smoke from the Pokémon\xfffeMunna that appears there.\xf000븁\x0000And once I have that...\xfffewe can do a \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000!\xf000븁\x0000We'll be able to assemble together\xfffereports from trainers all over!
-Makomo: So Araragi asked you\xfffeto complete the Pokédex, huh?\xf000븁\x0000...Having to update the Pokédex\xfffefrom time to time can be a hassle.\xf000븁\x0000Oops!\xfffeI said that out loud, didn't I?\xf000븁\x0000Go get some Dream Smoke from\xfffeMunna in the Dream Lot!\xf000븀\x0000Please! I'm begging you!
+There are moves that Pokémon can\xfffelearn to use even outside of battle!\xf000븁\x0000That Hidden Machine, Cut,\xfffeallows you to learn a move\xf000븀\x0000that can cut through some trees.\xf000븁\x0000Furthermore, HMs, like Technical\xfffeMachines, can be used indefinitely!\xf000븀\x0000Ain't it great!\xf000븁\x0000...Only thing is, once an HM is learned,\xfffeit's tough to forget.\xf000븁\x0000
+...So, rather than me assist you,\xfffecan I ask you to do something for me?\xf000븁\x0000Um, on the edge of Sanyou City,\xfffethere's a place called the Dream Lot.\xf000븁\x0000I want some Dream Smoke from the Pokémon\xfffeTapudge that appears there.\xf000븁\x0000And once I have that...\xfffewe can do a \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000!\xf000븁\x0000We'll be able to assemble together\xfffereports from trainers all over!
+Makomo: So Araragi asked you\xfffeto complete the Pokédex, huh?\xf000븁\x0000...Having to update the Pokédex\xfffefrom time to time can be a hassle.\xf000븁\x0000Oops!\xfffeI said that out loud, didn't I?\xf000븁\x0000Go get some Dream Smoke from\xfffeTapudge in the Dream Lot!\xf000븀\x0000Please! I'm begging you!
 Makomo: TADAAAH!\xf000븁\x0000Thanks to you getting me\xfffethe Dream Smoke...\xf000븁\x0000We can now collect records\xfffefrom trainers all over!\xf000븀\x0000I'm truly thankful!\xf000븁\x0000As an expression of my thanks,\xfffeI'll let you use the C-Gear!\xf000븁\x0000The C-Gear is a device that uses\xfffewireless infrared communication,\xf000븀\x0000or Wi-Fi, to connect you to others.\xf000븁\x0000
 \xf000Ā\x0001\x0000 obtained\xfffethe \xf000\xff00\x0001\x0002C-Gear\xf000\xff00\x0001\x0000!
 Turn on the C-Gear\xfffeand begin communication?
@@ -23,20 +23,20 @@ Makomo: \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000ing is just\xff
 Makomo: Ah! So you sent in\xfffeyour report, too!\xf000븁\x0000I saw it while I was\xfffeinvestigating trainers!\xf000븁\x0000どう？\xfffe\xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000 rocks, eh?!
 no data
 no data
-You're a trainer?\xf000븁\x0000Well, have you ever used a PC\xfffein the Pokémon Center?\xf000븁\x0000I'm Shouro, and I manage\xfffethe storage system boxes.\xf000븁\x0000Um... Are you familiar\xfffewith Battle Boxes?
-Shouro: Go you!\xf000븁\x0000Battle Boxes are used to register\xfffePokémon you use often in battles!
-Shouro: Oh, they're simple!\xf000븁\x0000Battle Boxes are used to register\xfffePokémon you use often in battles!
-Shouro: Make sure to use\xfffemy Battle Boxes!\xf000븁\x0000You can record Pokémon on\xfffethat PC over there if you want!
-Shouro: Oh, trainer!\xf000븁\x0000I'm big sis's assistant.\xfffeI'm very grateful to you!\xf000븁\x0000This is from me.\xfffeIt's alright, you can have it.\xf000븁\x0000
+You're a trainer?\xf000븁\x0000Well, have you ever used a PC\xfffein the Pokémon Center?\xf000븁\x0000I'm Shorea, and I manage\xfffethe storage system boxes.\xf000븁\x0000Um... Are you familiar\xfffewith Battle Boxes?
+Shorea: Go you!\xf000븁\x0000Battle Boxes are used to register\xfffePokémon you use often in battles!
+Shorea: Oh, they're simple!\xf000븁\x0000Battle Boxes are used to register\xfffePokémon you use often in battles!
+Shorea: Make sure to use\xfffemy Battle Boxes!\xf000븁\x0000You can record Pokémon on\xfffethat PC over there if you want!
+Shorea: Oh, trainer!\xf000븁\x0000I'm big sis's assistant.\xfffeI'm very grateful to you!\xf000븁\x0000This is from me.\xfffeIt's alright, you can have it.\xf000븁\x0000
 You can connect over Wi-Fi with\xfffethe friends you record in that notebook.\xf000븁\x0000Connecting with them allows you to enjoy\xfffePokémon matches and Pokémon trading.\xf000븁\x0000Now, a quick explanation\xfffeon how to record friends.\xf000븁\x0000Use the Pal Pad in\xfffeyour bag's Key Items pocket and\xf000븀\x0000directly input your friend's code...\xf000븁\x0000Or, using the C-Gear's IR communications,\xfffesimply record them straight away!\xf000븁\x0000
-Shouro: Something you want to ask?
+Shorea: Something you want to ask?
 You can record from one to six Pokémon\xfffeyou often battle with in a Battle Box.\xf000븁\x0000When battling wirelessly, you can fight\xfffewith the Pokémon in the Battle Box!\xf000븁\x0000It helps cut down on switching!
 To record friends\xfffein the Pal Pad...\xf000븁\x0000Use the Pal Pad in your\xfffebag's Key Items pocket and\xf000븀\x0000directly input your friend's code...\xf000븁\x0000Or, using the C-Gear's IR communications,\xfffesimply record them straight away!
 Catch more and more Pokémon,\xfffeand you'll get more and more boxes!
 Battle Boxes
 Pal Pad
 Close
-Trainer!\xf000븁\x0000Have you ever used a PC\xfffein the Pokémon Center?\xf000븁\x0000I'm Shouro, and I manage\xfffethe storage system boxes.\xf000븁\x0000Um... Are you familiar\xfffewith Battle Boxes?
+Trainer!\xf000븁\x0000Have you ever used a PC\xfffein the Pokémon Center?\xf000븁\x0000I'm Shorea, and I manage\xfffethe storage system boxes.\xf000븁\x0000Um... Are you familiar\xfffewith Battle Boxes?
 If you want a C-Gear operations manual,\xf000븁\x0000touch the ? button on the screen!
 What is the Pokémon Storage System?\xf000븁\x0000The PC-Linked Pokémon Storage\xfffeSystem was first developed by\xf000븀\x0000Bill of the Kanto region.
 no data

@@ -1,39 +1,39 @@
-Geechisu: So this is the\xfffegym leader Arti...\xf000븁\x0000
-Arti: Team Plasma...\xfffeAre you the ones stealing\xf000븀\x0000what you want from people?\xf000븁\x0000
-Sumura: Hiding out in plain sight near\xfffehis gym seemed like an interesting idea,\xf000븀\x0000but it sure let him\xf000븀\x0000find us quickly...\xf000븁\x0000
-Geechisu: Quite so...\xf000븁\x0000Well, we've already established\xfffea magnificent hideout.\xf000븁\x0000Now,\xfffeare you familiar with the\xf000븀\x0000legend of Isshu's formation?\xf000븁\x0000
+﻿Geechisu: So this is the\xfffegym leader Arty...\xf000븁\x0000
+Arty: Team Plasma...\xfffeAre you the ones stealing\xf000븀\x0000what you want from people?\xf000븁\x0000
+Sumura: Hiding out in plain sight near\xfffehis gym seemed like an interesting idea,\xf000븀\x0000but it sure let him find us quickly...\xf000븁\x0000
+Geechisu: Quite so...\xf000븁\x0000Well, we've already established\xfffea magnificent hideout.\xf000븁\x0000Now, are you familiar with\xfffethe legend of Isshu's formation?\xf000븁\x0000
 Iris: Yeah, I know that! The one\xfffewith the white dragon Pokémon, right?!\xf000븁\x0000
 Iris: Yeah, I know that! The one\xfffewith the black dragon Pokémon, right?!\xf000븁\x0000
-Geechisu: Correct...\xfffeHow can a world with so many\xf000븀\x0000countries arguing be put to order...?\xf000븁\x0000There was a hero who\xfffepondered over that idea.\xf000븁\x0000And a white dragon Pokémon\xfffewho turned its fangs on\xf000븀\x0000those who defied it...\xf000븁\x0000The hero and the Pokémon\xfffeused their power to bring\xf000븀\x0000order to the hearts\xf000븀\x0000of all by creating Isshu.\xf000븁\x0000
-Geechisu: Correct...\xfffeHow can a world with so many\xf000븀\x0000countries arguing be put to order...?\xf000븁\x0000There was a hero who\xfffepondered over that idea.\xf000븁\x0000And a black dragon Pokémon\xfffewho turned its fangs on\xf000븀\x0000those who defied it...\xf000븁\x0000The hero and the Pokémon\xfffeused their power to bring\xf000븀\x0000order to the hearts\xf000븀\x0000of all by creating Isshu.\xf000븁\x0000
-And once more! The hero and the\xfffePokémon shall be revived here\xf000븀\x0000in Isshu to capture people's hearts!\xf000븁\x0000A remarkably simple desire\xfffeof mine... rather,\xf000븀\x0000of Team Plasma's!\xf000븁\x0000
-Arti: There are many people\xfffehere in Hiun City...\xf000븁\x0000Their lifestyles and ways of\xfffethinking are all incredibly diverse.\xf000븁\x0000So honestly, what are you saying? 'Cause\xfffeI really think you're missing something.
+Geechisu: Correct...\xfffeHow can a world with so many\xf000븀\x0000countries arguing be put to order...?\xf000븁\x0000There was a hero who\xfffepursued a truth to answer that.\xf000븁\x0000And a white dragon Pokémon\xfffewho turned its fangs on\xf000븀\x0000those who defied it...\xf000븁\x0000The hero and the Pokémon\xfffeused their power to bring\xf000븀\x0000order to the hearts of all\xf000븀\x0000by creating Isshu.\xf000븁\x0000
+Geechisu: Correct...\xfffeHow can a world with so many\xf000븀\x0000countries arguing be put to order...?\xf000븁\x0000There was a hero who\xfffepursued that ideal.\xf000븁\x0000And a black dragon Pokémon\xfffewho turned its fangs on\xf000븀\x0000those who defied it...\xf000븁\x0000The hero and the Pokémon\xfffeused their power to bring\xf000븀\x0000order to the hearts of all\xf000븀\x0000by creating Isshu.\xf000븁\x0000
+And once more! The hero and the\xfffePokémon shall be revived here\xf000븀\x0000in Isshu to capture people's hearts!\xf000븁\x0000A remarkably simple\xfffedesire of mine...\xf000븀\x0000rather, of Team Plasma's!\xf000븁\x0000
+Arty: There are many people\xfffehere in Hiun City...\xf000븁\x0000Their lifestyles and ways of\xfffethinking are all incredibly diverse.\xf000븁\x0000So honestly, what are you saying? 'Cause\xfffeI really think you're missing something.
 Huh?
 Like what?
-Arti: Everyone shares a\xfffesimilarity in one respect:\xf000븀\x0000their valuing of Pokémon.\xf000븁\x0000We communicate with even our\xfffeclosest friends through Pokémon!\xf000븀\x0000Through battling or trading...\xf000븁\x0000
-Oh, about the speech at Karakusa?\xf000븁\x0000I'm thankful that you gave me\xfffea chance to reconsider what it\xf000븀\x0000meant to get along with Pokémon.\xf000븁\x0000And so I swore...!\xf000븁\x0000I would earnestly stand\xfffeface to face with Pokémon!\xf000븁\x0000But what you're doing isn't exactly\xfffestrengthening the bonds between\xf000븀\x0000people and Pokémon, now is it?\xf000븁\x0000
-Geechisu: Wahahaha!\xf000븁\x0000Don't think of it as\xfffeseizing so much as dividing.\xf000븁\x0000I have plenty of good sense.\xfffeAnd I love humans, really.\xf000븁\x0000After all, our king has brought\xfffetogether we Seven Sages to be an\xf000븀\x0000assembly of wisdom from all nations.\xf000븁\x0000Very well! For now, I'll\xfffeleave you to your opinion...\xf000븁\x0000
+Arty: But everyone shares\xfffea similarity in one respect:\xf000븀\x0000their valuing of Pokémon.\xf000븁\x0000We communicate with even our\xfffeclosest friends through Pokémon!\xf000븀\x0000Through battling or trading...\xf000븁\x0000
+Oh, about the speech at Karakusa?\xf000븁\x0000I'm thankful that you gave me\xfffea chance to reconsider what\xf000븀\x0000it meant to get along with Pokémon.\xf000븁\x0000And so I swore...!\xf000븁\x0000I would earnestly stand\xfffeface to face with Pokémon!\xf000븁\x0000But what you're doing isn't exactly\xfffestrengthening the bonds between\xf000븀\x0000people and Pokémon, now is it?\xf000븁\x0000
+Geechisu: Wahahaha!\xf000븁\x0000Don't think of it as\xfffeseizing so much as dividing.\xf000븁\x0000I have plenty of good sense.\xfffeAnd I love humans, really.\xf000븁\x0000After all, our king has brought\xfffetogether we Seven Sages to be\xf000븀\x0000an assembly of wisdom from all nations.\xf000븁\x0000Very well! For now,\xfffeI'll leave you to your opinion...\xf000븁\x0000
 That girl over there...\xfffeGive her back her Pokémon.\xf000븁\x0000
-Bel: Th-Thank you!\xf000븁\x0000Munna! Welcome back!\xf000븁\x0000
-Iris: Missy!!\xf000븁\x0000Don't you see how villainous these guys\xfffeare for taking people's beloved Pokémon?!\xf000븁\x0000
-Bel: Y-Yeah... But I'm just\xfffeso happy Munna is safe...\xf000븁\x0000
+Bel: Th-Thank you!\xf000븁\x0000Munni! Welcome back!\xf000븁\x0000
+Iris: Missy!!\xf000븁\x0000Don't you see how villainous these guys\xfffeare for taking your beloved Pokémon?!\xf000븁\x0000
+Bel: Y-Yeah... But I'm just\xfffeso happy Munni is safe...\xf000븁\x0000
 Geechisu: What a beautiful sight!\xfffeFellowship between man and Pokémon!\xf000븁\x0000But we must still liberate\xfffePokémon from foolish humans.\xf000븁\x0000And for that purpose, we must re-enact\xfffethe legend to change people's hearts...\xf000븁\x0000Well then, take care...\xf000븁\x0000
 Iris: And why exactly did you\xfffelet those scoundrels go?!\xf000븁\x0000
-Arti: ...Hrm.\xf000븁\x0000What else could we do,\xfffegiven the stolen\xf000븀\x0000Pokémon at stake?\xf000븁\x0000
+Arty: ...Hrm.\xf000븁\x0000What else could we do, given\xfffethe stolen Pokémon at stake?\xf000븁\x0000
 Bel: It's all right!\xfffeThank you, Iris!\xf000븀\x0000Nobody got hurt or anything.\xf000븁\x0000More than anything, it's just about\xfffemeeting my precious Pokémon again!\xf000븁\x0000
-Iris: Alright...\xfffeI guess it's fine, then...\xf000븁\x0000
-Arti: So, what will\xfffeyou all do now?\xf000븁\x0000
+Iris: Awright...\xfffeI guess it's fine, then...\xf000븁\x0000
+Arty: So, what will\xfffeyou all do now?\xf000븁\x0000
 Bel: ...I kinda wanna look\xfffearound Hiun City, but, uh...\xf000븁\x0000
-Iris: You're in luck!!\xf000븁\x0000Don't worry, I'll keep bein'\xfffeyour bodyguard, missy Bel!!\xf000븁\x0000
+Iris: You're in luck!\xf000븁\x0000Don't worry, I'll keep bein'\xfffeyour bodyguard, missy Bel!!\xf000븁\x0000
 Bel: Oh, Iris...\xf000븁\x0000
-Arti: Hm, alright.\xf000븁\x0000Iris is an extraordinary Pokémon\xfffetrainer, although she doesn't\xf000븀\x0000care much for this city.\xf000븁\x0000But anyway, people and Pokémon need to help\xfffeeach other! Cooperation and all that!!\xf000븁\x0000
+Arty: Hm, alright.\xf000븁\x0000Iris is an extraordinary\xfffePokémon trainer, although she\xf000븀\x0000doesn't care much for this city.\xf000븁\x0000But anyway, people and Pokémon\xfffeneed to help each other!\xf000븀\x0000Cooperation and all that!!\xf000븁\x0000
 Iris: Oh, and you, good sir!\xf000븁\x0000Thanks for lookin' for the\xfffePokémon! Take this!\xf000븁\x0000
 Iris: Oh, and you, other missy!\xf000븁\x0000Thanks for lookin' for the\xfffePokémon! Take this!\xf000븁\x0000
 Iris: See ya later!!
 Wh...?
 Hold up!
-Arti: Well then, \xf000Ā\x0001\x0000.\xfffeI'll be waiting at the gym.\xf000븁\x0000
-Arti: Well then, \xf000Ā\x0001\x0000.\xfffeI'll be waiting at the gym.\xf000븁\x0000
+Arty: Well then, \xf000Ā\x0001\x0000.\xfffeI'll be waiting at the gym.\xf000븁\x0000
+Arty: Well then, \xf000Ā\x0001\x0000.\xfffeI'll be waiting at the gym.\xf000븁\x0000
 no data
 no data
 no data

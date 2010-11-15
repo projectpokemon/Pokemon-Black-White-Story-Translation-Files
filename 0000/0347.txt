@@ -1,12 +1,12 @@
-Good evening.\xfffeWelcome to the Pokémon Center!\xf000븁\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
-Good Morning,\xfffeand welcome to the Pokémon Center.\xf000븁\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
-Hello,\xfffeand welcome to the Pokémon Center.\xf000븁\x0000\xfffeWe restore your tired Pokémon\xfffeto full health.\xf000븁\x0000\xfffeWould you like to rest your Pokémon?
+﻿Thank you for coming!\xfffeWelcome to the Pokémon Center.\xf000븁\x0000\xfffeHere, we'll heal your Pokémon\xfffeto perfect health!\xf000븁\x0000\xfffeShall we heal your Pokémon?
+Good morning!\xfffeWelcome to the Pokémon Center.\xf000븁\x0000\xfffeHere, we'll heal your Pokémon\xfffeto perfect health!\xf000븁\x0000\xfffeShall we heal your Pokémon?
+Good day!\xfffeWelcome to the Pokémon Center.\xf000븁\x0000\xfffeHere, we'll heal your Pokémon\xfffeto perfect health!\xf000븁\x0000\xfffeShall we heal your Pokémon?
 Welcome!\xfffeThis is the Pokémon Center.\xf000븁\x0000...Oh, could it be...\xfffethat today is your birthday?
 Happy birthday!!\xf000븁\x0000We hope to see you making continued\xfffeuse of the Pokémon Center.\xf000븁\x0000So, then, shall we heal your Pokémon? 
 ...Oh, did I misunderstand?\xfffeExcuse me, I'm very sorry.\xf000븁\x0000Shall we heal your Pokémon?
-OK, I’ll take your Pokémon for a few\xfffeseconds.
-Thank you for waiting.\xf000븁\x0000\xfffeWe’ve restored your Pokémon to full\xfffehealth.\xf000븁\x0000
-Please, come back again any time!
+Okay, we'll take your Pokémon\xfffefor a few seconds.
+Thank you for waiting!\xf000븁\x0000\xfffeYour Pokémon are all\xfffefit and healthy!\xf000븁\x0000
+We hope to see you again!
 Thank you for coming!\xfffeWelcome to the Pokémon Center.\xf000븁\x0000\xfffeHere, we'll heal your Pokémon\xfffeto perfect health!\xf000븁\x0000\xfffeShall we...
 Th-That card...?!\xf000븁\x0000\xfffeThat color!!\xfffeThat shine!!\xf000븁\x0000\xfffeI've seen trainers\xfffewith silver cards before, but...\xf000븁\x0000\xfffeYou, \xf000Ā\x0001\x0000, are the first I've seen\xfffewith a yet more impressive card!\xf000븁\x0000Well, \xf000Ā\x0001\x0000,\xfffelet us heal your Pokémon!
 \xf000Ā\x0001\x0000さん おつかれさまです！\xfffeいつもので よろしい ですね！
@@ -14,7 +14,7 @@ Your Pokémon may be\xfffeinfected with Pokérus.\xf000븁\x0000\xfffeLittle is 
 Welcome to the Pokémon Wireless\xfffeClub Union Room.\xf000븁\x0000You may interact directly with\xfffemany Trainers here.\xf000븁\x0000Would you like to enter the room?
 The Trainers in the Union Room\xfffewill be those players around you\xf000븀\x0000who have also entered the room.\xf000븁\x0000You may enter two Pokémon up to\xfffeLv. 30 for a one-on-one battle.\xf000븁\x0000Or, you may trade your Pokémon here\xfffewith another Trainer.\xf000븁\x0000You may also mix records or draw\xfffewith other players.\xf000븁\x0000You may also chat with other\xfffeplayers in the room.\xf000븁\x0000...Or find friends by touching\xfffethe spoken words.\xf000븁\x0000Would you like to enter the room?
 DS Wireless Communications will be\xfffelaunched. Is that okay?
-I hope you enjoy your time in\xfffethe Union Room.\xf000븁\x0000
+I hope you enjoy your time in\xfffethe Union Room.\xf000븁\x0000 	
 We hope to see you again!
 Enter
 Quit

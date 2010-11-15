@@ -1,11 +1,11 @@
-Sumura: When I saw you back in Hiun City,\xfffeI thought nothing of you, but...\xf000븁\x0000You were tested here in\xfffeThunderstone Cave by Lord Geechisu...\xf000븁\x0000...Well, you seem in search\xfffeof something once more.\xf000븁\x0000Now, show yourselves!\xf000븁\x0000
+﻿Sumura: When I saw you back in Hiun City,\xfffeI thought nothing of you, but...\xf000븁\x0000You were tested here in\xfffeThunderstone Cave by Lord Geechisu...\xf000븁\x0000...Well, you seem in search\xfffeof something once more.\xf000븁\x0000Now, show yourselves!\xf000븁\x0000
 Grunt: Lord Sumura!\xfffeI'll take this punk down!\xf000븁\x0000
 Grunt: This one's the real deal!\xf000븁\x0000
 Grunt: So it's your fault we're now\xfffethe "former" Team Plasma?\xf000븁\x0000Who wants to be a "former" anything?\xfffeHow COULD you?\xf000븁\x0000
-Grunt: ...The former members of Team Plasma\xfffehave become just Pokémon trainers...\xf000븁\x0000
+Grunt: ...Former members of Team Plasma\xfffehave become just Pokémon trainers...\xf000븁\x0000
 Sumura: Even Team Plasma's Pokémon\xfffewere fighting for the trainers.\xf000븁\x0000We were overlooking\xfffesomething so common...\xf000븀\x0000I'm grateful you showed us that.\xf000븁\x0000Take this.\xf000븁\x0000
-Sumura: ...I wonder if Lord N now understands\xfffewhy Pokémon, even when wounded,\xf000븀\x0000wield their power for trainers' sakes...?\xf000븁\x0000
-Looker: Alright, then...\xfffeI'm an international policeman,\xf000븁\x0000so tell me what you know\xfffeabout Team Plasma!\xf000븁\x0000
+Sumura: ...I wonder if Lord N now knows\xfffewhy Pokémon, even when wounded,\xf000븀\x0000wield their power for trainers' sakes...?\xf000븁\x0000
+Looker: Alright, then...\xfffeI'm an international policeman!\xf000븁\x0000So tell me what you know\xfffeabout Team Plasma!\xf000븁\x0000
 Sumura: ...Forgive these two,\xfffefor they have left Team Plasma\xf000븀\x0000and will treat Pokémon well.\xf000븁\x0000However! Those that\xfffewill not face up to Pokémon justly,\xf000븀\x0000I will not have stand.\xf000븁\x0000
-Looker: Thanks!\xf000븁\x0000Besides Geechisu, I guess this leaves\xfffe\xf000븀\x0000\xf000Ȁ\x0001\x0000 of the Seven Sages remaining...\xf000븁\x0000I want to know what they were\xfffethinking and hoping for...\xf000븀\x0000Well, see you again!\xf000븁\x0000
+Looker: Thanks!\xf000븁\x0000Besides Geechisu, I guess this leaves\xfffe\xf000Ȁ\x0001\x0000 of the Seven Sages remaining...\xf000븁\x0000I want to know what they were\xfffethinking and hoping for...\xf000븀\x0000Well, see you again!\xf000븁\x0000
 Looker: Thanks!\xf000븁\x0000Okay, \xf000Ā\x0001\x0000...\xfffeThere's something I need to tell you.\xf000븁\x0000I've heard intel that, somewhere\xfffereally far away from here,\xf000븀\x0000there's been sighting of an N-ish person\xf000븀\x0000with a dragon Pokémon.\xf000븁\x0000I'm going to go and see\xfffeif it's really true!\xf000븀\x0000Well, see you again someday!\xf000븁\x0000

@@ -1,15 +1,15 @@
-... ... ..\xf000븁\x0000... ...Come.\xf000븁\x0000
-... ... ..\xf000븁\x0000Go with Lord Geechisu.\xf000븁\x0000
+﻿... ... ...\xf000븁\x0000... ...Come.\xf000븁\x0000
+... ... ...\xf000븁\x0000Go with Lord Geechisu.\xf000븁\x0000
 Geechisu: Splendid...\xfffeIt seems you obtained the Dark Stone.\xf000븁\x0000First I must congratulate you\xfffeon your efforts.\xf000븁\x0000
 Geechisu: Splendid...\xfffeIt seems you obtained the Light Stone.\xf000븁\x0000First I must congratulate you\xfffeon your efforts.\xf000븁\x0000
-I will tell you Lord N's intentions...\xf000븁\x0000As you have both subdued\xfffelegendary Pokémon,\xf000븁\x0000he wants to fight with conviction,\xfffeto see if he is truly a hero...\xf000븁\x0000
-I have trained him for the role of\xfffeone who would become a hero\xf000븀\x0000since he was very young.\xf000븁\x0000And as a result, he has earned\xfffethe recognition of the legendary Pokémon...\xf000븀\x0000He is truly a pure one.\xf000븁\x0000
+I will tell you Lord N's intentions...\xf000븁\x0000As you have both subdued\xfffelegendary Pokémon...\xf000븁\x0000He wants to fight you with conviction,\xfffeto see if he is truly a hero...\xf000븁\x0000
+I have trained him for the role of\xfffeone who would become a hero\xf000븀\x0000since he was very young.\xf000븁\x0000And as a result, he has earned the\xffferecognition of the legendary Pokémon...\xf000븀\x0000He is truly a pure one.\xf000븁\x0000
 The liberation of Pokémon that I...\xfffethat Team Plasma speaks of...\xf000븁\x0000It means the separation of\xfffePokémon from foolish people!\xf000븁\x0000Yes! So that all trainers would be\xfffepowerless, unable to oppose me.\xf000븁\x0000It would be perfect if we were the\xfffeonly ones who could use Pokémon!\xf000븁\x0000
 So I made my preparations.\xf000븁\x0000If I were to put my\xfffeperfect plan into action...\xf000븁\x0000I would have to relinquish one or two\xfffePokémon from foolish trainers\xf000븀\x0000who would not challenge Team Plasma.\xf000븁\x0000Then the count would grow to\xfffea hundred people, on to a thousand...\xf000븁\x0000Even the Champion and the\xfffegym leaders would follow,\xf000븀\x0000and would not dare defy me.\xf000븁\x0000Owning Pokémon would\xfffebecome a crime!\xf000븁\x0000Even those like Bel,\xfffewho had her Pokémon stolen in Hiun City,\xf000븀\x0000would be willfully sending off Pokémon.\xf000븁\x0000That's the kind of world\xfffeit would become.\xf000븁\x0000
 Even though you hold that stone,\xfffeI highly doubt the legendary Pokémon\xf000븀\x0000would recognize you as a hero.\xf000븁\x0000Yet if you do not wish to part\xfffefrom your beloved Pokémon,\xf000븀\x0000you must try your hardest...\xf000븁\x0000
-てつどうに まけないよう\xfffeはしって はしりまわっていたら\xf000븀\x0000あつくなって きたわーっ！\xf000븁\x0000ボー！ もう とにかく\xfffeこれを うけとって ちょーだい！\xf000븁\x0000
-その わざマシンの なかみは\xfffeニトロチャージ！\xf000븀\x0000わざが あたれば すばやさ アップ！\xf000븀\x0000いつのまにか ゴボウぬきよ！
-ちょっと アンタ！\xf000븁\x0000しゅうまつの よるは\xfffeここには こないほうが いいわよ\xf000븁\x0000きんじょの わるガキが あつまって\xfffeくだらないこと してるから
+I can't help but get excited on a\xfffebridge that has to withstand a railroad!\xf000븁\x0000WHOA! So anyway,\xfffetake this, please!\xf000븁\x0000
+That TM contains\xfffeNitro Charge!\xf000븀\x0000If the move hits, it ups speed!\xf000븁\x0000You'll be running circles 'round\xfffepeople before you know it!
+You there!\xf000븁\x0000You ought to not come here\xfffeon weekend nights.\xf000븁\x0000The neighborhood brats gather\xfffeand pull stupid stunts!
 テメー どこの だれの きょかで\xfffeここ とおるつもりだァ コラ！？\xf000븁\x0000はなの きんようびの ミッドナイトは\xfffeここは オイラたち ばくそうチーム\xf000븀\x0000ブラック\xf000ā\x0001\x0000の\xf000븀\x0000シマ なんだよお！\xf000븁\x0000テメーみたいに そだちが よさげで\xfffeうらやましい かんじの チビっこは\xf000븀\x0000とっとと マミーんとこへ かえんなァ！
 なんだとォ！ この ダボが！\xfffeブラック\xf000ā\x0001\x0000の\xf000븀\x0000オイラ なめてんじゃねーぞォ！\xf000븁\x0000テメーの プリティー ポケモンに\xfffeたっぷり じっくり コッテリ\xf000븀\x0000くらわして やんぞォ！\xf000븁\x0000
 ハンッ！ それで いいんだよォ！\xfffeかがやく あしたがある チビっこは\xf000븀\x0000チャッチャと おうちに かえって\xf000븀\x0000おやこうこうでも してるんだなァ！

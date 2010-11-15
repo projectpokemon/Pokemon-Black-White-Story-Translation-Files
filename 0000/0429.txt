@@ -1,4 +1,4 @@
-Cheren: I'm truly sorry that\xfffewe caused such a ruckus.\xf000븁\x0000
+﻿Cheren: I'm truly sorry that\xfffewe caused such a ruckus.\xf000븁\x0000
 Bel: U-Um,\xfffewe'll clean it up...\xf000븁\x0000
 Mom: Clean it up?\xf000븁\x0000Oh, it's fine, it's fine!\xfffeI'll take care of it later.\xf000븁\x0000Better that you go meet\xfffeProfessor Araragi, am I right?\xf000븁\x0000
 Cheren: Yes, ma'am!\xfffeWell, if you'll excuse me.\xf000븁\x0000I must be off to give my thanks\xfffeto Professor Araragi.\xf000븁\x0000
@@ -15,7 +15,7 @@ Mom: There, now you and your Pokémon\xfffeare all refreshed!\xf000븀\x0000\xff
 Mom: My! Where will you go next,\xfffeand what Pokémon might you meet?
 Mom: \xf000Ā\x0001\x0000!\xfffeAre your Pokémon doing okay?\xf000븁\x0000\xfffeLet me rest them for you.\xf000븁\x0000\xfffeA good trainer\xfffenever overworks their Pokémon!\xf000븁\x0000
 Mom: Alright, perfect!\xf000븁\x0000\xf000Ā\x0001\x0000, you and your Pokémon\xfffeare all ready and raring to go!\xf000븁\x0000Well, go on, keep journeying!
-Mom: \xf000Ā\x0001\x0000\xfffe, are you being gentle\xfffeto your Pokémon?\xf000븁\x0000After all, those Pokémon\xfffeare doing their best for you!\xf000븁\x0000Isn't it just obvious\xfffeto be kind to them in return?
+Mom: \xf000Ā\x0001\x0000,\xfffeare you being gentle\xfffeto your Pokémon?\xf000븁\x0000After all, those Pokémon\xfffeare doing their best for you!\xf000븁\x0000Isn't it just obvious\xfffeto be kind to them in return?
 Mom: Now that I think about it...\xf000븁\x0000Your father went on a Pokémon journey\xfffemuch like yours.\xf000븁\x0000And once at his destination, he met me...
 Mom: So? Are you catching\xfffelots of Pokémon?\xf000븀\x0000Remember the Professor's request!
 Mom: What might Cheren and Bel find\xfffeon their own journeys?\xf000븁\x0000If they find something they want to do...\xfffeor something they want to understand,\xf000븀\x0000I think it'll be a worthwhile journey!
@@ -26,7 +26,7 @@ Mom?: Right, yes...\xf000븁\x0000It's just astounding to me that\xfffeyou met T
 Mom?: Oh, and this is...\xf000븁\x0000
 Mom?: Oops!\xfffeI'm still in my dashing disguise!\xf000븁\x0000Apologies abound!\xfffeAllow me to introduce myself!\xf000븁\x0000
 I am a member of the world-patrolling\xfffeinternational police!\xf000븁\x0000I shall tell you my name...\xfffeno, my CODEname!\xf000븁\x0000Which is, of course, Looker!\xfffeI AM ever one,\xf000븀\x0000which is why all call me such!\xf000븁\x0000
-Looker: An organization in the Isshu region\xfffeknown as Team Plasma\xf000븀\x0000is lurking behind the scenes...\xf000븁\x0000I came speeding here\xfffeon account of that account, however...\xf000븁\x0000
+Looker: An organization in the Isshu\xffferegion known as Team Plasma\xf000븀\x0000is lurking behind the scenes...\xf000븁\x0000I came speeding here\xfffeon account of that account, however...\xf000븁\x0000
 Thanks to the admittably admirable\xfffework of you and the gym leaders...\xf000븁\x0000Team Plasma's castle has crumbled,\xfffeand its members have flown the coop!\xf000븀\x0000Or so I've heard.\xf000븁\x0000
 However, but!\xfffeYet, however!\xf000븁\x0000The head members known as the Seven\xfffeSages still lurk somewhere in Isshu.\xf000븁\x0000
 Thereupon! I naturally have a request for\xfffesuch a dashingly talented trainer as you!\xf000븁\x0000I want you to make the rounds around\xfffeIsshu and find the Seven Sages!\xf000븁\x0000This plan of action was also\xffferecommended by the Champion Adeku...

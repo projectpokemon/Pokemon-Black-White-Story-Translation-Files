@@ -1,4 +1,4 @@
-Thanks for earlier!\xf000븁\x0000My bug Pokémon were clamoring\xfffeto fight with you.\xf000븁\x0000\xfffeAlright, well, I might be going a little\xfffequick, but it's time to battle!\xf000븁\x0000
+﻿Thanks for earlier!\xf000븁\x0000My bug Pokémon were clamoring\xfffeto fight with you.\xf000븁\x0000\xfffeAlright, well, I might be going a little\xfffequick, but it's time to battle!\xf000븁\x0000
 Aww...\xfffeI lost...\xf000븁\x0000\xfffeRegardless, it shows you're\xfffedefinitely a strong one!\xf000븁\x0000\xfffeTake this gym badge!\xfffeYou beat me, after all!\xf000븁\x0000
 \xf000Ā\x0001\x0000 received\xfffethe Beetle Badge from Arti!\xf000븁\x0000
 Isn't the Beetle Badge\xfffejust awesome?!\xf000븁\x0000\xfffeIn fact, with three badges,\xfffePokémon up to Level 40\xf000븀\x0000will listen to you.\xf000븁\x0000Er, right.\xfffeAnd take this too.\xf000븁\x0000
@@ -7,15 +7,15 @@ How much have you discovered\xfffesince you first set out?\xf000븁\x0000Back wh
 Arti: Hey there!\xf000븁\x0000Lately, I've been training Pokémon...\xfffeand painting the Pokémon I train...\xf000븀\x0000and it keeps going through that cycle.\xf000븁\x0000Having a passion for something is\xfffea magnificent thing, don't you think?
 Trip a switch,\xfffeand out pops moi!\xf000븁\x0000We've made our rendezvous,\xfffenow show moi your best bataille!\xf000븁\x0000
 Hiding lessens the passion\xfffeI can put into battle...
-Con-sé-QUENCE!\xf000븁\x0000Trip a switch...\xfffeyet is moi all that awaits?!
+Con-sé-QUENCE!\xf000븁\x0000Trip a switch... and I suppose\xfffemoi is all that awaits?!
 Yahooooo! Merci, many thanks\xfffefor calling upon moi!\xf000븁\x0000Allow me to deliver my gratitude\xfffeto you via my Pokémon's moves!\xf000븁\x0000
 Should you never step on a switch,\xfffewe would remain hidden forever.\xf000븁\x0000Such is how the bug-gym's\xfffetrainers are as bugs...
 Hiding in the floor as such helps us\xfffeunderstand the feelings of bug Pokémon.
 Whew!\xfffeHow's Hiun City?\xf000븁\x0000\xfffeJust getting to the gym through\xfffethe crowds wore you out, I bet?\xf000븁\x0000\xfffeThat said,\xfffetake this!\xf000븁\x0000
 The theme of this gym is breaking\xfffethrough to the other side of walls!\xf000븁\x0000The honey walls may not look\xfffeespecially penetrable, but keep at it\xf000븀\x0000and you'll make it through!\xf000븁\x0000And when you can't seem to\xfffeget anywhere, just find a\xf000븀\x0000floor switch to step on!
-Man, you're great!\xf000븁\x0000\xfffeYou sent gym leader Arti's tricksy\xfffemoves hurtling right back at him...\xf000븁\x0000\xfffeI can't even imagine how much\xfffestronger you might get from here!
+Man, you're great!\xf000븁\x0000\xfffeYou sent gym leader Arty's tricksy\xfffemoves hurtling right back at him...\xf000븁\x0000\xfffeI can't even imagine how much\xfffestronger you might get from here!
 The gym leader, er...\xf000븁\x0000He said he was off to Prime Pier,\xfffeso I suppose he'll be out for a bit.\xf000븀\x0000Go look for him, if you would?
 The gym leader, er...\xf000븁\x0000He said he was off to Prime Pier,\xfffeso I suppose he'll be out for a bit.\xf000븀\x0000Go look for him, if you would?\xf000븁\x0000
-Hiun Pokémon Gym\xf000븁\x0000\xfffeLeader: Arti\xfffeCertified Trainers!\xf000븀\x0000Cheren
-Hiun Pokémon Gym\xf000븁\x0000\xfffeLeader: Arti\xfffeCertified Trainers!\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xf000Ā\x0001\x0000
-Hiun Pokémon Gym\xf000븁\x0000\xfffeLeader: Arti\xfffeCertified Trainers!\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xf000Ā\x0001\x0000\xf000븀\x0000Bel
+Hiun Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Arty!\xf000븀\x0000Cheren
+Hiun Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Arty!\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xf000Ā\x0001\x0000
+Hiun Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Arty!\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xf000Ā\x0001\x0000\xf000븀\x0000Belle

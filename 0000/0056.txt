@@ -1,9 +1,9 @@
-Bel: Heyyy \xf000Ā\x0001\x0000!\xf000븁\x0000Remember the promise we made\xfffeover the Live Caster?\xf000븁\x0000Let's get started with this\xfffePokémon battle right away!\xf000븁\x0000
-Bel: Heyyy \xf000Ā\x0001\x0000!\xf000븁\x0000Remember the promise we made\xfffeover the Live Caster?\xf000븁\x0000Let's get started with this\xfffePokémon battle right away!\xf000븁\x0000
+﻿Bel: Heyyy, \xf000Ā\x0001\x0000!\xf000븁\x0000Remember the promise we made\xfffeover the Live Caster?\xf000븁\x0000Let's get started with this\xfffePokémon battle right away!\xf000븁\x0000
+Bel: Heyyy, \xf000Ā\x0001\x0000!\xf000븁\x0000Remember the promise we made\xfffeover the Live Caster?\xf000븁\x0000Let's get started with this\xfffePokémon battle right away!\xf000븁\x0000
 Oh, but first...\xf000븁\x0000
-She said to make\xfffesure our Pokémon battle\xf000븀\x0000doesn't damage the\xf000븀\x0000news ticker!\xf000븁\x0000But I'm nothing like I was when\xfffeI started! It'll be just fine!\xf000븁\x0000So let's begin a brand\xfffenew Pokémon battle!\xf000븁\x0000
-Bel: ...I don't really want\xfffebe a strong trainer like you,\xf000븀\x0000\xf000Ā\x0001\x0000... or Cheren,\xf000븀\x0000or even Iris, but...\xf000븁\x0000Since I set out from Kanoko Town,\xfffeI've met so many people...\xf000븁\x0000And I've been thinking about what\xfffeI want to do with my life!\xf000븁\x0000I mean, Pokémon have\xfffeshown me so many things\xf000븀\x0000for the first time!\xf000븁\x0000
+They say to make sure\xfffeour Pokémon battle\xf000븀\x0000doesn't damage the news ticker!\xf000븁\x0000But I'm nothing like I was when\xfffeI started! It'll be just fine!\xf000븁\x0000So let's begin a brand\xfffenew Pokémon battle!\xf000븁\x0000
+Bel: ...I don't really want to\xfffebe a strong trainer like you,\xf000븀\x0000\xf000Ā\x0001\x0000... or Cheren,\xf000븀\x0000or even Iris, but...\xf000븁\x0000Since I set out from Kanoko Town,\xfffeI've met so many people...\xf000븁\x0000And I've been thinking about what\xfffeI want to do with my life!\xf000븁\x0000I mean, Pokémon have\xfffeshown me so many things\xf000븀\x0000for the first time!\xf000븁\x0000
 ...I was uneasy and clueless on what\xfffeto do when my Pokémon was stolen...\xf000븁\x0000But I'm still so glad I\xfffecould go on this journey!\xf000븁\x0000Plus, I've learned how very\xfffevaluable it is to be with Pokémon!\xf000븁\x0000Well, let's meet again somewhere!\xfffeBye-bye, \xf000Ā\x0001\x0000!\xf000븁\x0000
 Guess I should catch some\xfffeof the Pokémon on Route 4!
-Route 4 is long and full of sand!\xfffeBe careful if you decide to cross it!
+Route 4 is a long, long road!\xfffeIf you're going to cross it, be careful!
 If you go through Route 4,\xfffeyou'll end up in Raimon City.

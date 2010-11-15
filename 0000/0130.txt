@@ -1,8 +1,8 @@
-ようこそ！\xfffeトリプルバトルの やかたへ\xf000븁\x0000ここでは そのなのとおり\xfffeトリプルバトルを たのしめる\xf000븁\x0000トリプルバトルが どんなものか\xfffeかいせつ しても いいかね？
-トリプルバトルが どんなものか\xfffeかいせつ しても いいかね？
-トリプルバトルとは\xfffeポケモンを ３びきずつ だして\xf000븀\x0000たたかう たいせんけいしき！\xf000븁\x0000あいての ポケモンを すべて\xfffeひんしにした トレーナーの かちだ！
-きょうみ ないのか？\xf000븁\x0000たのしいから まず\xfffeかいせつを きいてみてくれ！
-ようこそ！\xfffeローテーションバトルの やかたへ\xf000븁\x0000ここでは そのなのとおり\xfffeローテーションバトルを たのしめる\xf000븁\x0000ローテーションバトルが どんなものか\xfffeかいせつ しても いいかね？
-ローテーションバトルが どんなものか\xfffeかいせつ しても いいかね？
-ローテーションバトルとは\xfffeポケモンを ３びきずつ だして\xf000븀\x0000たたかう たいせんけいしき！\xf000븁\x0000そして だした ポケモンは\xfffeまえに１ひき！ うしろに２ひきの\xf000븀\x0000ポジションで セットされる\xf000븁\x0000この ポジションは １ターンごとに\xfffeかわるというのが ポイントだ！
-きょうみ ないのか？\xf000븁\x0000たのしいから まず\xfffeかいせつを きいてみてくれ！
+﻿Welcome to the Triple Battle Mansion!\xf000븁\x0000Here, as one would expect,\xfffeone can enjoy Triple Battles!\xf000븁\x0000Want me to explain\xfffewhat Triple Battles are like?
+Want me to explain\xfffewhat Triple Battles are like?
+Triple Battles are battles where three\xfffePokémon are sent out at once!\xf000븁\x0000The trainer that faints\xfffeall their foe's Pokémon wins!
+Not interested?\xf000븁\x0000They're great fun,\xfffeso at least hear my explanation!
+Welcome to the Rotation Battle Mansion!\xf000븁\x0000Here, as one would expect,\xfffeone can enjoy Rotation Battles!\xf000븁\x0000Want me to explain\xfffewhat Rotation Battles are like?
+Want me to explain\xfffewhat Rotation Battles are like?
+Triple Battles are battles where three\xfffePokémon are sent out at once!\xf000븁\x0000One Pokémon is placed in front,\xfffeand two are in the back!\xf000븁\x0000The positions can be shifted\xfffeat the cost of a turn!
+Not interested?\xf000븁\x0000They're great fun,\xfffeso at least hear my explanation!

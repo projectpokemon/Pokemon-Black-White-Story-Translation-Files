@@ -1,16 +1,16 @@
-If we are to do away\xfffewith mistaken values...
+﻿If we are to do away\xfffewith mistaken values...
 We'll steal Pokémon from people!\xfffeThey'll play together no longer!
 Trainers releasing their Pokémon\xfffewill put an end to trainers!
 We are in the right!
 Everyone except us is WRONG!
 If you're not part of our solution,\xfffeit's QUITE LIKELY you're just a problem!
-Arti: Hm...\xf000븁\x0000There are only two ways\xfffeout of Yaguruma Forest.\xf000븁\x0000There's the path straight through,\xfffeand the path through the forest.\xf000븁\x0000
+Arty: Hm...\xf000븁\x0000There are only two ways\xfffeout of Yaguruma Forest.\xf000븁\x0000There's the path straight through,\xfffeand the path through the forest.\xf000븁\x0000
 If we head down both,\xfffewe should catch up to them.\xf000븁\x0000
 Even if they're not there,\xfffewe'll make sure to shut up the exits\xf000븀\x0000so they can't escape.\xf000븁\x0000
 Would you search this route to see\xfffeif there are any Plasma grunts hiding?\xf000븁\x0000There are lots of trainers too, but\xfffeit's a straight path in essence,\xf000븀\x0000so you won't get lost.\xf000븁\x0000
 Well, then! Shall we do this,\xfffefor Miss Aloe?\xf000븁\x0000
-Arti: ...Mhm?\xf000븁\x0000It doesn't seem...\xfffethat Team Plasma's come this way.\xf000븁\x0000The bugs of the forest are quiet...
-Arti: ...Mhm?\xf000븁\x0000It doesn't seem...\xfffethat Team Plasma's come this way.\xf000븁\x0000The bugs of the forest are quiet...\xf000븁\x0000
+Arty: ...Mhm?\xf000븁\x0000It doesn't seem...\xfffethat Team Plasma's come this way.\xf000븁\x0000The bugs of the forest are quiet...
+Arty: ...Mhm?\xf000븁\x0000It doesn't seem...\xfffethat Team Plasma's come this way.\xf000븁\x0000The bugs of the forest are quiet...\xf000븁\x0000
 Grunt: Stubborn brat!\xf000븁\x0000I'll show you what's what right here\xfffeif it'll keep you off our backs!!\xf000븁\x0000
 Grunt: Too bad!\xfffeI don't have a thing.\xf000븁\x0000If you want it back bad,\xfffebetter go find the rest of us!
 Grunt: Oh?\xfffeLooking for something, are we?\xf000븁\x0000
@@ -24,12 +24,12 @@ Ashura: Are you alright?\xf000븁\x0000You swore your loyalty\xfffeto the king!\
 Grunt: Sage!\xf000븁\x0000I got the skull this far, but then\xfffeit was stolen right before my eyes!\xf000븁\x0000
 Ashura: It's fine.\xf000븁\x0000We'll just give up on\xfffethe Dragon Skull for now.\xf000븁\x0000After all, it had nothing to do with\xfffethe legendary Pokémon that Team Plasma\xf000븀\x0000has been searching for.\xf000븁\x0000
 But we will not\xfffeoverlook your meddling.\xf000븁\x0000Don't get in our way again,\xfffeor we'll make you pay.\xf000븁\x0000
-Arti: Ah, great!\xf000븁\x0000From the bustling of the bug Pokémon,\xfffeI could tell a bigshot was around.\xf000븁\x0000Did you come to aid\xfffethe guys we just beat?\xf000븁\x0000
-Aloe: \xf000Ā\x0001\x0000!\xfffeArti!\xf000븁\x0000The others didn't have jack...\xf000븁\x0000So, what, is this guy their boss?\xf000븁\x0000
-Ashura: I am one of Team Plasma's\xfffeSeven Sages.\xf000븁\x0000Geechisu, also one of the sages, is using\xfffehis eloquence to convince people\xf000븀\x0000to release their Pokémon!\xf000븁\x0000The rest of us Sages order\xfffethe members of Team Plasma\xf000븀\x0000to steal Pokémon!\xf000븁\x0000But this is only a minor\xfffeand necessary evil.\xf000븁\x0000The bug-user Arti,\xfffeand the normal-user Aloe...\xf000븁\x0000I know that you two\xfffewould fight a hundred battles...\xf000븀\x0000We will obediently pull back for now.\xf000븁\x0000
+Arty: Ah, great!\xf000븁\x0000From the bustling of the bug Pokémon,\xfffeI could tell a bigshot was around.\xf000븁\x0000Did you come to aid\xfffethe guys we just beat?\xf000븁\x0000
+Aloe: \xf000Ā\x0001\x0000!\xfffeArty!\xf000븁\x0000The others didn't have jack...\xf000븁\x0000So, what, is this guy their boss?\xf000븁\x0000
+Ashura: I am one of Team Plasma's\xfffeSeven Sages.\xf000븁\x0000Getis, also one of the sages, is using\xfffehis eloquence to convince people\xf000븀\x0000to release their Pokémon!\xf000븁\x0000The rest of us Sages order\xfffethe members of Team Plasma\xf000븀\x0000to steal Pokémon!\xf000븁\x0000But this is only a minor\xfffeand necessary evil.\xf000븁\x0000The bug-user Arty,\xfffeand the normal-user Aloe...\xf000븁\x0000I know that you two\xfffewould fight a hundred battles...\xf000븀\x0000We will obediently pull back for now.\xf000븁\x0000
 But we shall take Pokémon from\xfffetrainers to liberate them!\xf000븁\x0000Not even from gym leaders\xfffeshall we allow any meddling!\xf000븁\x0000When might this matter be resolved?\xfffeRegardless, I look forward to it...\xf000븁\x0000
-Aloe: They're quick runners, eh?\xf000븁\x0000Well, Arti,\xfffeyou gonna give chase?\xf000븁\x0000
-Arti: No...\xf000븁\x0000We cornered them and\xfffetook back your stolen skull.\xf000븀\x0000Who knows what else they're guilty of.\xf000븁\x0000Well, Miss Aloe,\xfffeI've got to be going...\xf000븁\x0000
+Aloe: They're quick runners, eh?\xf000븁\x0000Well, Arty,\xfffeyou gonna give chase?\xf000븁\x0000
+Arty: No...\xf000븁\x0000We cornered them and\xfffetook back your stolen skull.\xf000븀\x0000Who knows what else they're guilty of.\xf000븁\x0000Well, Miss Aloe,\xfffeI've got to be going...\xf000븁\x0000
 And also... I'll be waiting for YOU to\xfffechallenge me at the Hiun Pokémon Gym!\xf000븁\x0000Yep, yep!\xfffeOoh, really looking forward to that...\xf000븁\x0000
 Aloe: \xf000Ā\x0001\x0000!\xf000븁\x0000That's the Dragon Skull you\xfffetoiled to get back, right?\xf000븁\x0000
 \xf000Ā\x0001\x0000 handed over\xfffethe \xf000ĉ\x0001\x0001!\xf000븁\x0000

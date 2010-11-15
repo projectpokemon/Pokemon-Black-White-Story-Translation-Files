@@ -1,21 +1,21 @@
-ヘイ ファンタスティック トレーナー！\xfffeせいきの だいじっけん するかい！\xf000븁\x0000ポケシフターを あそぶには\xfffeＤＳは ２つ ひつようだよ！\xf000븁\x0000もう１つの ＤＳを つかって\xfffeあそぶけど それで いいかな？
+﻿Hey, fantastique trainer!\xfffeExperiment of the century! Eh?!\xf000븁\x0000The PokéShifter requires\xfffetwo DSes!\xf000븁\x0000There'll have to be another DS ready\xfffeto experiment. Is that alright?
 If you ever want to do it, come again!
-ボックスに あきが たりないね\xf000븁\x0000ボックスに ６ひきぶんの\xfffeスペースを よういして きてくれ
-オーケイ！\xf000븁\x0000いちど つれてきた ポケモンは\xfffeもう もとの ばしょには もどれないよ！\xf000븁\x0000それでも いいね？
-ＤＳワイヤレスつうしんを\xfffeかいし します
-レポートへ かきこんでいます\xfffeでんげんを きらないで ください
-オーケイ オーケイ\xfffeカムヒア そこに たちたまえ！\xf000븁\x0000
-それじゃ はじめるよ！\xf000븁\x0000
-グレイト！\xf000븁\x0000
-きたいどおりの うでまえだ！\xfffeポケシフターが うごいている！\xf000븁\x0000……だが \xf000Ā\x0001\x0000くん！\xf000븁\x0000ぼくのめは ごまかせんよ！\xfffe\xf000Ā\x0001\x0000くんは\xf000븀\x0000まだまだ ちからを\xf000븀\x0000かくしもって いるだろう！\xf000븁\x0000きみほどの トレーナーなら\xfffeもっともっと ポケシフターを\xf000븀\x0000つかいこなせる はずだ！\xf000븁\x0000
-ンー すばらしいッ！\xf000븁\x0000いやはや ファンタスティックッ！\xf000븁\x0000きみの うでは たいしたものだ！\xf000븁\x0000これでこそ\xfffeわれわれ サイエンティストも\xf000븁\x0000けんきゅうの しがいが\xfffeあるって ものだ！\xf000븁\x0000だが \xf000Ā\x0001\x0000くん！\xfffeきみほどの トレーナーなら\xf000븁\x0000もっと エレガントに\xfffeつかいこなせる……\xf000븀\x0000そんな きが しているよ！\xf000븁\x0000ぜひ その てんさいてきな\xfffeポケシフター さばきを きわめて\xf000븀\x0000われわれに みせてくれ！\xf000븁\x0000
-グレイト！ グレイトォオッ！\xf000븁\x0000ポケシフターは かくじつに\xfffeしんかを とげているよ！\xf000븁\x0000いやあ アンビリバボゥッ！！\xfffeどれも これも きみの おかげだよ！\xf000븁\x0000これからも ぜひ\xfffeわれわれの リサーチに\xf000븀\x0000ちからを かしてくれないか！\xf000븁\x0000ポケシフターなら いつでも\xfffeきがねなく つかってくれよ！\xf000븁\x0000
-... ...\xfffe... ...\xf000븁\x0000... ...\xfffe... ...\xf000븁\x0000Gr...\xf000븁\x0000GREAT!\xf000븁\x0000GREATNESS!\xf000븁\x0000FAAAAANTAAAAASTIQUE!!\xf000븁\x0000きみの ポケシフターさばきは\xfffeほんっとうに しげきてきだ！\xf000븁\x0000おほぉっ ポケシフターが いよいよ\xfffeかんせいに ちかづいているぞ！\xf000븁\x0000もう またすぐ きてくれ！\xfffeすかさず きてくれ！\xf000븁\x0000そして さらに すばらしい\xfffeポケシフターさばきを\xf000븀\x0000われわれに みせてくれッ！\xf000븁\x0000
+You don't have enough\xffferoom in your boxes.\xf000븁\x0000Get space in your boxes\xfffefor at least six Pokémon!
+Okay then!\xf000븁\x0000The Pokémon in your party\xfffewon't be able to return!\xf000븁\x0000Is that okay?
+Activate DS wireless functionality?
+Saving your game.\xfffePlease don't turn off the power.
+Okay-okay-okay!\xfffeCome here, stand there!\xf000븁\x0000
+Now, let's begin!\xf000븁\x0000
+GREAT!\xf000븁\x0000
+Skillful as expected!\xfffeThe PokéShifter works!\xf000븁\x0000...But, \xf000Ā\x0001\x0000!\xf000븁\x0000I am not deceived!\xfffe\xf000Ā\x0001\x0000, I know\xf000븀\x0000you are still concealing\xf000븀\x0000your true ability!\xf000븁\x0000A trainer like you must surely be able\xfffeto handle the PokéShifter better!\xf000븁\x0000
+SO magnificent!\xf000븁\x0000I mean, fantastique!\xf000븁\x0000You're real skilled!\xf000븁\x0000You're even outside the realm\xfffeof our scientific research!\xf000븁\x0000But, \xf000Ā\x0001\x0000!\xfffeA trainer like you...\xf000븁\x0000They could handle things\xfffewith considerably more elegance...\xf000븀\x0000That's what I feel!\xf000븁\x0000Use your PokéShifting genius\xfffeand show us your best!\xf000븁\x0000
+Great! GRRRRR-EAT!\xf000븁\x0000You're helping the\xfffePokéShifter evolve!\xf000븁\x0000You're unbelie-viv-able!!\xfffeThis and that, all thanks to you!\xf000븁\x0000Please continue to give us your\xfffeassistance in our research!\xf000븁\x0000We'll let you use the\xfffePokéShifter anytime!\xf000븁\x0000
+... ...\xfffe... ...\xf000븁\x0000... ...\xfffe... ...\xf000븁\x0000Gr...\xf000븁\x0000GREAT!\xf000븁\x0000GREATNESS!\xf000븁\x0000FAAAAANTAAAAASTIQUE!!\xf000븁\x0000Your PokéShifting is\xfffeTRULY stimulating stuff!\xf000븁\x0000Ohoh, the PokéShifter is inching\xfffeso close to completion!\xf000븁\x0000Come again soon!\xfffeWithout a moment's delay!\xf000븁\x0000And show us some furtherly\xfffefantabulous PokéShifting!\xf000븁\x0000
 オオオオオッ\xfffeいよいよだ！ いよいよだぞ！\xf000븁\x0000あといっぽで ポケシフターは\xfffeファンタスティックな\xf000븀\x0000はつめいひん として\xf000븀\x0000れきしに そのなを きざむだろう！\xf000븁\x0000
 \xf000Ā\x0001\x0000くん！\xf000븁\x0000やはり ぼくのかんは\xfffeただしかった……\xf000븁\x0000きみは ジーニアスだ！\xfffeてんさいだッ！\xf000븁\x0000これほど プロフェッショナルに\xfffeポケシフターを あつかえるのは\xf000븁\x0000もう きみ いがいに\xfffeだれひとりとして いないだろう！\xf000븁\x0000これからも いつでも\xfffeポケシフターを つかってくれ！\xf000븁\x0000ぼくらは いつでも さらなる\xfffeけんきゅうを つづけるため\xf000븀\x0000いつでも ここにいるよ！\xf000븁\x0000ポケシフターを つかいたいときは\xfffeこえを かけてくれたまえよ！\xf000븁\x0000
 つかまえた ポケモンは\xfffeパソコンの ボックスに いれておいたよ\xf000븁\x0000
 でも どうやら ポケモンは\xfffeつかまえられなかった ようだね\xf000븁\x0000
-ぐっ……\xfffeつうしんエラーが おきたみたいだ\xf000븁\x0000ざんねんだが もういちど\xfffeやりなおして みてくれ！\xf000븁\x0000
+Oof...\xfffeA communication error, it seems!\xf000븁\x0000That's too bad... would you\xfffetry it just once more?!\xf000븁\x0000
 Oh, good day!\xf000븁\x0000If you've come here, that\xfffemakes you a visitor, doesn't it?\xf000븁\x0000Oh, you're not? Well,\xfffeyou have come quite a ways...\xf000븁\x0000Ooh, really? A trainer, are you?\xfffeOn a daring adventure?\xf000븁\x0000Hm, and this is\xfffeyour Trainer Card?\xf000븁\x0000
 Wh-wa-wait a second, you!\xfffeYou have ALL the gym badges?!\xf000븁\x0000
 That's nuts!\xfffeThen maybe you could...\xf000븁\x0000
@@ -33,6 +33,6 @@ It's \xf000Ā\x0001\x0000!\xf000븁\x0000
 ...In short.\xf000븁\x0000Using this device, you can send over\xfffePokémon from other regions...\xf000븀\x0000possibly.\xf000븁\x0000However, you can't send held items\xfffealong with the Pokémon!\xf000븁\x0000Sending them over empty-handed is the\xfffebest way to ensure safe transmission.\xf000븁\x0000
 ...That said, YOOOOOU!\xf000븁\x0000
 You FANTASTIQUE\xfffePokémon trainer, you!\xf000븁\x0000Won't you assist in\xfffethe experiment of the century?!\xf000븁\x0000The PokéShifter requires\xfffetwo DSes!\xf000븁\x0000There'll have to be another DS ready\xfffeto experiment. Is that alright?
-ポケモンが もっている\xfffeどうぐは もってこられないわ\xf000븁\x0000あんぜんに てんそう するには\xfffeてぶらが いちばんなの\xf000븁\x0000まれに てんそうできない\xfffeポケモンも いるみたいだけど\xf000븁\x0000そのときは パークはかせが\xfffeせつめい してくれるわ
-わたしの この けんきゅうで\xfffe１００ねんさきの ひとにも\xf000븀\x0000２００ねんさきの ひとにも\xf000븀\x0000えいきょうを あたえたい！
-ここでは ポケシフターの\xfffeモニタリングを しているんだ\xf000븁\x0000ポケモンに なにか あったら\xfffeいけないからね！
+Pokémon holding items\xfffecan't be transferred.\xf000븁\x0000Empty-handed is the safest way\xfffeto go for a successful transfer.\xf000븁\x0000There are also very rarely\xfffePokémon that can't be transferred...\xf000븁\x0000But Professor Park\xfffewill explain if that comes up.
+I want my research now to influence\xfffepeople a hundred years from now,\xf000븀\x0000even two hundred years from now!
+We're monitoring the\xfffePokéShifter here.\xf000븁\x0000Pokémon can't have\xfffeanything on them!

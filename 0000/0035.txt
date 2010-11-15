@@ -1,12 +1,12 @@
-Arti: Thataway!\xf000븁\x0000Hm, wait, isn't that\xfffethe way to the gym?!\xf000븁\x0000
+﻿Arty: Thataway!\xf000븁\x0000Hm, wait, isn't that\xfffethe way to the gym?!\xf000븁\x0000
 Heyo, trainer!\xf000븁\x0000I wanna see your skills!\xfffeLet's battle some!
 Okay!\xfffeIt's a dance-off! Er, fight!\xf000븁\x0000
 Whoa, whoa, whoa!\xfffeI was in a great mood!
 Yo, trainer!\xf000븁\x0000I wanna see your skills!\xfffeLet's battle some!
-Okay!\xfffeLet's dance the fight away!\xf000븁\x0000
-How's that?!\xfffeA preemptive step!\xf000븁\x0000When you've got company, don'tcha\xfffethink you can work faster?\xf000븁\x0000
-Right, you there!\xfffeWon't ya hear out a dancer?\xf000븁\x0000If you get me two others,\xfffewe can dance a trio!
-Cool like me!\xfffeThose're the dancers I need!!\xf000븁\x0000
+Okay!\xfffeLet's kick it!\xf000븁\x0000
+How's that?!\xfffeA preemptive step!\xf000븁\x0000When you've got company, don'tcha\xfffethink you can work better?\xf000븁\x0000
+Right, you there!\xfffeWon't ya hear out a dancer?\xf000븁\x0000If you get me two others,\xfffewe can dance as a trio!
+Look for cool like me!\xfffeThose're the dancers I need!!\xf000븁\x0000
 Wind's on the words that there're\xfffepeople dancin' on the old street\xf000븀\x0000and at the docks!\xf000븁\x0000I mean, word's on the wind!\xf000븁\x0000
 Hey, thank ya for talkin' to me!\xfffeI'm workin' on my moves!\xf000븁\x0000
 Really? I'mma show off some sweet\xfffemoves once the team's together!
@@ -14,7 +14,7 @@ My dance wasn't enough...\xfffeNow I've got others! I'm so happy!
 Dancers dance!\xfffeThey delight those around 'em!\xf000븀\x0000That joy spreads!\xf000븀\x0000And the world's made happy!
 Thankya much! We got\xfffethe best team in the world here!\xf000븀\x0000Take this as gratitude from us!\xf000븁\x0000
 Our dance'll carry\xfffea message!\xf000븁\x0000That in happy or sad times...\xfffethe world can still sparkle!\xf000븁\x0000
-Okay!\xfffeLet's dance the fight away!\xf000븁\x0000
+Okay!\xfffeLet's kick it!\xf000븁\x0000
 Sceneries of people...\xfffeSceneries of Pokémon...\xf000븁\x0000They're both magnificent!\xfffeSo I paint.\xf000븁\x0000Ah, there's an atelier\xfffedown on Maude Street.
-Hiun Central Square\xfffe↑ Route 4
-↓ Maude Street\xfffeHiun Ice & Hiun Atelier
+Hiun Central Square\xfffeAhead: Route 4
+Ahead: Maude Street\xfffeHiun Ice & Hiun Atelier

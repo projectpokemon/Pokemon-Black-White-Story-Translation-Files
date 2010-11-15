@@ -1,9 +1,9 @@
-I've got two Pokémon fossils here,\xfffebut they're heavy...\xf000븁\x0000Would you take\xfffethe one you prefer?
+﻿I've got two Pokémon fossils here,\xfffebut they're heavy...\xf000븁\x0000Would you take\xfffethe one you prefer?
 The Lid Fossil!\xf000븁\x0000It seems to be the fossil of\xfffean ancient Pokémon\xf000븀\x0000that freely swam the seas!\xf000븁\x0000
 The Wing Fossil!\xf000븁\x0000It seems to be from an ancient\xfffebird Pokémon living in the woods...\xf000븀\x0000...But it couldn't fly.\xf000븁\x0000
 Huh...?\xfffeBut I'm just GIVING these away!
 I knew you'd come crawling back!\xf000븁\x0000\xfffeAlright! So which fossil\xfffedo you want me to give you?
-The museum in Shippo City...\xf000븁\x0000\xfffeThey say you can turn fossils\xfffeback into Pokémon there!\xf000븁\x0000\xfffeI guess that has something to do\xfffewith Aloe's love of bones and fossils!
+The museum in Shippou City...\xf000븁\x0000\xfffeThey say you can turn fossils\xfffeback into Pokémon there!\xf000븁\x0000\xfffeI guess that has something to do\xfffewith Aloe's love of bones and fossils!
 Lid Fossil
 Wing Fossil
 Quit

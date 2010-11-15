@@ -1,38 +1,38 @@
-Hi there!\xfffeWelcome to the Shippou Museum!
-Those thieves... What on earth\xfffeis "Team Plasma"?
-The Pokémon Gym is\xfffein the back of the museum!
-They took the dragon skull!\xfffeWhat are they planning to do with it?
-Hmmm! Every time I see this skeleton...\xfffeit's simply charming!\xf000븁\x0000
-Ah, hello. I'm the\xfffevice-curator, Kidachi.\xf000븁\x0000You've come a long way. \xfffeI'll show you around the building!\xf000븁\x0000
-This skeleton...\xfffeIt's from a Dragon-type Pokémon.\xf000븁\x0000Perhaps there was some kind of\xfffedisaster while it still roamed\xf000븀\x0000the Earth, which caused it to\xf000븀\x0000fossilize like this.\xf000븁\x0000
-This stone is amazing!\xfffeIt's a meteorite, in fact!\xf000븁\x0000There appears to be some kind of\xfffespace energy coming from it.\xf000븁\x0000
-Aah... this is a\xfffeperfectly normal old stone.\xf000븁\x0000It was found in the desert, but\xfffeits age is probably its\xf000븀\x0000only valuable quality...\xf000븁\x0000It's very pretty, though, so\xfffewe display it here.\xf000븁\x0000
-Past here is\xfffethe Shippou City Gym.\xf000븁\x0000
-At the very back, you'll find the strong,\xfffekind Shippou Gym leader.\xf000븁\x0000Ah - I should mention that\xfffeGym Leader Aloe is my wife.\xf000븁\x0000
-At the very back, you'll find the strong,\xfffekind Shippou Gym leader.\xf000븁\x0000Ah - I should mention that\xfffeGym Leader Aloe is my wife.\xf000븁\x0000
-Aloe: Hold it, you lot!\xfffeStop messing around and give that back!\xf000븁\x0000
-Team Plasma: Ah, you came, Gym Leader!\xf000븁\x0000We, Team Plasma, are\xfffetaking this dragon skull\xf000븁\x0000from your museum\xfffein the name of Pokémon liberation!\xf000븁\x0000
-Team Plasma:\xfffeAnd just to prove we're serious,\xf000븀\x0000we'll do it before your very eyes!\xf000븁\x0000
-Team Plasma: Here we go! SMOKESCREEN!\xf000븁\x0000
-PLAAAAASMAAAAAA!
-PLAAAAASMAAAAAA!
-Aloe: What in the name of...?\xf000븁\x0000
-Kidachi: A-Aah!\xfffeWe have to go after them!\xf000븁\x0000
-Kidachi: That skull is\xfffeAloe's treasured possession...
-Bel: Thieves on the loose?\xfffeI won't allow it!
-Cheren: Because of Team Plasma's heist,\xfffeI can't fight the Gym Leader...\xf000븁\x0000That's so annoying.
-The skeleton is\xfffetruly marvellous...\xf000븁\x0000Its functional, non-wasteful design\xfffeisn't apparent from its outward appearance.\xf000븁\x0000Its true essence can really\xfffeonly be described as... charming.
-The cool, rare treasures of the world...\xfffeThe museum is jam-packed with romance.
-Awawawawa！
-The Gym Leader here\xfffealso researches fossils\xf000븀\x0000and Pokémon bones.
-That daring heist\xfffeby the thieves...\xf000븁\x0000It seems that they believed\xfffethey were doing the right thing.
-It might be that some Pokémon\xfffecame from space along with\xf000븀\x0000this meteorite.
-What on earth are those\xfffeTeam Plasma people thinking?!
-A skeleton of a Pokémon\xfffethat flew around the world.
-We lost part of the skeleton -\xfffeTeam Plasma took it!
-The fossil of a Pokémon\xfffethat was protected by a hard shell.
-A meteorite that had a\xfffespace virus stuck inside.
-A round rock from ancient times,\xfffefound in the desert.
-Some stone slabs that have\xfffenot yet been deciphered.
-A mask people wore for\xfffefestivals long ago.
-A bone that a Pokémon\xfffecarried as a weapon.
+﻿Welcome!\xfffeThis is Shippou Museum.
+Those thieves... Team Plasma...\xfffeJust what are they supposed to be?
+The Pokémon gym\xfffeis further into the museum!
+I wonder what they're planning\xfffethat they'd steal the Dragon Skull?
+Hmm! Every time I behold this skeleton...\xfffeit's simply charming!\xf000븁\x0000
+Oh, hello.\xfffeI'm the vice-curator, Kidachi.\xf000븁\x0000You've come a long way. Allow me\xfffeto guide you around the building!\xf000븁\x0000
+This skeleton...\xfffeIt's from a dragon-type Pokémon.\xf000븁\x0000Perhaps there was some form of\xfffedisaster while it still roamed the lands,\xf000븀\x0000leaving it to fossilize like so.\xf000븁\x0000
+This is an impressive stone.\xfffeIt's a meteorite!\xf000븁\x0000It would appear to contain\xfffesome kind of mystical space energy.\xf000븁\x0000
+Ah, this is...\xfffejust a plain old stone.\xf000븁\x0000It was found in the desert,\xfffebut the only value it has going\xf000븀\x0000for it is that it's old...\xf000븁\x0000But it's quite pretty,\xfffeso we put it up on display.\xf000븁\x0000
+Beyond here, the museum\xfffebecomes a Pokémon gym.\xf000븁\x0000
+Furthest in, you'll find the strong,\xfffeyet kind gym leader awaiting.\xf000븁\x0000Oh... and by the way,\xfffegym leader Aloe is my wife.\xf000븁\x0000
+Furthest in, you'll find the strong,\xfffeyet kind gym leader awaiting.\xf000븁\x0000Oh... and by the way,\xfffegym leader Aloe is my wife.
+Aloe: Hold up, you!\xfffeStop foolin' around!!\xf000븁\x0000
+Grunt: Oh, you came, gym leader?\xf000븁\x0000We're going to take this Dragon Skull\xfffefor our cause of liberating Pokémon!\xf000븁\x0000
+Grunt: And to show you we're serious,\xfffewe'll do it right before your eyes!\xf000븁\x0000
+Grunt: Alright! Smokescreen!\xf000븁\x0000
+Plasmaaaaa!
+Plasmaaaaa!
+Aloe: What in the name of...\xf000븁\x0000
+Kidachi: Uh... uh?!\xfffeWe've got to chase them down!\xf000븁\x0000
+Kidachi: Aloe really loves that skull...
+Bel: I can't let these\xfffejerk thieves get away with this!!
+Cheren: Great, so Team Plasma's keeping\xfffeus from fighting the gym leader...?\xf000븁\x0000Just my luck... what a pain.
+Fossil specimens\xfffeare truly wondrous...\xf000븁\x0000Normally, the bare-bones design is\xfffefunctionally invisible from the outside.\xf000븁\x0000It brings new meaning to the\xfffenotion of something's true nature...\xf000븀\x0000how fascinating.
+Rarities gathered from the world over...\xfffeMuseums are truly enchanting!
+Whoaaaaa! AHHHHH!
+The gym leader here also does\xffferesearch in fossils and Pokémon bones!
+The sheer audacity of these thieves...\xf000븁\x0000They really do seem to believe\xfffethat what they're doing is just.
+Do you think any Pokémon might have\xfffecome from space, along with meteorites?
+What are those fools\xfffein Team Plasma THINKING?!
+A fossil specimen of a Pokémon\xfffethat once flew throughout the world.
+The skull stolen by Team Plasma\xfffeis still missing!!
+The fossil of a Pokémon\xfffeprotected by a very hard shell.
+A meteorite carrying\xfffespace viruses.
+An ancient, round rock\xfffefound buried in the desert.
+Slates with letters enscribed\xfffein a yet-undeciphered script.
+A mask once used by\xfffeancient people in festivals.
+A bone used by a\xfffecertain Pokémon as a weapon.

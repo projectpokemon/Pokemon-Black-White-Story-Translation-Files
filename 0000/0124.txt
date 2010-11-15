@@ -1,29 +1,29 @@
-ウォッホン！\xf000븁\x0000\xfffeわたくし せかいかっこくに ある\xfffeポケモンだいすきクラブの なかでも\xf000븀\x0000\xfffeいちばん ポケモンが すきな\xf000븀\x0000\xfffeかいちょう なのであります！\xf000븁\x0000
-きみも トレーナーなら\xfffeどれだけ あいじょうを もって\xf000븁\x0000ポケモンを そだてているか\xfffeわたくしに みせてくれないかい？
-なるほど わかった！\xfffeきみは シャイな トレーナーだな！
-おお！\xfffeどの ポケモンだい？\xf000븁\x0000
-おや？\xfffeやめるのかね
-……うーむ\xfffeちょっと わからないねえ
-むむ？ タマゴの そだちぐあいは\xfffeちょっと はんだんが むずかしいね
-おお！ この \xf000ā\x0001\x0000\xfffeであったときは レベル\xf000Ȃ\x0001\x0001 だったのに\xf000븀\x0000いまでは レベル\xf000Ȃ\x0001\x0002 なのかい！\xf000븁\x0000
-すごく そだてたんだねえ\xfffeあいじょう たっぷりだねえ\xf000븁\x0000
-かなり そだてたんだねえ\xfffeあいじょう かんじるねえ\xf000븁\x0000
-けっこう そだてたんだねえ\xfffeあいじょう あるねえ\xf000븁\x0000
-なるほど！ わずかだが たしかに\xfffeきみの あいじょうを かんじられるね\xf000븁\x0000
-それは すばらしい あいじょうを\xfffeみせてくれた おれい だよ！
-いやー きみには\xfffeいいものを みせてもらった！\xf000븁\x0000これからも あいじょう こめて\xfffeポケモンを そだててほしいね！
-って ちっとも そだってないねえ\xf000븁\x0000だけど もんだいないよ\xfffeこれから ともに たびをすれば\xf000븀\x0000どんどん そだつに きまってるよ！
-だいすきクラブへ ようこそ！\xf000븁\x0000ポケモンと あなたが\xfffeどれだけ なかよしか みましょうか？
-ほかの ポケモンとも\xfffeなかよしか どうか みましょうか？
-タマゴと なかよしか どうかは\xfffeあたしにも ちょっと わからないわ
-あら あなたの \xf000ā\x0001\x0000……\xf000븁\x0000
-とびっきり なついているのね！\xfffeみてる あたしが ジェラシーよ！
-かなり なついているわね！\xfffeあなた やさしい ひとなのね！
-なついてるわね\xfffeあなたといるのが うれしいのね
-うん すこし なついてる……\xfffeそんな ふんいき ね
-よくも わるくもなく……\xfffeふつうの かんけい って かんじ
-うーん……\xfffeあんまり すかれていないかも
-ひょっとして あなた……\xf000븁\x0000とっても きびしい ひと？\xfffeすごく きらわれている かんじ……
-もう てれやさん……！\xfffeかくさずに おねえさんに みせてよ
-むふぅ
-ぐぼぼぼ！
+﻿Whoa-ho!\xf000븁\x0000\xfffeI am the president,\xfffeand the greatest of Pokémon lovers\xf000븀\x0000from all Pokémon Fan Clubs\xf000븀\x0000across the globe!\xf000븁\x0000
+I see you're a trainer, too!\xfffeHow much love do you have?\xf000븁\x0000Will you show me the Pokémon\xfffeyou've raised with care?
+I see, I get it!\xfffeYou're a shy trainer!
+Oh!\xfffeSo, which Pokémon?\xf000븁\x0000
+Oh?\xfffeMaybe not?
+...Hm.\xfffeI'm not really sure...
+Hm? It's a bit hard to judge\xfffehow you've been treating an egg...
+Oh! You met this \xf000ā\x0001\x0000\xfffeat Level \xf000Ȃ\x0001\x0001,\xf000븀\x0000and now it's Level \xf000Ȃ\x0001\x0002?!\xf000븁\x0000
+You've raised it wonderfully!\xfffeThat's superb affection!\xf000븁\x0000
+You've raised it very well!\xfffeThere's absolutely affection there!\xf000븁\x0000
+You've raised it quite well!\xfffeYou have some affection, certainly.\xf000븁\x0000
+I see! It's not much, but\xfffeI believe I feel your affection.\xf000븁\x0000
+That's thanks for showing me\xfffesuch magnificent affection!
+Oh, you've shown me\xfffesomething great indeed!\xf000븁\x0000Please continue raising your\xfffePokémon with love and care!
+So you haven't raised it at all...\xf000븁\x0000Not that there's anything\xfffewrong with that!\xf000븀\x0000If you journey with it henceforth,\xf000븀\x0000it'll grow more and more!
+Welcome to the Fan Club!\xf000븁\x0000Will you show me how well\xfffeyou and your Pokémon get along?
+Will you show me\xfffeany other Pokémon?
+I'm not really sure how you\xfffecould be good friends with an egg...
+Ah, your \xf000ā\x0001\x0000...\xf000븁\x0000
+It's extraordinarily attached to you!\xfffeI'm so jealous!
+It's very attached to you!\xfffeYou must be a kind person!
+It's pretty attached...\xfffeIt's made glad to be with you!
+Hm, you're kinda close...\xfffeThat's how it feels, anyway.
+I don't feel anything good or bad...\xfffeSeems like an ordinary relationship.
+Um...\xfffeI'm not sure it likes you much.
+Could it be you're...\xf000븁\x0000Being really cruel to it?\xfffeIt seems to downright hate you...
+Don't be shy...!\xfffeNo need to hide it, show me!
+Mufoo!
+Gubobobo!

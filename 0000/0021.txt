@@ -1,4 +1,4 @@
-Cheren: Come with me.\xf000븁\x0000
+﻿Cheren: Come with me.\xf000븁\x0000
 Head straight this way\xfffeto get to the Pokémon Center.\xf000븁\x0000And... if you want,\xfffeyou can use this.\xf000븁\x0000
 Give a Chesto Berry to a Pokémon,\xfffeand even if it falls asleep,\xf000븀\x0000it'll use it to wake up.\xf000븁\x0000Lastly, some advice.\xf000븁\x0000The gym leader of Shippou City\xfffeuses normal-types.\xf000븁\x0000If you bring fighting-type Pokémon,\xfffethey'll probably be a great advantage.\xf000븁\x0000
 N: \xf000븉\x0001\x0001I... want to see things\xfffeno one else sees.\xf000븁\x0000The ideal for the Pokémon\xfffewe keep inside balls...\xf000븁\x0000The truth of what\xfffea "trainer" should be...\xf000븁\x0000And a future where Pokémon\xfffehave attained their zenith...\xf000븁\x0000Don't you wish to see them, too?\xf000븉\x0001\x0000
@@ -10,14 +10,14 @@ no data
 ...I know what\xfffepower it is I need.\xf000븁\x0000...That of the legendary Pokémon that,\xfffetogether with a great hero,\xf000븀\x0000made this land of Isshu... Zekrom!\xf000븁\x0000I shall be your hero, Zekrom...\xfffeand I shall befriend you!\xf000븁\x0000
 ???: Hey, Miss Aloe!\xfffeFound any good fossils?\xf000븁\x0000
 Aloe: And are you\xfffeout lookin' for inspiration again?\xf000븁\x0000
-\xf000Ā\x0001\x0000!\xf000븁\x0000Take a good look at this guy,\xfffe'cause he's Arti,\xf000븀\x0000Hiun Gym's leader!\xf000븁\x0000
-Arti: ...Hmm? Is it just me,\xfffeor is something off about you?\xf000븁\x0000Could there have been...\xfffesome kind of trouble, maybe?\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000Take a good look at this guy,\xfffe'cause he's Arty,\xf000븀\x0000Hiun Gym's leader!\xf000븁\x0000
+Arty: ...Hmm? Is it just me,\xfffeor is something off about you?\xf000븁\x0000Could there have been...\xfffesome kind of trouble, maybe?\xf000븁\x0000
 Aloe: You bet there is!!\xfffeThey've got one of my exhibits!\xf000븁\x0000
 Bel: Heyyy, uh, \xf000Ā\x0001\x0000?\xfffeWhy's everyone bunched up here?\xf000븁\x0000
 Cheren: ...Is there a problem, \xf000Ā\x0001\x0000?\xf000븁\x0000
-Aloe: What's all this, then?\xfffeThese kids...\xf000븀\x0000they friends of yours?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000Bel and Cheren...\xfffealright, you must be trainers!\xf000븁\x0000Then let's split the work!\xfffeI'll go this way...\xf000븁\x0000
+Aloe: What's all this, then?\xfffeThese kids...\xf000븀\x0000they friends of yours?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000Belle and Cheren...\xfffealright, you must be trainers!\xf000븁\x0000Then let's split the work!\xfffeI'll go this way...\xf000븁\x0000
 Next, you kids!\xf000븁\x0000Cheren and Bel,\xfffewatch the museum for me!\xf000븁\x0000
-Then Arti and \xf000Ā\x0001\x0000'll go\xfffesearch Yaguruma Forest!\xf000븁\x0000Alright? Arti,\xfffeyou lead the way.\xf000븁\x0000I'm beggin' you all!\xf000븁\x0000
+Then Arty and \xf000Ā\x0001\x0000'll go\xfffesearch Yaguruma Forest!\xf000븁\x0000Alright? Arty,\xfffeyou lead the way.\xf000븁\x0000I'm beggin' you all!\xf000븁\x0000
 Arti: Well now...\xfffeYou're... \xf000Ā\x0001\x0000, then?\xf000븁\x0000Well, shall we go?\xfffeLet's do away with those thieves!\xf000븁\x0000
 Arti: Well now...\xfffeYou're... \xf000Ā\x0001\x0000, then?\xf000븁\x0000Well, shall we go?\xfffeLet's do away with those thieves!\xf000븁\x0000
 Bel: Oh, \xf000Ā\x0001\x0000!\xfffeTake this with you!\xf000븁\x0000It's a Dowsing Machine\xfffeMakomo left with me!\xf000븁\x0000
@@ -33,41 +33,41 @@ How do you like the\xfffesound of my accordion?
 Shippou City\xfffeThe town of seven treasures!
 Cafe Soco\xfffeDelicious service on Wednesdays!
 Shippou City Pokémon Gym\xfffeLeader: Aloe\xf000븀\x0000\xfffeNatural Born Darling
-Araragi: ...Adeku told me the story\xfffeof what happened.\xf000븁\x0000\xf000Ā\x0001\x0000,\xfffeit seems we've become mixed up in\xf000븀\x0000something very serious...\xf000븁\x0000
-Aloe: What's this?\xf000븁\x0000
-Bel: Well, um...\xf000븁\x0000That old stone you found\xfffein the desert...\xf000븁\x0000
-Aloe: Oh, that.\xfffeIt's really a dragon Pokémon?\xf000븁\x0000
-Mr. Araragi: Hmmm!\xf000븁\x0000I did some investigation of\xfffeDragon Helix Tower.\xf000븁\x0000There were materials that indicated\xfffeit was from the same era as\xf000븀\x0000this Dark Stone!\xf000븁\x0000
-Mr. Araragi: Hmmm!\xf000븁\x0000I did some investigation of\xfffeDragon Helix Tower.\xf000븁\x0000There were materials that indicated\xfffeit was from the same era as\xf000븀\x0000this Light Stone!\xf000븁\x0000
-Araragi: ...Yes, that's true.\xfffeI checked up on that.\xf000븁\x0000
+Araragi: ...I heard about\xfffethings from Adeku.\xf000븁\x0000\xf000Ā\x0001\x0000, we've gotten involved\xfffein something very serious...\xf000븁\x0000
+Aloe: This, right?\xf000븁\x0000
+Bel: That's, um...\xf000븁\x0000That old stone you\xfffefound in Resort Desert...\xf000븁\x0000
+Aloe: Yeah...\xfffeSo, it's seriously a dragon Pokémon?\xf000븁\x0000
+Araragi's Dad: Um...!\xf000븁\x0000I did some investigation\xfffeof Dragon-Helix Tower.\xf000븁\x0000There were materials that indicated\xfffeit was from the same era\xf000븀\x0000as this Dark Stone!\xf000븁\x0000
+Araragi's Dad: Um...!\xf000븁\x0000I did some investigation\xfffeof Dragon-Helix Tower.\xf000븁\x0000There were materials that indicated\xfffeit was from the same era\xf000븀\x0000as this Light Stone!\xf000븁\x0000
+Araragi: ...And I've checked up on that.\xf000븁\x0000
 Aloe: Nice work, guys!\xf000븁\x0000
-Bel: Um, in any case...\xf000븁\x0000It's a good thing that\xfffeTeam Plasma didn't notice\xf000븀\x0000this old stone before, isn't it?\xf000븁\x0000
-Aloe: You're right.\xf000븁\x0000Now that I think about it,\xfffesince they were planning to reviveを\xf000븀\x0000a legendary dragon Pokémon,\xf000븁\x0000it makes sense that Team Plasma\xfffetried to steal the dragon skull!\xf000븁\x0000
-Well,\xfffe\xf000Ā\x0001\x0000, you'd best take this...\xf000븁\x0000
-Adeku: Wait a minute,\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
-Taking that Dark Stone\xfffemeans that if anything happens\xf000븀\x0000to me, you'll have to\xf000븁\x0000fight N yourself.\xfffeIs that OK?
-Taking that Light Stone\xfffemeans that if anything happens\xf000븀\x0000to me, you'll have to\xf000븁\x0000fight N yourself.\xfffeIs that OK?
-Adeku: Your resolve...\xfffeIt's impressive.\xf000븁\x0000Alright then!\xfffeTake heart and accept it!\xf000븁\x0000
-Adeku: But then...\xfffeThe world N wants...\xf000븁\x0000A world where Pokémon and trainers\xfffeare separated awaits us?
-Adeku: But...\xfffeBut still! Please!\xf000븁\x0000Just take the stone,\xfffefor all of our sake!
-Adeku: Alright...\xfffeSorry I was so forceful just now.\xf000븁\x0000The world where everyone\xfffecan live with Pokémon...\xf000븀\x0000Please protect it for us!\xf000븁\x0000
-Aloe: ...Right, then.\xf000븁\x0000This Dark Stone\xfffeis in your hands now.\xf000븁\x0000You have to protect the real future!\xfffeThe one for both us and Pokémon!\xf000븁\x0000\xf000Ā\x0001\x0000!\xfffeTake this!\xf000븁\x0000
-Aloe: ...Right, then.\xf000븁\x0000This Light Stone\xfffeis in your hands now.\xf000븁\x0000You have to protect the real future!\xfffeThe one for both us and Pokémon!\xf000븁\x0000\xf000Ā\x0001\x0000!\xfffeTake this!\xf000븁\x0000
-Mr. Araragi: ...\xf000븁\x0000...Say, a question...\xfffeHow do we wake the dragon Pokémon\xf000븀\x0000up from the stone?
-Ah?
+Bel: Um, whatever the case...\xf000븁\x0000It's a really good thing Team Plasma\xfffedidn't notice this old stone before.\xf000븁\x0000
+Aloe: Yeah...\xf000븁\x0000Now that I think about it,\xfffesince they were planning to revive\xf000븀\x0000a legendary dragon Pokémon...\xf000븁\x0000That must've been why\xfffethey stole the Dragon Skull!\xf000븁\x0000
+Well, \xf000Ā\x0001\x0000,\xfffethis is for...\xf000븁\x0000
+Adeku: Wait, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Taking that Dark Stone\xfffemeans fighting N,\xf000븀\x0000should anything happen to me.\xf000븁\x0000Is that alright?
+Taking that Light Stone\xfffemeans fighting N,\xf000븀\x0000should anything happen to me.\xf000븁\x0000Is that alright?
+Adeku: ...Your resolve is impressive.\xf000븁\x0000Alright.\xfffeTake heart, and accept it.\xf000븁\x0000
+Adeku: Then,\xfffethe world N wants...\xf000븁\x0000A world where Pokémon and trainers\xfffeare separated awaits us?
+Adeku: But...\xfffeBut still! Please!\xf000븁\x0000Come on! Just take\xfffethe stone, for our sake!
+Adeku: ...Sorry I had to\xfffeget so forceful.\xf000븁\x0000The world where everyone\xfffecan live with Pokémon...\xf000븀\x0000protect it for us!\xf000븁\x0000
+Aloe: ...Right then.\xf000븁\x0000This Dark Stone's for you.\xf000븁\x0000You gotta protect the ideal future,\xfffethe one for both us and Pokémon!\xf000븁\x0000Keep this safe, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Aloe: ...Right then.\xf000븁\x0000This Light Stone's for you.\xf000븁\x0000You gotta protect the true future,\xfffethe one for both us and Pokémon!\xf000븁\x0000Keep this safe, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Araragi's Dad: ...\xf000븁\x0000So... how are we planning on\xfffewaking the dragon Pokémon up\xf000븀\x0000from the stone?
+Oh?
 ...
 Umm...
-Aloe: Aha!\xfffeThere's always those two.\xf000븁\x0000
-Adeku: Ah, yes!\xfffeSo there is.\xf000븁\x0000
-\xf000Ā\x0001\x0000!\xfffeHead for Souryuu City.\xf000븁\x0000The Gym Leader of that town\xfffemay just know something\xf000븀\x0000about the dragon Pokémon.\xf000븁\x0000I'll be waiting!\xfffeSee you there!\xf000븁\x0000
-Araragi: Aha!\xf000븁\x0000Yes, perhaps Souryuu's Iris\xfffewill know something!\xf000븁\x0000
-Araragi: Aha!\xf000븁\x0000Yes, perhaps Souryuu's Shaga\xfffewill know something!\xf000븁\x0000
-Mr. Araragi:\xf000Ā\x0001\x0000!\xf000븁\x0000Don't forget that you\xfffealways have Pokémon\xf000븀\x0000by your side.\xf000븁\x0000
-Araragi: What kind of creature\xfffeis the dragon Pokémon?\xf000븁\x0000Can it be awoken?\xfffeWe'll head back to the lab\xf000븀\x0000and look into it...\xf000븁\x0000
-Aloe: Don't you worry!\xf000븁\x0000If you need anything,\xfffejust come running to us!\xf000븁\x0000
-Aloe: Don't you worry!\xf000븁\x0000If you need anything,\xfffejust come running to us!\xf000븁\x0000
-Bel: ...Man, I can't tell\xfffewhat's going on, other than\xf000븀\x0000major bad news...\xf000븁\x0000...\xf000Ā\x0001\x0000,\xfffeyou know how to get to Souryuu?\xf000븁\x0000From Sekka City,\xfffecross the Cylinder Bridge\xf000븀\x0000and you can't miss it.\xf000븁\x0000If you didn't understand my\xfffeexplanation, you could always\xf000븀\x0000check the Town Map...\xf000븁\x0000
-Bel: ...Man, I can't tell\xfffewhat's going on, other than\xf000븀\x0000major bad news...\xf000븁\x0000...\xf000Ā\x0001\x0000,\xfffeyou know how to get to Souryuu?\xf000븁\x0000From Sekka City,\xfffecross the Cylinder Bridge\xf000븀\x0000and you can't miss it.\xf000븁\x0000If you didn't understand my\xfffeexplanation, you could always\xf000븀\x0000check the Town Map...\xf000븁\x0000
+Aloe: Aha! Aren't they there?\xfffeYou know, those two?\xf000븁\x0000
+Adeku: Ah, yes.\xfffeThere is them.\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xfffeHead for Souryuu City.\xf000븁\x0000The gym leader of that town\xfffemay know something\xf000븀\x0000about the dragon Pokémon.\xf000븁\x0000I'll be waiting there!\xfffeLater!\xf000븁\x0000
+Araragi: Aha!\xf000븁\x0000Yes, perhaps Souryuu's little Iris\xfffemay be familiar with it!\xf000븁\x0000
+Araragi: Aha!\xf000븁\x0000Yes, perhaps Souryuu's Shaga\xfffemay be familiar with it!\xf000븁\x0000
+Araragi's Dad: \xf000Ā\x0001\x0000!\xf000븁\x0000Don't forget there are always\xfffePokémon right beside you!\xf000븁\x0000
+Araragi: What kind of creature\xfffeis the dragon Pokémon?\xf000븁\x0000Is there a way to wake it up?\xfffeWe'll head back to the lab\xf000븀\x0000and look into it...\xf000븁\x0000
+Aloe: Don't you worry!\xf000븁\x0000You need anything,\xfffejust come runnin' to us!\xf000븁\x0000
+Aloe: Don't you worry!\xf000븁\x0000You need anything,\xfffejust come runnin' to us!
+Bel: ...Man, I can't tell what's going\xfffeon other than major bad news, but...\xf000븁\x0000...\xf000Ā\x0001\x0000, do you know\xfffehow to get to Souryuu City?\xf000븁\x0000Cross Cylinder Bridge\xfffefrom Sekka City,\xf000븀\x0000and it's just past there.\xf000븁\x0000And if you didn't\xfffeget that explanation,\xf000븀\x0000you can just check the Town Map...\xf000븁\x0000
+Bel: ...Man, I can't tell what's going\xfffeon other than major bad news, but...\xf000븁\x0000...\xf000Ā\x0001\x0000, do you know\xfffehow to get to Souryuu City?\xf000븁\x0000Cross Cylinder Bridge\xfffefrom Sekka City,\xf000븀\x0000and it's just past there.\xf000븁\x0000And if you didn't\xfffeget that explanation,\xf000븀\x0000you can just check the Town Map...
 no data
 no data
 no data

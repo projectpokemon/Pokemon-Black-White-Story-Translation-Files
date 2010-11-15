@@ -1,4 +1,4 @@
-Want me to check up\xfffeon your Pokédex?
+﻿Want me to check up\xfffeon your Pokédex?
 Let's see here...\xf000븁\x0000You've discovered\xfffe\xf000Ȃ\x0001\x0000 of Isshu's Pokémon!
 Let's see here...\xf000븁\x0000You've caught\xfffe\xf000Ȃ\x0001\x0000 of Isshu's Pokémon!
 That Pokédex carries all\xfffethe memories of your journey...\xf000븀\x0000Treasure it always!
@@ -16,7 +16,7 @@ You've been finding Pokémon\xfffeat a great pace!\xf000븁\x0000I've got a pres
 You've been finding Pokémon\xfffeat a great pace!\xf000븁\x0000In support of your efforts,\xfffeI give you this present!\xf000븁\x0000
 False Swipe is a move that goes easy\xfffeon a foe when attacking them!\xf000븁\x0000There's no doubt it's helpful\xfffein catching wild Pokémon!\xf000븁\x0000
 Protect is a move that\xfffetotally nullifies a foe's attack!\xf000븁\x0000...Although some moves, such as\xfffeFeint, can still hit.\xf000븁\x0000
-Hidden Power is a move that changes\xfffepower dependng on the user's type!\xf000븁\x0000
+Hidden Power is a move that changes\xfffepower depending on the user's type!\xf000븁\x0000
 Use this, too!\xf000븁\x0000
 Good luck from here on out!
 It's coming little by little...\xfffebut you certainly are getting detailed data\xf000븀\x0000into the Pokédex! Keep at it!\xf000븁\x0000

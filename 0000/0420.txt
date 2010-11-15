@@ -1,10 +1,10 @@
-……ポケモントレーナーか\xf000븁\x0000…… …… ……\xfffe…… …… ……\xf000븁\x0000その ひとみの かがやき……\xfffeポケモンへの やさしさを かんじる！\xf000븁\x0000きめた！ こだいのしろで みつけた\xfffeたからものを きみに たくそう！\xf000븁\x0000この ポケモンの タマゴを\xfffeうけとり そだててみないか？
-この こだいのしろで みつかった\xfffeポケモンの タマゴを\xf000븀\x0000うけとり そだててみないか？
-うむ……\xf000븁\x0000って きもちは うれしいが\xfffeポケモンが いっぱいで\xf000븀\x0000タマゴを うけとれないようだね
-……ふむ\xfffeそれも きみの じゆうだ！
-うむ……\xfffeよろしく たのんだぜ\xf000븁\x0000
-ポケモンの タマゴだが\xfffeげんきな ポケモンと\xf000븀\x0000いっしょに しておく……\xf000븁\x0000つまり つれあるくことで\xfffeなかから ポケモンが でてくるんだ
+﻿...A Pokémon trainer?\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000That spark in your eyes...\xfffeI feel you are kind to Pokémon!\xf000븁\x0000It's decided! I entrust this treasure\xfffeI found in the Ancient Castle to you!\xf000븁\x0000Won't you take this\xfffePokémon egg and raise it?
+Won't you take this egg I found\xfffein the Ancient Castle and raise it?
+Hm...\xf000븁\x0000I'm glad to give it, but you seem\xfffeto have too many Pokémon...
+...Hm.\xfffeWell, it's your call!
+Hm...\xfffeI'm counting on you!\xf000븁\x0000
+Put a Pokémon egg together\xfffewith some healthy Pokémon...\xf000븁\x0000Basically, keep it in your party,\xfffeand a Pokémon will come out!
 \xf000Ā\x0001\x0000\xfffereceived an Egg!
-てにいれた \xf000ā\x0001\x0001に\xfffeニックネームを つけますか？
-ちょっと ちょっと！\xf000븁\x0000あなたの ポケモン\xfffeちょっと へたばってない？\xf000븀\x0000ほら！ えんりょせず やすみなよ！\xf000븁\x0000
-Your Pokémon!\xfffeIt's pretty energetic!!
+Give a nickname\xfffeto the obtained \xf000ā\x0001\x0001?
+Excuse me, there!\xf000븁\x0000Aren't your Pokémon\xffferather exhausted?\xf000븀\x0000Come! Go on, rest them here!\xf000븁\x0000
+Your Pokémon!\xfffeThey're so energy-filled!!

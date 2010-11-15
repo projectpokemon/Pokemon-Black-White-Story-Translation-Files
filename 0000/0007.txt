@@ -1,13 +1,13 @@
-...\xfffeWelcome to Black City... ...\xf000븁\x0000\xfffeThis is a town of dreams, desires, and...\xfffe...well, just desires, really.\xf000븁\x0000\xfffeAnd I'm the boss of Black City,\xfffewho all those desires revolve around.\xf000븁\x0000
-Lively people gather in this city\xfffelike a big ball of desire...\xf000븁\x0000\xfffe...Well, see if you can beat \xf000Ȅ\x0001\x0000\xfffethe lively guys outside.\xf000븁\x0000\xfffeYour own desires\xfffejust might be realized...\xf000븁\x0000
+﻿...\xfffeWelcome to Black City... ...\xf000븁\x0000\xfffeThis is a town of dreams, desires, and...\xfffe...well, just desires, really.\xf000븁\x0000\xfffeAnd I'm the boss of Black City,\xfffewho all those desires revolve around.\xf000븁\x0000
+Lively people gather in this city\xfffelike a big ball of desire...\xf000븁\x0000\xfffe...Well, see if you can beat \xf000Ȅ\x0001\x0000\xfffeof the lively guys outside.\xf000븁\x0000\xfffeAnd maybe your own desires\xfffemight just be realized...\xf000븁\x0000
 Looks like right now,\xfffeyou've beaten \xf000Ȅ\x0001\x0001 people...\xf000븁\x0000\xfffeHmph.\xfffeWell, keep at it.
-Oh?\xfffeYou already beat \xf000Ȅ\x0001\x0000 people...?\xf000븁\x0000You must be...\xfffegreedier than I thought.\xf000븀\x0000\xfffeOr at least, deep, deep down...\xf000븁\x0000\xfffeI think I like you!\xfffeSo I'll grant your desire.\xf000븁\x0000
+Oh?\xfffeYou've already beat \xf000Ȅ\x0001\x0000 people...?\xf000븁\x0000You must be...\xfffegreedier than I thought.\xf000븀\x0000\xfffeOr at least, deep, deep down...\xf000븁\x0000\xfffeI think I like you!\xfffeSo I'll grant your desire.\xf000븁\x0000
 \xf000Ā\x0001\x0002 received\xfffe$\xf000Ȅ\x0001\x0003!
-Try to beat \xf000Ȅ\x0001\x0004 people next.\xf000븁\x0000\xfffeShow me that\xfffedeep-down greed of yours!
+Try to beat \xf000Ȅ\x0001\x0004 people next.\xf000븁\x0000\xfffeAnd show me that\xfffedeep-down greed of yours!
 Yo!\xfffeYou're the BEST!\xf000븁\x0000\xfffeThe baddest of bad!\xf000븁\x0000\xfffeDefinitely the baddest\xfffein this city!
 Whoaaa...\xfffeIt's so pricey, it MUST be good...\xf000븀\x0000I want that, and this, and this...
 Gotta get more famous,\xfffegotta get more money!
-You can get anything in this city...\xfffeprovided you've have the money!
+You can get anything in this city...\xfffeprovided you have the money!
 This town has it all!\xfffeEverything and the kitchen sink!
 Well, if it makes me more money,\xfffeit must be good work, eh?!
 Wonder how much this\xfffePokémon would sell for...?
@@ -18,7 +18,7 @@ Go get three Pokémon\xfffethat can fight ready!\xf000븁\x0000Rotation Battles 
 Heh! You afraid of me?!
 Rotation Battles\xfffeare TENSE, man!!
 I just got really lucky\xfffeto get my hands on this Pokémon...\xf000븀\x0000I wanna use it right away!\xf000븀\x0000So let's have a Rotation Battle!
-Rotation Battles are Pokémon battles\xfffeinvolving three Pokémon!\xf000븀\x0000So go get three Pokémon!
+Rotation Battles are Pokémon battles\xfffeinvolving three Pokémon!\xf000븀\x0000So go GET three Pokémon!
 Scared I might be on a lucky streak?
 Hmph!\xfffeNever mind, I've got no luck today...
 Hey, you!\xfffeWanna try a Triple Battle?
