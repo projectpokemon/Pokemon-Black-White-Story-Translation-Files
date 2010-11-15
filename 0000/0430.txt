@@ -37,11 +37,11 @@ YAAAY!\xfffeOkay, let's GO!!\xf000븁\x0000
 Whaaa?!\xfffeGeez, don't be like that!\xf000븀\x0000Reconsider, would you?!\xf000븁\x0000だって　じぶんの\xfffeポケモンが　いるんだよ！\xf000븀\x0000しょうぶ　しよーよ！！
 Bel: Phewww...\xf000븁\x0000\xf000Ā\x0001\x0000...\xfffeYou sure are gonna be\xf000븀\x0000an awesome trainer, aren't you?\xf000븁\x0000That's how I feel, anyway!\xf000븁\x0000
 Bel: Phewww...\xf000븁\x0000I was kinda in a daze there,\xfffeand wasn't sure what movesら\xf000븀\x0000I was picking, but I guess I won...\xf000븁\x0000
-Cheren: ... ... ...\xfffe... ... ...\xf000븁\x0000Belle...\xfffeLook around, would you?\xf000븁\x0000
+Cheren: ... ... ...\xfffe... ... ...\xf000븁\x0000Bel...\xfffeLook around, would you?\xf000븁\x0000
 Bel: WAAAH!\xfffeW-What's all this about?!\xf000븁\x0000
 Pokémon are MIND-BLOWING!!\xfffeAnd to think they're so dinky...!\xf000븁\x0000I'm sure glad\xfffeI could have a Pokémon!\xf000븁\x0000...Oh...\xfffeSorry, \xf000Ā\x0001\x0000.\xf000븁\x0000
 Cheren: ...There's really nothing\xfffeto be done with you, is there...\xf000븁\x0000Here! I'll recover\xfffeyour wounded Pokémon...\xf000븁\x0000
-Cheren recovered\xfffeBelle's Pokémon!
+Cheren recovered\xfffeBel's Pokémon!
 And of course, \xf000Ā\x0001\x0000's Pokémon\xfffeneeds to recover, too.\xf000븁\x0000
 Cheren recovered\xfffe\xf000Ā\x0001\x0000's Pokémon!
 Cheren: A victory accomplished without\xfffereducing the Pokémon's HP... astounding!\xf000븁\x0000Rather, it was because the\xfffePokémon ran out of PP...\xf000븁\x0000
