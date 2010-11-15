@@ -16,7 +16,7 @@ Very good.\xfffeCome again.
 Ah, there you are!\xfffeMy husband was looking for you.
 その ポケモンを あずけると\xfffeたたかえなく なるぞ\xf000븁\x0000また きなさいよ
 Which Pokémon should we raise for\xfffeyou?\xf000븁\x0000
-おやおや おまえさん\xfffeそれは タマゴ じゃぞ！
+おやおや おまえさん\xfffeそれは タマゴ じゃぞ!
 Fine, we'll raise your \xf000Ā\x0001\x0000\xfffefor a while.\xf000븁\x0000
 Come back for it later.
 We can raise two of your Pokémon.\xfffeWould you like us to raise another?
@@ -26,7 +26,7 @@ If you want your \xf000ā\x0001\x0000 back,\xfffeit will cost \xf000Ȅ\x0001\x00
 You don't have enough money...
 \xf000Ā\x0001\x0001 took \xf000ā\x0001\x0000 back\xfffefrom the Day-Care Lady.\xf000븁\x0000
 Do you want to take back the other\xfffeone, too?
-おや？ おまえさん\xfffeその ポケモンを あずけると\xf000븁\x0000ぜんぶで ポケモンが １ひき だけに\xfffeなってしまう みたいじゃな\xf000븁\x0000もっと たくさん つかまえてから\xfffeきてみては どうじゃ？
+おや? おまえさん\xfffeその ポケモンを あずけると\xf000븁\x0000ぜんぶで ポケモンが １ひき だけに\xfffeなってしまう みたいじゃな\xf000븁\x0000もっと たくさん つかまえてから\xfffeきてみては どうじゃ?
 \xf000ȅ\x0001\x0002円
 Store
 Take

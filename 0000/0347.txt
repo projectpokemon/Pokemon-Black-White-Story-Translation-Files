@@ -9,7 +9,7 @@ Thank you for waiting!\xf000븁\x0000\xfffeYour Pokémon are all\xfffefit and he
 We hope to see you again!
 Thank you for coming!\xfffeWelcome to the Pokémon Center.\xf000븁\x0000\xfffeHere, we'll heal your Pokémon\xfffeto perfect health!\xf000븁\x0000\xfffeShall we...
 Th-That card...?!\xf000븁\x0000\xfffeThat color!!\xfffeThat shine!!\xf000븁\x0000\xfffeI've seen trainers\xfffewith silver cards before, but...\xf000븁\x0000\xfffeYou, \xf000Ā\x0001\x0000, are the first I've seen\xfffewith a yet more impressive card!\xf000븁\x0000Well, \xf000Ā\x0001\x0000,\xfffelet us heal your Pokémon!
-\xf000Ā\x0001\x0000さん おつかれさまです！\xfffeいつもので よろしい ですね！
+\xf000Ā\x0001\x0000さん おつかれさまです!\xfffeいつもので よろしい ですね!
 Your Pokémon may be\xfffeinfected with Pokérus.\xf000븁\x0000\xfffeLittle is known about the Pokérus\xfffeexcept that they are microscopic lifeforms\xf000븀\x0000that attach to Pokémon.\xf000븁\x0000\xfffeWhile infected, Pokémon are said\xfffeto grow exceptionally well.
 Welcome to the Pokémon Wireless\xfffeClub Union Room.\xf000븁\x0000You may interact directly with\xfffemany Trainers here.\xf000븁\x0000Would you like to enter the room?
 The Trainers in the Union Room\xfffewill be those players around you\xf000븀\x0000who have also entered the room.\xf000븁\x0000You may enter two Pokémon up to\xfffeLv. 30 for a one-on-one battle.\xf000븁\x0000Or, you may trade your Pokémon here\xfffewith another Trainer.\xf000븁\x0000You may also mix records or draw\xfffewith other players.\xf000븁\x0000You may also chat with other\xfffeplayers in the room.\xf000븁\x0000...Or find friends by touching\xfffethe spoken words.\xf000븁\x0000Would you like to enter the room?
@@ -21,5 +21,5 @@ Quit
 Info
 もうしわけ ございませんが\xfffeおきゃくさまは まだ\xf000븀\x0000ユニオンルームに はいれません\xf000븁\x0000
 てもちに つれていけない\xfffeポケモンが います\xf000븁\x0000
-そういえば おきゃくさま\xf000븁\x0000トレーナーカードに かいてある\xfffeごじぶんの かたがきが\xf000븀\x0000ポケモントレーナーの ままですね？\xf000븁\x0000かたがきを かえておくと\xfffeユニオンルームで あいさつを\xf000븀\x0000するときに イメージが\xf000븀\x0000つたわりやすくて べんりですよ\xf000븁\x0000そうですねー\xf000븁\x0000たとえば \xf000Ď\x0001\x0000\xfffeなど いかがでしょうか？\xf000븁\x0000わたしから みた いんしょう ですが\xfffeまずは かたがきを かえてみましょう\xf000븁\x0000おきに めさない ようでしたら\xfffeトレーナーカードで かたがきを\xf000븀\x0000タッチすれば へんこうできますよ\xf000븁\x0000
+そういえば おきゃくさま\xf000븁\x0000トレーナーカードに かいてある\xfffeごじぶんの かたがきが\xf000븀\x0000ポケモントレーナーの ままですね?\xf000븁\x0000かたがきを かえておくと\xfffeユニオンルームで あいさつを\xf000븀\x0000するときに イメージが\xf000븀\x0000つたわりやすくて べんりですよ\xf000븁\x0000そうですねー\xf000븁\x0000たとえば \xf000Ď\x0001\x0000\xfffeなど いかがでしょうか?\xf000븁\x0000わたしから みた いんしょう ですが\xfffeまずは かたがきを かえてみましょう\xf000븁\x0000おきに めさない ようでしたら\xfffeトレーナーカードで かたがきを\xf000븀\x0000タッチすれば へんこうできますよ\xf000븁\x0000
 いまは まだ つかえないみたい

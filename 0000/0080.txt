@@ -1,17 +1,17 @@
-You're at \xf000ȃ\x0001\x0000!\xf000븁\x0000\xfffeNext up is \xf000Ȁ\x0001\x0001.\xfffeContinue battling?
+﻿You're at \xf000ȃ\x0001\x0000 in a row!\xf000븁\x0000\xfffeNext up is number \xf000Ȁ\x0001\x0001.\xfffeContinue battling?
 Continue
 Record
 Stop
 Retire
 End your challenge?
-Write a report\xfffeand take a break?
-Writing a report.\xfffePlease don't turn off the power.
+Save your game\xfffeand take a break?
+Saving the game.\xfffePlease don't turn off the power.
 Delete the existing Battle Video\xfffeand record this battle?
 Waiting for your\xfffefriend's selection.
-Before being led,\xfffeyou must first write a report.
+Before I lead you back,\xfffeyou must save your game.
 You've chosen to retire,\xfffeso your challenge will be ended.
 Saving a Battle Video.\xfffePlease don't turn off the power!
-Recorded the battle\xfffewith \xf000Ā\x0001\x0000.
+\xf000Ā\x0001\x0000 recorded\xfffethe previous battle.
 Record a Battle Video\xfffefor this battle?
 Connection waiting.
 test
