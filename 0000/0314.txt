@@ -1,4 +1,4 @@
-﻿\xf000Ā\x0001\x0000 booted up the PC.\xf000븁\x0000
+\xf000Ā\x0001\x0000 booted up the PC.\xf000븁\x0000
 Which PC should be accessed?
 Someone's PC
 Shorea's PC

@@ -1,4 +1,4 @@
-﻿Welcome!\xfffeWhat do you need?
+Welcome!\xfffeWhat do you need?
 Welcome to the TM counter!\xfffeWhat do you need?
 Is there anything else I may do\xfffefor you?
 Please come again!

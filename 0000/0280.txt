@@ -1,4 +1,4 @@
-﻿This tree looks like it can be cut down!\xfffeWould you like to use Cut?
+This tree looks like it can be cut down!\xfffeWould you like to use Cut?
 \xf000Ă\x0001\x0000 used Cut!\xf000븁\x0000
 This tree looks like it can be cut down!
 This rock appears to be breakable.\xfffeWould you like to use Rock Smash?

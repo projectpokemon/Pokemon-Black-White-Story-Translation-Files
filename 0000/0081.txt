@@ -1,4 +1,4 @@
-﻿\xf000Ā\x0001\x0000 obtained\xfffe\xf000ȁ\x0001\x0001 Battle Points!
+\xf000Ā\x0001\x0000 obtained\xfffe\xf000ȁ\x0001\x0001 Battle Points!
 Saving results.\xfffePlease wait.
 Before being led,\xfffeyou must first write a report.
 Congratulations!\xfffeみごと ７にんぬき たっせいです！\xf000븁\x0000\xfffe７にんぬきを たっせい しましたので\xfffeバトルポイントを しんてい します！\xf000븁\x0000

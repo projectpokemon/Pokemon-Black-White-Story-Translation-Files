@@ -1,4 +1,4 @@
-﻿モンスターボールに はいっている\xfffe\xf000Ă\x0001\x0000が\xf000븀\x0000\xfffeでたがっている ようだ…！\xf000븁\x0000\xfffeそとに だして あげますか？
+モンスターボールに はいっている\xfffe\xf000Ă\x0001\x0000が\xf000븀\x0000\xfffeでたがっている ようだ…！\xf000븁\x0000\xfffeそとに だして あげますか？
 The Pokéball seems\xfffeto have stopped moving...
 \xf000Ă\x0001\x0000 came out!!\xf000븁\x0000
 おおう…！\xfffeその ポケモンは まさか…！\xf000븁\x0000\xfffeまっかな たてがみに\xfffeみずみずしい しっぽ\xf000븀\x0000\xfffeそして りっぱな １ほんのツノ…！\xf000븁\x0000\xfffeふるい いいつたえの とおりじゃ！\xf000븁\x0000

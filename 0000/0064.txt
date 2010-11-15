@@ -1,4 +1,4 @@
-﻿I see you've obtained\xfffea number of Isshu gym badges!\xf000븀\x0000Do you want me to explain them?
+I see you've obtained\xfffea number of Isshu gym badges!\xf000븀\x0000Do you want me to explain them?
 Right, then.\xfffeCome again if you want to know.
 With the Trio Badge, all Pokémon\xfffeup to level 20 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 With the Basic Badge, all Pokémon\xfffeup to level 30 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000

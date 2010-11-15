@@ -1,4 +1,4 @@
-﻿Oh! It's you!\xfffeYou must be \xf000Ā\x0001\x0000!\xf000븁\x0000
+Oh! It's you!\xfffeYou must be \xf000Ā\x0001\x0000!\xf000븁\x0000
 Can I take a quick look\xfffeat your Pokédex?\xf000븁\x0000Hmmm... Yes...\xf000븁\x0000\xfffeSo you've found \xf000Ȃ\x0001\x0000 Pokémon!\xf000븁\x0000
 Oh! And you've found Giaru?!\xfffeYou're quite the trainer!\xf000븁\x0000
 Hrm...\xfffeYou haven't found Giaru yet...\xf000븁\x0000\xfffeBut still, that's quite a Pokédex!\xf000븁\x0000

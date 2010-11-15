@@ -1,4 +1,4 @@
-﻿Cheren: Halt, \xf000Ā\x0001\x0000!\xf000븁\x0000We've both got the Bolt Badge, so I\xfffewant to see which of us is stronger!\xf000븀\x0000Well, let's have at it!\xf000븁\x0000
+Cheren: Halt, \xf000Ā\x0001\x0000!\xf000븁\x0000We've both got the Bolt Badge, so I\xfffewant to see which of us is stronger!\xf000븀\x0000Well, let's have at it!\xf000븁\x0000
 Cheren: ...Why?\xfffeWhy can't I win against you?\xf000븁\x0000
 Kamitsure: So you two\xfffeare friends, then...\xf000븁\x0000How nice... That way, you can boost\xfffeeach other up when needed.\xf000븁\x0000
 Well, let's go.\xf000븁\x0000

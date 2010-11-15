@@ -1,4 +1,4 @@
-﻿Cheren: \xf000Ā\x0001\x0000!\xf000븁\x0000I heard from Professor Araragi...\xfffeSo did you get the Pokémon?\xf000븁\x0000
+Cheren: \xf000Ā\x0001\x0000!\xf000븁\x0000I heard from Professor Araragi...\xfffeSo did you get the Pokémon?\xf000븁\x0000
 ... ... ...\xfffe... ... ...\xf000븁\x0000And Bel's her usual...?\xf000븁\x0000
 Bel: Uhhh, I'm so sorry!\xfffeI know, I'm late again...\xf000븁\x0000
 Cheren: Hey, Bel!\xf000븁\x0000I've known you were a slowpoke\xfffefor ten years now, but sheesh...\xf000븁\x0000Today's the day you get your Pokémon\xfffefrom Professor Araragi, remember?\xf000븁\x0000

@@ -1,4 +1,4 @@
-﻿I'm here to study\xfffePokémon fossils!\xf000븁\x0000
+I'm here to study\xfffePokémon fossils!\xf000븁\x0000
 I see you have a fossil!\xfffeShould I turn it back into a Pokémon?
 Which fossil do you want to\xfffereconstruct as a Pokémon?
 Understood!\xf000븁\x0000\xfffeI'll turn that \xf000ĉ\x0001\x0000\xfffeback into a living Pokémon!\xf000븁\x0000

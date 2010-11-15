@@ -1,4 +1,4 @@
-﻿N: \xf000븉\x0001\x0001...Are you searching\xfffefor Team Plasma?\xf000븁\x0000They ran off to the\xfffecenter of the park.\xf000븀\x0000Come with me.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001...Are you searching\xfffefor Team Plasma?\xf000븁\x0000They ran off to the\xfffecenter of the park.\xf000븀\x0000Come with me.\xf000븉\x0001\x0000\xf000븁\x0000
 N: \xf000븉\x0001\x0001...Not here.\xf000븁\x0000Let's ride the Ferris wheel\xfffeand look for them there.\xf000븁\x0000I love Ferris wheels,\xfffeyou know.\xf000븁\x0000Their circular motion... the dynamics...\xfffea beautiful combination of formulas...\xf000븉\x0001\x0000\xf000븁\x0000
 Grunt: Lord N!\xf000븁\x0000
 Grunt: Are you safe?!\xf000븁\x0000

@@ -1,4 +1,4 @@
-﻿Test Message
+Test Message
 $\xf000ȅ\x0001\x0002
 Would you like to save the game?
 There is already a saved file.\xfffeIs it OK to overwrite it?

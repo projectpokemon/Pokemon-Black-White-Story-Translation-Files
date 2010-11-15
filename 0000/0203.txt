@@ -1,4 +1,4 @@
-﻿... ... ...\xf000븁\x0000... ...Come.\xf000븁\x0000
+... ... ...\xf000븁\x0000... ...Come.\xf000븁\x0000
 ... ... ...\xf000븁\x0000Go with Lord N.\xf000븁\x0000
 N: \xf000븉\x0001\x0001...Thank you.\xf000븁\x0000Those men you just saw were\xfffetwo of the Dark Trinity.\xf000븁\x0000They're members of Team Plasma\xfffeassembled by Geechisu.\xf000븁\x0000By the way, it appears it was they\xfffewho set up the Denchura nest\xf000븀\x0000at the entrance to this cave.\xf000븁\x0000\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001Thunderstone Cave...\xfffeThis is a nice place.\xf000븁\x0000Electrical equations are put in practice,\xfffeand it has connections to Pokémon...\xf000븁\x0000...Were it not for the human visitors,\xfffeit would be an ideal locale for me.\xf000븁\x0000Now then, you have been chosen...\xfffeDo you find this surprising?\xf000븉\x0001\x0000
