@@ -1,7 +1,7 @@
-Welcome to the Union Room\xf000븁\x0000\xfffedo you want to know something?\xfffeおもうしつけ くださいませ!\xf000븁\x0000
-なにか ごようけんは\xfffeありますでしょうか?
-なにに ついて\xfffeききたい ですか?
-たいせんには ５しゅるいの\xfffe modes\xf000븁\x0000\xfffe Single Battles\xfffeポケモンを １ひき だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffe Double Battles\xfffeポケモンを ２ひきずつ だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffe Triple Battles\xfffeポケモンを ３ひきずつ だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000
+Welcome to the Union Room!\xf000븁\x0000\xfffeIf you don't understand anything,\xfffeallow me to guide you!\xf000븁\x0000
+Do you have any\xfffebusiness with me?
+What do you want\xfffeto ask about?
+たいせんには ５しゅるいの\xfffemodes\xf000븁\x0000\xfffeSingle Battles\xfffeポケモンを １ひき だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeDouble Battles\xfffeポケモンを ２ひきずつ だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeTriple Battles\xfffeポケモンを ３ひきずつ だして\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000
 Rotation Battles\xfffeポケモンを まえに １ひき\xf000븀\x0000\xfffeうしろに ２ひき だしながら\xf000븀\x0000\xfffeふたりで たいせん します\xf000븁\x0000\xfffeマルチバトルは たたかいの ばに\xfffe４にんで ポケモンを\xf000븀\x0000\xfffe１ひきずつ だして\xf000븀\x0000\xfffe２たい２で たいせん します\xf000븁\x0000
 おたがいの ポケモンを\xfffeこうかんすることが できます\xf000븁\x0000\xfffeあたらしい ひととの であいが\xfffeめずらしい ポケモンとの\xf000븀\x0000\xfffeであいになるかも しれませんね!\xf000븁\x0000
 レコードつうしん では\xfffeじぶんの きろくを\xf000븀\x0000\xfffeみんなで こうかんすることが できます\xf000븁\x0000\xfffeきろくを こうかんすることで\xfffeいったい なにがおきるのか!?\xf000븁\x0000\xfffeそれは じぶんの めで\xfffeたしかめてみて ください!\xf000븁\x0000\xfffe５にんまで さんか できるので\xfffeともだちと やってみてくださいね!\xf000븁\x0000
@@ -31,13 +31,13 @@ Rotation Battles\xfffeポケモンを まえに １ひき\xf000븀\x0000\xfffe�
 どこに\xfffeいるかって……\xf000븀\x0000\xfffeめのまえに いますね\xf000븁\x0000\xfffeあ!\xfffeもしかして にせもの!?\xf000븁\x0000\xfffeほんものは\xfffeべつに いるとか?\xf000븁\x0000\xfffe…… って\xfffeへんなこと いわないで くださいよ!\xf000븀\x0000\xfffeもうっ!\xf000븁\x0000
 \xf000Ĝ\x0001\x0000こうかん\xfffeしたいですよ ねえ!\xf000븀\x0000\xfffeわたしも したいですもん\xf000븁\x0000\xfffeでも わたしに はなしかけても\xfffeこうかんは できませんけどね\xf000븁\x0000
 \xf000Ĝ\x0001\x0000たいせんを\xfffeするんだったら\xf000븁\x0000\xfffeじぶんから はなしかけるぐらい\xfffeつよきで いかないと!\xf000븁\x0000\xfffe\xf000Ĝ\x0001\x0000 たいせんを\xfffeするまえに まけちゃい ますよ!\xf000븁\x0000
-せつめい
-おはなしする
+Explain
+Talk
 Quit
-たいせん
-こうかん
+Battle
+Trade
 Record
-おえかき
-ぐるぐる
-マーク
+Draw
+Spin Trade
+Mark
 Quit
