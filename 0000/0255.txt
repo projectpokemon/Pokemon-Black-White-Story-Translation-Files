@@ -1,7 +1,7 @@
-VJQLHEOODRWVNODW\xfffeJQLN
+﻿VJQLHEOODRWVNODW\xfffeJQLN
 VHYDZPRUIOOD\xfffeGHYDV
 OODURIHSRK\xfffeVLJQLN
 HYROKWLZ\xfffeWFDNQLKW
 GHHUJDIL\xfffeJQRUWVWFD
-ここから のぼれそうだ!\xf000븁\x0000うえの かいに すすみますか?
-ここから おりれそうだ!\xf000븁\x0000したの かいに もどりますか?
+It seems you can go up here!\xf000븁\x0000Continue to the upper floor?
+It seems you can go down here!\xf000븁\x0000Return to the lower floor?
