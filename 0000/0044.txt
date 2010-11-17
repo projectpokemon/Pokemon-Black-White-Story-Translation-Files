@@ -1,17 +1,17 @@
-Scenery delights, battles excite!\xfffeWelcome to the S.S. Royal Isshu!\xf000븁\x0000\xfffeIt'll be $1000\xfffeto board.\xf000븀\x0000\xfffeWill you be boarding?
-The S.S. Royal Isshu is a cruise ship\xfffethat departs once every evening.\xf000븁\x0000
-The S.S. Royal Isshu only\xfffecruises during the evening.\xf000븀\x0000\xfffeWe await your coming another time.
+Scenery delights, battles excite!\xfffeWelcome to the Royal Isshu!\xf000븁\x0000\xfffeIt'll be $1000\xfffeto board.\xf000븀\x0000\xfffeWill you be boarding?
+The Royal Isshu is a cruise ship\xfffethat departs once every evening.\xf000븁\x0000
+The Royal Isshu only\xfffecruises during the evening.\xf000븀\x0000\xfffeWe await your coming another time.
 Oh? You don't have enough money!\xfffeWe await your coming another time.
 It'll be $1000\xfffeto board.\xf000븀\x0000\xfffeWill you be boarding?
 This ship passes Isshu's great bridges:\xfffeunder Sky Arrow Bridge,\xf000븁\x0000\xfffearound Wonder Bridge,\xfffeand back to Hiun City.\xf000븁\x0000\xfffeEmbarking time will be indicated\xfffeby five blows of the whistle.\xf000븁\x0000
-You can enjoy the passing scenery from\xfffethe S.S. Royal Isshu's famous deck.\xf000븁\x0000Trainers who like to battle\xfffegather in the guest rooms.\xf000븁\x0000We ask you to enjoy both\xfffethe scenery and the battling.\xf000븁\x0000Note that, to avoid interference\xfffewith the radio on the ship,\xf000븁\x0000the C-Gear cannot be used on board.\xf000븀\x0000Thank you for your understanding.\xf000븁\x0000
+You can enjoy the passing scenery from\xfffethe Royal Isshu's famous deck.\xf000븁\x0000Trainers who like to battle\xfffegather in the guest rooms.\xf000븁\x0000We ask you to enjoy both\xfffethe scenery and the battling.\xf000븁\x0000Note that, to avoid interference\xfffewith the radio on the ship,\xf000븁\x0000the C-Gear cannot be used on board.\xf000븀\x0000Thank you for your understanding.\xf000븁\x0000
 Is it okay to\xfffeturn off the C-Gear?
 We will be departing soon.\xfffeOff you go!\xf000븁\x0000
 Very well, then.\xfffeWe await your coming another time.
 Thank you for boarding with us.\xfffeWe await your coming another time.
 Today's cruise has\xfffealready departed.\xf000븀\x0000\xfffePlease come back again tomorrow.
 Congratulations!\xf000븁\x0000You have defeated\xfffeall the trainers on board!\xf000븁\x0000Please accept this\xfffecongratulatory gift.\xf000븁\x0000
-The S.S. Royal Isshu\xfffeis not yet open for business.\xf000븁\x0000We are preparing the ship to be\xfffesuitable for powerful Pokémon trainers.
+The Royal Isshu\xfffeis not yet open for business.\xf000븁\x0000We are preparing the ship to be\xfffesuitable for powerful Pokémon trainers.
 Board
 Explanation
 Quit
