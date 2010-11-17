@@ -1,26 +1,26 @@
-なかに でんかせいひんの はいった\xfffeダンボールが たくさん おかれている
-なかに でんかせいひんの はいった\xfffeダンボールが たくさん おかれている\xf000븁\x0000\xfffeおや? ロトムが でんかせいひんの\xfffeモーターを きにしている……\xf000븁\x0000\xfffeロトムを\xfffeなかに いれてあげますか?
-ロトムは モーターの なかに\xfffeはいるのを あきらめた……
-どの ロトムを\xfffeモーターに いれてあげますか?\xf000븁\x0000
-そのポケモンでは モーターの なかに\xfffeはいることが できません
-タマゴでは モーターの なかに\xfffeはいることが できません
-どの でんかせいひんの モーターに\xfffe\xf000Ă\x0001\x0000を いれてあげますか?
-レンジ
-せんたくき
-せんぷうき
-れいぞうこ
-しばかりき
-もとにもどす
+It's a cardboard box filled with\xfffeold electrical appliances.
+It's a cardboard box filled with\xfffeold electrical appliances.\xf000븁\x0000\xfffeHuh? Rotom is interested in\xfffethe appliances' motors...\xf000븁\x0000\xfffePut Rotom inside a motor?
+Rotom gave up on\xfffepossessing a motor...
+Which motor should\xfffeRotom possess?\xf000븁\x0000
+That Pokémon can't\xfffepossess a motor.
+An egg isn't able\xfffeto possess a motor.
+Which motor should\xfffe\xf000Ă\x0001\x0000 possess?
+Microwave Oven
+Washing Machine
+Rotary Fan
+Refrigerator
+Lawn Mower
+Return to normal
 Quit
-\xf000Ă\x0001\x0000は\xfffeモーターの なかに はいりこんだ!
-\xf000Ă\x0001\x0000は あたらしく\xfffe\xf000ć\x0001\x0001を おぼえたい……!\xf000븁\x0000\xfffeしかし \xf000Ă\x0001\x0000は\xfffeすでに わざを ４つ おぼえている!\xf000븁\x0000\xfffe\xf000ć\x0001\x0001の かわりに\xfffeほかの わざを わすれさせますか?
-それでは \xf000ć\x0001\x0001を\xfffeおぼえさせるのを あきらめますか?
-\xf000Ă\x0001\x0000は \xf000ć\x0001\x0001を\xfffeおぼえずに おわった!\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000は\xfffeモーターの なかから でてきた!
-\xf000ć\x0001\x0001を\xfffeわすれさせて よろしいですね?
-１\xf000븂\x0001\x0014 ２の\xf000븂\x0001\x0014 …\xf000븂\x0001\x0014…\xf000븂\x0001\x0014 ポカン!\xf000븅\x0001\x0003\xf000븅\x0001\x0006\xf000븁\x0000\xf000Ă\x0001\x0000は \xf000ć\x0001\x0001の\xfffeつかいかたを きれいに わすれた!\xf000븁\x0000そして……!\xf000븁\x0000
-\xf000Ă\x0001\x0000は あたらしく\xfffe\xf000ć\x0001\x0002を おぼえた!
-\xf000Ă\x0001\x0000は\xfffe\xf000ć\x0001\x0002を わすれた……\xf000븁\x0000
-えらんだ \xf000Ă\x0001\x0000は すでに\xfffeその でんかせいひんの\xf000븀\x0000\xfffeモーターに はいっています!\xf000븁\x0000
-\xf000Ă\x0001\x0000は\xfffeモーターから でてきた!
-\xf000Ă\x0001\x0000は\xfffeモーターに はいっていません!\xf000븁\x0000
-\xf000Ă\x0001\x0000は モーターの なかに\xfffeはいるのを あきらめた……
+\xf000Ă\x0001\x0000 possessed\xfffethe motor!
+\xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000However, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000Should a move be deleted and\xfffereplaced with \xf000ć\x0001\x0001?
+Give up on learning\xfffe\xf000ć\x0001\x0001?
+\xf000Ă\x0001\x0000 didn't learn\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 came\xfffeout of the motor!
+Delete the move\xfffe\xf000ć\x0001\x0001?
+1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 and...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof!\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000And...\xf000븁\x0000
+\xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0002!\xf000븁\x0000
+\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0002.\xf000븁\x0000
+The chosen \xf000Ă\x0001\x0000 is already\xfffepossessing that appliance's motor!\xf000븁\x0000
+\xf000Ă\x0001\x0000 came\xfffeout of the motor!
+\xf000Ă\x0001\x0000 can't\xfffepossess the motor!\xf000븁\x0000
+\xf000Ă\x0001\x0000 gave up on\xfffepossessing a motor...
