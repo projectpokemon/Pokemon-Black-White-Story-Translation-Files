@@ -5,7 +5,7 @@ Right this way, please.\xf000븁\x0000
 ...Oh?\xf000븁\x0000I'm sorry, but you don't have any\xfffefriends registered in you Pal Pad.\xf000븀\x0000The Wi-Fi Club cannot be used if\xfffeno friends are in your Pal Pad.\xf000븁\x0000Would you like to get your own\xfffeFriend Code at least?\xf000Ȁ\x0001\x0000
 ...Oh?\xf000븁\x0000I'm sorry, but you don't have any\xfffefriends registered in you Pal Pad.\xf000븀\x0000The Wi-Fi Club cannot be used if\xfffeno friends are in your Pal Pad.\xf000븁\x0000\xfffePlease register friends in your\xfffePal Pad, and then come back.\xf000븁\x0000
 At any Wi-Fi Club, you may play using\xfffeNintendo Wi-Fi Connection.\xf000븁\x0000Doing so, you may trade or battle with\xfffefriends you have registered in your\xf000븀\x0000Pal Pad.\xf000븁\x0000Two kinds of battles can be conducted:\xfffeSingle or Double.\xf000븁\x0000For each kind, you may choose one of\xfffethree level restrictions: Free,\xf000븀\x0000Level 50, or Level 100.\xf000븁\x0000For Level 50 and Level 100, the levels\xfffeof all participating Pokémon will be\xf000븀\x0000temporarily changed to the set level.\xf000븁\x0000Connect to Nintendo WFC?
-This Spiky-eared PICHU can't\xfffeenter the Wi-Fi club.
+We're still under construction\xfffePlease come back later.
 These Pokémon aren't eligible\xfffeto enter the Wi-Fi club.
 An error occurred.
 Go to Wi-Fi Club
