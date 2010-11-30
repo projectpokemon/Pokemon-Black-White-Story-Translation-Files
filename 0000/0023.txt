@@ -7,15 +7,15 @@ Shippou Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader 
 Shippou Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Aloe!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000
 Shippou Pokémon Gym\xf000븁\x0000\xfffeTrainers recognized by\xfffeGym Leader Aloe!\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeCheren\xf000븀\x0000\xfffeBel
 Hm?\xfffeLooking for a book?\xf000븁\x0000...Er, I believe "Hello, My Pokémon" is\xfffeon the bookshelf nearest the entrance.\xf000븁\x0000
-Good day, trainer!\xf000븁\x0000So you found a note and are\xfffelooking for a Pokémon book, huh?\xf000븁\x0000Oho! Well, actually, I'm reading\xfffea book on Pokémon too.\xf000븁\x0000...Er, this one's\xfffeabout Tepig.\xf000븁\x0000Wasn't the first Pokémon\xfffeyou met in this gym a Pokabu?
-Oho! That's too bad!\xf000븁\x0000The first Pokémon you met here\xfffewasn't a Tepig!\xf000븁\x0000Try to remember which Pokémon\xfffeyou fought at the gym's entrance.\xf000븁\x0000A hint: check the shelves\xfffeto the left!\xf000븁\x0000
+Good day, trainer!\xf000븁\x0000So you found a note and are\xfffelooking for a Pokémon book, huh?\xf000븁\x0000Oho! Well, actually, I'm reading\xfffea book on Pokémon too.\xf000븁\x0000...Er, this one's\xfffeabout Pokabu.\xf000븁\x0000Wasn't the first Pokémon\xfffeyou met in this gym a Pokabu?
+Oho! That's too bad!\xf000븁\x0000The first Pokémon you met here\xfffewasn't a Pokabu!\xf000븁\x0000Try to remember which Pokémon\xfffeyou fought at the gym's entrance.\xf000븁\x0000A hint: check the shelves\xfffeto the left!\xf000븁\x0000
 Oho! Right you are!\xf000븁\x0000What WAS the Pokémon you fought\xfffeat the gym's entrance, then?\xf000븁\x0000A hint: check the shelves\xfffeto the left!\xf000븁\x0000
 What WAS the Pokémon you fought\xfffeat the gym's entrance?\xf000븁\x0000A hint: check the shelves\xfffeto the left!\xf000븁\x0000
-You found the second note\xfffeand are looking for a book?\xf000븀\x0000...Well, what did it say?\xf000븁\x0000"Flame burns in its body, and it runs\xfffewith smoke coming out its head..."\xf000븁\x0000Well, I'm reading\xfffea book about Tepig...\xf000븀\x0000You think this is the right book?
-Oho! Nope, sorry!\xf000븁\x0000Here's what this\xfffeTepig book here says...\xf000븁\x0000"Flames burn within them\xfffeand blaze out their nostrils,\xf000븀\x0000but when they're not feeling well,\xf000븀\x0000only smoke can come out."\xf000븁\x0000"Smoke coming out its head..."\xfffeThat part's not quite right.\xf000븁\x0000...Perhaps the answer to the riddle\xfffeisn't a creature at all? Who knows! Oho!\xf000븁\x0000
-Whoa! Yeah!\xfffeExactly!\xf000븁\x0000Here's what this\xfffeTepig book here says...\xf000븁\x0000"Flames burn within them\xfffeand blaze out their nostrils,\xf000븀\x0000but when they're not feeling well,\xf000븀\x0000only smoke can come out."\xf000븁\x0000"Smoke coming out its head..."\xfffeThat part's not quite right.\xf000븁\x0000...Perhaps the answer to the riddle\xfffeisn't a creature at all? Who knows! Oho!\xf000븁\x0000
+You found the second note\xfffeand are looking for a book?\xf000븀\x0000...Well, what did it say?\xf000븁\x0000"Flame burns in its body, and it runs\xfffewith smoke coming out its head..."\xf000븁\x0000Well, I'm reading\xfffea book about Pokabu...\xf000븀\x0000You think this is the right book?
+Oho! Nope, sorry!\xf000븁\x0000Here's what this\xfffePokabu book here says...\xf000븁\x0000"Flames burn within them\xfffeand blaze out their nostrils,\xf000븀\x0000but when they're not feeling well,\xf000븀\x0000only smoke can come out."\xf000븁\x0000"Smoke coming out its head..."\xfffeThat part's not quite right.\xf000븁\x0000...Perhaps the answer to the riddle\xfffeisn't a creature at all? Who knows! Oho!\xf000븁\x0000
+Whoa! Yeah!\xfffeExactly!\xf000븁\x0000Here's what this\xfffePokabu book here says...\xf000븁\x0000"Flames burn within them\xfffeand blaze out their nostrils,\xf000븀\x0000but when they're not feeling well,\xf000븀\x0000only smoke can come out."\xf000븁\x0000"Smoke coming out its head..."\xfffeThat part's not quite right.\xf000븁\x0000...Perhaps the answer to the riddle\xfffeisn't a creature at all? Who knows! Oho!\xf000븁\x0000
 "Flame burns in its body, and it runs\xfffewith smoke coming out its head..."\xf000븀\x0000Just what could answer this riddle?\xf000븁\x0000...Perhaps the answer to the riddle\xfffeisn't a creature at all? Who knows! Oho!\xf000븁\x0000
-You've found the third note now?\xfffeYou're pretty good!\xf000븀\x0000...So what's that note say?\xf000븁\x0000"What becomes tasty when you\xfffesimmer it all around in a pan?"\xf000븁\x0000Well, I'm reading\xfffea book about Tepig...\xf000븁\x0000Huh? You don't... you don't really think\xfffethis Pokabu book is the answer?!
+You've found the third note now?\xfffeYou're pretty good!\xf000븀\x0000...So what's that note say?\xf000븁\x0000"What becomes tasty when you\xfffesimmer it all around in a pan?"\xf000븁\x0000Well, I'm reading\xfffea book about Pokabu...\xf000븁\x0000Huh? You don't... you don't really think\xfffethis Pokabu book is the answer?!
 S... SURELY you jest!\xfffeSheesh!\xf000븁\x0000...Now that I think about it,\xfffeI have seen a pastry made from\xf000븀\x0000simmering berries before.\xf000븀\x0000What was it called, again...?\xf000븁\x0000
 Y-Yeah, of course...\xfffeWhew, I was worried for a sec!\xf000븁\x0000...Now that I think about it,\xfffeI have seen a pastry made from\xf000븀\x0000simmering berries before.\xf000븀\x0000What was it called, again...?\xf000븁\x0000
 I have seen a pastry made from\xfffesimmering berries before.\xf000븀\x0000What was it called, again...?\xf000븁\x0000
@@ -39,9 +39,9 @@ Read the book\xfffe"Locomotive Construction"?
 Read the book\xfffe"The Art of Pokémon Battle"?
 Read the book\xfffe"Structure of a Pokémon Center"?
 Read the book\xfffe"Minezumi Anatomy"?
-Read the book\xfffe"Snivy Anatomy"?
-Read the book\xfffe"Oshawott Anatomy"?
-Read the book\xfffe"Tepig Anatomy"?
+Read the book\xfffe"Tsutarja Anatomy"?
+Read the book\xfffe"Mijumaru Anatomy"?
+Read the book\xfffe"Pokabu Anatomy"?
 Read the book\xfffe"How to Draw Pokémon"?
 Read the book\xfffe"Hello, My Pokémon"?
 Read the book\xfffe"Route 3 Adventure"?
@@ -51,9 +51,9 @@ Writings concerning locomotives.\xf000븁\x0000They run on steam power provided\
 Writings on the proper timing\xfffeof Pokémon switching.\xf000븁\x0000"Switch Pokémon before the situation\xfffeshould look to turn dire!"
 Sums up the design\xfffeof a Pokémon Center.\xf000븁\x0000It also details a day\xfffein the life of a nurse.
 Writings on the anatomy of Minezumi.\xf000븁\x0000Minezumis communicate with their tails.\xfffeA tail standing up on end signals\xf000븀\x0000that they've spotted an enemy.\xf000븁\x0000
-Writings on the anatomy of Snivy.\xf000븁\x0000If their tails point to the sun\xfffewhile in direct sunlight, it means\xf000븀\x0000they're in the midst of photosynthesis.
-Writings on the anatomy of Oshawott.\xf000븁\x0000The extremely hard shell\xfffethat forms over Mijumaru's navel\xf000븀\x0000can be used as a tool.
-Writings on the anatomy of Tepig.\xf000븁\x0000Flames burn within them\xfffeand blaze out their nostrils,\xf000븀\x0000but when they're not feeling well,\xf000븀\x0000only smoke can come out.
+Writings on the anatomy of Tsutarja.\xf000븁\x0000If their tails point to the sun\xfffewhile in direct sunlight, it means\xf000븀\x0000they're in the midst of photosynthesis.
+Writings on the anatomy of Mijumaru.\xf000븁\x0000The extremely hard shell\xfffethat forms over Mijumaru's navel\xf000븀\x0000can be used as a tool.
+Writings on the anatomy of Pokabu.\xf000븁\x0000Flames burn within them\xfffeand blaze out their nostrils,\xf000븀\x0000but when they're not feeling well,\xf000븀\x0000only smoke can come out.
 It's a book on how to draw,\xfffefilled with drawings of Pokémon.\xf000븁\x0000They're cutesy and easy to draw!
 A fairytale about a boy who meets a\xfffePokémon for the first time in his life.\xf000븁\x0000He takes a little brown\xfffePokémon along with him.\xf000븁\x0000
 The story of a youth who goes on \xfffea grand adventure with his Pokémon.\xf000븁\x0000He's also journeying\xfffewith a boy and a girl.
