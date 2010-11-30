@@ -1,10 +1,10 @@
-... ... ...\xf000븁\x0000... ...Come.\xf000븁\x0000
+﻿... ... ...\xf000븁\x0000... ...Come.\xf000븁\x0000
 ... ... ...\xf000븁\x0000Go with Lord N.\xf000븁\x0000
 N: \xf000븉\x0001\x0001...Thank you.\xf000븁\x0000Those men you just saw were\xfffetwo of the Dark Trinity.\xf000븁\x0000They're members of Team Plasma\xfffeassembled by Geechisu.\xf000븁\x0000By the way, it appears it was they\xfffewho set up the Denchura nest\xf000븀\x0000at the entrance to this cave.\xf000븁\x0000\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001Thunderstone Cave...\xfffeThis is a nice place.\xf000븁\x0000Electrical equations are put in practice,\xfffeand it has connections to Pokémon...\xf000븁\x0000...Were it not for the human visitors,\xfffeit would be an ideal locale for me.\xf000븁\x0000Now then, you have been chosen...\xfffeDo you find this surprising?\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001Ah, I see.\xfffeYou do look surprised.\xf000븉\x0001\x0000\xf000븁\x0000
 \xf000븉\x0001\x0001...Hmph.\xf000븁\x0000I suppose without telling you the reason,\xfffeyou couldn't be surprised, could you?\xf000븉\x0001\x0000\xf000븁\x0000
-\xf000븉\x0001\x0001I have spoken of\xfffeyou all to Geechisu.\xf000븁\x0000And through the Dark Trinity,\xfffewe have investigated you.\xf000븁\x0000Cheren is searching out\xfffean ideal he calls strength...\xf000븁\x0000And Bel believes in a truth,\xfffethe truth that no one has reason\xf000븀\x0000to grow stronger.\xf000븁\x0000You have not settled upon either.\xfffeA neutral entity, so to speak...\xf000븀\x0000And that would seem a positive quality.\xf000븁\x0000Team Plasma members\xfffeawait you ahead.\xf000븁\x0000Getis will test how much of\xfffea Pokémon trainer you truly are.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001I have spoken of\xfffeyou all to Geechisu.\xf000븁\x0000And through the Dark Trinity,\xfffewe have investigated you.\xf000븁\x0000Cheren is searching out\xfffean ideal he calls strength...\xf000븁\x0000And Bel believes in a truth,\xfffethe truth that no one has reason\xf000븀\x0000to grow stronger.\xf000븁\x0000You have not settled upon either.\xfffeA neutral entity, so to speak...\xf000븀\x0000And that would seem a positive quality.\xf000븁\x0000Team Plasma members\xfffeawait you ahead.\xf000븁\x0000Geechisu will test how much of\xfffea Pokémon trainer you truly are.\xf000븉\x0001\x0000\xf000븁\x0000
 Hey!\xf000븁\x0000
 Heyyy!\xf000븁\x0000
 Bel: Hey, \xf000Ā\x0001\x0000, did you know?\xf000븁\x0000These floating rocks move\xfffewhen you push them.\xf000븁\x0000

@@ -1,8 +1,8 @@
-Bel: AAAH! W-Whoa,\xfffeI'm getting waaaaay too overexcited!!\xf000븁\x0000
+﻿Bel: AAAH! W-Whoa,\xfffeI'm getting waaaaay too overexcited!!\xf000븁\x0000
 Cheren: Yeah, sure.\xfffeOkay, the Professor's waiting.\xf000븁\x0000
 Cheren: Sorry to keep you waiting,\xfffeProfessor Araragi.\xf000븁\x0000
 Araragi: All present?\xfffeThen I'll begin my explanation!\xf000븁\x0000\xfffeMeeting Pokémon will automatically\xfffefill up the pages of the Pokédex!\xf000븁\x0000\xfffeAnd! Catching a Pokémon will add\xfffefurther information about it!\xf000븁\x0000\xfffeThat said, I'll show you\xfffethe catching of a Pokémon in action!\xf000븁\x0000
-Araragi: So, did you see that?\xf000븁\x0000\xfffeI'll go over the main points.\xfffeFirst, weaken the Pokémon!\xf000븁\x0000\xfffeIt's tricky trying to catch\xfffea healthy Pokémon.\xf000븁\x0000\xfffeIf possible, you can also use moves to\xfffeparalyse a Pokémon you want to catch,\xf000븀\x0000\xfffeor put it to sleep!\xf000븁\x0000\xfffeNow then,\xfffea Pokéball present for you all!\xf000븁\x0000
+Araragi: So, did you see that?\xf000븁\x0000\xfffeI'll go over the main points.\xfffeFirst, weaken the Pokémon!\xf000븁\x0000\xfffeIt's tricky trying to catch\xfffea healthy Pokémon.\xf000븁\x0000\xfffeIf possible, you can also use moves to\xfffeparalyze a Pokémon you want to catch,\xf000븀\x0000\xfffeor put it to sleep!\xf000븁\x0000\xfffeNow then,\xfffea Pokéball present for you all!\xf000븁\x0000
 \xf000Ā\x0001\x0000 obtained \xfffe\xf000\xff00\x0001\x0002Pokéballs\xf000\xff00\x0001\x0000!
 Araragi: Those Pokéballs\xfffeare used to catch Pokémon.\xf000븁\x0000\xfffeAnd once caught, they're also used\xfffeto carry them around!\xf000븁\x0000\xfffeNow then, I'll be waiting\xfffeup ahead in Karakusa Town!\xf000븁\x0000
 Cheren: By the way, Pokémon\xfffeappear in grassy areas.\xf000븁\x0000

@@ -1,6 +1,6 @@
-Huh, some kid...?\xf000븁\x0000
-It couldn't be... you...?\xf000븁\x0000\xfffeIf you're here, that must mean\xfffeyou're snooping for Genosect!\xf000븁\x0000
-Team Plasma revived\xfffethe Pokémon Genosect from a fossil,\xf000븀\x0000\xfffeand with the power of science,\xf000븀\x0000\xfffegave it a huge upgrade!\xf000븁\x0000
+﻿Huh, some kid...?\xf000븁\x0000
+It couldn't be... you...?\xf000븁\x0000\xfffeIf you're here, that must mean you're\xfffesnooping for Genosect's secrets!\xf000븁\x0000
+Team Plasma revived the\xfffePokémon Genosect from a fossil,\xf000븀\x0000\xfffeand with the power of science,\xf000븀\x0000\xfffegave it a huge upgrade!\xf000븁\x0000
 It's the strongest Pokémon\xfffein all history!!\xf000븁\x0000
 But... Lord N did not care for\xfffethe scientific remodeling of Genosect...!\xf000븁\x0000
 The perfect beings known as\xfffePokémon were wounded by science!\xf000븁\x0000
@@ -13,6 +13,6 @@ There's another one of these\xfffein my other pocket...\xf000븁\x0000
 The item I just gave you\xfffeis an item I made for Genosect.\xf000븁\x0000\xfffeEquip it, and the move Techno Buster\xfffewill change to a different type.\xf000븁\x0000
 Is this a cowardly\xfffetrainer I see?!
 Will you fight me?!
-I've given you all the casettes.\xfffeDo what you want...
-There's a note on the\xfffeside of the monitor...\xf000븁\x0000\xfffeRead the note?
-Lord N seems to deny me\xfffeof my research...\xf000븁\x0000\xfffeBut my research is necessary\xfffeto achieve Team Plasma's goals...\xf000븀\x0000\xfffeThe ultimate Pokémon...\xf000븁\x0000\xfffeThe rest of the note is torn\xfffeand impossible to read...!
+I've given you all the cassettes.\xfffeDo what you want...
+There's a note beside\xfffethe monitor...\xf000븁\x0000\xfffeRead the note?
+Lord N seems to deny\xfffeme my research...\xf000븁\x0000\xfffeBut my research is necessary\xfffeto achieve Team Plasma's goals...\xf000븀\x0000\xfffeThe ultimate Pokémon...\xf000븁\x0000\xfffeThe rest of the note is torn\xfffeand impossible to read...!

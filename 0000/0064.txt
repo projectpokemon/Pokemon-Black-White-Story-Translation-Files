@@ -1,6 +1,6 @@
-I see you've obtained\xfffea number of Isshu gym badges!\xf000븀\x0000Do you want me to explain them?
+﻿I see you've obtained\xfffea number of Isshu gym badges!\xf000븀\x0000Do you want me to explain them?
 Right, then.\xfffeCome again if you want to know.
-With the Trio Badge, all Pokémon\xfffeup to level 20 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
+With the Tri Badge, all Pokémon\xfffeup to level 20 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 With the Basic Badge, all Pokémon\xfffeup to level 30 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 With the Beetle Badge, all Pokémon\xfffeup to level 40 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 With the Bolt Badge, all Pokémon\xfffeup to level 50 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
@@ -9,7 +9,7 @@ With the Jet Badge, all Pokémon\xfffeup to level 70 will obey you.\xf000븀\x00
 With the Icicle Badge, all Pokémon\xfffeup to level 80 will obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 With the Legend Badge, all Pokémon\xfffewill obey you.\xf000븀\x0000This includes traded Pokémon.\xf000븁\x0000
 What badge do you\xfffewant me to explain?
-Trio Badge
+Tri Badge
 Basic Badge
 Beetle Badge
 Bolt Badge

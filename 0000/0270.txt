@@ -1,4 +1,4 @@
-... ... ...\xf000븁\x0000... ...Come.\xf000븁\x0000
+﻿... ... ...\xf000븁\x0000... ...Come.\xf000븁\x0000
 ... ... ...\xf000븁\x0000Go with Lord Geechisu.\xf000븁\x0000
 Geechisu: Splendid...\xfffeIt seems you obtained the Dark Stone.\xf000븁\x0000First I must congratulate you\xfffeon your efforts.\xf000븁\x0000
 Geechisu: Splendid...\xfffeIt seems you obtained the Light Stone.\xf000븁\x0000First I must congratulate you\xfffeon your efforts.\xf000븁\x0000
@@ -9,18 +9,18 @@ So I made my preparations.\xf000븁\x0000If I were to put my\xfffeperfect plan i
 Even though you hold that stone,\xfffeI highly doubt the legendary Pokémon\xf000븀\x0000would recognize you as a hero.\xf000븁\x0000Yet if you do not wish to part\xfffefrom your beloved Pokémon,\xf000븀\x0000you must try your hardest...\xf000븁\x0000
 I can't help but get excited on a\xfffebridge that has to withstand a railroad!\xf000븁\x0000WHOA! So anyway,\xfffetake this, please!\xf000븁\x0000
 That TM contains\xfffeNitro Charge!\xf000븀\x0000If the move hits, it ups speed!\xf000븁\x0000You'll be running circles 'round\xfffepeople before you know it!
-You there!\xf000븁\x0000You ought to not come here\xfffeon weekend nights.\xf000븁\x0000The neighborhood brats gather\xfffeand pull stupid stunts!
-テメー どこの だれの きょかで\xfffeここ とおるつもりだァ コラ!?\xf000븁\x0000はなの きんようびの ミッドナイトは\xfffeここは オイラたち ばくそうチーム\xf000븀\x0000ブラック\xf000ā\x0001\x0000の\xf000븀\x0000シマ なんだよお!\xf000븁\x0000テメーみたいに そだちが よさげで\xfffeうらやましい かんじの チビっこは\xf000븀\x0000とっとと マミーんとこへ かえんなァ!
-なんだとォ! この ダボが!\xfffeブラック\xf000ā\x0001\x0000の\xf000븀\x0000オイラ なめてんじゃねーぞォ!\xf000븁\x0000テメーの プリティー ポケモンに\xfffeたっぷり じっくり コッテリ\xf000븀\x0000くらわして やんぞォ!\xf000븁\x0000
-ハンッ! それで いいんだよォ!\xfffeかがやく あしたがある チビっこは\xf000븀\x0000チャッチャと おうちに かえって\xf000븀\x0000おやこうこうでも してるんだなァ!
-ハンッ! それで いいんだよォ!\xfffeかがやく あしたがある チビっこは\xf000븀\x0000チャッチャと おうちに かえって\xf000븀\x0000おやこうこうでも してるんだなァ!\xf000븁\x0000
-テメー オイラに かったくらいで\xfffeきもちよく なってんじゃ ねーぞ!\xf000븁\x0000ブラック\xf000ā\x0001\x0000と マジで\xfffeケンカする どきょう あんなら\xf000븀\x0000この ブリッジの どっかに いる\xf000븀\x0000オレたちの ヘッドと やってみろやァ!
-テメー オイラに かったくらいで\xfffeきもちよく なってんじゃ ねーぞ!\xf000븁\x0000ブラック\xf000ā\x0001\x0000と マジで\xfffeケンカする どきょう あんなら\xf000븀\x0000この ブリッジの どっかに いる\xf000븀\x0000オレたちの ヘッドと やってみろやァ!\xf000븁\x0000
-オイ! そこの テメーっ!\xfffeちょっと ツラ かせやァ!\xf000븁\x0000
-なんだ オマエは……?\xf000븁\x0000ここは……\xf000븁\x0000ブラック\xf000ā\x0001\x0000の\xfffeさいごの らくえん……\xf000븁\x0000きさまの ような ガキには\xfffeえんのない ばしょさ……\xf000븁\x0000それとも まさか オマエ……\xf000븁\x0000ブラック\xf000ā\x0001\x0000の\xfffeそうちょうである このオレと\xf000븀\x0000しょうぶでも するってのか……?\xf000븁\x0000
-グハハハッ! じょうとうだっ!\xfffeいせいの いい ガキじゃねえかっ!\xf000븁\x0000ブラック\xf000ā\x0001\x0000を\xfffeたばねる そうちょうの ちから……\xf000븀\x0000オマエに みせて やろうっ!\xf000븁\x0000
-そうか……\xfffeだったら さっさと きえてくれ……\xf000븁\x0000ここは いきばのない オレたち\xfffeブラック\xf000ā\x0001\x0000の\xf000븀\x0000ベスト プレイス……\xf000븁\x0000だれにも じゃまされたくねえのさ……
-オマエ なかなか やるじゃねえか……\xfffeきにいった…… みとめてやるぜ……\xf000븁\x0000そのあかしに!\xf000븁\x0000たった いまから!\xf000븁\x0000オレたちの チームは\xfffeブラック\xf000ā\x0001\x0000に\xf000븀\x0000かいめい することに きめたぜっ!\xf000븁\x0000そうだぜ! タフで ワイルドな\xfffeオマエの ポケモンの なまえを\xf000븀\x0000いただくってわけよ!\xf000븁\x0000これで オレたちの チームは\xfffeますます ワイルドに なる!\xf000븁\x0000ブラック\xf000ā\x0001\x0000!\xfffeグハハハッ! コイツは いいぜっ!
-ブラック\xf000ā\x0001\x0000!\xfffeスピードだけが おともだちっ!
-ブラック\xf000ā\x0001\x0000!\xfffeよあけまで だいばくそう だぜィ!
-ブラック\xf000ā\x0001\x0000は\xfffeとまらない! ふりかえらないぜ!
+You there!\xf000븁\x0000You shouldn't come by\xfffehere on Friday nights.\xf000븁\x0000The neighborhood brats gather\xfffeand generally act like scum!
+Who gave you permission\xfffeto waltz through, punk?!\xf000븁\x0000At midnight on Fridays, this place\xfffebelongs to our bike gang,\xf000븀\x0000the Black \xf000ā\x0001\x0000!\xf000븁\x0000You should be jealous 'long as\xfffeyou were raised right, shorty!\xf000븀\x0000Now scurry back to yer mommy!
+What in the?! You little punk!\xfffeDon't screw with the Black \xf000ā\x0001\x0000!\xf000븁\x0000Yer pretty little Pokémon are\xfffegonna get a handful, a fistful,\xf000븀\x0000and a PAINFUL!\xf000븁\x0000
+Hmph! Good on you! You got\xfffea bright future ahead, shorty,\xf000븀\x0000so skitter back home and\xf000븀\x0000take good care of your parents!
+Hmph! Good on you! You got\xfffea bright future ahead, shorty,\xf000븀\x0000so skitter back home and\xf000븀\x0000take good care of your parents!\xf000븁\x0000
+Feelin' pretty good\xfffeabout beatin' me, huh?!\xf000븁\x0000If you really got the guts\xfffeto take on Black \xf000ā\x0001\x0000,\xf000븀\x0000go look around the bridge\xf000븀\x0000for our leader!
+Feelin' pretty good\xfffeabout beatin' me, huh?!\xf000븁\x0000If you really got the guts\xfffeto take on Black \xf000ā\x0001\x0000,\xf000븀\x0000go look around the bridge\xf000븀\x0000for our leader!\xf000븁\x0000
+Hey! You there, punk!\xfffeCut it with that smug mug!\xf000븁\x0000
+The heck are you...?\xf000븁\x0000This is...\xf000븁\x0000Black \xf000ā\x0001\x0000's\xfffelast paradise...\xf000븁\x0000A brat like you's got\xfffeno business with it...\xf000븁\x0000Or could ya really\xfffebe thinking of...?\xf000븁\x0000You gonna battle me,\xfffethe leader of Black \xf000ā\x0001\x0000...?\xf000븁\x0000
+Gwahahaha! What an answer!\xfffeSuch a great twerp!\xf000븁\x0000As the boss, I'll show you the power\xfffethat keeps Black \xf000ā\x0001\x0000 in line!\xf000븁\x0000
+Oh, really... Then make like\xfffea tourist and get lost...\xf000븁\x0000This is the only haven for us\xfffelost ones of Black \xf000ā\x0001\x0000...\xf000븁\x0000Nobody's movin' us out...
+You ain't bad, honestly...\xfffeGotta say, I kinda like you...\xf000븁\x0000And as proof!\xf000븁\x0000From here on!\xf000븁\x0000Our gang will now be known\xfffeas Black \xf000ā\x0001\x0000!\xf000븁\x0000Yes! A tough and wild name,\xfffejust like your Pokémon!\xf000븁\x0000Our gang will get wilder still\xfffefrom this day forth!\xf000븁\x0000Black \xf000ā\x0001\x0000!\xfffeGwahaha! Love the sound of it!
+Black \xf000ā\x0001\x0000!\xfffeSpeed's our only friend!
+Black \xf000ā\x0001\x0000!\xfffeVroomin' into the dawn!
+Black \xf000ā\x0001\x0000 never stops!\xfffeNever looks back!

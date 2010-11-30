@@ -1,4 +1,4 @@
-... ... ...\xf000븁\x0000... ...You?\xf000븁\x0000
+﻿... ... ...\xf000븁\x0000... ...You?\xf000븁\x0000
 Lord Geechisu is gone.\xf000븁\x0000...After escaping from the castle,\xfffehe went somewhere on his own.\xf000븁\x0000
 We vowed to protect\xfffeLord Geechisu's life.\xf000븁\x0000And now we have been ordered\xfffeto never search for him...\xf000븁\x0000
 Also, Lord Geechisu said\xfffeto give this to you...\xf000븁\x0000
@@ -7,22 +7,22 @@ And this too...\xf000븁\x0000
 ...Where did Lord Geechisu\xfffeobtain these items?\xf000븀\x0000What was he planning?\xf000븀\x0000Why give them to you?\xf000븀\x0000We have been yet unable\xf000븀\x0000to ascertain these things.\xf000븁\x0000...Is he testing you?\xfffe...Is he using you?\xf000븁\x0000
 We, the Dark Trinity,\xfffehave been, are, and will always be\xf000븀\x0000Lord Geechisu's devoted.\xf000븁\x0000And Lord Geechisu's ambitions\xfffecan never be stopped!\xf000븁\x0000
 ...We will not\xfffemeet you again.\xf000븁\x0000So long!\xf000븁\x0000
-ワンダーブリッジ めいぶつ\xfffeミネズミショー みていかない?
-オッケー おねえさん\xfffeはりきっちゃうわよー!\xf000븁\x0000
-そっかー…… おもしろさには\xfffeじしんが あるから また きてね!
-よーし ミネズミちゃーん!\xfffeぜんいん しゅうごーう!\xf000븁\x0000
-この ミネズミちゃんの なかで\xfffeあなたに あててもらう こは……\xf000븁\x0000
-この いちばん えがおが まぶしい\xfffeミネズミちゃん でーす!\xf000븁\x0000\xf000ĉ\x0001\x0000を もってまーす!\xfffeでは スタートッ!\xf000븁\x0000
-この いちばん えくぼが キュートな\xfffeミネズミちゃん でーす!\xf000븁\x0000\xf000ĉ\x0001\x0000を もってまーす!\xfffeでは スタートッ!\xf000븁\x0000
-この いちばん オシャレな マユゲの\xfffeミネズミちゃん でーす!\xf000븁\x0000\xf000ĉ\x0001\x0000を もってまーす!\xfffeでは スタートッ!\xf000븁\x0000
-この いちばん おなかが おおきい\xfffeミネズミちゃん でーす!\xf000븁\x0000\xf000ĉ\x0001\x0000を もってまーす!\xfffeでは スタートッ!\xf000븁\x0000
-さあ! さっきの\xfffeミネズミちゃんを あててみて!\xf000븁\x0000
-その ミネズミちゃんが\xfffe\xf000ĉ\x0001\x0000を もっているのね?
-こたえは……!!\xfffe……\xf000븀\x0000…………\xf000븀\x0000………………\xf000븀\x0000……………………\xf000븀\x0000おおあたりー!\xf000븁\x0000けいひんの \xf000ĉ\x0001\x0000は\xfffeミネズミちゃんから もらえまーす!\xf000븁\x0000
-こたえは……!!\xfffe……\xf000븀\x0000…………\xf000븀\x0000………………\xf000븀\x0000ざんねん! はずれです……\xf000븁\x0000
-それでは ミネズミショー\xfffeしゅうりょうに なります!\xf000븀\x0000ありがとう ございましたー!!\xf000븁\x0000
-また ミネズミショー みたいの?\xf000븁\x0000いろいろ じゅんびとか あるから\xfffeあした また きてね!
-みぎゅう!?
+Are you here to see Wonder\xfffeBridge's famed Minezumi show?
+You got it!\xfffeWhew, I am PUMPED!\xf000븁\x0000
+Really... Well, uh, I think it's\xfffepretty great! So come later!
+Alright, Team Minezumi!\xfffeAll units, ASSEMBLE!\xf000븁\x0000
+The Minezumi with\xfffeyour prize is...\xf000븁\x0000
+This Minezumi! The one with\xfffethe most dazzling smile!\xf000븁\x0000He's got a \xf000ĉ\x0001\x0000!\xfffeNow! COMMENCE!\xf000븁\x0000
+This Minezumi! The one with\xfffethe cutest dimples!\xf000븁\x0000He's got a \xf000ĉ\x0001\x0000!\xfffeNow! COMMENCE!\xf000븁\x0000
+This Minezumi! The one with\xfffethe most stylin' eyebrows!\xf000븁\x0000He's got a \xf000ĉ\x0001\x0000!\xfffeNow! COMMENCE!\xf000븁\x0000
+This Minezumi! The one with\xfffethe biggest stomach!\xf000븁\x0000He's got a \xf000ĉ\x0001\x0000!\xfffeNow! COMMENCE!\xf000븁\x0000
+Now! Show me the\xfffeMinezumi with the prize!\xf000븁\x0000
+You think that Minezumi\xfffehas the \xf000ĉ\x0001\x0000?
+Your answer is...!!\xfffe...\xf000븀\x0000... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ... ... ... ... ...\xf000븀\x0000CORRRRRECT!\xf000븁\x0000Take the \xf000ĉ\x0001\x0000 as a gift,\xfffefrom Minezumi to you-nezumi!\xf000븁\x0000
+Your answer is...!!\xfffe...\xf000븀\x0000... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000Sorry, it's wrongo...\xf000븁\x0000
+Well then, the Minezumi show...\xfffehas come to its conclusion!\xf000븀\x0000Thanks for participating!!\xf000븁\x0000
+Wanna see the\xfffeMinezumi show again?\xf000븁\x0000We've got to make preparations!\xfffeCome again tomorrow!
+Migyuu?!
 Old Man: Boyo!\xfffeJuuuuust for you...!\xf000븀\x0000I've got something great!\xf000븁\x0000A mythical Pokémon! The great\xfffeMagikarp, for a scant $500!\xf000븀\x0000Will you buy?
 Old Man: Girly!\xfffeJuuuuust for you...!\xf000븀\x0000I've got something great!\xf000븁\x0000A mythical Pokémon! The great\xfffeMagikarp, for a scant $500!\xf000븀\x0000Will you buy?
 \xf000Ā\x0001\x0000 bought\xfffea Magikarp for $500!
@@ -32,4 +32,4 @@ You're full on Pokémon!
 Ah, your loss...
 Old Man: Right, and I don't\xfffedo Pokémon refunds!
 Aah...\xfffeWhat a superb view...
-Huh... uh...?\xfffeDid that... j-just vanish?
+Huh... uh...?\xfffeDid she... j-just vanish?

@@ -1,4 +1,4 @@
-I presume \xf000ā\x0001\x0000\xfffeis your favorite Pokémon?
+﻿I presume \xf000ā\x0001\x0000\xfffeis your favorite Pokémon?
 I presume that Egg\xfffeis your favorite Pokémon?
 I knew it! I knew it!\xfffeI presumed the correct presumption!
 Whaaat?! \xf000ā\x0001\x0000\xfffeISN'T your favorite?!

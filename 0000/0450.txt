@@ -1,3 +1,4 @@
+﻿no data
 no data
 no data
 no data
@@ -24,13 +25,12 @@ no data
 no data
 no data
 no data
-no data
-よのなか たくさんの ひとがいて\xfffeそのひとの かずだけ こせいや\xf000븀\x0000かんがえが あるんだよね……\xf000븁\x0000たくさんの ひとに めぐりあって\xfffeそれに ふれることが できたら\xf000븀\x0000とっても しあわせだと おもうんだ
-よるに なると おおきな あなから\xfffeこわーい おばけが でてくるから\xf000븀\x0000おうちに かえって おとなしく\xf000븀\x0000してないと ダメなんだって!\xf000븁\x0000でも それって きっと\xfffeポケモン でしょ?\xf000븀\x0000ぼく こわくなんかないよ!
-このさきの どうろには つりずきには\xfffeたまらん わんがんが ひろがっとる\xf000븁\x0000いそがしいから よづりは しないが\xfffeおおものも いるかもな
-オイラの バーちゃん\xfffeむかしばなしが すきでよ\xf000븀\x0000しょっちゅう なげー はなしに\xf000븀\x0000つきあわされるんだぜ\xf000븁\x0000たまには バーちゃん おいて\xfffeパーッと あそびに いきてーよ
-ほんかん ここに ふにんしてから\xfffeなーんも することが ないのだ\xf000븁\x0000あまりに ひますぎて ほんかんの\xfffeポリスだましいも しなびてしまうよ
-オレの ポケモン いつも かってに\xfffeあそびに いっちまうんだ\xf000븁\x0000まったく だれに にたんだかな
-グッグン! グッグン!
-しごとが いそがしくてねえ\xfffeしゅうに いちど くらいしか\xf000븀\x0000うちに かえってないんだ\xf000븁\x0000かみさんには さびしい\xfffeおもいを させて わるいが\xf000븀\x0000まー デキる おとこの\xf000븀\x0000しゅくめい って やつだからなァ\xf000븁\x0000ああ これ しゅっちょうさきの\xfffeみやげなんだが かみさん\xf000븀\x0000いらない みたいだから\xf000븀\x0000きみに やるよ\xf000븁\x0000
-あしたから また しゅっちょうさ\xfffeいやあ オレって ビジネスマンの\xf000븀\x0000かがみだな ほんとうに
+There are many people in the world.\xfffeAnd every one of those people\xf000븀\x0000has their own personality and ideas...\xf000븁\x0000When many can get together\xfffeto achieve great things,\xf000븀\x0000that makes me very happy.
+When night falls, a big bad\xfffemonster comes out of the hole,\xf000븀\x0000so you better just come home!\xf000븁\x0000But, really...\xfffeIt's just a Pokémon, right?\xf000븀\x0000I'm certainly not scared!
+On the route ahead, lovers of fishing\xfffespread across the coast!\xf000븁\x0000I'm busy, so I can't fish at night,\xfffebut there could be big catches...
+My granny loves her old legends...\xfffeAnd they always take forever!\xf000븁\x0000Sometimes I wish\xfffeshe'd just play instead!
+Ever since I got appointed here,\xfffeI haven't had to do a thing!\xf000븁\x0000I've had too much free time...\xfffeMy policing skills are getting rusty...
+My Pokémon always go off\xfffeto play on their own...\xf000븁\x0000They're not like everybody else...
+Goo-goon! Goo-goon!
+Work sure is busy...\xfffeI only get to go home\xf000븀\x0000about once a week.\xf000븁\x0000I feel terrible making\xfffemy wife feel lonely,\xf000븀\x0000but that's the way it goes\xf000븀\x0000for a man like me...\xf000븁\x0000Oh, this is a souvenir\xfffeI got from a business trip.\xf000븀\x0000My wife doesn't seem to want it.\xf000븀\x0000You can have it.\xf000븁\x0000
+I've got a business trip tomorrow.\xfffeWhew, I really am living\xf000븀\x0000the life of a businessman...

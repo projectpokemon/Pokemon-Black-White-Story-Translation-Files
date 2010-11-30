@@ -1,4 +1,4 @@
-Cheren: \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeI understand you're\xffferaring to go around everywhere\xf000븀\x0000\xfffewith your Pokémon, but...\xf000븁\x0000\xfffeWe have to give our thanks\xfffeto Professor Araragi first.\xf000븁\x0000Here!\xfffeThe lab's this way!\xf000븁\x0000
+﻿Cheren: \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeI understand you're\xffferaring to go around everywhere\xf000븀\x0000\xfffewith your Pokémon, but...\xf000븁\x0000\xfffeWe have to give our thanks\xfffeto Professor Araragi first.\xf000븁\x0000Here!\xfffeThe lab's this way!\xf000븁\x0000
 Cheren: I know it's too much to ask,\xfffebut could you go to Bel's house?\xf000븁\x0000\xfffeI'm sure she's just as happy-go-lucky\xfffeas she always is, though...\xf000븀\x0000I just call it being slow!
 Bel: ...Keep what you saw earlier\xfffea secret!
 Cheren: Well!\xfffeTime to meet the Professor.\xf000븁\x0000

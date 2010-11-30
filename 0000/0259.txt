@@ -1,7 +1,7 @@
-おはよう ございます\xfffe\xf000Ā\x0001\x0000さん ですね\xf000븁\x0000プレゼントを おあずかり しています\xfffeこちらを どうぞ!\xf000븁\x0000
-こんにちは\xfffe\xf000Ā\x0001\x0000さん ですね\xf000븁\x0000プレゼントを おあずかり しています\xfffeこちらを どうぞ!\xf000븁\x0000
-こんばんは\xfffe\xf000Ā\x0001\x0000さん ですね\xf000븁\x0000プレゼントを おあずかり しています\xfffeこちらを どうぞ!\xf000븁\x0000
-おあずかり してる プレゼントは\xfffeもう ありません\xf000븁\x0000またの ごりようを\xfffeおまちして おります
-またの ごりようを\xfffeおまちしております
-\xf000Ā\x0001\x0000は\xfffe\xf000\xff00\x0001\x0002\xf000ĉ\x0001\x0001\xf000\xff00\x0001\x0000を てにいれた!
-\xf000ĉ\x0001\x0000が いっぱいで\xfffeわたすことが できません
+﻿Good morning!\xfffe\xf000Ā\x0001\x0000, I presume?\xf000븁\x0000I have a present for you.\xfffeHere you are!\xf000븁\x0000
+Good afternoon!\xfffe\xf000Ā\x0001\x0000, I presume?\xf000븁\x0000I have a present for you.\xfffeHere you are!\xf000븁\x0000
+Good evening!\xfffe\xf000Ā\x0001\x0000, I presume?\xf000븁\x0000I have a present for you.\xfffeHere you are!\xf000븁\x0000
+I have no more presents\xfffeleft to deliver to you.\xf000븁\x0000I await serving you\xfffein the future!
+I await serving you\xfffein the future!
+\xf000Ā\x0001\x0000 received\xfffea \xf000\xff00\x0001\x0002\xf000ĉ\x0001\x0001\xf000\xff00\x0001\x0000!
+Your bag is too full...\xfffeI can't give you this \xf000ĉ\x0001\x0000.

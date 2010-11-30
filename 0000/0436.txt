@@ -1,4 +1,4 @@
-Araragi: Hiiiii, \xf000Ā\x0001\x0000!!\xf000븁\x0000To walk down all roads with a Pokémon!\xfffeThat's the joy of a trainer!\xf000븁\x0000Meaning! I need to tell you about\xfffethe most important place for a trainer,\xf000븀\x0000so come on in!\xf000븁\x0000
+﻿Araragi: Hiiiii, \xf000Ā\x0001\x0000!!\xf000븁\x0000To walk down all roads with a Pokémon!\xfffeThat's the joy of a trainer!\xf000븁\x0000Meaning! I need to tell you about\xfffethe most important place for a trainer,\xf000븀\x0000so come on in!\xf000븁\x0000
 Everyone... this is going to be\xfffean important speech.\xf000븁\x0000Please wait a while longer.
 Ahem...\xfffeWe're in the midst of preparations.\xf000븁\x0000Please wait a while longer.
 Ahem...\xfffeWe're in the midst of preparations.\xf000븁\x0000Please wait a while longer.\xf000븁\x0000
@@ -7,7 +7,7 @@ Cheren: The Professor's waiting in front\xfffeof the Pokémon Center, isn't she?
 Something looks to be\xfffegoing on in the plaza!\xf000븁\x0000
 Hm, should we check it out?\xf000븁\x0000
 Cheren: \xf000Ā\x0001\x0000!\xfffeCome see this!\xf000븁\x0000
-I am Geechisu...\xf000븁\x0000Getis of Team Plasma.\xf000븁\x0000What I have to tell you all today\xfffeconcerns the liberatation of Pokémon.
+I am Geechisu...\xf000븁\x0000Geechisu of Team Plasma.\xf000븁\x0000What I have to tell you all today\xfffeconcerns the liberation of Pokémon.
 Huh?
 What?
 Geechisu: We humans have lived\xfffetogether with Pokémon.\xf000븁\x0000We require things from each other,\xfffeand consider some partners...\xf000븁\x0000All would seem to think\xfffethis is the case, in fact.\xf000븁\x0000Yet, is it really true?\xf000븁\x0000We humans all entertain\xfffeonly that same thought...\xf000븁\x0000Has there never been the consideration\xfffethat it might not be?\xf000븁\x0000

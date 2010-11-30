@@ -1,5 +1,5 @@
-Adeku: ...Oh, \xf000Ā\x0001\x0000? Over here.\xf000븁\x0000
-That lying Geechisu...\xf000븁\x0000\xfffeHe's desparately trying to fool\xfffeeveryone with his phony speeches.\xf000븁\x0000
+﻿Adeku: ...Oh, \xf000Ā\x0001\x0000? Over here.\xf000븁\x0000
+That lying Geechisu...\xf000븁\x0000\xfffeHe's desperately trying to fool\xfffeeveryone with his phony speeches.\xf000븁\x0000
 Geechisu: It is so!\xf000븁\x0000\xfffeThrough Lord N, we have joined\xfffeforces with the legendary Pokémon!\xf000븁\x0000\xfffeA brand new land shall be created!\xf000븁\x0000\xfffeThis shall be a reliving of\xfffethe legendary hero's construction\xf000븀\x0000\xfffeof our Isshu!
 Hero?
 Dragon?!
@@ -75,6 +75,6 @@ Souryuu City\xfffeWhere past and future entwine!
 Shaga's House
 Battle Mansion\xfffeTriple Battling galore!
 Battle Mansion\xfffeRotation Battling galore!
-Trainer Tips\xf000븁\x0000\xfffeMayor Shaga will teach trainers\xfffehe has recognized as strong\xf000븀\x0000the most powerful dragon-type move!\xf000븁\x0000\xfffeGo to Mayor Shaga's house\xfffefor further details!
+Trainer Tips\xf000븁\x0000\xfffe\xfffeMayor Shaga will teach trainers\xfffehe has recognized as strong\xf000븁\x0000\xfffethe most powerful\xfffedragon-type move!\xf000븁\x0000\xfffeGo to Mayor Shaga's house\xfffefor further details!
 Souryuu Pokémon Gym\xfffeLeader: Iris\xf000븀\x0000\xfffeDaughter of the Dragonheart
 Souryuu Pokémon Gym\xfffeLeader: Shaga\xf000븀\x0000\xfffeThe Spartan Mayor

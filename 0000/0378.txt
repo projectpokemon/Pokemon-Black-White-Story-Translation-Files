@@ -1,21 +1,21 @@
-モンスターボールに はいっている\xfffe\xf000Ă\x0001\x0000が\xf000븀\x0000\xfffeでたがっている ようだ…!\xf000븁\x0000\xfffeそとに だして あげますか?
+﻿\xf000Ă\x0001\x0000 seems to be\xfffetrying to leave its Pokéball....!\xf000븁\x0000\xfffeLet it out?
 The Pokéball seems\xfffeto have stopped moving...
 \xf000Ă\x0001\x0000 came out!!\xf000븁\x0000
-おおう…!\xfffeその ポケモンは まさか…!\xf000븁\x0000\xfffeまっかな たてがみに\xfffeみずみずしい しっぽ\xf000븀\x0000\xfffeそして りっぱな １ほんのツノ…!\xf000븁\x0000\xfffeふるい いいつたえの とおりじゃ!\xf000븁\x0000
-ひとが はじめた いくさが もとで\xfffeこの もりが やけてしまったとき\xf000븁\x0000\xfffe１ひきの おさない ポケモンが\xfffeおやと はぐれてしまった…\xf000븁\x0000\xfffeおやが いなければ その ポケモンは\xfffeいきていけないと おもったのじゃろう\xf000븁\x0000\xfffeコバルオン テラキオン ビリジオンは\xfffeその おさない ポケモンの\xf000븀\x0000\xfffeおやがわりと なったのじゃ\xf000븁\x0000
-３ひきは このこの おやがわりとなり\xfffeいきるために ひつような\xf000븀\x0000\xfffeちしきや わざを つたえたという…\xf000븁\x0000
-やがて おさなかった ポケモンは\xfffeすくすくと せいちょうし\xf000븀\x0000\xfffe３ひきをも しのぐほどの ちからを\xf000븀\x0000\xfffeみにつける ほどに なったのじゃ\xf000븁\x0000\xfffeところが…\xfffeあるとき その わかい ポケモンは\xf000븀\x0000\xfffeもりから すがたを けしたのじゃ\xf000븁\x0000\xfffeりゆうは だれにも わからなかった\xfffeわしが おもうに…\xf000븀\x0000\xfffeわかものは いつでも むてっぽうで\xf000븀\x0000\xfffeぼうけんに あこがれるものじゃ…\xf000븁\x0000
-しばらくぶりの さいかいを\xfffeよろこんでいるように みえるが…\xf000븁\x0000\xfffe３ひきが ケルディオに\xfffeなにかを つたえようと\xf000븀\x0000\xfffeしておるのかのう…?\xf000븁\x0000
-コバルオン テラキオン ビリジオンは\xfffe\xf000Ă\x0001\x0000に\xf000븀\x0000\xfffeあたらしい わざ しんぴのつるぎを\xf000븀\x0000\xfffeおしえようとしている!\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000に しんぴのつるぎを\xfffeおぼえさせますか?
-すでに わざを ４つ おぼえている!\xfffeわざを わすれさせますか?\xf000븁\x0000
-わすれさせる
-あきらめる
-３ひきは やりのこしていた ことを\xfffeやりとげる ことが できたようじゃ\xf000븁\x0000\xfffeおぬしが いなければ\xfffeかれらは この おもいでの もりで\xf000븀\x0000\xfffeさいかい できなかったじゃろう\xf000븁\x0000\xfffeおぬしの ような トレーナーと\xfffeであえた ことを\xf000븀\x0000\xfffeきっと よろこんでいる はずじゃ\xf000븁\x0000
-じぶんの おやがわりだった\xfffe３ひきを さがしているようじゃ\xf000븁\x0000\xfffeコバルオン テラキオン ビリジオン\xfffeかれらを つれて ここに くると\xf000븀\x0000\xfffeなにかが おこるかも しれんのう…\xf000븁\x0000
-ケルディオを どのように\xfffeそだてるかは おぬし しだいじゃ\xf000븁\x0000\xfffeいっときの かんじょうに ながされず\xfffeじっくり かんがえる ことも\xf000븀\x0000\xfffeときには ひつようじゃな…\xf000븁\x0000
-ここは イッシュちほうに つたわる\xfffeでんせつの ３ひきの ポケモン\xf000븀\x0000\xfffeコバルオン テラキオン ビリジオンと\xf000븁\x0000\xfffeこの ケルディオに とって\xfffeふかい かかわりのある もり…\xf000븁\x0000\xfffeおぬしも かれらの ものがたりを\xfffeしっておいた ほうが よさそうじゃな\xf000븁\x0000\xfffeちっと じじいの はなしに\xfffeつきあってもらおうかのう\xf000븁\x0000
-ケルディオに わざを おしえるときは\xfffeコバルオン テラキオン ビリジオンの\xf000븀\x0000\xfffe３ひきも つれてくるのじゃ\xf000븁\x0000
-ゆたかな もりと すんだ みず…\xfffeポケモンたちに とっては\xf000븀\x0000\xfffeらくえんの ような もりじゃな\xf000븁\x0000\xfffeひとに とっても だいじな もりじゃ\xfffeたいせつに したいものじゃのう
-ケルディオの わざを\xfffeもういちど おぼえさせるのかの?
-やりのこした ことが あると\xfffeきになる ものじゃからな\xf000븁\x0000
+Ohhh...!\xfffeCould that Pokémon be...?!\xf000븁\x0000\xfffeThe deep red mane...\xfffeThe spirited young tail...\xf000븀\x0000\xfffeAnd that fine horn...!\xf000븁\x0000\xfffeJust as legend spoke of it!\xf000븁\x0000
+When a human war\xfffeburned down this forest...\xf000븁\x0000\xfffeOne young Pokémon was\xfffeseparated from its parents...\xf000븁\x0000\xfffeWithout its parents, the Pokémon\xfffethought it couldn't live...\xf000븁\x0000\xfffeBut Cobalon, Terrakion, and Virizion\xfffebecame as its foster parents.\xf000븁\x0000
+And in serving as parents, the trio\xfffetaught it the knowledge and skills\xf000븀\x0000\xfffeit would need to survive...\xf000븁\x0000
+The young Pokémon matured quickly,\xfffeand acquired power that rivaled\xf000븀\x0000\xfffethe trio that had raised it.\xf000븁\x0000\xfffeHowever...\xfffeEventually, the young Pokémon\xf000븀\x0000\xfffevanished from the forest.\xf000븁\x0000\xfffeNo one knew why, but myself...\xfffeI think it is only natural of youth\xf000븀\x0000\xfffeto yearn for reckless adventure...\xf000븁\x0000
+I see their joy at being able\xfffeto meet again after so long...\xf000븁\x0000\xfffePerhaps the trio have something\xfffethey wish to teach Keldeo...?\xf000븁\x0000
+Cobalon, Terrakion, and Virizion\xfffewant to teach \xf000Ă\x0001\x0000\xf000븀\x0000\xfffethe move Mystery Blade!\xf000븁\x0000\xfffeTeach Mystery Blade\xfffeto \xf000Ă\x0001\x0000?
+It already knows four moves!\xfffeShould a move be deleted?\xf000븁\x0000
+Delete
+Give up
+The trio seems to have accomplished\xfffewhat they left unfinished.\xf000븁\x0000\xfffeWithout your help, they\xfffewould have never met again\xf000븀\x0000\xfffein this forest of memories...\xf000븁\x0000\xfffeI should be very glad to have\xfffemet a trainer like you!\xf000븁\x0000
+It seems to be looking for the\xfffetrio that served as its parents...\xf000븁\x0000\xfffeCobalon, Terrakion, and Virizion...\xfffeif you bring them all here,\xf000븀\x0000\xfffeperhaps something may happen...\xf000븁\x0000
+Keldeo's upbringing is\xfffenow in your hands.\xf000븁\x0000\xfffeDon't let feelings cloud your way,\xfffeand know that at times,\xf000븀\x0000\xfffeyou must make deep consideration...\xf000븁\x0000
+This forest plays an important part\xfffein a legend passed down in Isshu...\xf000븁\x0000\xfffeCobalon, Terrakion,\xfffeVirizion, and Keldeo...\xf000븀\x0000they are deeply connected to it...\xf000븁\x0000\xfffeYou should know\xfffetheir legend as well.\xf000븁\x0000\xfffeWould you listen to this\xfffeold man's story for a bit?\xf000븁\x0000
+When you wish to teach Keldeo,\xfffebring Cobalon, Terrakion, and Virizion.\xf000븁\x0000
+A rich forest and clear water...\xfffeTo Pokémon, this forest\xf000븀\x0000\xfffeis like a paradise.\xf000븁\x0000\xfffeIt's very important for people, too.\xfffeWe should seek to preserve it...
+Will you teach Keldeo\xfffethe move once more?
+When you leave things behind,\xfffeyou come to care about them...\xf000븁\x0000
 \xf000Ă\x0001\x0000 solemnly\xfffereturned to the Pokéball...

@@ -1,4 +1,4 @@
-Please choose between Goods and Battle Boxes.
+﻿Please choose between Goods and Battle Boxes.
 Goods
 Battle Boxes
 Quit

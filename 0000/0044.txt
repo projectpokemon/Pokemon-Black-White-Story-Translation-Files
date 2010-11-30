@@ -1,10 +1,10 @@
-Scenery delights, battles excite!\xfffeWelcome to the Royal Isshu!\xf000븁\x0000\xfffeIt'll be $1000\xfffeto board.\xf000븀\x0000\xfffeWill you be boarding?
+﻿Scenery delights, battles excite!\xfffeWelcome to the Royal Isshu!\xf000븁\x0000\xfffeIt'll be $1000\xfffeto board.\xf000븀\x0000\xfffeWill you be boarding?
 The Royal Isshu is a cruise ship\xfffethat departs once every evening.\xf000븁\x0000
 The Royal Isshu only\xfffecruises during the evening.\xf000븀\x0000\xfffeWe await your coming another time.
 Oh? You don't have enough money!\xfffeWe await your coming another time.
 It'll be $1000\xfffeto board.\xf000븀\x0000\xfffeWill you be boarding?
-This ship passes Isshu's great bridges:\xfffeunder Sky Arrow Bridge,\xf000븁\x0000\xfffearound Wonder Bridge,\xfffeand back to Hiun City.\xf000븁\x0000\xfffeEmbarking time will be indicated\xfffeby five blows of the whistle.\xf000븁\x0000
-You can enjoy the passing scenery from\xfffethe Royal Isshu's famous deck.\xf000븁\x0000Trainers who like to battle\xfffegather in the guest rooms.\xf000븁\x0000We ask you to enjoy both\xfffethe scenery and the battling.\xf000븁\x0000Note that, to avoid interference\xfffewith the radio on the ship,\xf000븁\x0000the C-Gear cannot be used on board.\xf000븀\x0000Thank you for your understanding.\xf000븁\x0000
+This ship passes under Isshu's\xfffegreat Sky Arrow Bridge,\xf000븀\x0000goes around Wonder Bridge,\xf000븀\x0000and then back to Hiun City.\xf000븁\x0000\xfffeTime since embarking is indicated\xfffeby five blows of the whistle.\xf000븁\x0000
+You can enjoy the passing scenery from\xfffethe Royal Isshu's famous deck.\xf000븁\x0000Also, trainers who like to battle\xfffegather in the guest rooms.\xf000븁\x0000We ask you to enjoy both\xfffethe scenery and the battling.\xf000븁\x0000Note that, to avoid interference\xfffewith the radio on the ship,\xf000븀\x0000the C-Gear cannot be used on board.\xf000븀\x0000Thank you for your understanding.\xf000븁\x0000
 Is it okay to\xfffeturn off the C-Gear?
 We will be departing soon.\xfffeOff you go!\xf000븁\x0000
 Very well, then.\xfffeWe await your coming another time.

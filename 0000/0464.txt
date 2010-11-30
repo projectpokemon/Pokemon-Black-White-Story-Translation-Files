@@ -1,4 +1,4 @@
-It's a vending machine!\xfffeDo you want to buy something?
+﻿It's a vending machine!\xfffeDo you want to buy something?
 \xf000ĉ\x0001\x0000 dropped out!\xf000븁\x0000
 Lucky! An extra\xfffe\xf000ĉ\x0001\x0000 dropped out!\xf000븁\x0000
 You don't have enough money!

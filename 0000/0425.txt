@@ -1,12 +1,12 @@
-アイリス『ねえねえ!\xf000븁\x0000ドラゴンタイプ さいきょうの わざ\xfffeあたしが おしえてあげる!!\xf000븁\x0000どうする? ポケモンに\xfffeわざを おぼえさせてあげる?
-はーい! それじゃあ\xfffeきがむいたら またきてね!!
-どれどれ……\xf000븁\x0000その ポケモンは\xfffeわざを おぼえることは できるけど\xf000븀\x0000まだまだ なついてないよ\xf000븁\x0000それだと この わざを\xfffeおぼえさせるのは むずかしいな
-えーっと\xfffeえーっと\xf000븁\x0000わざを おぼえられる\xfffeポケモンは いないみたい……
-どの ポケモンに\xfffeわざを おぼえさせるの?\xf000븁\x0000
-うーん ごめんね……\xf000븁\x0000その ポケモンでは\xfffeこの わざ おぼえられないよ……
-エーッ!\xf000븁\x0000タマゴに わざを おぼえさせるの?\xfffeじゃあ アイリス がんばってみるね\xf000븁\x0000…… …… ……\xfffe…… …… ……\xf000븁\x0000ごめん……\xfffeちょっと ムリみたい……
-どれどれ?\xf000븁\x0000その ポケモン すでに\xfffe\xf000ć\x0001\x0000を おぼえているよ?
-アイリス『りゅうせいぐんの いりょくは\xfffeものすごーく すごいんだけど!\xf000븁\x0000つかったあとは じぶんの\xfffeとくしゅこうげきも さがっちゃうんだ
+﻿Iris: Hey hey!\xf000븁\x0000Lemme teach you the\xfffeultimate dragon-type move!!\xf000븁\x0000Whaddya say? Want me\xfffeto teach a Pokémon?
+O-kaaay! Alright then, come back\xfffeif you change your mind!!
+Lessee here...\xf000븁\x0000You got Pokémon that COULD learn it,\xfffebut they're not so attached to you...\xf000븁\x0000That'll make it really hard\xfffeto teach 'em this move!
+Ummm,\xfffeuhhh...\xf000븁\x0000You don't have any\xfffePokémon I could teach, sorry...
+So which Pokémon\xfffeshould I teach the move?\xf000븁\x0000
+Umm, sorry, but...\xf000븁\x0000That Pokémon can't\xfffelearn the move...
+WHAAA?!\xf000븁\x0000Teach it to an EGG?\xfffe...OKAY! Iris will DO HER BEST!!\xf000븁\x0000HRNNN... ... ...\xfffe... ... ...gh!\xf000븁\x0000Sorry...\xfffeNot gonna work...
+Whazzat?\xf000븁\x0000Doesn't that Pokémon\xfffealready know \xf000ć\x0001\x0000?
+Iris: Draco Meteor is\xfffesuper-DUPER powerful! But!\xf000븁\x0000After you use it, your\xfffeSpecial Attack goes down!
 Give up on teaching a move\xfffeto \xf000Ă\x0001\x0000?
 \xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!
 \xf000Ă\x0001\x0000 wants to learn the\xfffemove \xf000ć\x0001\x0001.\xf000븁\x0000However, \xf000Ă\x0001\x0000 already\xfffeknows four moves.\xf000븁\x0000Should a move be deleted and\xfffereplaced with \xf000ć\x0001\x0001?
@@ -15,15 +15,15 @@ Give up on learning\xfffe\xf000ć\x0001\x0001?
 Delete the move\xfffe\xf000ć\x0001\x0000?
 1,\xf000븂\x0001\x0014 2,\xf000븂\x0001\x0014 and...\xf000븂\x0001\x0014...\xf000븂\x0001\x0014 ...Poof!\xf000븅\x0001\x0003\xf000븅\x0001\x0005\xf000븄\x0000\xf000븁\x0000\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000And...\xf000븁\x0000
 \xf000Ă\x0001\x0000 learned\xfffe\xf000ć\x0001\x0001!\xf000븁\x0000
-シャガ『きみが のぞむなら\xfffeきみの ポケモンに\xf000븀\x0000ドラゴンタイプ さいきょうの\xf000븀\x0000わざを おしえても よい\xf000븁\x0000さて ポケモンに\xfffeわざを おぼえさせるかね?
-よろしい\xfffeきが むいたなら また きたまえ
-フム……\xf000븁\x0000きみが つれている ポケモンは\xfffeわざを おぼえることは できる\xf000븁\x0000だが その ポケモンは まだ\xfffeきみに かんぜんに なついていない\xf000븁\x0000それでは この わざを\xfffeおぼえさせる わけには いかない
-なるほど……\xf000븁\x0000だが きみが つれている なかに\xfffeわざを おぼえられる\xf000븀\x0000ポケモンは いないようだね
-どの ポケモンに\xfffeわざを おぼえさせるのかね?\xf000븁\x0000
-もうしわけないのだが……\xf000븁\x0000その ポケモンでは\xfffeこの わざは おぼえられない
-フム……\xf000븁\x0000タマゴに わざを おぼえさせるのは\xfffeわたしにも むずかしいな
-ふむ…… その ポケモンは\xfffeすでに \xf000ć\x0001\x0000を おぼえているが
-シャガ『りゅうせいぐんの いりょくは\xfffeすさまじいが つかうと じぶんの\xf000븀\x0000とくしゅこうげきも さげてしまうぞ
+Shaga: Should you wish it,\xfffeI can teach your Pokémon\xf000븀\x0000the ultimate dragon-type move.\xf000븁\x0000So, shall I teach\xfffeone of your Pokémon?
+Very well. If you change\xfffeyour mind, then return.
+Hm...\xf000븁\x0000You do possess Pokémon\xfffecapable of learning the move.\xf000븁\x0000However, those Pokémon have\xfffeabsolutely no attachment to you...\xf000븁\x0000So I have no reason\xfffeto teach them this move.
+I see...\xf000븁\x0000But you possess no Pokémon\xfffethat can be taught this move.
+Which Pokémon\xfffeshall I teach?\xf000븁\x0000
+I apologize profusely, but...\xf000븁\x0000That Pokémon cannot\xfffelearn this move.
+Hm...\xf000븁\x0000Teaching a move to an egg\xfffeis a task beyond me.
+Hm... but that Pokémon\xfffealready knows \xf000ć\x0001\x0000...
+Shaga: Draco Meteor is\xfffetremendously powerful, but using it\xf000븀\x0000lowers your own Special Attack.
 You've come this far\xfffein pursuit of strength?\xf000븁\x0000...Very well.\xf000븁\x0000I respond to that zeal with...\xfffeThis! Teaching you a move!\xf000븁\x0000The ultimate moves!\xfffeWhich Pokémon shall I teach?
 The ultimate moves!\xfffeWhich Pokémon shall I teach?
 None of your Pokémon\xfffecan be taught any moves!\xf000븁\x0000Hear out the old lady there! HAH!!

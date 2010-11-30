@@ -1,4 +1,4 @@
-Grunt: Hey, gramps!\xfffeSo you're a caretaker, huh?!\xf000븁\x0000\xfffeTeam Plasma\xfffeknows your needs!\xf000븁\x0000
+﻿Grunt: Hey, gramps!\xfffeSo you're a caretaker, huh?!\xf000븁\x0000\xfffeTeam Plasma\xfffeknows your needs!\xf000븁\x0000
 Grunt: Yeah,\xfffewe take people's Pokémon!\xf000븁\x0000You could say we're taking Pokémon\xfffeinto our custody to raise them!\xf000븀\x0000So hand 'em over!\xf000븁\x0000
 Old Man: What nonsense!\xf000븁\x0000
 Oh! Trainer, you look strong!\xfffeHelp me!\xf000븁\x0000
@@ -20,7 +20,7 @@ Bel: Dad?!\xfffeWhy are you here?\xf000븁\x0000
 Bel's Dad: I came to take you\xfffeback home by any means necessary!\xf000븁\x0000I heard from your mother that\xfffeyou'd come this far...\xf000븀\x0000Isn't this enough for you?\xf000븁\x0000
 Bel: No way!!\xf000븁\x0000I'm still on a journey with \xf000Ā\x0001\x0000,\xfffeand with my Pokémon!\xf000븁\x0000
 Bel's Dad: It's pointless! Seeing new\xfffeplaces is one thing, but home is home!\xf000븁\x0000
-Bel: Well, if that's true...\xf000븁\x0000Then I'm me! And dad is dad!\xf000븁\x0000
+Bel: Yeah? Well maybe I'm just me!\xfffeAnd you're just dad!\xf000븁\x0000
 Young lady...\xfffeDo continue your journey.\xf000븁\x0000
 Bel's Dad: Excuse me! And who are\xfffeyou? This is a family matter!\xf000븁\x0000
 Call me Kamitsure.\xf000븁\x0000I'm a model,\xfffeand this town's gym leader.\xf000븁\x0000

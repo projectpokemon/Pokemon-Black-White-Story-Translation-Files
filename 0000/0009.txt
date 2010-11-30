@@ -1,4 +1,4 @@
-Test
+﻿Test
 Welcome to the Battle Subway!\xf000븁\x0000\xfffeThis will lead you to\xfffethe Single Train boarding area.\xf000븁\x0000
 Welcome to the Battle Subway!\xf000븁\x0000\xfffeThis will lead you to\xfffethe Double Train boarding area.\xf000븁\x0000
 Welcome to the Battle Subway!\xf000븁\x0000\xfffeThis will lead you to\xfffethe Multi Train boarding area.\xf000븁\x0000

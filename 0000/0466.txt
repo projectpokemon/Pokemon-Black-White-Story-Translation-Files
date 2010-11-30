@@ -1,12 +1,12 @@
-no data
-ここは しずかで\xfffeThis feels really nice...!
-and has been surrounded by\xfffeからだも こころも\xf000븀\x0000\xfffeしぜんになった かんじだね
-とかいでの くらしは\xfffeなんだか きゅうくつ そうだね……
-おいしい くうき!\xfffeきもちいい かぜ!\xf000븀\x0000\xfffeうーん じゅうじつ してるなぁ～
-かわりのない まいにち\xfffeそれが いちばんの しあわせね
-ポケモンも しぜんのなかで\xfffeくらしているのが すきなんだね
-みんな しんせつで\xfffeだれにでも やさしい!\xf000븁\x0000\xfffeみんなで きょうりょくして\xfffeすてきな もりに したいな
-しぜんの ちからは\xfffeとても いだいな ものですよ\xf000븁\x0000\xfffeいきものを よびよせ そして\xfffeたくさんの めぐみを くれる\xf000븁\x0000\xfffeにんげんには まねできない\xfffeちからを もっているんです
+﻿no data
+It's so peaceful here...\xfffeIt really makes you feel great!
+Surrounded by trees,\xfffeI feel my body and mind\xf000븀\x0000\xfffebecoming one with nature...
+Living in the city\xfffeseems so oppressive...
+Wonderful air!\xfffePleasant breeze!\xf000븀\x0000\xfffeOh, it's just so satisfying...
+Living each day the same way...\xfffeThat's the best kind of happiness!
+Pokémon like living\xfffewith nature, too!
+When everyone's gentle, you can\xfffetrust anyone to be nice!\xf000븁\x0000\xfffeEveryone should cooperate to\xfffemake this a fabulous forest!
+The power of nature\xfffeis great indeed!\xf000븁\x0000\xfffeIt calls living things together\xfffeand grants them many blessings...\xf000븁\x0000\xfffeIt's a power man\xfffecannot hope to imitate!
 シュウサク『あっ こんにちは!\xfffeしぜんの めぐみが きもちいいね!\xf000븁\x0000\xf000Ā\x0001\x0000がいた ブラックシティから\xfffeやってきた シュウサクです よろしく!\xf000븁\x0000
 シュウサク『あっ どうも こんにちは!\xf000븁\x0000はっぱと はっぱが すれあう おとで\xfffeきょうは めざめたよ\xf000븀\x0000ほんとうに きもちいいね ここは!\xf000븁\x0000
 さいきん……\xfffeむねが ざわつくんだよね\xf000븀\x0000とかいの かぜを かんじたいのかも
@@ -127,4 +127,4 @@ and has been surrounded by\xfffeからだも こころも\xf000븀\x0000\xfffe�
 グレース『だいしぜんが\xfffeうみだす うつくしさ\xf000븁\x0000その ゆうだいさは\xfffeひとの そうぞうを こえているわね\xf000븁\x0000
 いま わたしが みたいのは\xfffeひとの てによる げいじゅつ\xf000븀\x0000……ここじゃ みたされないわね
 さっき そこで みかけた\xfffeタツベイの うつくしさも\xf000븀\x0000しぜんなのが いいのよね……
-ここは ホワイトフォレスト\xfffeいいかえれば しろい もり
+White Forest\xfffeThe gleaming forest!

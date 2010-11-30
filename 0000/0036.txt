@@ -1,4 +1,4 @@
-Cheren: Hey, \xf000Ā\x0001\x0000!\xf000븁\x0000I just challenged the\xfffegym leader Arti.\xf000븁\x0000
+﻿Cheren: Hey, \xf000Ā\x0001\x0000!\xf000븁\x0000I just challenged the\xfffegym leader Arti.\xf000븁\x0000
 He's definitely quite the gym leader...\xf000븁\x0000I got the badge, but it was\xfffehonestly pretty tricky.\xf000븁\x0000Well, not like I was going to have\xfffeany problems with bug types, anyway.\xf000븁\x0000
 I'm going to keep beating\xfffeall the gym leaders in Isshu.\xf000븁\x0000Then I'll head for the Pokémon\xfffeLeague and beat the Champion!\xf000븁\x0000Once I do that, everyone'll recognize\xfffeme as a powerful trainer...\xf000븁\x0000I really feel that's\xfffewhat I'm living for...\xf000븁\x0000
 Arti: Oho?\xf000븁\x0000You... Yes, you fought Team Plasma\xfffein Yaguruma Forest...\xf000븁\x0000And I believe your name was...\xf000븁\x0000\xf000Ā\x0001\x0000!\xf000븁\x0000Perhaps you're here\xfffeto challenge my gym?\xf000븁\x0000
@@ -23,6 +23,6 @@ The Live Caster is ringing.
 What the gym leader is looking for is\xfffea bond between the challenger and\xf000븀\x0000their Pokémon... a definite relationship!
 Before you challenge the gym,\xfffeask yourself: do I have enough Potions?\xf000븀\x0000And make SURE you're sure that you do!
 As Pokémon trainers, no one\xfffehas a reason to become stronger.\xf000븁\x0000But loving your Pokémon\xfffeand playing together with them...\xf000븀\x0000That's something everyone can do.
-My bag has six Pokéballs in it!\xfffeMore than enough to catch anything!\xf000븁\x0000...Okay, actually, I'd like some\xfffeGreat Balls and Ultra Balls...\xf000븁\x0000But unless I get more gym badges,\xfffethe Friendly Shop won't sell me any.
+My bag has six Pokéballs! More than\xfffeenough to catch anything with moves!\xf000븁\x0000...Okay, actually, I'd like some\xfffeGreat Balls and Ultra Balls...\xf000븁\x0000But unless I get more gym badges,\xfffethe Friendly Shop won't sell me any.
 My Pokémon are just the kyootest!\xf000븁\x0000When I come home totally beat,\xfffethey're always there to refresh me!
 Hiun Pokémon Gym\xf000븁\x0000\xfffeLeader: Arti\xf000븀\x0000\xfffeThe Insect Artist

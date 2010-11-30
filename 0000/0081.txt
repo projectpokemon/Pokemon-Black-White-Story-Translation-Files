@@ -1,4 +1,4 @@
-\xf000Ā\x0001\x0000 received\xfffe\xf000ȁ\x0001\x0001 Battle Points!
+﻿\xf000Ā\x0001\x0000 received\xfffe\xf000ȁ\x0001\x0001 Battle Points!
 Saving results.\xfffePlease wait.
 The game must be saved\xfffebefore being led back.
 Congratulations!\xfffeYou beat seven trainers in a row!\xf000븁\x0000\xfffeAnd for beating seven,\xfffeyou'll be awarded Battle Points!\xf000븁\x0000

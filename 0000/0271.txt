@@ -1,4 +1,4 @@
-no data
+﻿no data
 no data
 no data
 no data
@@ -16,58 +16,58 @@ no data
 I've crossed aaaall\xfffethe bridges in Isshu!
 no data
 Tanbo: Pi! Piii!\xfffePipipi, piii...
-Tanbo: 心に　染み入るは\xfffe寂しい　音色\xf000븁\x0000フトコロに　しみるは\xfffe冷てぇ　夜風　ってね
-Tanbo: ピ……　ピ……\xfffeプィー　プィイイーー
-Tanbo: 口に　するのは\xfffeこの音色と\xf000븁\x0000うまく　いかねえ　毎日への\xfffeぐち　ばかり　ってね\xf000븁\x0000そんな　奴らの　ふきだまりが\xfffeこの　橋さ
-San: どうだい!　この音!\xfffe君の　魂（ハート）に\xf000븀\x0000響いて　来ないかい!
-San: 知ってるさ　おれの　サウンドは\xfffeこの　都会（まち）には　にあわねえ\xf000븁\x0000だけど　おれは……\xfffe自分の　人生（スタイル）を\xf000븀\x0000変えることは　できないのさ
-San: こいつは\xfffe大事な　友達（あいぼう）さ\xf000븁\x0000おれの　涙（かなしみ）を\xfffe全て　知ってるのさ
-San: 君……\xfffeいい　光（め）を　もってる\xf000븁\x0000おれたちの　希望（ゆめ）を\xfffe代わりに　かなえて　くれるかい\xf000븁\x0000つかめよ!　栄光（せかい）を!
-Gachi: ドッ　ツッ　ドッ　プス
-Gachi: ぺっ　ぺっ!\xf000븁\x0000今日は　調子　わりいだ\xfffeマイクが　壊れてんだべー\xf000븁\x0000おらの　テク\xfffeこんなもんじゃ　ねんだけどなー
-Gachi: だべっ　だべっ
-Gachi: こったら　楽しそうに\xfffeきーで　くれたのは\xf000븁\x0000ながーい　じんせいで\xfffeおまえさんが　はずめてだべー\xf000븀\x0000あんがとよ……
-Reizo: おじさん……\xfffe歌が　生きがい　なのよね\xf000븁\x0000おじさんの　たましい\xfffeきいて　くれる?
-Reizo: ハれ?　もう行くの?\xf000븁\x0000おじさんは　いつでも\xfffeここに　いるからね
-Reizo: やっぱり　おじさんの\xfffe歌が　ききたいのか!　そうか!
-Reizo: おじさんの　歌は……\xf000븁\x0000きらい　かい?
-いらっしゃいませ!\xf000븁\x0000勝負の　ご予約\xfffeありがとう　ございまーす!\xf000븁\x0000
-あなた　すっごいわね!\xfffeぜひ　うちで　雇いたいくらい……\xf000븁\x0000どう?　うちで　ウエートレスとして\xfffe働いてくれない?
-あなた　すっごいわね!\xfffeぜひ　うちで　雇いたいくらい……\xf000븁\x0000どう?　うちで　ウエーターとして\xfffe働いてくれない?
-あら　あなたね\xfffeやっぱり　働いてくれない?
-そうなの\xfffe残念だけど　仕方ないわね!
-本当!　うれしい!\xf000븁\x0000それじゃあ……　そうね\xfffe仕事の　内容は　わかる?
-この　お店は\xfffe特別な　サンドイッチ屋さん　なの\xf000븁\x0000あなたには　お客さんから\xfffe注文を　取って来てほしいわ\xf000븁\x0000私が　その通りに\xfffeサンドイッチを　作ってくるから\xf000븁\x0000
-そのサンドイッチを　注文をした\xfffeお客さんに　運んで欲しいの\xf000븁\x0000間違えて　運ばないようにね\xf000븁\x0000
-それじゃあ　よろしくね!\xfffe期待してるわよ!\xf000븁\x0000
-それじゃあ　よろしくね!\xfffe期待してるわよ!
-\xf000Ȁ\x0001\x0000コめの\xfffeサンドイッチの　トッピングは?
-さすがね!　ありがとう!\xfffeじゃあ　つくるから　待っていてね\xf000븁\x0000
-オーダー通りに　つくってあるわ　\xfffe間違わずに　運んでね
-注文を　取っていない　\xfffeお客さんが　いるじゃない\xf000븀\x0000全員から　聞いてね!
-さて……\xfffeあなたの　働きぶりは……\xf000븁\x0000いうことなしね!　お客さんも\xfffe満足しているみたい\xf000븁\x0000
-さて……\xfffeあなたの　働きぶりは……\xf000븁\x0000まだまだ　ってところね\xfffeでも　すぐに慣れると　思うわ\xf000븁\x0000
-これは　お礼よ\xfffeすごく　頑張っていたわね!\xf000븁\x0000
-今日は　もう　大丈夫かしら\xfffe明日　また来てくれると　うれしいな
-やめるの?　わかったわ\xfffe忙しくないから　大丈夫よ
-あらら　そっちは　公園の　外よ\xfffeウエートレスの　仕事を　やめるの?
-あらら　そっちは　公園の　外よ\xfffeウエーターの　仕事を　やめるの?
-うちの　ポケモンが　好きな\xfffe\xf000ĉ\x0001\x0000の　トッピングを　ください!\xf000븁\x0000
-ポケモンと　食事できるんだ\xfffe本当に　いい　お店だよ!
-もぐもぐ　おいしい!\xfffe僕の　ポケモンも　喜んでいるよ
-もぐもぐ\xf000븁\x0000……あれ?　\xfffeなんだか　味が　違うような……?
-今日は　がっつりと　食べたいから\xfffe\xf000ĉ\x0001\x0000大盛りに　しようかなっ!\xf000븁\x0000
-僕の　ポケモン　\xfffe僕に　似て　たくさん　食べるんだ
-がつがつ　デリシャス!\xfffeこの瞬間が　一番　好き!
-がつがつ　デリシャス!\xfffeでも　これを　頼んでないような?
-わたしの　ポケモンは　グルメよ\xfffe\xf000ĉ\x0001\x0000を　お願いできる?\xf000븁\x0000
-人も　食べられる　木の実の料理\xfffe料理人の　腕の　見せ所ね
+Tanbo: These lonely tones\xfffepierce into my heart...\xf000븁\x0000Like freezing night winds\xfffepierce through my clothes...
+Tanbo: Pi... pi...\xfffeFwee-fweeeee...
+Tanbo: The mouth gives\xfffebirth to these tones...\xf000븁\x0000And over time, the mouth\xfffecan't do it anymore...\xf000븁\x0000This bridge is for\xfffedrifters like that.
+San: How's that! This SOUND!\xfffeIt echoes in my HEART-SOUL!
+San: I know my sound\xfffedoesn't fit this village-town...\xf000븁\x0000But I...\xfffecan't change my style-life!
+San: This baby here's\xfffemy most precious friend-pal!\xf000븁\x0000She knows all\xfffemy tear-sorrows...
+San: You...\xfffeYou've got good light-eyes!\xf000븁\x0000Could you grant all\xfffeof our hope-dreams?\xf000븁\x0000Take hold!\xfffeGrab tight to the glory-world!
+Gachi: Doh! Doo! Do! Poosh!
+Gachi: Peh-peh!\xf000븁\x0000My mic broke today...\xf000븁\x0000This is the best technology\xfffewe've got around here...
+Gachi: Eat-eat!
+Gachi: You've put me\xfffein a great feeling...\xf000븁\x0000Hope you got a looong\xfffelife ahead of you...
+Reizo: This old man...\xfffeHis song is life.\xf000븁\x0000Do you hear this\xfffeold man's soul?
+Reizo: Ah? Going already?\xf000븁\x0000I'll be here whenever!
+Reizo: Ah, so you do want to hear\xfffethis old man's song! I see!
+Reizo: My old man singing...\xf000븁\x0000Do you dislike it?
+Welcome!\xf000븁\x0000Thanks for making an\xfffeappointment for battle!\xf000븁\x0000
+You're incredible!\xfffeI wish you could work here...\xf000븁\x0000Hey, why not? Wanna\xfffework here as a waitress?
+You're incredible!\xfffeI wish you could work here...\xf000븁\x0000Hey, why not? Wanna\xfffework here as a waiter?
+Oh, if it isn't you!\xfffeSo, DO you want to work?
+Really?\xfffeToo bad, but oh well!
+Really! I'm so glad!\xf000븁\x0000So then... yes.\xfffeDo you know the ropes?
+This place sells\xfffespecial sandwiches.\xf000븁\x0000Go and get requests\xfffefrom the customers.\xf000븁\x0000And I'll make the sandwiches\xfffehow they want them!\xf000븁\x0000
+Take the sandwiches to the\xfffecustomers that ordered them.\xf000븁\x0000And don't screw it up!\xf000븁\x0000
+Okay, my regards!\xfffeI look forward to it!\xf000븁\x0000
+Okay, my regards!\xfffeI look forward to it!
+What's the sandwich topping\xfffefor customer \xf000Ȁ\x0001\x0000?
+Well done! Thank you!\xfffeWell, I'll make them, so wait there!\xf000븁\x0000
+I made the orders! Now,\xfffetake them to the right customers!
+Aren't there still customers\xfffewho haven't given their order?\xf000븀\x0000Ask all of them!
+Now then...\xfffeYour work was...\xf000븁\x0000Indescribable!\xfffeThe customers look very pleased!\xf000븁\x0000
+Now then...\xfffeYour work was...\xf000븁\x0000Well, it could be better.\xfffeBut you'll get used to it soon.\xf000븁\x0000
+Here's my thank-you.\xfffeYou did a great job!\xf000븁\x0000
+I suppose I'll be good for today...\xfffeI'd be glad if you came tomorrow!
+You quit? Alright.\xfffeIt's not too busy, I'll be fine.
+Oh? That's the way out of the park!\xfffeAre you quitting your waitress job?
+Oh? That's the way out of the park!\xfffeAre you quitting your waiter job?
+\xf000ĉ\x0001\x0000 topping, please!\xfffeIt's what my Pokémon craves!\xf000븁\x0000
+Pokémon and a meal!\xfffeTruly a great shop!
+Munch-munch! Delish!\xfffeMy Pokémon is overjoyed!
+Munch-munch...\xf000븁\x0000...Huh? Is it just me,\xfffeor is the flavor off...?
+I want something filling today!\xfffeGimme a heaping serving of \xf000ĉ\x0001\x0000!\xf000븁\x0000
+My Pokémon is a big eater,\xfffejust like me!
+Mmm! MMM! Exiquisite!\xfffeI live for these moments!
+Mmm! MMM! Exiquisite!\xfffeBut was this what I asked for?
+My Pokémon is a gourmet!\xfffeCan I ask you for \xf000ĉ\x0001\x0000?\xf000븁\x0000
+Cooks get a chance to shine when\xfffecooking edible berries into a meal!
 Nomph!\xf000븁\x0000...This flavor!\xfffeI can't believe it...!
 Nomph!\xf000븁\x0000...? It's tasty,\xfffebut it's not my order...
 Me and my Pokémon are in a\xfffe\xf000ĉ\x0001\x0000 mood! If you please!\xf000븁\x0000
 Eating with my Pokémon\xfffemakes me so happy...
 Mmm, mmm...\xfffeI'm so happy!
-Mmm, mmm... mmn...\xfffeThe flavor seems somehow off...
+Mmm, mmm... umm...\xfffeThe flavor seems somehow off...
 Mew-mewn!
 Bofoo-bofoo!
 Pika!

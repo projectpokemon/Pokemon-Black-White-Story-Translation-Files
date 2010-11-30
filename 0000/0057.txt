@@ -1,72 +1,72 @@
-テストメッセージ
-カギが かかっていて あかない
-ほんじつの ロイヤルイッシュごうには\xfffe\xf000Ȁ\x0001\x0003にん トレーナーが います\xf000븀\x0000\xfffeあなたは \xf000Ȁ\x0001\x0004にんに かちました\xf000븁\x0000\xfffeふねは しゅっこうちゅう です\xfffeふねから おりますか?
-ほんじつの ロイヤルイッシュごうには\xfffe\xf000Ȁ\x0001\x0003にん トレーナーが います\xf000븁\x0000\xfffeふねは しゅっこうちゅう です\xfffeふねから おりますか?
-でっかい ふねに たくさんの へや!\xfffeトレーナーさがしに こまっている\xf000븁\x0000\xfffeそんな キミに ヒントを あげたい!\xfffeおじさんの ヒントを きくかい?
-きてきが なるまで\xfffeはなしに むちゅうに なってしまう\xf000븁\x0000\xfffeそんな おきゃくさんも\xfffeせんしつに いるよ!
-このさきは ロイヤルイッシュごう\xfffeじまんの てんぼうフロアに なります
-きょうは あおいろの ドアの へやに\xfffeトレーナーは\xf000븀\x0000\xfffeひとりしか いない みたいだよ
-きょうは あおいろの ドアの へやに\xfffeトレーナーが\xf000븀\x0000\xfffe\xf000Ȁ\x0001\x0002にん いる みたいだよ
-うみの うえを はしっている!\xfffeそんな ふしぎな ことが できてしまう
-てんぼうフロアに いくか\xfffeせんしつで トレーナーと たたかうか\xf000븀\x0000\xfffeどっちが いいか まよってるんだ
-なみの うごきに あわせて\xfffeはしってるんだけどさ\xf000븀\x0000\xfffeなかなか むずかしいね!
-ふねの うえで しょうぶを したり\xfffeかんぱんで けしきを みたり……\xf000븀\x0000\xfffeさいこう だね このふねは!
-どの へやに はいるか\xfffeまよっているんだ!
-ジョウトから しごとで きたけど\xfffeここは なにもかも ダイナミックだな
-きみは イッシュしゅっしん かい?\xf000븁\x0000オレは ジョウトから しごとで\xfffeここに きたんだけど……\xf000븁\x0000やっぱり かいがいって ちがうね!\xfffeなにが ちがうかってさ!\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000…… …… …… なんだけどさ\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000それがね …… …… …… ……\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000…… …… …… なんだよなぁ!\xf000븁\x0000
-あぁ! きてきが なってる!\xfffeごめんよ ひきとめちゃって……\xf000븁\x0000\xfffeでも はなしが できて\xfffeおもしろかったよ ありがとう!
-しごとの あいまに ひとしょうぶ!\xfffeこれが また かくべつ なんだ\xf000븁\x0000
-しごとの あいまに\xfffeいい しょうぶが できたよ
-うみの むこうには\xfffeまだまだ ポケモンが いるんだ!\xf000븀\x0000ワクワクが とまらないね!
-ごうかな せんしつで ノビノビっと\xfffeあしを のばして きゅうけいちゅうさ
-つよい トレーナーが\xfffeあつまるって きいて\xf000븀\x0000はるばる シンオウから きたんだ!\xf000븀\x0000ポケモンしょうぶ たのしませてね!\xf000븁\x0000
-ふねに ゆられて ポケモンしょうぶ!\xf000븁\x0000そのうえ みたこともない\xfffeポケモンが みれて\xf000븀\x0000ぼくは シアワセー です!
-この ふねの トレーナーは\xfffeうみの むこうから きたひとが\xf000븀\x0000\xfffeおおい らしいわ\xf000븁\x0000かくいう わたしも\xfffeカントーから きたの!
-てんぼうフロアには いった?\xfffeすごい けしきが みれるのよ!
-ゆらゆら ゆられながらの\xfffeポケモンしょうぶ!\xf000븀\x0000\xfffeワクワク するわね!\xf000븁\x0000
-まけちゃったー……\xfffeけしきでも みにいこうかなー
-すげー! すげー!\xf000븁\x0000なにが すごいかって?\xfffeこの ふねだよ このふね!\xf000븁\x0000どこが すごいかって?\xfffeうーん…… とにかく すごいんだ!
-ポケモンしょうぶ!\xf000븁\x0000と おもったけど\xfffeてもちの ポケモンが いないよー!!
-おっし トレーナー!\xf000븁\x0000ただの たんパン じゃないところを\xfffeおいらが かれいに みせてやるよ!\xf000븁\x0000
-アッチャー! まけちゃったー!\xfffeきみには だつパン だ!
-あたしね あたしね!\xfffeポケモンと いっしょに のれる\xf000븀\x0000\xfffeこのふねが だいすき!
-ねえねえ!\xfffeわたしの はなしを きいてくれる?\xf000븁\x0000このまえ ライモンシティに\xfffeいったのね わたし!\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000…… …… …… そうなんだ\xf000븀\x0000それで …… …… ……\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000…… …… …… なんだって!\xf000븁\x0000
-あ! きてき!\xf000븁\x0000\xfffeごめんね わたしの はなしに\xfffeつきあわせちゃって……\xf000븀\x0000\xfffeでも たのしかった ありがと!
-わたし とおくの ちほう から\xfffeやってきた トレーナーなの!\xf000븀\x0000\xfffeめずらしい ポケモン みせてあげる!\xf000븁\x0000
-めずらしかった?\xfffeわたしの ポケモン!\xf000븁\x0000なかでも ミノマダムは\xfffeわたしの おきにいりなの!
-この ゴージャスな ふねには\xfffeぼくみたいな おかねもちが\xf000븀\x0000\xfffeグレートに おにあいだろ?
-きてきは ぜんぶで ５かい!\xfffeきいてない フリ してても\xf000븀\x0000\xfffe５かい なったら おわりかー……
-きひんの ある このふねで\xfffeじょうひんな たたかいを\xf000븀\x0000\xfffeみせて あげるよ!\xf000븁\x0000
-まけても きひんを わすれない\xfffeそれが このぼく\xf000븀\x0000\xfffeおぼっちゃま なのさ
-あら ルームサービス?\xf000븁\x0000じまんの ロイヤルイッシュティー\xfffeたいへん びみ でしたわ!
-そとの うつくしい けしきも\xfffeもうしぶんは ないのですが\xf000븁\x0000きゃくしつの ロイヤルな ふんいきも\xfffeわたくし おきにいり ですの
-ワルツを おどる ステップで\xfffeポケモンしょうぶを ロイヤルに\xf000븀\x0000えんしゅつ しますわ!\xf000븁\x0000
-ロイヤルな ポケモンしょうぶに\xfffeわたくし よって しまいましたわ……
-きみから みると わたしは\xfffeうみのむこうの トレーナー\xf000븁\x0000\xfffeわたしから みると きみは\xfffeうみのむこうの トレーナー
-おー かわいい おきゃくさんだ\xfffeちょっと おちゃでも のんでいくか?\xf000븀\x0000\xfffeささっ そこに すわって!\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000…… …… …… なのだが\xf000븀\x0000それが …… …… ……\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000…… …… …… なのだよ!\xf000븁\x0000
-すまん すまん\xfffeついつい はなしこんで しまった\xf000븀\x0000\xfffeたのしかったよ ありがとう!
-ホッホッホ ポケモンしょうぶ かね?\xf000븁\x0000せんしつで くつろぐのも あきた\xfffeどれ レッツ チークダンス!\xf000븁\x0000
-にて さんて うえをいく\xfffeやはり わかさには かてませんな!
-ポケモントレーナーを さがしてるの?\xfffeわたしは しらないわねぇ ごめんね\xf000븀\x0000せんいんさん なら しってそうよ?
-あらあら まぁまぁ!\xfffeかわいい おきゃくさん ですこと\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000…… …… …… ですわ!\xf000븀\x0000それで …… …… ……\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000…… …… …… というわけなの\xf000븁\x0000
-あらやだ! きてきのおと!\xfffeごめんなさいね\xf000븀\x0000\xfffeついつい はなしこんじゃった!
-あらあら かわいい おきゃくさんね\xfffeポケモンしょうぶ しちゃおうかしら\xf000븁\x0000
-かわいいだけ じゃなく\xfffeポケモンしょうぶも つよいのね!
-おなかの そこから ひびくおと!\xfffeきてきの おとって ちからづよいな!
-きみ! おじさんに はなしかけたのかい\xfffeちょうど よかった!\xf000븁\x0000すごく おもしろい はなしが あってね\xfffeぜひ だれかに きいてもらいたかった\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000…… …… …… なのだ\xf000븀\x0000それでね …… …… ……\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000…… …… …… …… ……\xf000븀\x0000…… …… …… というわけさ\xf000븁\x0000
-……こんなに しゃべってしまったか\xfffeごめんごめん でも\xf000븀\x0000\xfffeすごく たのしかった ありがとう!
-わたしより つよいひとを さがし\xf000븁\x0000やまを こえて たにを こえて\xfffeうみを こえて ここに きました\xf000븁\x0000かずかずの こんなんを のりこえた\xfffeわたしの スペシャルな ポケモンと\xf000븀\x0000いざ じんじょうに しょうぶです!\xf000븁\x0000
-せかいを わたりあるいた\xfffeわたしより つよいなんて!?\xf000븁\x0000\xfffeせかいは とんでもなく ひろいって\xfffeわたし きづきました!
-トレーナー です２
-しょうぶが おわりました２
-きょうはねー……\xf000븁\x0000\xfffeふねの ひだりがわには \xf000Ȁ\x0001\x0000にん\xfffeふねの みぎがわには \xf000Ȁ\x0001\x0001にん いるよ
-きょうはねー……\xf000븁\x0000\xfffeふねの ひだりがわには…… いないね\xfffeふねの みぎがわには \xf000Ȁ\x0001\x0001にん いるよ
-きょうはねー……\xf000븁\x0000\xfffeふねの ひだりがわには \xf000Ȁ\x0001\x0000にん いて\xfffeふねの みぎがわには…… いないね
-また きが むいたら はなしかけてよ\xfffeおじさんが いつでも ヒント だすよ
-トレーナーさがしの ヒント\xfffeききたい かい?
-かしこまりました\xfffeそのまま おまち くださいませ\xf000븁\x0000
-かしこまりました\xfffeひきつづき おたのしみ くださいませ
-ふねの なかの トレーナー\xfffeすべてに しょうりした!
-ロイヤルイッシュごうの\xfffeごじょうせん ありがとうございます\xf000븁\x0000\xfffeほんじつの ロイヤルイッシュごうには\xfffe\xf000Ȁ\x0001\x0003にん トレーナーが います\xf000븀\x0000\xfffeごゆっくり おたのしみ くださいませ\xf000븁\x0000
-ほんじつの ロイヤルイッシュごうには\xfffe\xf000Ȁ\x0001\x0003にん トレーナーが います\xf000븀\x0000\xfffeあなたは…… おめでとうございます!\xf000븁\x0000\xfffeすべての トレーナーに\xfffeしょうり なされたのですね!\xf000븁\x0000\xfffeふねは しゅっこうちゅう ですが\xfffeふねから おおりに なられますか?
-ごじょうせん ありがとうございました\xf000븁\x0000この ゆうらんせんは まもなく\xfffeヒウンシティに とうちゃくいたします\xf000븁\x0000
+﻿Test Message
+It's locked and won't open.
+Today, there are \xf000Ȁ\x0001\x0003 trainers\xfffeaboard the Royal Isshu.\xf000븀\x0000\xfffeYou have beaten \xf000Ȁ\x0001\x0004.\xf000븁\x0000\xfffeThe ship has set sail.\xfffeWill you disembark?
+Today, there are \xf000Ȁ\x0001\x0003 trainers\xfffeaboard the Royal Isshu.\xf000븁\x0000\xfffeThe ship has set sail.\xfffeWill you disembark?
+"So many rooms! Such a huge ship!\xfffeI'm worried about finding trainers!"\xf000븁\x0000\xfffeIs this you? I'll give you a tip!\xfffeWant to hear some sagacity?
+Some people get engrossed in\xfffeconversation until the whistle blows!\xf000븁\x0000\xfffeYou'll find guests like that\xfffein the cabins, too!
+Ahead is the Royal Isshu's\xfffefamous observation deck.
+Today, the blue-doored rooms do\xfffenot seem to have any trainers at all.
+Today, the blue-doored rooms\xfffewould seem to have\xf000븀\x0000\xfffe\xf000Ȁ\x0001\x0002 trainer(s) within.
+We're flying across the sea!\xfffeWhat a wonder of the world!
+Go to the observation deck?\xfffeOr fight trainers in the cabins?\xf000븀\x0000\xfffeI have no friggin' clue...!
+I'm trying to run and match the\xfffemovement of the waves...\xf000븀\x0000\xfffeBut it's really, really hard!
+Fight on the ship, or gaze upon\xfffescenery from the deck...\xf000븀\x0000\xfffeThis cruise is truly the best!
+Which room do I enter?!\xfffeI... I can't decide!
+I came from Johto for my job, but...\xfffethis place is bursting with excitement!
+Are you Isshu-born?\xf000븁\x0000I came from Johto\xfffefor my job, but...\xf000븁\x0000Things are so different overseas!\xfffeEverything's so... weird!\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...But, uh...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000I mean... ... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...Well, huh!\xf000븁\x0000
+Ahh! The whistle's blowing!\xfffeSorry, I'll stop talking...\xf000븁\x0000\xfffeBut thanks!\xfffeThat was a nice chat!
+Between work, I battle!\xfffeThis too is a pleasure!\xf000븁\x0000
+Between work, I managed\xfffea pretty good battle!!
+There are yet more Pokémon\xfffebeyond the sea!\xf000븀\x0000I can't contain myself!
+I'm on a leg-stretching break from\xfffelazing about in my luxurious cabin!
+I came all the way from Sinnoh\xfffeon word that strong trainers\xf000븀\x0000were to gather here!\xf000븀\x0000Let's enjoy a Pokémon battle!\xf000븁\x0000
+That Pokémon battle\xffferocked the boat!\xf000븁\x0000I've never seen Pokémon\xfffethat good before...\xf000븀\x0000Color me pleased!
+It seems many of the\xfffetrainers aboard this ship\xf000븀\x0000\xfffecame from across the sea.\xf000븁\x0000And yes, I too,\xfffefrom Kanto!
+Did you go to the observation deck?\xfffeThe view is incredible up there!
+As I teeter-totter,\xfffeI'll Pokémon battle!\xf000븀\x0000\xfffeI'm tittering with excitement!\xf000븁\x0000
+Welp, I lost...\xfffeShould I go watch the scenery?
+Whoa! Amazing!\xf000븁\x0000What's so astounding, you ask?\xfffeThis ship, man, this SHIP!\xf000븁\x0000What about it, you ask?\xfffeUm... well, er, it's INCREDIBLE!
+Bam! Pokémon battle!\xf000븁\x0000...Except I don't have\xfffeany Pokémon with me!!
+Oho, trainer!\xf000븁\x0000I am no mere shorts-fancier!\xfffeLet me show you my splendor!\xf000븁\x0000
+Ouch! I lost!\xfffeYou wear the pants!
+I'm, um, I'm, uh!\xfffeI'm on a boat! With my Pokémon!\xf000븀\x0000\xfffeOh, I just LOVE this ship!
+Hey there!\xfffeWanna talk with me?\xf000븁\x0000I just came\xfffefrom Raimon City!\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...Yeah, right?\xf000븀\x0000And... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...Say whaaat!\xf000븁\x0000
+Oh! The whistle!\xf000븁\x0000\xfffeSorry, I was really into my story...\xfffeBut that was fun, thanks!
+I'm a trainer who hails\xfffefrom a far-off land!\xf000븀\x0000\xfffeI'll show you my rarest Pokémon!\xf000븁\x0000
+Weren't my Pokémon\xfffejust SO rare?!\xf000븁\x0000Personally, Wormadam\xfffeis my favorite!
+Doesn't this gorgeous ship perfectly\xfffesuit a millionaire such as myself?
+The whistle blows five times!\xfffeEven if you pretend you don't hear,\xf000븀\x0000\xfffethe fifth whistle means the end...
+Let me show you an elegant battle\xfffeaboard this ship of refinement!\xf000븁\x0000
+Even when I lose, I do not\xfffeforget my elegance.\xf000븀\x0000\xfffeThat makes me a Rich Boy!
+Oh, room service?\xf000븁\x0000The Royal Isshu Tea\xfffereally hit the spot!
+I have no objection to the\xfffebeautiful scenery outside, but...\xf000븁\x0000I am quite partial to the royal\xfffeatmosphere of the guest rooms!
+Dance a waltz, and make Pokémon\xfffebattles into a royal performance!\xf000븁\x0000
+The royal Pokémon battle\xfffehas concluded by my hand...
+To you, I'm a trainer from\xfffesomewhere way overseas.\xf000븁\x0000\xfffeTo me, you're a trainer from\xfffesomewhere way overseas!
+Oh, what a delightful guest!\xfffeShall we have some tea?\xf000븀\x0000\xfffeYes, sit right there!\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...And yet...\xf000븀\x0000It meant... ... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...Naturally!\xf000븁\x0000
+Profoundly sorry.\xfffeI found myself deep in talk.\xf000븀\x0000\xfffeIt was a pleasure. Thank you!
+Hoh-hoh-hoh! Pokémon battle?\xf000븁\x0000I'm tired of relaxing in the rooms!\xfffeLet's cheek dance!\xf000븁\x0000
+Two hands, three hands go up...\xfffeNope, there's no beating youth!
+Looking for Pokémon trainers?\xfffeSorry, I wouldn't know.\xf000븀\x0000Maybe ask some sailors?
+Oh-hoh, my-my!\xfffeWhat an adorable guest.\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...my, yes!\xf000븀\x0000Thereupon... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...as such.\xf000븁\x0000
+Oh dear! The whistle sounds!\xfffeI am sorry.\xf000븀\x0000\xfffeI was much too into the conversation!
+Oh, such a cute trainer...\xfffeMight we Pokémon battle?\xf000븁\x0000
+I'm not just a pretty face!\xfffeI'm powerful in Pokémon battles too!
+Echoing in the depths of my stomach!\xfffeThe whistle's sound emboldens me!
+Hey! Good on you for coming\xfffeto talk to this old man!\xf000븁\x0000I've got some juicy stuff to say.\xfffeSomebody's gotta hear this!\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...'course!\xf000븀\x0000And that meant... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ... ... ...\xf000븀\x0000... ... ...duh!\xf000븁\x0000
+...Did I really talk that long?\xfffeSorry, so sorry...\xf000븀\x0000\xfffeBut that was really great, thanks!
+I'm just looking for someone\xfffewho's stronger than me!\xf000븁\x0000I've crossed mountains, rivers,\xfffeand seas to come here!\xf000븁\x0000My special Pokémon have\xfffeovercome countless difficulties...\xf000븀\x0000So let's just have a plain battle!\xf000븁\x0000
+So you're stronger than me?\xfffeMe who's crossed the world?!\xf000븁\x0000\xfffeYou know, I've come to realize\xfffethis world is outrageously huge!
+I'm a trainer! (2)
+Battle's over! (2)
+Todaaay...\xf000븁\x0000\xfffeThere's \xf000Ȁ\x0001\x0000 on the ship's left,\xfffeand \xf000Ȁ\x0001\x0001 on the ship's right!
+Todaaay...\xf000븁\x0000\xfffeThere's... none on the ship's left,\xfffeand \xf000Ȁ\x0001\x0001 on the ship's right!
+Todaaay...\xf000븁\x0000\xfffeThere's \xf000Ȁ\x0001\x0000 on the ship's left,\xfffeand... none on the ship's right!
+Change your mind, I'll be here\xfffeto give you a sage tip anytime!
+Want to hear a tip\xfffeabout finding trainers?
+Certainly.\xfffePlease wait a moment.\xf000븁\x0000
+Certainly.\xfffePlease continue to enjoy yourself.
+You've defeated all the\xfffetrainers on the ship!
+Thank you for boarding\xfffethe Royal Isshu!\xf000븁\x0000\xfffeToday, there are \xf000Ȁ\x0001\x0003 trainers\xfffeaboard the Royal Isshu.\xf000븀\x0000\xfffePlease, enjoy yourself!\xf000븁\x0000
+Today, there are \xf000Ȁ\x0001\x0003 trainers\xfffeaboard the Royal Isshu.\xf000븀\x0000\xfffeYou have... ah! Congratulations!\xf000븁\x0000\xfffeYou were victorious\xfffeover all the trainers!\xf000븁\x0000\xfffeThe ship has set sail,\xfffebut will you disembark?
+Thank you for boarding with us.\xf000븁\x0000The cruise will arrive back\xfffeat Hiun City momentarily.\xf000븁\x0000

@@ -1,30 +1,30 @@
-That melody is beautiful\xfffeまちに ひろがっていく……
-ここは カナワタウン\xfffeカナワとは こうさする てつのわっか
-イッシュちほうの ろせんずだ\xf000븁\x0000
-おっと きみも\xfffeあの でんしゃが きになるかい!?
-ざんねんだけど\xfffeきょうは でんしゃが きてないんだ\xf000븁\x0000
-きみは あの でんしゃが\xfffeみえるかい?
-よしきた!\xfffeそれじゃあ せつめい しちゃうぞ\xf000븁\x0000
-よしきた!\xfffeしゅっぱつ しんこうだ!!\xf000븁\x0000
-あらら ざんねんだなあ\xf000븁\x0000
-はっはっは!\xfffeそりゃ そうだよな\xf000븁\x0000
-きょうの しゃりょうは\xfffeモーソートレイン!\xf000븀\x0000ロケットよりも はやく!\xf000븀\x0000エアコンよりも しずかに うごく!
-この しゃりょうは シングルトレイン!\xfffeバトルサブウェイで もっとも\xf000븀\x0000ふるい しゃりょうです
-この スーパーシングルトレインは\xfffeあたらしい りょうさんがたの\xf000븀\x0000しゃりょうなんだ!
-この しゃりょうは ダブルトレイン!\xfffeひとむかし まえの\xf000븀\x0000りょうさん しゃりょうなんだ
-この スーパーダブルトレインは\xfffeあたらしい りょうさんがたの\xf000븀\x0000しゃりょうなんだ!
-この しゃりょうは マルチトレイン!\xfffeあまり せいさん されなかった\xf000븀\x0000かずの すくない しゃりょうですね
-この しゃりょうは\xfffeスーパーマルチトレイン!\xf000븀\x0000さいしんがたの しゃりょうだよ!
-この Ｗｉ－Ｆｉトレインは\xfffeバトルサブウェイで さいそくの\xf000븀\x0000ちょうきょり こうそく てつどう!
-ごぞんじ カナワタウンいき\xfffeローカルトレイン!\xf000븀\x0000かわいい でしょー!
-この しゃりょうは\xfffeずっと むかしに はしっていたものだね
-この しゃりょうは\xfffeみらいを はしる ニュートレイン!
-みえる!\xfffeみえるぞ!\xf000븀\x0000この すべるような きょくせん!\xf000븀\x0000ああっ なでたい!\xf000븀\x0000ふれてみたい!
-イッシュちほうを\xfffeぐるっとまわる かんじょうせんだ!
-すべての パーツを みなおして\xfffeでんりょくを ぐっと おさえた\xf000븀\x0000かんきょうに やさしい でんしゃさ
-シングルトレインより\xfffeパーツの かずを すくなくして\xf000븀\x0000やすく つくれるように なったんだ
-ムダのない せんれんされた デザイン!\xfffeりょうさんしゃ とくゆうの\xf000븀\x0000きのうびを かんじる フォルム!
-ダブルトレインに かわる\xfffeじせだいの りょうさんしゃを\xf000븀\x0000かいはつ するための\xf000븀\x0000しけんしゃりょう なのです!
+﻿Beautiful tones resonate\xfffethrough the town...
+Kanawa Town\xfffeAn intersecting iron ring!
+It's a subway map of Isshu.\xf000븁\x0000
+Oho! You interested\xfffein this train too, there?!
+Too bad...\xfffeThe trains aren't comin' today.\xf000븁\x0000
+You see that train?
+Righty-o!\xfffeThen lemme explain it!\xf000븁\x0000
+Righty-o!\xfffeThen we're off!\xf000븁\x0000
+Oh, what a shame!\xf000븁\x0000
+Gah-ha-ha!\xfffeWell, alright!\xf000븁\x0000
+Today we've got\xfffethe Moso Train!\xf000븀\x0000Faster than a rocket!\xf000븀\x0000Quieter than an air conditioner!
+These cars're from the Single Train!\xfffeThese ones are even older\xf000븀\x0000than the Battle Subway ones!
+These Super Single Train cars\xfffeare some of them new-fangled,\xf000븀\x0000mass-produced ones!
+These cars're from the Double Train!\xfffeMass-produced cars\xf000븀\x0000from long, long ago...
+These Super Double Train cars\xfffeare some of them new-fangled,\xf000븀\x0000mass-produced ones!
+These cars're from the Multi Train!\xfffeThey didn't produce too many...
+These cars're from\xfffethe Super Multi Train!\xf000븀\x0000They're the new kind!
+These Wi-Fi Train cars are\xfffethe fastest in the Battle Subway,\xf000븀\x0000and can go for the long haul!
+This is the good old Local Train\xfffewhich goes to Kanawa Town!\xf000븀\x0000Adorable, ain't she?!
+These cars've been running\xfffesince a long, long time ago...
+This's a New Train,\xffferunnin' ahead into the future!
+Look!\xfffeWould you LOOK at that!\xf000븀\x0000Those are the SMOOTHEST curves!\xf000븀\x0000Ooh, hold me!\xf000븀\x0000I'm shakin'!
+It's the belt line\xfffethat runs 'round Isshu!
+All its parts've been replaced\xfffeto slash energy consumption.\xf000븀\x0000This train's green all the way!
+It's got a few less parts\xfffethan the Single Train\xf000븀\x0000to make it cheaper to build.
+A polished, waste-not design!\xfffeA mass-produced train\xf000븀\x0000with elegant form and function!
+To create the Double Train, once\xfffeconsidered the next generation,\xf000븀\x0000brand new discoveries\xf000븀\x0000had to be made!
 かげんそく せいのうの こうじょう!\xfffeしゃりょうせいぎょの じどうか!\xf000븀\x0000さいしん ぎじゅつの かたまりさ!
 ふりこしき しゃりょう といって\xfffeカーブで しゃたいを かたむけて\xf000븀\x0000そくどを おとさず はしれるんだ!
 ちょっと のろまな\xfffeぽっちゃり デザイン!\xf000븀\x0000からだを ゆらして きょうも いく!

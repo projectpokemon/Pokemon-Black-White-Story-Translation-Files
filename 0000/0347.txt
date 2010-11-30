@@ -1,4 +1,4 @@
-Thank you for coming!\xfffeWelcome to the Pokémon Center.\xf000븁\x0000\xfffeHere, we'll heal your Pokémon\xfffeto perfect health!\xf000븁\x0000\xfffeShall we heal your Pokémon?
+﻿Thank you for coming!\xfffeWelcome to the Pokémon Center.\xf000븁\x0000\xfffeHere, we'll heal your Pokémon\xfffeto perfect health!\xf000븁\x0000\xfffeShall we heal your Pokémon?
 Good morning!\xfffeWelcome to the Pokémon Center.\xf000븁\x0000\xfffeHere, we'll heal your Pokémon\xfffeto perfect health!\xf000븁\x0000\xfffeShall we heal your Pokémon?
 Good day!\xfffeWelcome to the Pokémon Center.\xf000븁\x0000\xfffeHere, we'll heal your Pokémon\xfffeto perfect health!\xf000븁\x0000\xfffeShall we heal your Pokémon?
 Welcome!\xfffeThis is the Pokémon Center.\xf000븁\x0000...Oh, could it be...\xfffethat today is your birthday?
@@ -14,7 +14,7 @@ Your Pokémon may be\xfffeinfected with Pokérus.\xf000븁\x0000\xfffeLittle is 
 Welcome to the Pokémon Wireless\xfffeClub Union Room.\xf000븁\x0000You may interact directly with\xfffemany Trainers here.\xf000븁\x0000Would you like to enter the room?
 The Trainers in the Union Room\xfffewill be those players around you\xf000븀\x0000who have also entered the room.\xf000븁\x0000You may enter two Pokémon up to\xfffeLv. 30 for a one-on-one battle.\xf000븁\x0000Or, you may trade your Pokémon here\xfffewith another Trainer.\xf000븁\x0000You may also mix records or draw\xfffewith other players.\xf000븁\x0000You may also chat with other\xfffeplayers in the room.\xf000븁\x0000...Or find friends by touching\xfffethe spoken words.\xf000븁\x0000Would you like to enter the room?
 DS Wireless Communications will be\xfffelaunched. Is that okay?
-I hope you enjoy your time in\xfffethe Union Room.\xf000븁\x0000 \x0009
+I hope you enjoy your time in\xfffethe Union Room.\xf000븁\x0000 	
 We hope to see you again!
 Enter
 Quit

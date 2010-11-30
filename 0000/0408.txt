@@ -1,16 +1,16 @@
-ランドロスさまの ほこらに\xfffeイタズラ すると\xf000븀\x0000\xfffeおおあらしに なるんだぞー!\xf000븁\x0000
-ちがうもーん!\xf000븁\x0000\xfffeおおあめ ふらせて\xfffeカミナリを おっことすのは\xf000븀\x0000\xfffeほかの ポケモンだもーん!\xf000븁\x0000
-ちがうもーん!\xf000븁\x0000\xfffeおおあめ ふらせて\xfffeかぜを びゅーびゅー させるのは\xf000븀\x0000\xfffeほかの ポケモンだもーん!\xf000븁\x0000
-ちがうよ バカっ!\xf000븁\x0000
-わるさした ポケモンを こらしめた\xfffeランドロスさまの ほこら なんだぞ!\xf000븁\x0000\xfffeほこらに イタズラを すると\xfffeあらしを おこす ポケモンが\xf000븀\x0000\xfffeまた でてきても\xf000븀\x0000\xfffeこらしめて くれなくなるんだよ!\xf000븁\x0000
-わるさする ポケモンが いたら\xfffeランドロスさまが でてきて\xf000븀\x0000\xfffeやっつけて くれるもーん!\xf000븁\x0000\xfffeにいちゃんの ほうが\xfffeばかだもーんっ!\xf000븁\x0000
-まてよ ばかっ!\xf000븁\x0000
-ほこらは ランドロスって なまえの\xfffeポケモンを おまつりしてるの\xf000븁\x0000\xfffeトルネロスと ボルトロスが\xfffeイッシュちほうの いえや はたけを\xf000븀\x0000\xfffeあらしまわった ときに\xf000븀\x0000\xfffeランドロスって ポケモンが\xf000븀\x0000\xfffeやっつけて くれたんだって\xf000븁\x0000
-あたしの おじいちゃんが\xfffeこどもだったころの おはなし\xf000븁\x0000
-トルネロスと ボルトロスが\xfffeまた ここに きたら\xf000븀\x0000\xfffeランドロスさまが でてくるかも\xf000븁\x0000
-おじいちゃんが いってたよーっ!
+﻿If you play a prank at Landlos's shrine,\xfffethere'll be a big storm!\xf000븁\x0000
+Nuh-uhhh!\xf000븁\x0000\xfffeThe one that pours down rain\xfffeand causes lightning storms\xf000븀\x0000\xfffeis a DIFFERENT Pokémon!\xf000븁\x0000
+Nuh-uhhh!\xf000븁\x0000\xfffeThe one that pours down rain\xfffeand makes the wind whoosh\xf000븀\x0000\xfffeis a DIFFERENT Pokémon!\xf000븁\x0000
+Nuh-uhhh! You're a dummy!\xf000븁\x0000
+This is a shrine to the great Landlos,\xfffewho punishes mischevious Pokémon!\xf000븁\x0000\xfffePlay a prank at its shrine,\xfffeand it'll come to punish you\xf000븀\x0000\xfffelike it did the storm Pokémon!\xf000븁\x0000
+Landlos appears wherever there's\xfffePokémon doing bad things!\xf000븁\x0000\xfffeYou're the dummy, dude!\xf000븁\x0000
+Hold up, doofus!\xf000븁\x0000
+The shrine is dedicated to\xfffea Pokémon named Landlos.\xf000븁\x0000\xfffeWhen Tornelos and Boltolos\xfffewere bringing down storms upon\xfffethe homes and fields of Isshu,\xf000븀\x0000\xfffethe Pokémon Landlos\xf000븀\x0000\xfffecame to attack them.\xf000븁\x0000
+My grandpa told me that\xfffewhen I was just a little kid.\xf000븁\x0000
+If Tornelos and Boltolos\xfffewere to come here again,\xf000븀\x0000\xfffeLandlos could very well appear.\xf000븁\x0000
+At least that's what grandpa saaaid!
 There's a rusty little shrine here...
 There's a rusty little shrine here...\xf000븁\x0000
-モンスターボールに はいっている\xfffeトルネロスと ボルトロスが\xf000븀\x0000\xfffeはげしく はんのうしている!!\xf000븁\x0000
-どろるるるるっ!!
-ランドロスは そらの かなたへ\xfffeとびさってしまった…
+Tornelos and Boltolos are moving\xfffeviolently inside their Pokéballs!!\xf000븁\x0000
+DORORURURURU!!
+Landlos flew off\xfffebeyond the sky...
